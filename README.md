@@ -394,6 +394,7 @@
 
 ## Haskell 
 
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
 - [t-wissmann/caligraph](https://github.com/t-wissmann/caligraph) - Experiments with Haskell, Remind, and Brick
 
 ## Java 
@@ -820,6 +821,7 @@
 
 ## Rust 
 
+- [sshine/simplex-desktop](https://github.com/sshine/simplex-desktop) - SimpleX Chat GUI built with Rust, Tauri and Yew
 - [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, themes and plugins, multi-profile, and more!
 - [simnalamburt/rust-pragmatic-segmenter](https://github.com/simnalamburt/rust-pragmatic-segmenter) - 🗣️ Rust port of pySBD and pragmatic-segmenter
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
