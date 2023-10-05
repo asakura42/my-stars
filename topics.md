@@ -67,6 +67,7 @@
 - [google](#google)
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
+- [haskell](#haskell)
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
@@ -611,6 +612,10 @@
 - [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TypeScript and TensorFlow.js.
 - [DanWin/hosting](https://github.com/DanWin/hosting) - This is a setup for a Tor based shared web hosting server
 
+## haskell 
+
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
+
 ## html 
 
 - [FastFingertips/letterboxd-downloader](https://github.com/FastFingertips/letterboxd-downloader) - Exports letterboxd lists as csv file.
@@ -916,6 +921,7 @@
 
 ## others 
 
+- [sshine/simplex-desktop](https://github.com/sshine/simplex-desktop) - SimpleX Chat GUI built with Rust, Tauri and Yew
 - [QuestForTetris/QFT](https://github.com/QuestForTetris/QFT) - A repository for the Quest For Tetris
 - [jianzhnie/awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) - A Survey on Text-to-Video Generation/Synthesis.
 - [adrianiainlam/mouse-tracker-for-cubism](https://github.com/adrianiainlam/mouse-tracker-for-cubism) - Uses mouse cursor location and microphone input to produce Live2D Cubism SDK parameters
@@ -1631,6 +1637,7 @@
 
 ## security 
 
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
 - [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) - Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [wuseman/WBRUTER](https://github.com/wuseman/WBRUTER) - wbruter was the first tool wich has been released as open source wich can guarantee 100% that your pin code will be cracked aslong as usb debugging has been enable. wbruter also includes some other br
