@@ -76,6 +76,8 @@
 
 ## C 
 
+- [DevonCrawford/Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
+- [EmotionEngineer/EmotionLib](https://github.com/EmotionEngineer/EmotionLib) - Simple dynamic library for video sentiment recognition
 - [akkana/crikey](https://github.com/akkana/crikey) - Crikey! A program to generate typed key events on Linux
 - [konstare/gdcv](https://github.com/konstare/gdcv) - gdcv - GoldenDict console version and emacs dynamic module
 - [dowobeha/Gale_and_Church_1993](https://github.com/dowobeha/Gale_and_Church_1993) - Bilingual sentence aligner (Gale & Church, 1993)
@@ -305,6 +307,7 @@
 
 ## Go 
 
+- [anoop142/svc](https://github.com/anoop142/svc) - Simple TUI Video Compressor using ffmpeg
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram downloader/tools written in Golang
 - [canhlinh/hlsdl](https://github.com/canhlinh/hlsdl) - A golang library to help you download a m3u8 file and save it as a single TS file
 - [gonejack/html-to-epub](https://github.com/gonejack/html-to-epub) - This command line converts .html to .epub with images embed.
@@ -429,6 +432,7 @@
 
 ## JavaScript 
 
+- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [deadinsky/js-pngtuber](https://github.com/deadinsky/js-pngtuber) - A slightly more complicated pngtuber made from JS
 - [ButzYung/SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline) - XR Animator, AI-based Full Body Motion Capture and Extended Reality (XR) solution, powered by System Animator Online
 - [Automattic/VU-VRM](https://github.com/Automattic/VU-VRM) - Lip-sync VRM avatar client for zero-webcam mic-based vtubing
@@ -620,6 +624,14 @@
 
 ## Python 
 
+- [danielgross/teleprompter](https://github.com/danielgross/teleprompter) - 
+- [mntmn/mntcut](https://github.com/mntmn/mntcut) - minimalist video editor based on python/gstreamer/ffmpeg
+- [utility-code/seeNoVideo](https://github.com/utility-code/seeNoVideo) - Text based video editor
+- [clavesi/ffmpeg-automated-editor](https://github.com/clavesi/ffmpeg-automated-editor) - A program which automatically takes in videos and spits out a new video made up of shortened clips from the old videos.
+- [coderefinery/ffmpeg-editlist](https://github.com/coderefinery/ffmpeg-editlist) - Script ffmpeg video cutting
+- [agent-storm/automatic-video-editor](https://github.com/agent-storm/automatic-video-editor) - A simple Terminal based application that takes a image and audio file/spotify playlist link and outputs a video of desired length in mp4 format.
+- [aka-nikko/Automated-Content-Generator](https://github.com/aka-nikko/Automated-Content-Generator) - An Automation Tool to generate videos for Youtube and Instagram.
+- [jliljebl/flowblade](https://github.com/jliljebl/flowblade) - Video Editor for Linux
 - [QuestForTetris/QFT](https://github.com/QuestForTetris/QFT) - A repository for the Quest For Tetris
 - [CatharsisFonts/Ysabeau](https://github.com/CatharsisFonts/Ysabeau) - Ysabeau: The essence of Garamond in an open-source sans-serif typeface
 - [Xeelix/phind-regger](https://github.com/Xeelix/phind-regger) - Simple automated registration at phind.com with cloudflare bypass using python selenium.
@@ -875,6 +887,8 @@
 
 ## Shell 
 
+- [tomcooks/giulioandreotti666](https://github.com/tomcooks/giulioandreotti666) - terminal based video editor for underpowered netbooks
+- [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
 - [Dr4iv3rNope/ayugramdesktop-git](https://github.com/Dr4iv3rNope/ayugramdesktop-git) - 
 - [CoolnsX/hls_downloader](https://github.com/CoolnsX/hls_downloader) - A posix compliant highly fast and efficient Asynchronous stable m3u8 links dowloader that uses shell jobs for controlling parallel download...
 - [dyne/harvest](https://github.com/dyne/harvest) - Tool to sort large collections of files according to common typologies
@@ -889,7 +903,6 @@
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
 - [magnus-ISU/any2any](https://github.com/magnus-ISU/any2any) - any2any - generate and convert files from any format to any format
-- [wuseman/WBRUTER](https://github.com/wuseman/WBRUTER) - wbruter was the first tool wich has been released as open source wich can guarantee 100% that your pin code will be cracked aslong as usb debugging has been enable. wbruter also includes some other br
 - [prahou/teige](https://github.com/prahou/teige) - pure html image gallery
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [naps62/zk](https://github.com/naps62/zk) - A simple zettelkasten setup using Vim, fzf and ripgrep
@@ -1057,6 +1070,7 @@
 
 ## Vue 
 
+- [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - 🛠️ FFmpeg Command Generator Web UI
 - [MarekDzw/IFCalculator](https://github.com/MarekDzw/IFCalculator) - Rewritten old IF Calc on Vue.js
 - [averkij/a-studio](https://github.com/averkij/a-studio) - Lingtrain Alignment Studio is an ML based app for texts alignment on different languages. It can produce parallel corpora and parallel books.
 - [my0419/myvpn-desktop](https://github.com/my0419/myvpn-desktop) - VPN server configuration software. Protocols: L2TP, PPTP, OpenVPN, WireGuard, Socks5, ShadowSocks (v2ray). | Providers: DigitalOcean, Linode, CryptoServers, Hetzner Cloud, Custom Server
