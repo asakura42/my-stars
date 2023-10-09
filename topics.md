@@ -144,6 +144,7 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [webapp](#webapp)
+- [website](#website)
 - [windows](#windows)
 - [xml](#xml)
 
@@ -153,6 +154,7 @@
 
 ## ai 
 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [noway/diy-llm-bot](https://github.com/noway/diy-llm-bot) - Compare a generic GPT-3 based chatbot with ChatGPT
 
@@ -198,6 +200,7 @@
 
 ## awesome 
 
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [koalagang/awesome-browserless](https://github.com/koalagang/awesome-browserless) - 😎 🌍 A curated list of awesome alternatives to apps tradtionally used in the web browser.
@@ -209,6 +212,7 @@
 
 ## awesome-list 
 
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [koalagang/awesome-browserless](https://github.com/koalagang/awesome-browserless) - 😎 🌍 A curated list of awesome alternatives to apps tradtionally used in the web browser.
@@ -582,6 +586,7 @@
 
 ## hacktoberfest 
 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - 🛠️ FFmpeg Command Generator Web UI
 - [bluet/proxybroker2](https://github.com/bluet/proxybroker2) - The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
@@ -708,6 +713,7 @@
 
 ## latex 
 
+- [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 - [plainoldcheese/groff-guide](https://github.com/plainoldcheese/groff-guide) - 📜 a simple example document that is easily readable so that it can be used as a learning tool to get up and running with groff very quickly.
 - [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.
 
@@ -929,6 +935,12 @@
 
 ## others 
 
+- [Asterecho/ExcelGPT](https://github.com/Asterecho/ExcelGPT) - chatgpt for Excel ，基于ExcelDNA开发
+- [Mutigmss/xmind-anki](https://github.com/Mutigmss/xmind-anki) - 
+- [ItsEthra/typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading for your typst files
+- [typst/templates](https://github.com/typst/templates) - The templates that ship with the Typst web app.
+- [ludwig-austermann/typst-timetable](https://github.com/ludwig-austermann/typst-timetable) - A typst template for timetables
+- [abhinav12k/Typster](https://github.com/abhinav12k/Typster) - Typster is a simple typing game built using Desktop Compose. The game allows you to test your typing skills by typing a given text as fast and accurately as possible. You can also customize the text t
 - [danielgross/teleprompter](https://github.com/danielgross/teleprompter) - 
 - [mntmn/mntcut](https://github.com/mntmn/mntcut) - minimalist video editor based on python/gstreamer/ffmpeg
 - [DevonCrawford/Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
@@ -1502,6 +1514,7 @@
 
 ## python 
 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [utility-code/seeNoVideo](https://github.com/utility-code/seeNoVideo) - Text based video editor
 - [clavesi/ffmpeg-automated-editor](https://github.com/clavesi/ffmpeg-automated-editor) - A program which automatically takes in videos and spits out a new video made up of shortened clips from the old videos.
 - [aka-nikko/Automated-Content-Generator](https://github.com/aka-nikko/Automated-Content-Generator) - An Automation Tool to generate videos for Youtube and Instagram.
@@ -1605,6 +1618,7 @@
 
 ## react 
 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [eyalzh/simple-kanban](https://github.com/eyalzh/simple-kanban) - A lightweight offline kanban board
 - [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)
 - [neopostmodern/structure](https://github.com/neopostmodern/structure) - Structure is a knowledge management tool
@@ -1686,6 +1700,7 @@
 
 ## shell 
 
+- [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
 - [TruncatedDinosour/arigram](https://github.com/TruncatedDinosour/arigram) - A fork of tg -- a hackable telegram TUI client
@@ -1834,6 +1849,10 @@
 
 - [liuyug/flask-mdict](https://github.com/liuyug/flask-mdict) - Flask Mdict Server. Query word online with MDICT dictionary
 - [Xtrendence/X-Chat](https://github.com/Xtrendence/X-Chat) - A Node.js and Socket.IO chat web application with RSA-2048 and AES-256-CTR encryption.
+
+## website 
+
+- [data-niklas/typst_live](https://github.com/data-niklas/typst_live) - Running Typst in your Browser
 
 ## windows 
 
