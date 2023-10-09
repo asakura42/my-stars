@@ -50,6 +50,7 @@
 - [TeX](#tex)
 - [Text](#text)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -172,6 +173,7 @@
 
 ## C# # 
 
+- [Asterecho/ExcelGPT](https://github.com/Asterecho/ExcelGPT) - chatgpt for Excel ，基于ExcelDNA开发
 - [OnlyFart/Elib2Ebook](https://github.com/OnlyFart/Elib2Ebook) - Генератор книг
 - [StefanoFiumara/harry-potter-tcg](https://github.com/StefanoFiumara/harry-potter-tcg) - A digital recreation of the old Harry Potter Trading Card Game developed (and sadly discontinued) by Wizards of the Coast.
 
@@ -402,6 +404,7 @@
 
 ## Java 
 
+- [Mutigmss/xmind-anki](https://github.com/Mutigmss/xmind-anki) - 
 - [Dr4iv3rNope/NotSoAndroidAyuGram](https://github.com/Dr4iv3rNope/NotSoAndroidAyuGram) - AyuGram for Android without proprietary features.
 - [amiothenes/1T-Sentence-Miner](https://github.com/amiothenes/1T-Sentence-Miner) - Finds the lowest hanging fruit in your immersion automatically and adds it straight to your Anki deck. 1T Sentences are great to learn languages but very time-consuming, this tool makes Anki cards aut
 - [gen2brain/bukanir](https://github.com/gen2brain/bukanir) - Bukanir streams movies and TV shows from bittorrent magnet links
@@ -432,6 +435,7 @@
 
 ## JavaScript 
 
+- [data-niklas/typst_live](https://github.com/data-niklas/typst_live) - Running Typst in your Browser
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [deadinsky/js-pngtuber](https://github.com/deadinsky/js-pngtuber) - A slightly more complicated pngtuber made from JS
 - [ButzYung/SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline) - XR Animator, AI-based Full Body Motion Capture and Extended Reality (XR) solution, powered by System Animator Online
@@ -483,6 +487,7 @@
 
 ## Kotlin 
 
+- [abhinav12k/Typster](https://github.com/abhinav12k/Typster) - Typster is a simple typing game built using Desktop Compose. The game allows you to test your typing skills by typing a given text as fast and accurately as possible. You can also customize the text t
 - [BenHerbst/idaesbasic](https://github.com/BenHerbst/idaesbasic) - Idaesbasic - An all in one project manager that stores everything in files directly into your project! 🤯
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [evilcorpltd/aTox](https://github.com/evilcorpltd/aTox) - Reasonable Tox client for Android
@@ -536,6 +541,7 @@
 
 ## Others 
 
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [jianzhnie/awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) - A Survey on Text-to-Video Generation/Synthesis.
 - [ccd0/imageboards.json](https://github.com/ccd0/imageboards.json) - List of imageboards in JSON format.
 - [nathangathright/podcast-platform-links](https://github.com/nathangathright/podcast-platform-links) - 
@@ -624,6 +630,7 @@
 
 ## Python 
 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [danielgross/teleprompter](https://github.com/danielgross/teleprompter) - 
 - [mntmn/mntcut](https://github.com/mntmn/mntcut) - minimalist video editor based on python/gstreamer/ffmpeg
 - [utility-code/seeNoVideo](https://github.com/utility-code/seeNoVideo) - Text based video editor
@@ -833,6 +840,7 @@
 
 ## Rust 
 
+- [ItsEthra/typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading for your typst files
 - [sshine/simplex-desktop](https://github.com/sshine/simplex-desktop) - SimpleX Chat GUI built with Rust, Tauri and Yew
 - [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, themes and plugins, multi-profile, and more!
 - [simnalamburt/rust-pragmatic-segmenter](https://github.com/simnalamburt/rust-pragmatic-segmenter) - 🗣️ Rust port of pySBD and pragmatic-segmenter
@@ -887,6 +895,7 @@
 
 ## Shell 
 
+- [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 - [tomcooks/giulioandreotti666](https://github.com/tomcooks/giulioandreotti666) - terminal based video editor for underpowered netbooks
 - [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
 - [Dr4iv3rNope/ayugramdesktop-git](https://github.com/Dr4iv3rNope/ayugramdesktop-git) - 
@@ -1034,6 +1043,11 @@
 - [TheYarin/ShellPiper](https://github.com/TheYarin/ShellPiper) - ShellPiper is an editor for writing long pipe one-liners in the shell
 - [erezrokah/gitchi](https://github.com/erezrokah/gitchi) - Turn GitHub Pull Request Comments into a Chat
 - [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TypeScript and TensorFlow.js.
+
+## Typst 
+
+- [typst/templates](https://github.com/typst/templates) - The templates that ship with the Typst web app.
+- [ludwig-austermann/typst-timetable](https://github.com/ludwig-austermann/typst-timetable) - A typst template for timetables
 
 ## Vala 
 
