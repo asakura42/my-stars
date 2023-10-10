@@ -179,6 +179,7 @@
 
 ## C++ 
 
+- [PlankCipher/kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings
 - [andre-tm-hui/ReVox](https://github.com/andre-tm-hui/ReVox) - A soundboard, sampler and voice changer packaged into a single app
 - [adrianiainlam/mouse-tracker-for-cubism](https://github.com/adrianiainlam/mouse-tracker-for-cubism) - Uses mouse cursor location and microphone input to produce Live2D Cubism SDK parameters
 - [ThomasR95/rahituber](https://github.com/ThomasR95/rahituber) - A more lively and customisable approach to PNGTuber avatars.
@@ -541,6 +542,7 @@
 
 ## Others 
 
+- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [jianzhnie/awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) - A Survey on Text-to-Video Generation/Synthesis.
 - [ccd0/imageboards.json](https://github.com/ccd0/imageboards.json) - List of imageboards in JSON format.
@@ -630,6 +632,8 @@
 
 ## Python 
 
+- [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [danielgross/teleprompter](https://github.com/danielgross/teleprompter) - 
 - [mntmn/mntcut](https://github.com/mntmn/mntcut) - minimalist video editor based on python/gstreamer/ffmpeg
