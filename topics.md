@@ -535,6 +535,7 @@
 
 ## github-api 
 
+- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
 - [janeklb/gh-search](https://github.com/janeklb/gh-search) - GitHub code search with full text regex filtering, from your cli.
 
 ## go 
@@ -555,6 +556,7 @@
 
 ## golang 
 
+- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
 - [canhlinh/hlsdl](https://github.com/canhlinh/hlsdl) - A golang library to help you download a m3u8 file and save it as a single TS file
 - [scotow/mego](https://github.com/scotow/mego) - A simple megadl wrapper with auto-retry and download list
 - [khakers/go-subgen](https://github.com/khakers/go-subgen) - Automatically generate subtitles for your media using whisper.cpp via webhooks with support for Radarr & Sonarr
