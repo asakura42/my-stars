@@ -310,6 +310,7 @@
 
 ## Go 
 
+- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
 - [anoop142/svc](https://github.com/anoop142/svc) - Simple TUI Video Compressor using ffmpeg
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram downloader/tools written in Golang
 - [canhlinh/hlsdl](https://github.com/canhlinh/hlsdl) - A golang library to help you download a m3u8 file and save it as a single TS file
