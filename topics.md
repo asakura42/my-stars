@@ -32,6 +32,7 @@
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
+- [data](#data)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [database](#database)
@@ -381,6 +382,10 @@
 - [Kaiteki-Fedi/Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 
+## data 
+
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+
 ## data-analysis 
 
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
@@ -486,6 +491,7 @@
 
 ## framework 
 
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [uwidev/life-disciplines-projects](https://github.com/uwidev/life-disciplines-projects) - Life-Disciplines-Projects (LDP) is a life-management framework built within Obsidian. Feel free to transform it for your own personal needs.
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
@@ -1033,7 +1039,6 @@
 - [sdokara/indicator-mic-cam](https://github.com/sdokara/indicator-mic-cam) - Linux system tray indicator for microphone/webcam usage
 - [mgrankin/ru_transformers](https://github.com/mgrankin/ru_transformers) - 
 - [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [SwagSoftware/Kisak-Strike](https://github.com/SwagSoftware/Kisak-Strike) - 100% Open Source CSGO
 - [jurialmunkey/plugin.video.themoviedb.helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper) - 
 - [shwnchpl/mutt-theme-generator](https://github.com/shwnchpl/mutt-theme-generator) - Generates Mutt/Neomutt themes from .Xresources files.
