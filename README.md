@@ -96,7 +96,7 @@
 - [uditkarode/libxft-bgra](https://github.com/uditkarode/libxft-bgra) - A patched version of libxft that allows for colored emojis to be rendered in Suckless software (dmenu/st/whatever).
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [feider/zk](https://github.com/feider/zk) - Zettelkasten notekeeping software for the terminal
-- [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - My custom build of dwmblocks which updates blocks asynchronously.
+- [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - An efficient, lean, and asynchronous variant status feed generator for dwm.
 - [davidseegert/spritz.exe](https://github.com/davidseegert/spritz.exe) - a command line spritz application
 - [zuloo/fast](https://github.com/zuloo/fast) - An RSVP reader for the *nix command line (like more or less)
 - [hqwrong/minitox](https://github.com/hqwrong/minitox) - Minimal client for Tox
