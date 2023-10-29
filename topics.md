@@ -435,6 +435,7 @@
 
 - [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)
 - [neopostmodern/structure](https://github.com/neopostmodern/structure) - Structure is a knowledge management tool
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [vasani-arpit/Social-Media-Automation](https://github.com/vasani-arpit/Social-Media-Automation) - Automate social media because you don't have to be active on all of them😉. Best way to be active on all social media without actually being active on them. 😃
 
 ## emacs 
@@ -1129,7 +1130,7 @@
 - [fiatjaf/neuron.vim](https://github.com/fiatjaf/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
 - [crholm/mark](https://github.com/crholm/mark) - 
 - [rusty-snake/fireurl](https://github.com/rusty-snake/fireurl) - Fixing the firejail URL open issue
-- [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - My custom build of dwmblocks which updates blocks asynchronously.
+- [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - An efficient, lean, and asynchronous variant status feed generator for dwm.
 - [jtuason/twine_to_renpy](https://github.com/jtuason/twine_to_renpy) - Write a simple Ren'Py game but with the visual outlining of writing in Twine
 - [phase1geo/Outliner](https://github.com/phase1geo/Outliner) - Outlining application for elementary OS
 - [silnrsi/font-andika](https://github.com/silnrsi/font-andika) - A font family designed especially for literacy use, taking into account the needs of beginning readers
