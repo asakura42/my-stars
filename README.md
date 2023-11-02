@@ -315,7 +315,6 @@
 - [anoop142/svc](https://github.com/anoop142/svc) - Simple TUI Video Compressor using ffmpeg
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram downloader/tools written in Golang
 - [canhlinh/hlsdl](https://github.com/canhlinh/hlsdl) - A golang library to help you download a m3u8 file and save it as a single TS file
-- [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
 - [gonejack/html-to-epub](https://github.com/gonejack/html-to-epub) - This command line converts .html to .epub with images embed.
 - [kvannotten/pcd](https://github.com/kvannotten/pcd) - CLI podcast client (podcatcher) written in golang
 - [ejv2/podbit](https://github.com/ejv2/podbit) - Podboat - Improved
@@ -503,6 +502,7 @@
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.9+.
 - [rareitems/anki.nvim](https://github.com/rareitems/anki.nvim) - Neovim plugin that allows creation of Anki cards directly from neovim
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
+- [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
 - [familyfriendlymikey/mpv-cut](https://github.com/familyfriendlymikey/mpv-cut) - An mpv plugin for cutting videos incredibly quickly.
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
 - [Ajatt-Tools/anki.koplugin](https://github.com/Ajatt-Tools/anki.koplugin) - KOReader plugin enabling Anki card generations for words looked up in the internal dictionary.
