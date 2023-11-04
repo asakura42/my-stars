@@ -408,7 +408,7 @@
 ## discord 
 
 - [andre-tm-hui/ReVox](https://github.com/andre-tm-hui/ReVox) - A soundboard, sampler and voice changer packaged into a single app
-- [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, themes and plugins, multi-profile, and more!
+- [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, themes, plugins and more!
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
@@ -576,7 +576,6 @@
 - [ShoshinNikita/budget-manager](https://github.com/ShoshinNikita/budget-manager) - Easy-to-use, lightweight and self-hosted solution to track your finances
 - [ostafen/xdcc-cli](https://github.com/ostafen/xdcc-cli) - A command line tool for searching and downloading files from the IRC network.
 - [seabassapologist/gobbl](https://github.com/seabassapologist/gobbl) - A simple Go utility to get and display connected bluetooth device battery levels via the Bluez's D-Bus interface. Intended for use with statusbars and tiling WMs, or other Desktop Environment extensio
-- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [strang1ato/tibivi](https://github.com/strang1ato/tibivi) - Terminal based, vim-like time managment tool
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
 - [ajaxray/geek-life](https://github.com/ajaxray/geek-life) - The Todo List / Task Manager for Geeks in command line
@@ -1435,7 +1434,7 @@
 - [LittleVulpix/toxme](https://github.com/LittleVulpix/toxme) - See readme.md. RIP
 - [zoff99/ToxProxy](https://github.com/zoff99/ToxProxy) - 
 - [inflex/ripMIME](https://github.com/inflex/ripMIME) - MIME/email package decoder
-- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - A fork of Signal for Android with passphrase lock
+- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [LukeSmithxyz/st](https://github.com/LukeSmithxyz/st) - Luke's fork of the suckless simple terminal (st) with vim bindings and Xresource compatibility.
 - [textbrowser/spot-on](https://github.com/textbrowser/spot-on) - Complexity is beautiful. Anywhere, anyone. AMD, ARM, Alpha, PowerPC, Sparc64, etc. Completed.
 - [textbrowser/smoke](https://github.com/textbrowser/smoke) - In a burning world, there will always be Smoke. Completed.
