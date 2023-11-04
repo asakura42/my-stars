@@ -336,7 +336,6 @@
 - [majestrate/XD](https://github.com/majestrate/XD) - meme bittorrent client
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [seabassapologist/gobbl](https://github.com/seabassapologist/gobbl) - A simple Go utility to get and display connected bluetooth device battery levels via the Bluez's D-Bus interface. Intended for use with statusbars and tiling WMs, or other Desktop Environment extensio
-- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [diamondburned/gotktrix](https://github.com/diamondburned/gotktrix) - Matrix client in Go and GTK4
 - [strang1ato/tibivi](https://github.com/strang1ato/tibivi) - Terminal based, vim-like time managment tool
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
@@ -433,7 +432,7 @@
 - [pixelstuermer/img2excel](https://github.com/pixelstuermer/img2excel) - Convert images into Excel files :rocket:
 - [betaiotazeta/AutoShiftPlanner](https://github.com/betaiotazeta/AutoShiftPlanner) - Auto Shift Planner is a user-friendly desktop application that can design detailed employees shift schedules and solve them automatically while meeting the maximum satisfaction of constraints.
 - [tboegi/GpsMaster](https://github.com/tboegi/GpsMaster) - 
-- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - A fork of Signal for Android with passphrase lock
+- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [textbrowser/smoke](https://github.com/textbrowser/smoke) - In a burning world, there will always be Smoke. Completed.
 
 ## JavaScript 
@@ -849,7 +848,7 @@
 
 - [ItsEthra/typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading for your typst files
 - [sshine/simplex-desktop](https://github.com/sshine/simplex-desktop) - SimpleX Chat GUI built with Rust, Tauri and Yew
-- [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, themes and plugins, multi-profile, and more!
+- [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, themes, plugins and more!
 - [simnalamburt/rust-pragmatic-segmenter](https://github.com/simnalamburt/rust-pragmatic-segmenter) - 🗣️ Rust port of pySBD and pragmatic-segmenter
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [emk/subtitles-rs](https://github.com/emk/subtitles-rs) - Use SRT subtitle files to study foreign languages (in progress)
