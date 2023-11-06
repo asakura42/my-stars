@@ -706,7 +706,7 @@
 - [dagraham/etm-dgraham](https://github.com/dagraham/etm-dgraham) - etm: event and task manager
 - [Hellisotherpeople/CX_DB8](https://github.com/Hellisotherpeople/CX_DB8) - a contextual, biasable, word-or-sentence-or-paragraph extractive summarizer powered by the latest in text embeddings (Bert, Universal Sentence Encoder, Flair)
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-- [TruncatedDinosour/arigram](https://github.com/TruncatedDinosour/arigram) - A fork of tg -- a hackable telegram TUI client
+- [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
 - [AskEdith/Once-Upon-AI-Time](https://github.com/AskEdith/Once-Upon-AI-Time) - GPT-3 and Stable Diffusion powered short story generator
 - [glutanimate/popup-dictionary](https://github.com/glutanimate/popup-dictionary) - Pop-up Dictionary Add-on for Anki
