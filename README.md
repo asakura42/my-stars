@@ -231,7 +231,7 @@
 - [EntireTwix/Prioritize](https://github.com/EntireTwix/Prioritize) - just a quick test program as I mess around with imgui, although thats not to say this program lacks utility for simple task prioritization.
 - [gavv/tagberry](https://github.com/gavv/tagberry) - Tag-oriented Qt5 desktop calendar, task manager, and todo list.
 - [MaximeAeva/TheEfficientGuy](https://github.com/MaximeAeva/TheEfficientGuy) - An embedded project management tool based on Qt & sqlite.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 4.3: ultra-fast, user-friendly grep replacement. Ugrep combines the best features of other grep, adds new features, and surpasses their search speeds. Includes a TUI, boolean queries (AND/OR/N
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - An ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI, Google-like search with AND/OR/NOT, fuzzy search, h
 - [mypasswordisqwerty/zipsync](https://github.com/mypasswordisqwerty/zipsync) - Sync zip &lt;-&gt; dir
 - [Monthy/gr-lida](https://github.com/Monthy/gr-lida) - Front-End para DOSBox, ScummVM y VDMSound
 - [yuxshao/ptcollab](https://github.com/yuxshao/ptcollab) - A collaborative piano-roll music sequencer!
