@@ -594,7 +594,7 @@
 
 ## PHP 
 
-- [jzohrab/lute](https://github.com/jzohrab/lute) - LUTE (Learning Using Texts) is a self-hosted web app for learning language through reading, based on Learning with Texts (LWT)
+- [jzohrab/lute](https://github.com/jzohrab/lute) - DEPRECATED: LUTE (Learning Using Texts) is a self-hosted web app for learning language through reading, based on Learning with Texts (LWT)
 - [usemoslinux/aprelendo](https://github.com/usemoslinux/aprelendo) - Learn vocabulary while reading
 - [DanWin/hosting](https://github.com/DanWin/hosting) - This is a setup for a Tor based shared web hosting server
 - [berlinfirewall/sichan](https://github.com/berlinfirewall/sichan) - Extremely simple imageboard software
@@ -741,7 +741,7 @@
 - [t-lou/MiKan](https://github.com/t-lou/MiKan) - Personal and local Kanban software, perhaps not fancy, but 100% safe and ready for inspection
 - [peterhs73/xBan](https://github.com/peterhs73/xBan) - Offline Personal Kanban
 - [rwandaPinocle/Liszt](https://github.com/rwandaPinocle/Liszt) - A personal organization software with a script engine for automation
-- [en9inerd/tgeraser](https://github.com/en9inerd/tgeraser) - Tool deletes all your messages from chat/channel/dialog on Telegram
+- [en9inerd/tgeraser](https://github.com/en9inerd/tgeraser) - Tool deletes all your messages from chat/channel/conversation on Telegram
 - [ValeriyMaslenikov/tg-notify-deleted-messages](https://github.com/ValeriyMaslenikov/tg-notify-deleted-messages) - Telegram client to save and notify about deleted messages
 - [Nudin/mplug](https://github.com/Nudin/mplug) - A plugin manager for mpv
 - [mrschyte/abook-notmuch](https://github.com/mrschyte/abook-notmuch) - notmuch to abook contact extractor
