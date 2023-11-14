@@ -179,6 +179,7 @@
 
 ## C++ 
 
+- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [PlankCipher/kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings
 - [andre-tm-hui/ReVox](https://github.com/andre-tm-hui/ReVox) - A soundboard, sampler and voice changer packaged into a single app
 - [adrianiainlam/mouse-tracker-for-cubism](https://github.com/adrianiainlam/mouse-tracker-for-cubism) - Uses mouse cursor location and microphone input to produce Live2D Cubism SDK parameters
@@ -220,7 +221,6 @@
 - [communi/communi-desktop](https://github.com/communi/communi-desktop) - An IRC client for desktop environments
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [kunpengcompute/hyperscan](https://github.com/kunpengcompute/hyperscan) - A high-performance regular expression matching library
-- [binex-dsk/passmanpp](https://github.com/binex-dsk/passmanpp) - passman++: A minimal password manager
 - [zorggomat/FractalCryptGUI](https://github.com/zorggomat/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
 - [ophiuchus2/wrongthink](https://github.com/ophiuchus2/wrongthink) - self hosted discord clone
 - [papylhomme/diskmonitor](https://github.com/papylhomme/diskmonitor) - KDE tools to monitor SMART devices and MDRaid health status
