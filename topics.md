@@ -199,7 +199,7 @@
 
 - [aka-nikko/Automated-Content-Generator](https://github.com/aka-nikko/Automated-Content-Generator) - An Automation Tool to generate videos for Youtube and Instagram.
 - [vasani-arpit/Social-Media-Automation](https://github.com/vasani-arpit/Social-Media-Automation) - Automate social media because you don't have to be active on all of them😉. Best way to be active on all social media without actually being active on them. 😃
-- [en9inerd/tgeraser](https://github.com/en9inerd/tgeraser) - Tool deletes all your messages from chat/channel/dialog on Telegram
+- [en9inerd/tgeraser](https://github.com/en9inerd/tgeraser) - Tool deletes all your messages from chat/channel/conversation on Telegram
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [MilesCranmer/gso](https://github.com/MilesCranmer/gso) - 🏃  Google StackOverflow in Vim. Copy-pastes the code directly in your script.
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
@@ -444,6 +444,7 @@
 
 ## emoji 
 
+- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [uditkarode/libxft-bgra](https://github.com/uditkarode/libxft-bgra) - A patched version of libxft that allows for colored emojis to be rendered in Suckless software (dmenu/st/whatever).
 
 ## ethereum 
@@ -1018,7 +1019,7 @@
 - [dowobeha/Gale_and_Church_1993](https://github.com/dowobeha/Gale_and_Church_1993) - Bilingual sentence aligner (Gale & Church, 1993)
 - [bfsujason/bertalign](https://github.com/bfsujason/bertalign) - Multilingual sentence alignment using sentence embeddings
 - [hfxunlp/yasa](https://github.com/hfxunlp/yasa) - yasa is a program that aligns two translations of a text sentence by sentence in order to produce a bi-text
-- [jzohrab/lute](https://github.com/jzohrab/lute) - LUTE (Learning Using Texts) is a self-hosted web app for learning language through reading, based on Learning with Texts (LWT)
+- [jzohrab/lute](https://github.com/jzohrab/lute) - DEPRECATED: LUTE (Learning Using Texts) is a self-hosted web app for learning language through reading, based on Learning with Texts (LWT)
 - [jzohrab/LuteLemma](https://github.com/jzohrab/LuteLemma) - Simple lemmatizing script for use with Lute (https://github.com/jzohrab/lute)
 - [Crissium/SilverDict](https://github.com/Crissium/SilverDict) - Web-Based Alternative to GoldenDict
 - [emk/subtitles-rs](https://github.com/emk/subtitles-rs) - Use SRT subtitle files to study foreign languages (in progress)
@@ -1571,7 +1572,7 @@
 - [MattMoony/figaro](https://github.com/MattMoony/figaro) - Real-time voice-changer for voice-chat, etc. Will support many different voice-filters and features in the future. 🎵
 - [lyrebird-voice-changer/lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - 🦜 Simple and powerful voice changer for Linux, written with Python & GTK
 - [rwandaPinocle/Liszt](https://github.com/rwandaPinocle/Liszt) - A personal organization software with a script engine for automation
-- [en9inerd/tgeraser](https://github.com/en9inerd/tgeraser) - Tool deletes all your messages from chat/channel/dialog on Telegram
+- [en9inerd/tgeraser](https://github.com/en9inerd/tgeraser) - Tool deletes all your messages from chat/channel/conversation on Telegram
 - [daGrevis/mdx_linkify](https://github.com/daGrevis/mdx_linkify) - Link recognition for Python Markdown
 - [kdeldycke/mail-deduplicate](https://github.com/kdeldycke/mail-deduplicate) - 📧 CLI to deduplicate mails from mail boxes.
 - [KenjiTakahashi/td](https://github.com/KenjiTakahashi/td) - a non-offensive, per project ToDo manager.
@@ -1630,7 +1631,6 @@
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [TreeNote/TreeNote](https://github.com/TreeNote/TreeNote) - An intuitive outliner for personal knowledge and task management
 - [communi/communi-desktop](https://github.com/communi/communi-desktop) - An IRC client for desktop environments
-- [binex-dsk/passmanpp](https://github.com/binex-dsk/passmanpp) - passman++: A minimal password manager
 - [zorggomat/FractalCryptGUI](https://github.com/zorggomat/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
 - [rwandaPinocle/Liszt](https://github.com/rwandaPinocle/Liszt) - A personal organization software with a script engine for automation
 - [MaximeAeva/TheEfficientGuy](https://github.com/MaximeAeva/TheEfficientGuy) - An embedded project management tool based on Qt & sqlite.
@@ -1777,7 +1777,7 @@
 - [evgeny-nadymov/telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
 - [vasani-arpit/Social-Media-Automation](https://github.com/vasani-arpit/Social-Media-Automation) - Automate social media because you don't have to be active on all of them😉. Best way to be active on all social media without actually being active on them. 😃
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
-- [en9inerd/tgeraser](https://github.com/en9inerd/tgeraser) - Tool deletes all your messages from chat/channel/dialog on Telegram
+- [en9inerd/tgeraser](https://github.com/en9inerd/tgeraser) - Tool deletes all your messages from chat/channel/conversation on Telegram
 - [ValeriyMaslenikov/tg-notify-deleted-messages](https://github.com/ValeriyMaslenikov/tg-notify-deleted-messages) - Telegram client to save and notify about deleted messages
 - [faissaloo/telegram-micro](https://github.com/faissaloo/telegram-micro) - Telegram implementation for J2ME devices
 - [fabianonline/telegram.sh](https://github.com/fabianonline/telegram.sh) - Send telegram messages right from your command line.
