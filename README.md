@@ -529,7 +529,7 @@
 
 ## Makefile 
 
-- [rbckman/tarina](https://github.com/rbckman/tarina) - Hollywood in your palms
+- [rbckman/tarina](https://github.com/rbckman/tarina) - 3d printed Raspberry Pi gonzo camera with the essential filmmaking tools
 - [AlexisBRENON/3dmodels-pkgbuild](https://github.com/AlexisBRENON/3dmodels-pkgbuild) - PKGBUILD generation scripts for sweethome3d models
 
 ## Nim 
