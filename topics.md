@@ -754,7 +754,7 @@
 - [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
 - [Emanem/nettop](https://github.com/Emanem/nettop) - Utility to show network traffic (both TCP and UDP v4 and v6) split by process and remote host
 - [Junker/mictray](https://github.com/Junker/mictray) - MicTray is a Lightweight system tray application which lets you control the microphone state and volume
-- [rbckman/tarina](https://github.com/rbckman/tarina) - Hollywood in your palms
+- [rbckman/tarina](https://github.com/rbckman/tarina) - 3d printed Raspberry Pi gonzo camera with the essential filmmaking tools
 - [geigi/cozy](https://github.com/geigi/cozy) - 🎧 Listen to audio books 📚 on Linux
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.10+) for cro
@@ -1643,7 +1643,7 @@
 
 ## raspberry-pi 
 
-- [rbckman/tarina](https://github.com/rbckman/tarina) - Hollywood in your palms
+- [rbckman/tarina](https://github.com/rbckman/tarina) - 3d printed Raspberry Pi gonzo camera with the essential filmmaking tools
 - [tomboy-notes/tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - Next generation of Tomboy
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
