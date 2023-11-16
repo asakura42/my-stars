@@ -965,6 +965,7 @@
 
 ## others 
 
+- [jzohrab/lute-v3](https://github.com/jzohrab/lute-v3) - Learning Using Texts - Lute v3 in Python, a replacement for Lute v1 and 2 in PHP (https://github.com/jzohrab/lute)
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [Asterecho/ExcelGPT](https://github.com/Asterecho/ExcelGPT) - chatgpt for Excel ，基于ExcelDNA开发
 - [Mutigmss/xmind-anki](https://github.com/Mutigmss/xmind-anki) - 
@@ -1130,7 +1131,7 @@
 - [fiatjaf/neuron.vim](https://github.com/fiatjaf/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
 - [crholm/mark](https://github.com/crholm/mark) - 
 - [rusty-snake/fireurl](https://github.com/rusty-snake/fireurl) - Fixing the firejail URL open issue
-- [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - An efficient, lean, and asynchronous variant status feed generator for dwm.
+- [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - An efficient, lean, and asynchronous status feed generator for dwm.
 - [jtuason/twine_to_renpy](https://github.com/jtuason/twine_to_renpy) - Write a simple Ren'Py game but with the visual outlining of writing in Twine
 - [phase1geo/Outliner](https://github.com/phase1geo/Outliner) - Outlining application for elementary OS
 - [silnrsi/font-andika](https://github.com/silnrsi/font-andika) - A font family designed especially for literacy use, taking into account the needs of beginning readers
@@ -1268,7 +1269,7 @@
 - [StefanoLusardi/Kanban](https://github.com/StefanoLusardi/Kanban) - Simple Kanban Board Application made with C++17/Qt5
 - [peterhs73/xBan](https://github.com/peterhs73/xBan) - Offline Personal Kanban
 - [patricks/osm-garmin](https://github.com/patricks/osm-garmin) - Shell scripts to build openstreetmap maps for garmin devices
-- [vizs/bottom-sh](https://github.com/vizs/bottom-sh) - Bottom encoder and decoder in pure sh
+- [9viz/bottom-sh](https://github.com/9viz/bottom-sh) - Bottom encoder and decoder in pure sh
 - [MeiK2333/pyppeteer_stealth](https://github.com/MeiK2333/pyppeteer_stealth) - 
 - [Nudin/mplug](https://github.com/Nudin/mplug) - A plugin manager for mpv
 - [KillerInk/FreeDcam](https://github.com/KillerInk/FreeDcam) - FreeDcam is a CameraApp for Android &gt;4.0(ics) wich try to enable stuff that is forgotten by the manufacturs
@@ -1325,7 +1326,7 @@
 - [benawad/vsinder](https://github.com/benawad/vsinder) - Dating App for VSCode
 - [Mia-Rain/shapplet](https://github.com/Mia-Rain/shapplet) - coreutils/busybox applets (certain/some) written in pure POSIX sh
 - [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) - A Real Time Strategy game for Linux.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - An ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI, Google-like search with AND/OR/NOT, fuzzy search, h
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.3: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI, Google-like search with AND/OR/NOT, fuzz
 - [timeopochin/GanTTY](https://github.com/timeopochin/GanTTY) - Project planning from the terminal
 - [huijunchen9260/bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk
 - [sjl/t](https://github.com/sjl/t) - A command-line todo list manager for people that want to finish tasks, not organize them.  (git mirror)
@@ -1631,6 +1632,7 @@
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [TreeNote/TreeNote](https://github.com/TreeNote/TreeNote) - An intuitive outliner for personal knowledge and task management
 - [communi/communi-desktop](https://github.com/communi/communi-desktop) - An IRC client for desktop environments
+- [binex-dsk/passmanpp](https://github.com/binex-dsk/passmanpp) - passman++: A minimal password manager
 - [zorggomat/FractalCryptGUI](https://github.com/zorggomat/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
 - [rwandaPinocle/Liszt](https://github.com/rwandaPinocle/Liszt) - A personal organization software with a script engine for automation
 - [MaximeAeva/TheEfficientGuy](https://github.com/MaximeAeva/TheEfficientGuy) - An embedded project management tool based on Qt & sqlite.
