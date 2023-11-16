@@ -96,7 +96,7 @@
 - [uditkarode/libxft-bgra](https://github.com/uditkarode/libxft-bgra) - A patched version of libxft that allows for colored emojis to be rendered in Suckless software (dmenu/st/whatever).
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [feider/zk](https://github.com/feider/zk) - Zettelkasten notekeeping software for the terminal
-- [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - An efficient, lean, and asynchronous variant status feed generator for dwm.
+- [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - An efficient, lean, and asynchronous status feed generator for dwm.
 - [davidseegert/spritz.exe](https://github.com/davidseegert/spritz.exe) - a command line spritz application
 - [zuloo/fast](https://github.com/zuloo/fast) - An RSVP reader for the *nix command line (like more or less)
 - [hqwrong/minitox](https://github.com/hqwrong/minitox) - Minimal client for Tox
@@ -221,6 +221,7 @@
 - [communi/communi-desktop](https://github.com/communi/communi-desktop) - An IRC client for desktop environments
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [kunpengcompute/hyperscan](https://github.com/kunpengcompute/hyperscan) - A high-performance regular expression matching library
+- [binex-dsk/passmanpp](https://github.com/binex-dsk/passmanpp) - passman++: A minimal password manager
 - [zorggomat/FractalCryptGUI](https://github.com/zorggomat/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
 - [ophiuchus2/wrongthink](https://github.com/ophiuchus2/wrongthink) - self hosted discord clone
 - [papylhomme/diskmonitor](https://github.com/papylhomme/diskmonitor) - KDE tools to monitor SMART devices and MDRaid health status
@@ -231,7 +232,7 @@
 - [EntireTwix/Prioritize](https://github.com/EntireTwix/Prioritize) - just a quick test program as I mess around with imgui, although thats not to say this program lacks utility for simple task prioritization.
 - [gavv/tagberry](https://github.com/gavv/tagberry) - Tag-oriented Qt5 desktop calendar, task manager, and todo list.
 - [MaximeAeva/TheEfficientGuy](https://github.com/MaximeAeva/TheEfficientGuy) - An embedded project management tool based on Qt & sqlite.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - An ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI, Google-like search with AND/OR/NOT, fuzzy search, h
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.3: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI, Google-like search with AND/OR/NOT, fuzz
 - [mypasswordisqwerty/zipsync](https://github.com/mypasswordisqwerty/zipsync) - Sync zip &lt;-&gt; dir
 - [Monthy/gr-lida](https://github.com/Monthy/gr-lida) - Front-End para DOSBox, ScummVM y VDMSound
 - [yuxshao/ptcollab](https://github.com/yuxshao/ptcollab) - A collaborative piano-roll music sequencer!
@@ -634,6 +635,7 @@
 
 ## Python 
 
+- [jzohrab/lute-v3](https://github.com/jzohrab/lute-v3) - Learning Using Texts - Lute v3 in Python, a replacement for Lute v1 and 2 in PHP (https://github.com/jzohrab/lute)
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
@@ -954,7 +956,7 @@
 - [dtonon/papiro](https://github.com/dtonon/papiro) - Encode and decode a file to/from qrcodes
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [patricks/osm-garmin](https://github.com/patricks/osm-garmin) - Shell scripts to build openstreetmap maps for garmin devices
-- [vizs/bottom-sh](https://github.com/vizs/bottom-sh) - Bottom encoder and decoder in pure sh
+- [9viz/bottom-sh](https://github.com/9viz/bottom-sh) - Bottom encoder and decoder in pure sh
 - [dyne/JaroMail](https://github.com/dyne/JaroMail) - A commandline tool to easily and privately handle your e-mail
 - [DavidRV00/cookman](https://github.com/DavidRV00/cookman) - man-pages like cli utility for based.cooking
 - [Mia-Rain/fedish](https://github.com/Mia-Rain/fedish) - POSIX sh fediverse client - Because I hate myself uwu
