@@ -134,6 +134,7 @@
 - [shell](#shell)
 - [software](#software)
 - [spacevim](#spacevim)
+- [sqlite](#sqlite)
 - [svelte](#svelte)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
@@ -1764,6 +1765,10 @@
 ## spacevim 
 
 - [wsdjeg/vim-chat](https://github.com/wsdjeg/vim-chat) - :purple_heart: Chatting client for neovim/vim8
+
+## sqlite 
+
+- [rwandaPinocle/Liszt](https://github.com/rwandaPinocle/Liszt) - A personal organization software with a script engine for automation
 
 ## svelte 
 
