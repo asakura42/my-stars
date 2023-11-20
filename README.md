@@ -314,7 +314,7 @@
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
 - [anoop142/svc](https://github.com/anoop142/svc) - Simple TUI Video Compressor using ffmpeg
-- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram downloader/tools written in Golang
+- [iyear/tdl](https://github.com/iyear/tdl) - A Telegram downloader/tools written in Golang
 - [canhlinh/hlsdl](https://github.com/canhlinh/hlsdl) - A golang library to help you download a m3u8 file and save it as a single TS file
 - [gonejack/html-to-epub](https://github.com/gonejack/html-to-epub) - This command line converts .html to .epub with images embed.
 - [kvannotten/pcd](https://github.com/kvannotten/pcd) - CLI podcast client (podcatcher) written in golang
@@ -861,7 +861,7 @@
 - [ShaddyDC/Yomi-Reader](https://github.com/ShaddyDC/Yomi-Reader) - Simple web app to read Japanese EPUBs with Yomichan dictionaries
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
 - [m4tx/tundra](https://github.com/m4tx/tundra) - MyAnimeList scrobbler for Linux
-- [dbsdm/tinyrss](https://github.com/dbsdm/tinyrss) - Small and simple RSS aggregator
+- [dborsukov/tinyrss](https://github.com/dborsukov/tinyrss) - Small and simple RSS aggregator
 - [carsonritchey/caltrack](https://github.com/carsonritchey/caltrack) - a simple command line calorie tracker
 - [LiHRaM/zathura-markdown-rs](https://github.com/LiHRaM/zathura-markdown-rs) - A Zathura plugin for Markdown
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
@@ -1028,6 +1028,7 @@
 
 ## TypeScript 
 
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 - [vangelov/calories-in](https://github.com/vangelov/calories-in) - A web-based meal plan editor for people who prepare all of their food.
 - [alexandria-reader/backend](https://github.com/alexandria-reader/backend) - Alexandria reading app back end
 - [NostrChat/NostrChat](https://github.com/NostrChat/NostrChat) - NostrChat is one of the most decentralized chat apps ever built.
