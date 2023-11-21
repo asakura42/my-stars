@@ -314,7 +314,7 @@
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
 - [anoop142/svc](https://github.com/anoop142/svc) - Simple TUI Video Compressor using ffmpeg
-- [iyear/tdl](https://github.com/iyear/tdl) - A Telegram downloader/tools written in Golang
+- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram downloader/tools written in Golang
 - [canhlinh/hlsdl](https://github.com/canhlinh/hlsdl) - A golang library to help you download a m3u8 file and save it as a single TS file
 - [gonejack/html-to-epub](https://github.com/gonejack/html-to-epub) - This command line converts .html to .epub with images embed.
 - [kvannotten/pcd](https://github.com/kvannotten/pcd) - CLI podcast client (podcatcher) written in golang
@@ -743,7 +743,7 @@
 - [t-lou/MiKan](https://github.com/t-lou/MiKan) - Personal and local Kanban software, perhaps not fancy, but 100% safe and ready for inspection
 - [peterhs73/xBan](https://github.com/peterhs73/xBan) - Offline Personal Kanban
 - [rwandaPinocle/Liszt](https://github.com/rwandaPinocle/Liszt) - A personal organization software with a script engine for automation
-- [en9inerd/tgeraser](https://github.com/en9inerd/tgeraser) - Tool deletes all your messages from chat/channel/conversation on Telegram
+- [en9inerd/tgeraser](https://github.com/en9inerd/tgeraser) - Tool to delete all your messages from chat/channel/conversation on Telegram without requiring admin privileges
 - [ValeriyMaslenikov/tg-notify-deleted-messages](https://github.com/ValeriyMaslenikov/tg-notify-deleted-messages) - Telegram client to save and notify about deleted messages
 - [Nudin/mplug](https://github.com/Nudin/mplug) - A plugin manager for mpv
 - [mrschyte/abook-notmuch](https://github.com/mrschyte/abook-notmuch) - notmuch to abook contact extractor
