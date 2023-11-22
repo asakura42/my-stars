@@ -635,6 +635,8 @@
 
 ## Python 
 
+- [tasksched/tasksched](https://github.com/tasksched/tasksched) - Task scheduler with automatic resource leveling
+- [fniessink/next-action](https://github.com/fniessink/next-action) - Next-action: determine the next action to work on from a list of actions in a todo.txt file
 - [jzohrab/lute-v3](https://github.com/jzohrab/lute-v3) - Learning Using Texts - Lute v3 in Python, a replacement for Lute v1 and 2 in PHP (https://github.com/jzohrab/lute)
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
@@ -848,6 +850,8 @@
 
 ## Rust 
 
+- [Procrat/eva](https://github.com/Procrat/eva) - Let algorithms decide your life.
+- [holly-hacker/td](https://github.com/holly-hacker/td) - A WIP graph-based TUI TODO app.
 - [ItsEthra/typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading for your typst files
 - [sshine/simplex-desktop](https://github.com/sshine/simplex-desktop) - SimpleX Chat GUI built with Rust, Tauri and Yew
 - [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, themes, plugins and more!
