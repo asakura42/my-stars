@@ -966,6 +966,10 @@
 
 ## others 
 
+- [tasksched/tasksched](https://github.com/tasksched/tasksched) - Task scheduler with automatic resource leveling
+- [Procrat/eva](https://github.com/Procrat/eva) - Let algorithms decide your life.
+- [holly-hacker/td](https://github.com/holly-hacker/td) - A WIP graph-based TUI TODO app.
+- [fniessink/next-action](https://github.com/fniessink/next-action) - Next-action: determine the next action to work on from a list of actions in a todo.txt file
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 - [jzohrab/lute-v3](https://github.com/jzohrab/lute-v3) - Learning Using Texts - Lute v3 in Python, a replacement for Lute v1 and 2 in PHP (https://github.com/jzohrab/lute)
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
