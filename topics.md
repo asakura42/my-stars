@@ -966,6 +966,7 @@
 
 ## others 
 
+- [sitandr/quickpoeterGUI](https://github.com/sitandr/quickpoeterGUI) - Поэтический редактор с открытым исходным кодом на Tauri
 - [tasksched/tasksched](https://github.com/tasksched/tasksched) - Task scheduler with automatic resource leveling
 - [Procrat/eva](https://github.com/Procrat/eva) - Let algorithms decide your life.
 - [holly-hacker/td](https://github.com/holly-hacker/td) - A WIP graph-based TUI TODO app.
