@@ -77,6 +77,7 @@
 
 ## C 
 
+- [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [DevonCrawford/Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
 - [EmotionEngineer/EmotionLib](https://github.com/EmotionEngineer/EmotionLib) - Simple dynamic library for video sentiment recognition
 - [akkana/crikey](https://github.com/akkana/crikey) - Crikey! A program to generate typed key events on Linux
