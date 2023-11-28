@@ -968,6 +968,8 @@
 
 ## others 
 
+- [DungeonPaper/dungeon-paper-app](https://github.com/DungeonPaper/dungeon-paper-app) - A Dungeon World character sheet app written with Flutter
+- [antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) - bypass check if user has a real microsoft account linked with the PrismLauncher, Prism Launcher, Poly MC or PolyMC
 - [sitandr/quickpoeterGUI](https://github.com/sitandr/quickpoeterGUI) - Поэтический редактор с открытым исходным кодом на Tauri
 - [tasksched/tasksched](https://github.com/tasksched/tasksched) - Task scheduler with automatic resource leveling
 - [Procrat/eva](https://github.com/Procrat/eva) - Let algorithms decide your life.
