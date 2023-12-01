@@ -309,7 +309,7 @@
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A minimal mpc-like CLI and TUI for controlling mpv from the shell.
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - An mpc-like control interface for mpv.
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [hardcore-sushi/doby](https://github.com/hardcore-sushi/doby) - Secure symmetric encryption from the command line.
 - [8go/matrix-commander](https://github.com/8go/matrix-commander) - simple but convenient CLI-based Matrix client app for sending and receiving
@@ -1814,7 +1814,7 @@
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A minimal mpc-like CLI and TUI for controlling mpv from the shell.
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - An mpc-like control interface for mpv.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
 - [foxfriends/paper-terminal](https://github.com/foxfriends/paper-terminal) - Print Markdown to a paper in your terminal
