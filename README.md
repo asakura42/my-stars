@@ -927,7 +927,7 @@
 - [Breaeth/Opensub-cli](https://github.com/Breaeth/Opensub-cli) - A cli tools for auto download opensubtitles.org subtitles !
 - [KevCui/opensubtitles-dl](https://github.com/KevCui/opensubtitles-dl) - Download subtitles from opensubtitles.org
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A minimal mpc-like CLI and TUI for controlling mpv from the shell.
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - An mpc-like control interface for mpv.
 - [Ratakor/quand](https://github.com/Ratakor/quand) - Simple calendar written in POSIX sh
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
