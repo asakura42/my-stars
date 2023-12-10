@@ -125,6 +125,7 @@
 - [reactjs](#reactjs)
 - [redux](#redux)
 - [reverse-engineering](#reverse-engineering)
+- [ruby](#ruby)
 - [rust](#rust)
 - [scikit-learn](#scikit-learn)
 - [security](#security)
@@ -737,6 +738,7 @@
 
 ## latex 
 
+- [EnricoMiccoli/TeXalendar](https://github.com/EnricoMiccoli/TeXalendar) - LaTeX weekly planner
 - [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 - [plainoldcheese/groff-guide](https://github.com/plainoldcheese/groff-guide) - 📜 a simple example document that is easily readable so that it can be used as a learning tool to get up and running with groff very quickly.
 - [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.
@@ -969,6 +971,13 @@
 
 ## others 
 
+- [aryakaul/random-month-scheduler](https://github.com/aryakaul/random-month-scheduler) - 🗓️ - schedule random recurring events
+- [klimeryk/recalendar.js](https://github.com/klimeryk/recalendar.js) - ReCalendar - create your personalized calendar PDF for ReMarkable tablets
+- [Ajatt-Tools/twimm](https://github.com/Ajatt-Tools/twimm) - Tool for watching twitch in a desired language (and a bit more)
+- [gadenbuie/ggweekly](https://github.com/gadenbuie/ggweekly) - 🗓 🖨 Easy, printable, custom calendars and week planners
+- [Scrumbags115/plannertarium](https://github.com/Scrumbags115/plannertarium) - Task and event based weekly planner
+- [libredirect/instances](https://github.com/libredirect/instances) - Automated instances list for LibRedirect
+- [NoPlagiarism/instances-list](https://github.com/NoPlagiarism/instances-list) - Auto-updated list of alternative frontend instances
 - [AdmTal/chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - Prompts for playable games in ChatGPT
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - store all agent's system prompt
 - [DungeonPaper/dungeon-paper-app](https://github.com/DungeonPaper/dungeon-paper-app) - A Dungeon World character sheet app written with Flutter
@@ -1559,6 +1568,8 @@
 
 ## python 
 
+- [utkuufuk/weekplot](https://github.com/utkuufuk/weekplot) - Visualize your weekly schedule
+- [jwodder/schedule](https://github.com/jwodder/schedule) - Weekly schedule typesetter
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
@@ -1688,6 +1699,10 @@
 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for linux games
+
+## ruby 
+
+- [ticky/wayback-classic](https://github.com/ticky/wayback-classic) - 🕸 A frontend for the Wayback Machine which works on old browsers
 
 ## rust 
 
