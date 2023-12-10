@@ -41,6 +41,7 @@
 - [Pug](#pug)
 - [Python](#python)
 - [QML](#qml)
+- [R](#r)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -77,7 +78,6 @@
 
 ## C 
 
-- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - store all agent's system prompt
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [DevonCrawford/Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
 - [EmotionEngineer/EmotionLib](https://github.com/EmotionEngineer/EmotionLib) - Simple dynamic library for video sentiment recognition
@@ -292,6 +292,7 @@
 
 ## Dart 
 
+- [Scrumbags115/plannertarium](https://github.com/Scrumbags115/plannertarium) - Task and event based weekly planner
 - [DungeonPaper/dungeon-paper-app](https://github.com/DungeonPaper/dungeon-paper-app) - A Dungeon World character sheet app written with Flutter
 - [Relorer/Edokuri](https://github.com/Relorer/Edokuri) - Edokuri is a foreign book reader that assists in memorizing words and phrases.
 - [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file-transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between devices that run Photon.
@@ -441,6 +442,7 @@
 
 ## JavaScript 
 
+- [klimeryk/recalendar.js](https://github.com/klimeryk/recalendar.js) - ReCalendar - create your personalized calendar PDF for ReMarkable tablets
 - [data-niklas/typst_live](https://github.com/data-niklas/typst_live) - Running Typst in your Browser
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [deadinsky/js-pngtuber](https://github.com/deadinsky/js-pngtuber) - A slightly more complicated pngtuber made from JS
@@ -641,6 +643,12 @@
 
 ## Python 
 
+- [aryakaul/random-month-scheduler](https://github.com/aryakaul/random-month-scheduler) - 🗓️ - schedule random recurring events
+- [utkuufuk/weekplot](https://github.com/utkuufuk/weekplot) - Visualize your weekly schedule
+- [jwodder/schedule](https://github.com/jwodder/schedule) - Weekly schedule typesetter
+- [libredirect/instances](https://github.com/libredirect/instances) - Automated instances list for LibRedirect
+- [NoPlagiarism/instances-list](https://github.com/NoPlagiarism/instances-list) - Auto-updated list of alternative frontend instances
+- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - store all agent's system prompt
 - [tasksched/tasksched](https://github.com/tasksched/tasksched) - Task scheduler with automatic resource leveling
 - [fniessink/next-action](https://github.com/fniessink/next-action) - Next-action: determine the next action to work on from a list of actions in a todo.txt file
 - [jzohrab/lute-v3](https://github.com/jzohrab/lute-v3) - Learning Using Texts - Lute v3 in Python, a replacement for Lute v1 and 2 in PHP (https://github.com/jzohrab/lute)
@@ -843,6 +851,10 @@
 
 - [mirukana/mirage](https://github.com/mirukana/mirage) - A fancy, customizable, keyboard-operable Qt/QML & Python Matrix chat client for encrypted and decentralized communication.
 
+## R 
+
+- [gadenbuie/ggweekly](https://github.com/gadenbuie/ggweekly) - 🗓 🖨 Easy, printable, custom calendars and week planners
+
 ## Roff 
 
 - [plainoldcheese/groff-guide](https://github.com/plainoldcheese/groff-guide) - 📜 a simple example document that is easily readable so that it can be used as a learning tool to get up and running with groff very quickly.
@@ -850,6 +862,7 @@
 
 ## Ruby 
 
+- [ticky/wayback-classic](https://github.com/ticky/wayback-classic) - 🕸 A frontend for the Wayback Machine which works on old browsers
 - [pschonev/biBooks](https://github.com/pschonev/biBooks) - This allows automatic creation of bilingual e-books with two translations of a text as input using an alignment of language agnostic sentence vectors.
 - [coezbek/rodo](https://github.com/coezbek/rodo) - Rodo is a terminal-based todo manager written in Ruby
 - [axvr/photon.vim](https://github.com/axvr/photon.vim) - A pair of Vim colour schemes with minimal syntax highlighting.
@@ -914,6 +927,7 @@
 
 ## Shell 
 
+- [Ajatt-Tools/twimm](https://github.com/Ajatt-Tools/twimm) - Tool for watching twitch in a desired language (and a bit more)
 - [Ajatt-Tools/impd](https://github.com/Ajatt-Tools/impd) - AJATT-style passive listening and condensed audio without bloat.
 - [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 - [tomcooks/giulioandreotti666](https://github.com/tomcooks/giulioandreotti666) - terminal based video editor for underpowered netbooks
@@ -1023,6 +1037,7 @@
 
 ## TeX 
 
+- [EnricoMiccoli/TeXalendar](https://github.com/EnricoMiccoli/TeXalendar) - LaTeX weekly planner
 - [adunna/tase](https://github.com/adunna/tase) - Text-Audio Sync Engine
 - [ludus-leonis/nipajin](https://github.com/ludus-leonis/nipajin) - A pen'n'paper RPG that fits on 4 pages. Typeset in LaTeX.
 - [raphink/geneve_1564](https://github.com/raphink/geneve_1564) - LaTeX facsimile of a Bible de Genève, 1564
