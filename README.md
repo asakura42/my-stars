@@ -442,6 +442,7 @@
 
 ## JavaScript 
 
+- [Procrat/eva-web](https://github.com/Procrat/eva-web) - Web frontend for Eva
 - [klimeryk/recalendar.js](https://github.com/klimeryk/recalendar.js) - ReCalendar - create your personalized calendar PDF for ReMarkable tablets
 - [data-niklas/typst_live](https://github.com/data-niklas/typst_live) - Running Typst in your Browser
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
@@ -643,6 +644,7 @@
 
 ## Python 
 
+- [ftorres16/my_weekly_schedule](https://github.com/ftorres16/my_weekly_schedule) - CLI for plotting weekly schedules. With Python.
 - [aryakaul/random-month-scheduler](https://github.com/aryakaul/random-month-scheduler) - 🗓️ - schedule random recurring events
 - [utkuufuk/weekplot](https://github.com/utkuufuk/weekplot) - Visualize your weekly schedule
 - [jwodder/schedule](https://github.com/jwodder/schedule) - Weekly schedule typesetter
