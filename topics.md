@@ -113,6 +113,7 @@
 - [perl](#perl)
 - [php](#php)
 - [postgresql](#postgresql)
+- [privacy](#privacy)
 - [project-management](#project-management)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -971,6 +972,8 @@
 
 ## others 
 
+- [Procrat/eva-web](https://github.com/Procrat/eva-web) - Web frontend for Eva
+- [ftorres16/my_weekly_schedule](https://github.com/ftorres16/my_weekly_schedule) - CLI for plotting weekly schedules. With Python.
 - [aryakaul/random-month-scheduler](https://github.com/aryakaul/random-month-scheduler) - 🗓️ - schedule random recurring events
 - [klimeryk/recalendar.js](https://github.com/klimeryk/recalendar.js) - ReCalendar - create your personalized calendar PDF for ReMarkable tablets
 - [Ajatt-Tools/twimm](https://github.com/Ajatt-Tools/twimm) - Tool for watching twitch in a desired language (and a bit more)
@@ -1168,7 +1171,6 @@
 - [irislib/iris-messenger](https://github.com/irislib/iris-messenger) - Decentralized messenger
 - [barely-lucid/meme-diets](https://github.com/barely-lucid/meme-diets) - Collection of noteworth meme diets
 - [tijder/SmsMatrix](https://github.com/tijder/SmsMatrix) - A simple SMS &lt;--&gt; Matrix bridge.
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [mcrapet/plowshare](https://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites
 - [Ajatt-Tools/sub-transition](https://github.com/Ajatt-Tools/sub-transition) - Speed up the video if no subtitles are visible.
 - [FionnD/Reddit-QA-Corpus](https://github.com/FionnD/Reddit-QA-Corpus) - A question and answer corpus from the /r/askreddit subreddit. Designed for training seq2seq neural networks.
@@ -1179,7 +1181,6 @@
 - [L-Trump/scoop-raresoft](https://github.com/L-Trump/scoop-raresoft) - 提供许多破解版的应用
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
-- [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - DNS Block Lists
 - [hqwrong/minitox](https://github.com/hqwrong/minitox) - Minimal client for Tox
 - [cleverca22/toxvpn](https://github.com/cleverca22/toxvpn) - A client / server for a Tox-based VPN. Run the server on one computer, copy the public key, and run the client (with that key) on another computer, and it should Just Work™.
 - [TunMax/tun2socks_gui_for_windows](https://github.com/TunMax/tun2socks_gui_for_windows) - A simple gui for tun2socks on windows. 配合v2ray、ss等客户端(eg. v2rayN)，可使其实现tun模式。
@@ -1214,7 +1215,6 @@
 - [Ed-von-Schleck/shoco](https://github.com/Ed-von-Schleck/shoco) - shoco is a compressor for small text strings
 - [antirez/smaz](https://github.com/antirez/smaz) - Small strings compression library
 - [iandstanley/m4staticsite](https://github.com/iandstanley/m4staticsite) - M4 Static Site Builder
-- [Standard-Unix-Notes/unix-notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG encrypted notebooks.
 - [dannysheehan/linux-chroot-jail](https://github.com/dannysheehan/linux-chroot-jail) - Script to jail Linux users for ssh, sftp and vsftp
 - [paranoidninja/Chroot-Jail](https://github.com/paranoidninja/Chroot-Jail) - This Shell script can create a chrooted environment along with a SSH Jail for the same. This can be used either for a single user jail or to create a chroot jailed group.
 - [McSim85/make_chroot_jail](https://github.com/McSim85/make_chroot_jail) - Script to easily setup a chroot jail for ssh / scp / sftp with Linux
@@ -1274,7 +1274,6 @@
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [shish/mic2midi](https://github.com/shish/mic2midi) - Whistle / Hum / Sing into a microphone, generate MIDI signals to drive a sequencer
-- [dessalines/Messaging-Services-Comparison](https://github.com/dessalines/Messaging-Services-Comparison) - A comparison of messaging services and protocols.
 - [ophiuchus2/wrongthink](https://github.com/ophiuchus2/wrongthink) - self hosted discord clone
 - [3bl3gamer/tg_history_dumper](https://github.com/3bl3gamer/tg_history_dumper) - Exports messages and media from Telegram dialogs, groups and channels
 - [Naunter/BT_BlockLists](https://github.com/Naunter/BT_BlockLists) - Transmission block list
@@ -1551,6 +1550,36 @@
 
 - [alexandria-reader/backend](https://github.com/alexandria-reader/backend) - Alexandria reading app back end
 - [formspree/formspree](https://github.com/formspree/formspree) - The successor to this repository is actively maintained at https://formspree.io. Its source code is not available
+
+## privacy 
+
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+- [bluet/proxybroker2](https://github.com/bluet/proxybroker2) - The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
+- [Junker/mictray](https://github.com/Junker/mictray) - MicTray is a Lightweight system tray application which lets you control the microphone state and volume
+- [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) - Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
+- [Alex313031/Mercury](https://github.com/Alex313031/Mercury) - Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and GNU IceCat.
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+- [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
+- [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
+- [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
+- [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - DNS Block Lists
+- [R4yGM/garlicshare](https://github.com/R4yGM/garlicshare) - Private and self-hosted file sharing over the Tor network written in golang
+- [Standard-Unix-Notes/unix-notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG encrypted notebooks.
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
+- [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
+- [dessalines/Messaging-Services-Comparison](https://github.com/dessalines/Messaging-Services-Comparison) - A comparison of messaging services and protocols.
+- [SomajitDey/ipfs-chat](https://github.com/SomajitDey/ipfs-chat) - Real-time P2P messenger using go-ipfs pubsub. TUI. End-to-end encrypted texting & file-sharing. NAT traversal.
+- [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
+- [underrobyn/AbsoluteDoubleTrace](https://github.com/underrobyn/AbsoluteDoubleTrace) - A web extension to block browser fingerprinting (Manifest V2)
+- [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
+- [ciehanski/pigeon](https://github.com/ciehanski/pigeon) - WebSocket instant messaging utilizing Tor hidden services.
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+- [qTox/qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
+- [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
 
 ## project-management 
 
