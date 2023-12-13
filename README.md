@@ -389,6 +389,7 @@
 
 ## HTML 
 
+- [aarora79/my-reading-list](https://github.com/aarora79/my-reading-list) - Books I have read or want to read.
 - [jsmsj/GPT4](https://github.com/jsmsj/GPT4) - UI for gpt4 and gpt3.5 Run and use for free while it lasts. [Forefront, theb.ai, poe, you, phind, bard]
 - [r4victor/syncabook](https://github.com/r4victor/syncabook) - 📖🎧 A tool for creating ebooks with synchronized text and audio (EPUB3 with Media Overlays)
 - [tatsumoto-ren/matrix](https://github.com/tatsumoto-ren/matrix) - Sort public Matrix servers.
@@ -442,6 +443,7 @@
 
 ## JavaScript 
 
+- [MindscapeHQ/highweigh](https://github.com/MindscapeHQ/highweigh) - A lightweight roadmap generator
 - [Procrat/eva-web](https://github.com/Procrat/eva-web) - Web frontend for Eva
 - [klimeryk/recalendar.js](https://github.com/klimeryk/recalendar.js) - ReCalendar - create your personalized calendar PDF for ReMarkable tablets
 - [data-niklas/typst_live](https://github.com/data-niklas/typst_live) - Running Typst in your Browser
@@ -604,6 +606,7 @@
 
 ## PHP 
 
+- [writeplace/linkfree-generator](https://github.com/writeplace/linkfree-generator) - A page to generate your own self-hosted linktree alternative
 - [jzohrab/lute](https://github.com/jzohrab/lute) - DEPRECATED: LUTE (Learning Using Texts) is a self-hosted web app for learning language through reading, based on Learning with Texts (LWT)
 - [usemoslinux/aprelendo](https://github.com/usemoslinux/aprelendo) - Learn vocabulary while reading
 - [DanWin/hosting](https://github.com/DanWin/hosting) - This is a setup for a Tor based shared web hosting server
@@ -914,7 +917,7 @@
 - [sanpii/effitask](https://github.com/sanpii/effitask) - Graphical task manager, based on the todo.txt format.
 - [megabytesofrem/aurora](https://github.com/megabytesofrem/aurora) - Probably the worlds smallest AUR helper.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails.
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [jonhoo/buzz](https://github.com/jonhoo/buzz) - A simple system tray application for notifying about unseen e-mail
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
