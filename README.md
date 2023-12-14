@@ -653,7 +653,7 @@
 - [jwodder/schedule](https://github.com/jwodder/schedule) - Weekly schedule typesetter
 - [libredirect/instances](https://github.com/libredirect/instances) - Automated instances list for LibRedirect
 - [NoPlagiarism/instances-list](https://github.com/NoPlagiarism/instances-list) - Auto-updated list of alternative frontend instances
-- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - store all agent's system prompt
+- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - collect agent's system prompt and share some prompt inject knowledge
 - [tasksched/tasksched](https://github.com/tasksched/tasksched) - Task scheduler with automatic resource leveling
 - [fniessink/next-action](https://github.com/fniessink/next-action) - Next-action: determine the next action to work on from a list of actions in a todo.txt file
 - [jzohrab/lute-v3](https://github.com/jzohrab/lute-v3) - Learning Using Texts - Lute v3 in Python, a replacement for Lute v1 and 2 in PHP (https://github.com/jzohrab/lute)
