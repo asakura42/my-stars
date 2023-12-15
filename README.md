@@ -209,7 +209,7 @@
 - [magnus-ISU/selectdefaultapplication](https://github.com/magnus-ISU/selectdefaultapplication) - an ugly hack to be able to select default applications in linux in a better way
 - [CountMurphy/QTalarm](https://github.com/CountMurphy/QTalarm) - A handy alarm clock Program written in QT.
 - [benjaminogles/budget-meal-planner](https://github.com/benjaminogles/budget-meal-planner) - Offline desktop app for storing recipes, creating meal plans and generating grocery lists on a budget
-- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
+- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [floe/backscrub](https://github.com/floe/backscrub) - Virtual Video Device for Background Replacement with Deep Semantic Segmentation
 - [AmadeusK525/Amadeus-Writer](https://github.com/AmadeusK525/Amadeus-Writer) - Amadeus Writer is a multi-tool application to help fiction writers on writing their books as well as outlining, organizing ideas, characters, locations, etc.
 - [story-apps/starc](https://github.com/story-apps/starc) - Reinventing the screenwriting software.
