@@ -1001,7 +1001,7 @@
 - [holly-hacker/td](https://github.com/holly-hacker/td) - A WIP graph-based TUI TODO app.
 - [fniessink/next-action](https://github.com/fniessink/next-action) - Next-action: determine the next action to work on from a list of actions in a todo.txt file
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [jzohrab/lute-v3](https://github.com/jzohrab/lute-v3) - Learning Using Texts - Lute v3 in Python, a replacement for Lute v1 and 2 in PHP (https://github.com/jzohrab/lute)
+- [jzohrab/lute-v3](https://github.com/jzohrab/lute-v3) - LUTE = Learning Using Texts: learn languages through reading.  Python/Flask.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [Asterecho/ExcelGPT](https://github.com/Asterecho/ExcelGPT) - chatgpt for Excel ，基于ExcelDNA开发
 - [Mutigmss/xmind-anki](https://github.com/Mutigmss/xmind-anki) - 
