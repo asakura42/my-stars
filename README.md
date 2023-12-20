@@ -292,6 +292,7 @@
 
 ## Dart 
 
+- [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
 - [Scrumbags115/plannertarium](https://github.com/Scrumbags115/plannertarium) - Task and event based weekly planner
 - [DungeonPaper/dungeon-paper-app](https://github.com/DungeonPaper/dungeon-paper-app) - A Dungeon World character sheet app written with Flutter
 - [Relorer/Edokuri](https://github.com/Relorer/Edokuri) - Edokuri is a foreign book reader that assists in memorizing words and phrases.
@@ -877,6 +878,7 @@
 
 ## Rust 
 
+- [ulyssa/iamb](https://github.com/ulyssa/iamb) - A Matrix client for Vim addicts
 - [sitandr/quickpoeterGUI](https://github.com/sitandr/quickpoeterGUI) - Поэтический редактор с открытым исходным кодом на Tauri
 - [Procrat/eva](https://github.com/Procrat/eva) - Let algorithms decide your life.
 - [holly-hacker/td](https://github.com/holly-hacker/td) - A WIP graph-based TUI TODO app.
