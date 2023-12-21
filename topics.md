@@ -979,6 +979,7 @@
 
 ## others 
 
+- [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
 - [tylerdotrar/mkdocs-coverpage](https://github.com/tylerdotrar/mkdocs-coverpage) - Customizable cover page for an MkDocs site.
 - [aarora79/my-reading-list](https://github.com/aarora79/my-reading-list) - Books I have read or want to read.
 - [MindscapeHQ/highweigh](https://github.com/MindscapeHQ/highweigh) - A lightweight roadmap generator
@@ -1000,7 +1001,7 @@
 - [Procrat/eva](https://github.com/Procrat/eva) - Let algorithms decide your life.
 - [holly-hacker/td](https://github.com/holly-hacker/td) - A WIP graph-based TUI TODO app.
 - [fniessink/next-action](https://github.com/fniessink/next-action) - Next-action: determine the next action to work on from a list of actions in a todo.txt file
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
 - [jzohrab/lute-v3](https://github.com/jzohrab/lute-v3) - LUTE = Learning Using Texts: learn languages through reading.  Python/Flask.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [Asterecho/ExcelGPT](https://github.com/Asterecho/ExcelGPT) - chatgpt for Excel ，基于ExcelDNA开发
@@ -1747,6 +1748,7 @@
 
 ## rust 
 
+- [ulyssa/iamb](https://github.com/ulyssa/iamb) - A Matrix client for Vim addicts
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [iphands/rust_tray](https://github.com/iphands/rust_tray) - Simple tray utils in rust
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
