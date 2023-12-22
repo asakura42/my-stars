@@ -937,6 +937,8 @@
 
 ## Shell 
 
+- [odnar-dev/termv-rewrite](https://github.com/odnar-dev/termv-rewrite) - 
+- [mlangOS/rsh](https://github.com/mlangOS/rsh) - versioning control for a new era
 - [Ajatt-Tools/twimm](https://github.com/Ajatt-Tools/twimm) - Tool for watching twitch in a desired language (and a bit more)
 - [Ajatt-Tools/impd](https://github.com/Ajatt-Tools/impd) - AJATT-style passive listening and condensed audio without bloat.
 - [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
