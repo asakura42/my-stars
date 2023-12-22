@@ -979,6 +979,8 @@
 
 ## others 
 
+- [odnar-dev/termv-rewrite](https://github.com/odnar-dev/termv-rewrite) - 
+- [mlangOS/rsh](https://github.com/mlangOS/rsh) - versioning control for a new era
 - [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
 - [tylerdotrar/mkdocs-coverpage](https://github.com/tylerdotrar/mkdocs-coverpage) - Customizable cover page for an MkDocs site.
 - [aarora79/my-reading-list](https://github.com/aarora79/my-reading-list) - Books I have read or want to read.
