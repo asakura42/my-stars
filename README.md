@@ -653,6 +653,7 @@
 
 ## Python 
 
+- [AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST) - iPTV Free List
 - [manga-py/manga-py](https://github.com/manga-py/manga-py) - Universal manga downloader (for your offline reading)
 - [ftorres16/my_weekly_schedule](https://github.com/ftorres16/my_weekly_schedule) - CLI for plotting weekly schedules. With Python.
 - [aryakaul/random-month-scheduler](https://github.com/aryakaul/random-month-scheduler) - 🗓️ - schedule random recurring events
@@ -1069,6 +1070,7 @@
 
 ## TypeScript 
 
+- [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
 - [vangelov/calories-in](https://github.com/vangelov/calories-in) - A web-based meal plan editor for people who prepare all of their food.
 - [alexandria-reader/backend](https://github.com/alexandria-reader/backend) - Alexandria reading app back end
