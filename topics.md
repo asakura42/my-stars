@@ -433,6 +433,7 @@
 
 ## docker 
 
+- [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client
 - [WhyNotHugo/docker-makepkg](https://github.com/WhyNotHugo/docker-makepkg) - A Docker image that builds a PKGBUILD.
@@ -988,6 +989,7 @@
 
 ## others 
 
+- [AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST) - iPTV Free List
 - [odnar-dev/termv-rewrite](https://github.com/odnar-dev/termv-rewrite) - 
 - [mlangOS/rsh](https://github.com/mlangOS/rsh) - versioning control for a new era
 - [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
