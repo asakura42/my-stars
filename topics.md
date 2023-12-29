@@ -989,6 +989,9 @@
 
 ## others 
 
+- [dvds1151/AR-TV](https://github.com/dvds1151/AR-TV) - 
+- [osirislab/LeakyPastes-V2](https://github.com/osirislab/LeakyPastes-V2) - Looking at what people post to public pastebins
+- [yIsus-mEx/AF1CIONADOS](https://github.com/yIsus-mEx/AF1CIONADOS) - 
 - [kmein/kaikki-stardict](https://github.com/kmein/kaikki-stardict) - StarDict dictionary files, generated from Wiktionary
 - [AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST) - iPTV Free List
 - [odnar-dev/termv-rewrite](https://github.com/odnar-dev/termv-rewrite) - 
