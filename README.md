@@ -318,6 +318,7 @@
 
 ## Go 
 
+- [tkancf/rofi-snippet](https://github.com/tkancf/rofi-snippet) - Text expander for linux to be integrated with rofi
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -559,6 +560,7 @@
 
 ## Others 
 
+- [saturn99/open-film-server](https://github.com/saturn99/open-film-server) - سروهایی که باز هستند و فیلم و موسیقی هستند رو لیست میکنم
 - [dvds1151/AR-TV](https://github.com/dvds1151/AR-TV) - 
 - [yIsus-mEx/AF1CIONADOS](https://github.com/yIsus-mEx/AF1CIONADOS) - 
 - [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
