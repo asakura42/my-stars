@@ -17,6 +17,7 @@
 - [Common Lisp](#common-lisp)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Earthly](#earthly)
 - [Emacs Lisp](#emacs-lisp)
 - [GLSL](#glsl)
 - [Go](#go)
@@ -298,7 +299,7 @@
 - [Scrumbags115/plannertarium](https://github.com/Scrumbags115/plannertarium) - Task and event based weekly planner
 - [DungeonPaper/dungeon-paper-app](https://github.com/DungeonPaper/dungeon-paper-app) - A Dungeon World character sheet app written with Flutter
 - [Relorer/Edokuri](https://github.com/Relorer/Edokuri) - Edokuri is a foreign book reader that assists in memorizing words and phrases.
-- [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file-transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between devices that run Photon.
+- [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file-transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between any devices that run Photon.
 - [Kaiteki-Fedi/Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -307,6 +308,10 @@
 
 - [jsz4n/lwt-docker](https://github.com/jsz4n/lwt-docker) - Learning With Texts with Docker
 - [WhyNotHugo/docker-makepkg](https://github.com/WhyNotHugo/docker-makepkg) - A Docker image that builds a PKGBUILD.
+
+## Earthly 
+
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 
 ## Emacs Lisp 
 
@@ -570,7 +575,6 @@
 - [AdmTal/chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - Prompts for playable games in ChatGPT
 - [antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) - bypass check if user has a real microsoft account linked with the PrismLauncher, Prism Launcher, Poly MC or PolyMC
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [jianzhnie/awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) - A Survey on Text-to-Video Generation/Synthesis.
 - [ccd0/imageboards.json](https://github.com/ccd0/imageboards.json) - List of imageboards in JSON format.
 - [nathangathright/podcast-platform-links](https://github.com/nathangathright/podcast-platform-links) - 
@@ -745,7 +749,7 @@
 - [dagraham/etm-dgraham](https://github.com/dagraham/etm-dgraham) - etm: event and task manager
 - [Hellisotherpeople/CX_DB8](https://github.com/Hellisotherpeople/CX_DB8) - a contextual, biasable, word-or-sentence-or-paragraph extractive summarizer powered by the latest in text embeddings (Bert, Universal Sentence Encoder, Flair)
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-- [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client
+- [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
 - [AskEdith/Once-Upon-AI-Time](https://github.com/AskEdith/Once-Upon-AI-Time) - GPT-3 and Stable Diffusion powered short story generator
 - [glutanimate/popup-dictionary](https://github.com/glutanimate/popup-dictionary) - Pop-up Dictionary Add-on for Anki
@@ -1006,7 +1010,7 @@
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [patricks/osm-garmin](https://github.com/patricks/osm-garmin) - Shell scripts to build openstreetmap maps for garmin devices
 - [9viz/bottom-sh](https://github.com/9viz/bottom-sh) - Bottom encoder and decoder in pure sh
-- [dyne/JaroMail](https://github.com/dyne/JaroMail) - A commandline tool to easily and privately handle your e-mail
+- [dyne/JaroMail](https://github.com/dyne/JaroMail) - Terminal UI email client to download, filter, search and archive messages off-line
 - [DavidRV00/cookman](https://github.com/DavidRV00/cookman) - man-pages like cli utility for based.cooking
 - [Mia-Rain/fedish](https://github.com/Mia-Rain/fedish) - POSIX sh fediverse client - Because I hate myself uwu
 - [s-p-k/foxy](https://github.com/s-p-k/foxy) - A simple script that handles bookmarks stored in a txt file.
