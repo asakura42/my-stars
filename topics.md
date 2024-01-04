@@ -171,7 +171,7 @@
 - [Relorer/Edokuri](https://github.com/Relorer/Edokuri) - Edokuri is a foreign book reader that assists in memorizing words and phrases.
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
-- [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file-transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between devices that run Photon.
+- [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file-transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between any devices that run Photon.
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
@@ -278,6 +278,7 @@
 
 ## chatgpt 
 
+- [neurogen-dev/NeuroGPT](https://github.com/neurogen-dev/NeuroGPT) - Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API
 - [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
 - [successfulstudy/promptoftheyear](https://github.com/successfulstudy/promptoftheyear) - In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the y
@@ -289,6 +290,7 @@
 
 ## chatgpt-api 
 
+- [neurogen-dev/NeuroGPT](https://github.com/neurogen-dev/NeuroGPT) - Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 
 ## chrome 
@@ -435,7 +437,7 @@
 
 - [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-- [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client
+- [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
 - [WhyNotHugo/docker-makepkg](https://github.com/WhyNotHugo/docker-makepkg) - A Docker image that builds a PKGBUILD.
 
 ## education 
@@ -692,7 +694,7 @@
 
 ## ios 
 
-- [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file-transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between devices that run Photon.
+- [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file-transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between any devices that run Photon.
 - [sergeyCodenameOne/UberEatsClone](https://github.com/sergeyCodenameOne/UberEatsClone) - Grub is an UberEats clone. A full-featured cross-platform food delivery app template in Java/Kotlin for Android, iOS, Desktop & Web.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 
@@ -787,10 +789,10 @@
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
-- [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client
+- [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [yousefvand/secret-service](https://github.com/yousefvand/secret-service) - Service to keep secrets of applications
-- [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file-transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between devices that run Photon.
+- [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file-transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between any devices that run Photon.
 - [tomboy-notes/tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - Next generation of Tomboy
 - [Darazaki/Spedread](https://github.com/Darazaki/Spedread) - GTK speed reading software: Read like a speedrunner!
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
@@ -811,7 +813,7 @@
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
-- [dyne/JaroMail](https://github.com/dyne/JaroMail) - A commandline tool to easily and privately handle your e-mail
+- [dyne/JaroMail](https://github.com/dyne/JaroMail) - Terminal UI email client to download, filter, search and archive messages off-line
 - [e-caste/study-planner](https://github.com/e-caste/study-planner) - A cross-platform desktop GUI to get a quick analysis from files and/or directories in terms of required time to study their contents
 - [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of scripts, utilities and libraries for *nix.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
@@ -859,7 +861,7 @@
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.10+) for cro
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
-- [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file-transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between devices that run Photon.
+- [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file-transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between any devices that run Photon.
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [TreeNote/TreeNote](https://github.com/TreeNote/TreeNote) - An intuitive outliner for personal knowledge and task management
@@ -1653,7 +1655,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [Hellisotherpeople/CX_DB8](https://github.com/Hellisotherpeople/CX_DB8) - a contextual, biasable, word-or-sentence-or-paragraph extractive summarizer powered by the latest in text embeddings (Bert, Universal Sentence Encoder, Flair)
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-- [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client
+- [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
 - [floe/backscrub](https://github.com/floe/backscrub) - Virtual Video Device for Background Replacement with Deep Semantic Segmentation
 - [TreeNote/TreeNote](https://github.com/TreeNote/TreeNote) - An intuitive outliner for personal knowledge and task management
 - [8go/matrix-commander](https://github.com/8go/matrix-commander) - simple but convenient CLI-based Matrix client app for sending and receiving
@@ -1832,11 +1834,11 @@
 - [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
-- [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client
+- [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
 - [trapd00r/utils](https://github.com/trapd00r/utils) - Small useful utilities for everyday work
 - [n-ivkovic/tspreed](https://github.com/n-ivkovic/tspreed) - Terminal RSVP speed reader with Spritz-like functionality written in POSIX-compliant shell
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
-- [dyne/JaroMail](https://github.com/dyne/JaroMail) - A commandline tool to easily and privately handle your e-mail
+- [dyne/JaroMail](https://github.com/dyne/JaroMail) - Terminal UI email client to download, filter, search and archive messages off-line
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [pystardust/jsp](https://github.com/pystardust/jsp) - Json Shell Parser: A simple json parser in POSIX shell and sed
 - [pystardust/shup](https://github.com/pystardust/shup) - A POSIX shell script to parse HTML
@@ -1873,7 +1875,7 @@
 ## telegram 
 
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram downloader/tools written in Golang
-- [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client
+- [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
 - [evgeny-nadymov/telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
 - [vasani-arpit/Social-Media-Automation](https://github.com/vasani-arpit/Social-Media-Automation) - Automate social media because you don't have to be active on all of them😉. Best way to be active on all social media without actually being active on them. 😃
@@ -2000,7 +2002,7 @@
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.10+) for cro
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
-- [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file-transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between devices that run Photon.
+- [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file-transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between any devices that run Photon.
 - [tomboy-notes/tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - Next generation of Tomboy
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
@@ -2008,7 +2010,7 @@
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 - [vasani-arpit/Social-Media-Automation](https://github.com/vasani-arpit/Social-Media-Automation) - Automate social media because you don't have to be active on all of them😉. Best way to be active on all social media without actually being active on them. 😃
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
-- [dyne/JaroMail](https://github.com/dyne/JaroMail) - A commandline tool to easily and privately handle your e-mail
+- [dyne/JaroMail](https://github.com/dyne/JaroMail) - Terminal UI email client to download, filter, search and archive messages off-line
 - [e-caste/study-planner](https://github.com/e-caste/study-planner) - A cross-platform desktop GUI to get a quick analysis from files and/or directories in terms of required time to study their contents
 - [skyjake/lagrange](https://github.com/skyjake/lagrange) - A Beautiful Gemini Client
 - [uTox/uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
