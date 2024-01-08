@@ -456,6 +456,7 @@
 
 ## JavaScript 
 
+- [Slamsneider/SingleTom](https://github.com/Slamsneider/SingleTom) - A GPT tool (client) using OpenAI's API
 - [MindscapeHQ/highweigh](https://github.com/MindscapeHQ/highweigh) - A lightweight roadmap generator
 - [Procrat/eva-web](https://github.com/Procrat/eva-web) - Web frontend for Eva
 - [klimeryk/recalendar.js](https://github.com/klimeryk/recalendar.js) - ReCalendar - create your personalized calendar PDF for ReMarkable tablets
