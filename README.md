@@ -184,6 +184,7 @@
 
 ## C++ 
 
+- [Ajatt-Tools/rdricpp](https://github.com/Ajatt-Tools/rdricpp) - Rikaitan Deinflector Reference Implementation in C++.
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [PlankCipher/kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings
 - [andre-tm-hui/ReVox](https://github.com/andre-tm-hui/ReVox) - A soundboard, sampler and voice changer packaged into a single app
