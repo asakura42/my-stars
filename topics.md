@@ -993,6 +993,7 @@
 
 ## others 
 
+- [Ajatt-Tools/rdricpp](https://github.com/Ajatt-Tools/rdricpp) - Rikaitan Deinflector Reference Implementation in C++.
 - [fildpauz/vocab-lists](https://github.com/fildpauz/vocab-lists) - A list of vocabulary lists
 - [Slamsneider/SingleTom](https://github.com/Slamsneider/SingleTom) - A GPT tool (client) using OpenAI's API
 - [tinyx3k/c0d3bl0ck-obsidian](https://github.com/tinyx3k/c0d3bl0ck-obsidian) - 
