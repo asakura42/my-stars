@@ -309,6 +309,7 @@
 
 ## cli 
 
+- [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
@@ -998,6 +999,8 @@
 
 ## others 
 
+- [druidamix/Opensubtitles-downloader](https://github.com/druidamix/Opensubtitles-downloader) - Opensubtitles.org downloader using the new API.
+- [jpillora/media-sort](https://github.com/jpillora/media-sort) - Automatically organise your movies and tv series
 - [Ajatt-Tools/rdricpp](https://github.com/Ajatt-Tools/rdricpp) - Rikaitan Deinflector Reference Implementation in C++.
 - [fildpauz/vocab-lists](https://github.com/fildpauz/vocab-lists) - A list of vocabulary lists
 - [Slamsneider/SingleTom](https://github.com/Slamsneider/SingleTom) - A GPT tool (client) using OpenAI's API
@@ -1597,6 +1600,7 @@
 
 ## privacy 
 
+- [DavidMoore/ipfilter](https://github.com/DavidMoore/ipfilter) - Keeps your preferred Bit Torrent client blocklist up to date to support your privacy and security
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [bluet/proxybroker2](https://github.com/bluet/proxybroker2) - The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [Junker/mictray](https://github.com/Junker/mictray) - MicTray is a Lightweight system tray application which lets you control the microphone state and volume
@@ -1641,6 +1645,8 @@
 
 ## python 
 
+- [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool
+- [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
 - [utkuufuk/weekplot](https://github.com/utkuufuk/weekplot) - Visualize your weekly schedule
 - [jwodder/schedule](https://github.com/jwodder/schedule) - Weekly schedule typesetter
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
