@@ -249,7 +249,7 @@
 - [dylanaraps/birch](https://github.com/dylanaraps/birch) - An IRC client written in bash
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of scripts, utilities and libraries for *nix.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 400 scripts, utilities and libraries for *nix.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [Biont/sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop) - TUI Application launcher with Desktop Entry support. Made for SwayWM, but runs anywhere
@@ -267,9 +267,10 @@
 
 ## c 
 
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [aligrudi/neatroff](https://github.com/aligrudi/neatroff) - Neatroff troff clone
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of scripts, utilities and libraries for *nix.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 400 scripts, utilities and libraries for *nix.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell
 - [theimpossibleastronaut/rmw](https://github.com/theimpossibleastronaut/rmw) - trashcan/recycle bin utility for the command line
 - [HerculesWS/Hercules](https://github.com/HerculesWS/Hercules) - Hercules is a collaborative software development project revolving around the creation of a robust massively multiplayer online role playing game (MMORPG) server package. Written in C, the program is 
@@ -316,7 +317,7 @@
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [rahulv07/Decypher](https://github.com/rahulv07/Decypher) - Decypher is a subtitle file generator for videos. It is made using Python and VOSK, an open source speech recognition engine.
-- [FastFingertips/letterboxd-downloader](https://github.com/FastFingertips/letterboxd-downloader) - Exports letterboxd lists as csv file.
+- [FastFingertips/letterboxd-downloader](https://github.com/FastFingertips/letterboxd-downloader) - Exports @Letterboxd lists to a #CSV file using the CLI.
 - [konstare/gdcv](https://github.com/konstare/gdcv) - gdcv - GoldenDict console version and emacs dynamic module
 - [kvannotten/pcd](https://github.com/kvannotten/pcd) - CLI podcast client (podcatcher) written in golang
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
@@ -372,7 +373,7 @@
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [SZinedine/DeepTags](https://github.com/SZinedine/DeepTags) - DeepTags is a markdown notes manager with support for nested tags
 - [zorggomat/FractalCryptGUI](https://github.com/zorggomat/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of scripts, utilities and libraries for *nix.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 400 scripts, utilities and libraries for *nix.
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 
 ## cryptocurrency 
@@ -656,7 +657,7 @@
 - [PlaidWeb/Publ](https://github.com/PlaidWeb/Publ) - Flexible publishing system for the web
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of scripts, utilities and libraries for *nix.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 400 scripts, utilities and libraries for *nix.
 - [dhruvasagar/vim-dotoo](https://github.com/dhruvasagar/vim-dotoo) - Org-mode like task logging & time tracking in Vim
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [HerculesWS/Hercules](https://github.com/HerculesWS/Hercules) - Hercules is a collaborative software development project revolving around the creation of a robust massively multiplayer online role playing game (MMORPG) server package. Written in C, the program is 
@@ -673,7 +674,7 @@
 
 ## html 
 
-- [FastFingertips/letterboxd-downloader](https://github.com/FastFingertips/letterboxd-downloader) - Exports letterboxd lists as csv file.
+- [FastFingertips/letterboxd-downloader](https://github.com/FastFingertips/letterboxd-downloader) - Exports @Letterboxd lists to a #CSV file using the CLI.
 - [gonejack/html-to-epub](https://github.com/gonejack/html-to-epub) - This command line converts .html to .epub with images embed.
 - [prahou/teige](https://github.com/prahou/teige) - pure html image gallery
 - [sgerwk/pdftoroff](https://github.com/sgerwk/pdftoroff) - view pdf on X11 and the Linux framebuffer; resize pdf; convert pdf to text, html, TeX, groff
@@ -818,7 +819,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [dyne/JaroMail](https://github.com/dyne/JaroMail) - Terminal UI email client to download, filter, search and archive messages off-line
 - [e-caste/study-planner](https://github.com/e-caste/study-planner) - A cross-platform desktop GUI to get a quick analysis from files and/or directories in terms of required time to study their contents
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of scripts, utilities and libraries for *nix.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 400 scripts, utilities and libraries for *nix.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
@@ -1000,13 +1001,13 @@
 
 ## others 
 
+- [StefanVukovic99/yezichak](https://github.com/StefanVukovic99/yezichak) - Pop-up dictionary extension for Chrome and Firefox.
 - [druidamix/Opensubtitles-downloader](https://github.com/druidamix/Opensubtitles-downloader) - Opensubtitles.org downloader using the new API.
 - [jpillora/media-sort](https://github.com/jpillora/media-sort) - Automatically organise your movies and tv series
 - [Ajatt-Tools/rdricpp](https://github.com/Ajatt-Tools/rdricpp) - Rikaitan Deinflector Reference Implementation in C++.
 - [fildpauz/vocab-lists](https://github.com/fildpauz/vocab-lists) - A list of vocabulary lists
 - [Slamsneider/SingleTom](https://github.com/Slamsneider/SingleTom) - A GPT tool (client) using OpenAI's API
 - [tinyx3k/c0d3bl0ck-obsidian](https://github.com/tinyx3k/c0d3bl0ck-obsidian) - 
-- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [dvds1151/AR-TV](https://github.com/dvds1151/AR-TV) - 
 - [osirislab/LeakyPastes-V2](https://github.com/osirislab/LeakyPastes-V2) - Looking at what people post to public pastebins
@@ -1657,7 +1658,7 @@
 - [clavesi/ffmpeg-automated-editor](https://github.com/clavesi/ffmpeg-automated-editor) - A program which automatically takes in videos and spits out a new video made up of shortened clips from the old videos.
 - [aka-nikko/Automated-Content-Generator](https://github.com/aka-nikko/Automated-Content-Generator) - An Automation Tool to generate videos for Youtube and Instagram.
 - [rahulv07/Decypher](https://github.com/rahulv07/Decypher) - Decypher is a subtitle file generator for videos. It is made using Python and VOSK, an open source speech recognition engine.
-- [FastFingertips/letterboxd-downloader](https://github.com/FastFingertips/letterboxd-downloader) - Exports letterboxd lists as csv file.
+- [FastFingertips/letterboxd-downloader](https://github.com/FastFingertips/letterboxd-downloader) - Exports @Letterboxd lists to a #CSV file using the CLI.
 - [ThisCakeIsALie/ki](https://github.com/ThisCakeIsALie/ki) - A tool to remember japanese word pronounciations using english words
 - [nipunsadvilkar/pySBD](https://github.com/nipunsadvilkar/pySBD) - 🐍💯pySBD (Python Sentence Boundary Disambiguation) is a rule-based sentence boundary detection that works out-of-the-box.
 - [balta2ar/srs-toolbelt](https://github.com/balta2ar/srs-toolbelt) - SRS (Anki/Memrise) toolbelt: automate conversion of a list of English/Korean/Norwegian words into Anki cards or course in Memrise, with pronunciation
@@ -1687,7 +1688,7 @@
 - [TeaM-TL/FotoKilof](https://github.com/TeaM-TL/FotoKilof) - GUI for ImageMagick and Wand
 - [kitplummer/clikan](https://github.com/kitplummer/clikan) - clikan is a super simple personal kanban board that runs in a CLI
 - [f1nnix/magplan](https://github.com/f1nnix/magplan) - Project management system for publishers, magazines and content creators 🗓️⏱️✍🏼
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of scripts, utilities and libraries for *nix.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 400 scripts, utilities and libraries for *nix.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [rusty-snake/firecfg.py](https://github.com/rusty-snake/firecfg.py) - An improved firecfg written in python.
@@ -1803,7 +1804,7 @@
 - [mirdaki/ping](https://github.com/mirdaki/ping) - A cross-platform and blazingly fast Matrix client focused on group and gaming chat.
 - [agraven/retrix](https://github.com/agraven/retrix) - Tiny matrix client (mirrored from gitea)
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of scripts, utilities and libraries for *nix.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 400 scripts, utilities and libraries for *nix.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -1857,7 +1858,7 @@
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [pystardust/jsp](https://github.com/pystardust/jsp) - Json Shell Parser: A simple json parser in POSIX shell and sed
 - [pystardust/shup](https://github.com/pystardust/shup) - A POSIX shell script to parse HTML
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of scripts, utilities and libraries for *nix.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 400 scripts, utilities and libraries for *nix.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -2013,7 +2014,7 @@
 
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
-- [FastFingertips/letterboxd-downloader](https://github.com/FastFingertips/letterboxd-downloader) - Exports letterboxd lists as csv file.
+- [FastFingertips/letterboxd-downloader](https://github.com/FastFingertips/letterboxd-downloader) - Exports @Letterboxd lists to a #CSV file using the CLI.
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.10+) for cro
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
