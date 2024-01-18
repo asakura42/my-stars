@@ -459,6 +459,7 @@
 
 ## JavaScript 
 
+- [StefanVukovic99/yezichak](https://github.com/StefanVukovic99/yezichak) - Pop-up dictionary extension for Chrome and Firefox.
 - [Slamsneider/SingleTom](https://github.com/Slamsneider/SingleTom) - A GPT tool (client) using OpenAI's API
 - [MindscapeHQ/highweigh](https://github.com/MindscapeHQ/highweigh) - A lightweight roadmap generator
 - [Procrat/eva-web](https://github.com/Procrat/eva-web) - Web frontend for Eva
@@ -702,7 +703,7 @@
 - [rahulv07/Decypher](https://github.com/rahulv07/Decypher) - Decypher is a subtitle file generator for videos. It is made using Python and VOSK, an open source speech recognition engine.
 - [boi4/subextractor](https://github.com/boi4/subextractor) - Autogenerate subtitles using vosk speech recognition
 - [caitlinhenry14/Letterboxd-Scraper](https://github.com/caitlinhenry14/Letterboxd-Scraper) - Download Letterboxd lists as CSV files
-- [FastFingertips/letterboxd-downloader](https://github.com/FastFingertips/letterboxd-downloader) - Exports letterboxd lists as csv file.
+- [FastFingertips/letterboxd-downloader](https://github.com/FastFingertips/letterboxd-downloader) - Exports @Letterboxd lists to a #CSV file using the CLI.
 - [klieret/AnkiPandas](https://github.com/klieret/AnkiPandas) - Analyze and manipulate your Anki collection using pandas! 🌠🐼
 - [bluet/proxybroker2](https://github.com/bluet/proxybroker2) - The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [ThisCakeIsALie/ki](https://github.com/ThisCakeIsALie/ki) - A tool to remember japanese word pronounciations using english words
@@ -1033,7 +1034,7 @@
 - [Mia-Rain/shfire](https://github.com/Mia-Rain/shfire) - Making a discord client in POSIX sh, by jumping over the gateway cause it's useless, fuck your TOS
 - [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) - A command line tool to highlight terms
 - [pystardust/shup](https://github.com/pystardust/shup) - A POSIX shell script to parse HTML
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of scripts, utilities and libraries for *nix.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 400 scripts, utilities and libraries for *nix.
 - [Mia-Rain/shapplet](https://github.com/Mia-Rain/shapplet) - coreutils/busybox applets (certain/some) written in pure POSIX sh
 - [connermcd/gtd](https://github.com/connermcd/gtd) - A simple shell script for effective time management.
 - [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
