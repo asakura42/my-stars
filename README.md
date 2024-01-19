@@ -1034,7 +1034,7 @@
 - [Mia-Rain/shfire](https://github.com/Mia-Rain/shfire) - Making a discord client in POSIX sh, by jumping over the gateway cause it's useless, fuck your TOS
 - [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) - A command line tool to highlight terms
 - [pystardust/shup](https://github.com/pystardust/shup) - A POSIX shell script to parse HTML
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 400 scripts, utilities and libraries for *nix.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 400 scripts, utilities and libraries for *nix and plugins/addons for OBS & Firefox.
 - [Mia-Rain/shapplet](https://github.com/Mia-Rain/shapplet) - coreutils/busybox applets (certain/some) written in pure POSIX sh
 - [connermcd/gtd](https://github.com/connermcd/gtd) - A simple shell script for effective time management.
 - [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
