@@ -903,6 +903,7 @@
 
 ## Rust 
 
+- [shouya/malakal](https://github.com/shouya/malakal) - a day-planner/calendar app based on egui
 - [druidamix/Opensubtitles-downloader](https://github.com/druidamix/Opensubtitles-downloader) - Opensubtitles.org downloader using the new API.
 - [ulyssa/iamb](https://github.com/ulyssa/iamb) - A Matrix client for Vim addicts
 - [sitandr/quickpoeterGUI](https://github.com/sitandr/quickpoeterGUI) - Поэтический редактор с открытым исходным кодом на Tauri
