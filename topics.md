@@ -809,7 +809,7 @@
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [TreeNote/TreeNote](https://github.com/TreeNote/TreeNote) - An intuitive outliner for personal knowledge and task management
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
-- [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks (continuation/revival by Apacelus on https://eupnea-linux.github.io/)
+- [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks
 - [zoff99/java_toxclient_example](https://github.com/zoff99/java_toxclient_example) - TRIfA Desktop - a Java Tox Client
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [majamin/oneliners.txt](https://github.com/majamin/oneliners.txt) - oneliners.txt
