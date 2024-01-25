@@ -996,7 +996,7 @@
 - [mcrapet/plowshare](https://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites
 - [tatsumoto-ren/bashcities](https://github.com/tatsumoto-ren/bashcities) - A Neocities client written in Bash.
 - [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
-- [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks (continuation/revival by Apacelus on https://eupnea-linux.github.io/)
+- [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks
 - [PeterCxy/shadowsocks-auto-redir.sh](https://github.com/PeterCxy/shadowsocks-auto-redir.sh) - Migrated, PLEASE GO TO
 - [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc...
 - [icyphox/mael](https://github.com/icyphox/mael) - [WIP] an experimental mail client written in bash (and a bit of python)
