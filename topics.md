@@ -282,7 +282,7 @@
 
 ## chatgpt 
 
-- [neurogen-dev/NeuroGPT](https://github.com/neurogen-dev/NeuroGPT) - Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API
+- [neurogen-dev/NeuroAPI](https://github.com/neurogen-dev/NeuroAPI) - Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API
 - [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
 - [successfulstudy/promptoftheyear](https://github.com/successfulstudy/promptoftheyear) - In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the y
@@ -294,7 +294,7 @@
 
 ## chatgpt-api 
 
-- [neurogen-dev/NeuroGPT](https://github.com/neurogen-dev/NeuroGPT) - Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API
+- [neurogen-dev/NeuroAPI](https://github.com/neurogen-dev/NeuroAPI) - Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 
 ## chrome 
@@ -1312,7 +1312,7 @@
 - [OpenSourceImageFolder/OSIF](https://github.com/OpenSourceImageFolder/OSIF) - The Open Source Image Folder Project
 - [etagate/gigacat](https://github.com/etagate/gigacat) - 
 - [seekwhencer/Playlist-Automation](https://github.com/seekwhencer/Playlist-Automation) - 
-- [setnicka/ulozto-downloader](https://github.com/setnicka/ulozto-downloader) - Uloz.to quick multiple sessions downloader
+- [setnicka/ulozto-downloader](https://github.com/setnicka/ulozto-downloader) - EOL - end of life | Uloz.to quick multiple sessions downloader
 - [spamgourmet/spamgourmet](https://github.com/spamgourmet/spamgourmet) - This is the actively maintained source for spamgourmet.com
 - [unifiMynet/dnsmasqAdBlock](https://github.com/unifiMynet/dnsmasqAdBlock) - Dnsmasq based Ad blocking for UBNT equipment (USG, ER-X, etc.) - should work on any dnsmasq instance
 - [lixingcong/dnsmasq-regex](https://github.com/lixingcong/dnsmasq-regex) - dnsmasq with regex match module(libpcre v8.45, the older version)
