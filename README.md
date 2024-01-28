@@ -780,7 +780,7 @@
 - [CriticMarkup/CriticMarkup-toolkit](https://github.com/CriticMarkup/CriticMarkup-toolkit) - Various tools to use CriticMarkup in your daily workflow
 - [MattMoony/figaro](https://github.com/MattMoony/figaro) - Real-time voice-changer for voice-chat, etc. Will support many different voice-filters and features in the future. 🎵
 - [lyrebird-voice-changer/lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - 🦜 Simple and powerful voice changer for Linux, written with Python & GTK
-- [setnicka/ulozto-downloader](https://github.com/setnicka/ulozto-downloader) - Uloz.to quick multiple sessions downloader
+- [setnicka/ulozto-downloader](https://github.com/setnicka/ulozto-downloader) - EOL - end of life | Uloz.to quick multiple sessions downloader
 - [jakedolan443/ytrake](https://github.com/jakedolan443/ytrake) - Audio playlist downloader with full metadata support
 - [gcmt/mktree](https://github.com/gcmt/mktree) - Simple tool for creating directory trees in one shot
 - [elektito/ih2torrent](https://github.com/elektito/ih2torrent) - Create a trackerless torrent file from an infohash.
@@ -1093,7 +1093,7 @@
 
 ## TypeScript 
 
-- [neurogen-dev/NeuroGPT](https://github.com/neurogen-dev/NeuroGPT) - Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API
+- [neurogen-dev/NeuroAPI](https://github.com/neurogen-dev/NeuroAPI) - Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
