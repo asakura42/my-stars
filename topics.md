@@ -965,6 +965,8 @@
 
 ## nlp 
 
+- [bjascob/LemmInflect](https://github.com/bjascob/LemmInflect) - A python module for English lemmatization and inflection.
+- [bjascob/pyInflect](https://github.com/bjascob/pyInflect) - A python module for word inflections designed for use with spaCy.
 - [michmech/lemmatization-lists](https://github.com/michmech/lemmatization-lists) - Machine-readable lists of lemma-token pairs in 23 languages.
 - [adbar/simplemma](https://github.com/adbar/simplemma) - Simple multilingual lemmatizer for Python, especially useful for speed and efficiency
 - [rakutentech/pisah](https://github.com/rakutentech/pisah) - Sentence Splitter Library (C++ port of pySBD)
@@ -1653,6 +1655,8 @@
 
 ## python 
 
+- [bjascob/LemmInflect](https://github.com/bjascob/LemmInflect) - A python module for English lemmatization and inflection.
+- [bjascob/pyInflect](https://github.com/bjascob/pyInflect) - A python module for word inflections designed for use with spaCy.
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
 - [utkuufuk/weekplot](https://github.com/utkuufuk/weekplot) - Visualize your weekly schedule
