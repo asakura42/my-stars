@@ -207,7 +207,7 @@
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Cracked Minecraft launcher. Not related to the original developers.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
-- [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - Archive and catalog the world for today's and tomorrow's generations! AMD, ARM, Alpha, Android, PowerPC, Sparc64, etc. Completed.
+- [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - Archive and catalog the world for today's and tomorrow's generations! Available almost everywhere. Completed.
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [td512/RcloneBrowser](https://github.com/td512/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
@@ -1037,7 +1037,7 @@
 - [Mia-Rain/shfire](https://github.com/Mia-Rain/shfire) - Making a discord client in POSIX sh, by jumping over the gateway cause it's useless, fuck your TOS
 - [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) - A command line tool to highlight terms
 - [pystardust/shup](https://github.com/pystardust/shup) - A POSIX shell script to parse HTML
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 400 scripts, utilities and libraries for *nix and plugins/addons for OBS & Firefox.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 450 scripts, utilities and libraries for *nix and plugins/addons for OBS & Firefox.
 - [Mia-Rain/shapplet](https://github.com/Mia-Rain/shapplet) - coreutils/busybox applets (certain/some) written in pure POSIX sh
 - [connermcd/gtd](https://github.com/connermcd/gtd) - A simple shell script for effective time management.
 - [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
