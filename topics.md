@@ -249,7 +249,7 @@
 - [brainfucksec/archtorify](https://github.com/brainfucksec/archtorify) - Transparent proxy through Tor for Arch Linux OS
 - [tatsumoto-ren/bashcities](https://github.com/tatsumoto-ren/bashcities) - A Neocities client written in Bash.
 - [dylanaraps/birch](https://github.com/dylanaraps/birch) - An IRC client written in bash
-- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
+- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 450 scripts, utilities and libraries for *nix and plugins/addons for OBS & Firefox.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -452,7 +452,7 @@
 
 ## electron 
 
-- [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)
+- [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface
 - [neopostmodern/structure](https://github.com/neopostmodern/structure) - Structure is a knowledge management tool
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [vasani-arpit/Social-Media-Automation](https://github.com/vasani-arpit/Social-Media-Automation) - Automate social media because you don't have to be active on all of them😉. Best way to be active on all social media without actually being active on them. 😃
@@ -1172,7 +1172,7 @@
 - [Dudemanguy/vmn](https://github.com/Dudemanguy/vmn) - Simplistic cli music player built on mpv and curses
 - [nzilbb/spanishphonology](https://github.com/nzilbb/spanishphonology) - Rule-based phonemic transcription of Spanish words, ported to Java and Javascript from spanish-pronunciation-rules-php
 - [TALP-UPC/saga](https://github.com/TALP-UPC/saga) - SAGA - Phonetic transcription software for all Spanish variants.
-- [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - Archive and catalog the world for today's and tomorrow's generations! Available almost everywhere. Completed.
+- [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - Archive and catalog the world for today's and tomorrow's generations! Available almost everyware. Completed?
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [td512/RcloneBrowser](https://github.com/td512/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [HamletDuFromage/4chan-mass-reply](https://github.com/HamletDuFromage/4chan-mass-reply) - Easy mass replies on 4channel.org
@@ -1488,7 +1488,7 @@
 - [tboegi/GpsMaster](https://github.com/tboegi/GpsMaster) - 
 - [MaartenBaert/ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
 - [amustafa/recovering-incomplete-monero-mnemonic](https://github.com/amustafa/recovering-incomplete-monero-mnemonic) - 
-- [textbrowser/dooble](https://github.com/textbrowser/dooble) - Dooble is a scientific browser. Minimal, cute, unusually stable, and available almost everywhere. Completed.
+- [textbrowser/dooble](https://github.com/textbrowser/dooble) - Dooble is a scientific browser. Minimal, cute, unusually stable, and available almost everyware. Completed?
 - [Perdu/wyrd](https://github.com/Perdu/wyrd) - [OLD REPO] Fixing wyrd compile issues in a modern archlinux environment
 - [cbuijs/accomplist](https://github.com/cbuijs/accomplist) - ACCOMPLIST - List Compiler
 - [rkd77/elinks](https://github.com/rkd77/elinks) - Fork of elinks
@@ -1772,7 +1772,7 @@
 
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [eyalzh/simple-kanban](https://github.com/eyalzh/simple-kanban) - A lightweight offline kanban board
-- [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)
+- [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface
 - [neopostmodern/structure](https://github.com/neopostmodern/structure) - Structure is a knowledge management tool
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [evgeny-nadymov/telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
