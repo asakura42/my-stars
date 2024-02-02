@@ -1010,6 +1010,8 @@
 
 ## others 
 
+- [deadYokai/yapng](https://github.com/deadYokai/yapng) - Yet Another PNGTuber
+- [Gemmstone/PyNGtuber](https://github.com/Gemmstone/PyNGtuber) - PNGtuber software made in Python, still in development
 - [shouya/malakal](https://github.com/shouya/malakal) - a day-planner/calendar app based on egui
 - [StefanVukovic99/yezichak](https://github.com/StefanVukovic99/yezichak) - Pop-up dictionary extension for Chrome and Firefox.
 - [jpillora/media-sort](https://github.com/jpillora/media-sort) - Automatically organise your movies and tv series
