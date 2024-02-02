@@ -185,6 +185,7 @@
 
 ## C++ 
 
+- [deadYokai/yapng](https://github.com/deadYokai/yapng) - Yet Another PNGTuber
 - [Ajatt-Tools/rdricpp](https://github.com/Ajatt-Tools/rdricpp) - Rikaitan Deinflector Reference Implementation in C++.
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [PlankCipher/kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings
@@ -671,6 +672,7 @@
 
 ## Python 
 
+- [Gemmstone/PyNGtuber](https://github.com/Gemmstone/PyNGtuber) - PNGtuber software made in Python, still in development
 - [bjascob/LemmInflect](https://github.com/bjascob/LemmInflect) - A python module for English lemmatization and inflection.
 - [bjascob/pyInflect](https://github.com/bjascob/pyInflect) - A python module for word inflections designed for use with spaCy.
 - [DmytroNorth/subtites_factor_stretch](https://github.com/DmytroNorth/subtites_factor_stretch) - A function that stretches subtitles by a given factor - Python
