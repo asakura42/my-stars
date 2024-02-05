@@ -109,6 +109,7 @@
 - [open-source](#open-source)
 - [opencv](#opencv)
 - [opengl](#opengl)
+- [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
 - [parsing](#parsing)
@@ -161,7 +162,7 @@
 
 ## ai 
 
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [whoisdsmith/AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR) - An Awesome Collection of AI Resources, MTHRFCKR!
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
@@ -187,6 +188,7 @@
 
 ## api 
 
+- [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [druidamix/Opensubtitles-downloader](https://github.com/druidamix/Opensubtitles-downloader) - Opensubtitles.org downloader using the new API.
 - [aka-nikko/Automated-Content-Generator](https://github.com/aka-nikko/Automated-Content-Generator) - An Automation Tool to generate videos for Youtube and Instagram.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
@@ -285,7 +287,7 @@
 
 - [neurogen-dev/NeuroAPI](https://github.com/neurogen-dev/NeuroAPI) - Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API
 - [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [successfulstudy/promptoftheyear](https://github.com/successfulstudy/promptoftheyear) - In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the y
 - [whoisdsmith/AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR) - An Awesome Collection of AI Resources, MTHRFCKR!
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -314,7 +316,7 @@
 ## cli 
 
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
@@ -577,7 +579,7 @@
 
 ## go 
 
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [scotow/mego](https://github.com/scotow/mego) - A simple megadl wrapper with auto-retry and download list
 - [zupzup/calories](https://github.com/zupzup/calories) - Calories Tracker for the Commandline
@@ -596,7 +598,7 @@
 ## golang 
 
 - [tkancf/rofi-snippet](https://github.com/tkancf/rofi-snippet) - Text expander for linux to be integrated with rofi
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
 - [canhlinh/hlsdl](https://github.com/canhlinh/hlsdl) - A golang library to help you download a m3u8 file and save it as a single TS file
@@ -781,7 +783,7 @@
 ## linux 
 
 - [tkancf/rofi-snippet](https://github.com/tkancf/rofi-snippet) - Text expander for linux to be integrated with rofi
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [PlankCipher/kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
@@ -866,7 +868,7 @@
 
 ## macos 
 
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.10+) for cro
@@ -1007,6 +1009,10 @@
 - [team-pp-studio/VoiceTuber](https://github.com/team-pp-studio/VoiceTuber) - VTuber application which only requires your voice and microphone, no need for a webcam or other tracking nonsense.
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [madeso/euphoria](https://github.com/madeso/euphoria) - data driven "game engine"
+
+## osint 
+
+- [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 
 ## others 
 
@@ -1612,6 +1618,7 @@
 
 ## privacy 
 
+- [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [DavidMoore/ipfilter](https://github.com/DavidMoore/ipfilter) - Keeps your preferred Bit Torrent client blocklist up to date to support your privacy and security
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [bluet/proxybroker2](https://github.com/bluet/proxybroker2) - The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
@@ -1657,6 +1664,7 @@
 
 ## python 
 
+- [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [bjascob/LemmInflect](https://github.com/bjascob/LemmInflect) - A python module for English lemmatization and inflection.
 - [bjascob/pyInflect](https://github.com/bjascob/pyInflect) - A python module for word inflections designed for use with spaCy.
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool
@@ -1830,6 +1838,7 @@
 
 ## security 
 
+- [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) - Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -1844,6 +1853,7 @@
 
 ## self-hosted 
 
+- [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -1922,7 +1932,7 @@
 
 ## terminal 
 
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [PlankCipher/kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
@@ -2025,7 +2035,7 @@
 
 ## windows 
 
-- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chat in terminal without needing API keys
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [FastFingertips/letterboxd-downloader](https://github.com/FastFingertips/letterboxd-downloader) - Exports @Letterboxd lists to a CSV file using the CLI.
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
