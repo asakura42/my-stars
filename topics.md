@@ -365,6 +365,7 @@
 
 ## config 
 
+- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei/telegram-configs-collector) - Script Collects Juicity, Hysteria, Tuic, Vless, Vmess, Trojan And ShadowSocks Configurations From Telegram Channels And Subscription Links
 - [hl2guide/better-mpv-config](https://github.com/hl2guide/better-mpv-config) - An improved MPV Media Player v3 configuration file.
 - [jonathanpoelen/dotfiles](https://github.com/jonathanpoelen/dotfiles) - My configuration files (zsh, urxvt, i3, mpv, ...)
 - [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
@@ -443,6 +444,7 @@
 
 ## docker 
 
+- [Luctia/ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/Usenet/PleX/Jellyfin mediacenter stack using Docker
 - [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
@@ -977,6 +979,7 @@
 
 ## node 
 
+- [mahdibland/V2RayAggregator](https://github.com/mahdibland/V2RayAggregator) - Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed
 - [Xtrendence/X-Chat](https://github.com/Xtrendence/X-Chat) - A Node.js and Socket.IO chat web application with RSA-2048 and AES-256-CTR encryption.
 
 ## nodejs 
@@ -1016,6 +1019,7 @@
 
 ## others 
 
+- [barry-far/V2ray-Configs](https://github.com/barry-far/V2ray-Configs) - 🛰️✨ Free V2ray Configs , Updating Every 10 minutes.
 - [deadYokai/yapng](https://github.com/deadYokai/yapng) - Yet Another PNGTuber
 - [Gemmstone/PyNGtuber](https://github.com/Gemmstone/PyNGtuber) - PNGtuber software made in Python, still in development
 - [shouya/malakal](https://github.com/shouya/malakal) - a day-planner/calendar app based on egui
@@ -1913,6 +1917,7 @@
 
 ## telegram 
 
+- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei/telegram-configs-collector) - Script Collects Juicity, Hysteria, Tuic, Vless, Vmess, Trojan And ShadowSocks Configurations From Telegram Channels And Subscription Links
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram downloader/tools written in Golang
 - [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
