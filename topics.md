@@ -162,6 +162,7 @@
 
 ## ai 
 
+- [FujiwaraChoki/NotesTaker](https://github.com/FujiwaraChoki/NotesTaker) - A webapp to take notes during class.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [whoisdsmith/AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR) - An Awesome Collection of AI Resources, MTHRFCKR!
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -285,6 +286,7 @@
 
 ## chatgpt 
 
+- [FujiwaraChoki/NotesTaker](https://github.com/FujiwaraChoki/NotesTaker) - A webapp to take notes during class.
 - [neurogen-dev/NeuroAPI](https://github.com/neurogen-dev/NeuroAPI) - Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API
 - [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
@@ -961,6 +963,7 @@
 
 ## nextjs 
 
+- [FujiwaraChoki/NotesTaker](https://github.com/FujiwaraChoki/NotesTaker) - A webapp to take notes during class.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 
 ## nim 
