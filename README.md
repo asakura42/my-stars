@@ -279,7 +279,6 @@
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 - [gustavklopp/LingL](https://github.com/gustavklopp/LingL) - clone of lingq to learn new language
 - [mullr/jawt](https://github.com/mullr/jawt) - Japanese With Texts
-- [angea/pocorgtfo](https://github.com/angea/pocorgtfo) - a "Proof of Concept or GTFO" mirror with an extensive index with also whole issues or individual articles as clean PDFs.
 - [GDGVIT/groff-editor-frontend](https://github.com/GDGVIT/groff-editor-frontend) - 
 - [seekwhencer/Playlist-Automation](https://github.com/seekwhencer/Playlist-Automation) - 
 - [WaLLy3K/wally3k.github.io](https://github.com/WaLLy3K/wally3k.github.io) - Repo for Firebog hosting
@@ -326,6 +325,7 @@
 
 ## Go 
 
+- [phuslu/iploc](https://github.com/phuslu/iploc) - Fastest IP To Country Library
 - [jpillora/media-sort](https://github.com/jpillora/media-sort) - Automatically organise your movies and tv series
 - [tkancf/rofi-snippet](https://github.com/tkancf/rofi-snippet) - Text expander for linux to be integrated with rofi
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
@@ -1046,7 +1046,7 @@
 - [Mia-Rain/shfire](https://github.com/Mia-Rain/shfire) - Making a discord client in POSIX sh, by jumping over the gateway cause it's useless, fuck your TOS
 - [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) - A command line tool to highlight terms
 - [pystardust/shup](https://github.com/pystardust/shup) - A POSIX shell script to parse HTML
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 450 scripts, utilities and libraries for *nix and plugins/addons for OBS & Firefox.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 450 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [Mia-Rain/shapplet](https://github.com/Mia-Rain/shapplet) - coreutils/busybox applets (certain/some) written in pure POSIX sh
 - [connermcd/gtd](https://github.com/connermcd/gtd) - A simple shell script for effective time management.
 - [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
@@ -1092,6 +1092,7 @@
 - [ludus-leonis/nipajin](https://github.com/ludus-leonis/nipajin) - A pen'n'paper RPG that fits on 4 pages. Typeset in LaTeX.
 - [raphink/geneve_1564](https://github.com/raphink/geneve_1564) - LaTeX facsimile of a Bible de Genève, 1564
 - [bdatko/bibtex_to_refer](https://github.com/bdatko/bibtex_to_refer) - bibtext to refer
+- [angea/pocorgtfo](https://github.com/angea/pocorgtfo) - a "Proof of Concept or GTFO" mirror with an extensive index with also whole issues or individual articles as clean PDFs.
 - [Kwpolska/todolist](https://github.com/Kwpolska/todolist) - Chris Warrick’s LaTeX Todo List.
 - [HiveMinds/CoursePlanningTemplate](https://github.com/HiveMinds/CoursePlanningTemplate) - Makes latex templates for all your course work (assignments, lecture summaries, etc.), generates taskwarrior commands, enables syncing all course tasks with google calendar, sets up pseudo-anonymous o
 - [wilx/tweet2latex](https://github.com/wilx/tweet2latex) - Utility for retrieval and formatting of tweets into LaTeX documents.
