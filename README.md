@@ -185,6 +185,7 @@
 
 ## C++ 
 
+- [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
 - [deadYokai/yapng](https://github.com/deadYokai/yapng) - Yet Another PNGTuber
 - [Ajatt-Tools/rdricpp](https://github.com/Ajatt-Tools/rdricpp) - Rikaitan Deinflector Reference Implementation in C++.
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
@@ -325,6 +326,7 @@
 
 ## Go 
 
+- [xxf098/LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest) - A simple tool for batch test ss/ssr/v2ray/trojan servers.
 - [phuslu/iploc](https://github.com/phuslu/iploc) - Fastest IP To Country Library
 - [jpillora/media-sort](https://github.com/jpillora/media-sort) - Automatically organise your movies and tv series
 - [tkancf/rofi-snippet](https://github.com/tkancf/rofi-snippet) - Text expander for linux to be integrated with rofi
@@ -576,6 +578,7 @@
 
 ## Others 
 
+- [Nidelon/ru-block-v2ray-rules](https://github.com/Nidelon/ru-block-v2ray-rules) - Список заблокированных сайтов в России для xray или других маршрутизаторов трафика. List of blocked sites in Russia for xray or other traffic routers.
 - [fildpauz/vocab-lists](https://github.com/fildpauz/vocab-lists) - A list of vocabulary lists
 - [saturn99/open-film-server](https://github.com/saturn99/open-film-server) - سروهایی که باز هستند و فیلم و موسیقی هستند رو لیست میکنم
 - [dvds1151/AR-TV](https://github.com/dvds1151/AR-TV) - 
@@ -605,7 +608,6 @@
 - [majamin/oneliners.txt](https://github.com/majamin/oneliners.txt) - oneliners.txt
 - [weevilgit/Groff-Screenplay-Macro-Package](https://github.com/weevilgit/Groff-Screenplay-Macro-Package) - A mom-based groff macro package
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [gtips/reviung](https://github.com/gtips/reviung) - 
 - [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting) - A curated list of amazingly awesome open source resources related to broadcast technologies
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
@@ -1126,6 +1128,7 @@
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [nathansomething/lwt2](https://github.com/nathansomething/lwt2) - A Complete Rewrite of Learning With Texts, using Angular and Flask
 - [nramos0/fluent-reader](https://github.com/nramos0/fluent-reader) - Language learning app similar to https://lingq.com/, but open source and free written in Typescript and Rust. Supports English and Chinese.
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
 - [shellyln/kanban-board-app](https://github.com/shellyln/kanban-board-app) - Kanban style task management board app
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
