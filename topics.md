@@ -1022,6 +1022,7 @@
 
 ## others 
 
+- [krzysckh/mpvq](https://github.com/krzysckh/mpvq) - tui playlist manager for mpv.
 - [Nidelon/ru-block-v2ray-rules](https://github.com/Nidelon/ru-block-v2ray-rules) - Список заблокированных сайтов в России для xray или других маршрутизаторов трафика. List of blocked sites in Russia for xray or other traffic routers.
 - [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
 - [xxf098/LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest) - A simple tool for batch test ss/ssr/v2ray/trojan servers.
