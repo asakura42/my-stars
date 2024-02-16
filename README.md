@@ -152,7 +152,7 @@
 - [jonhoo/mktrayicon](https://github.com/jonhoo/mktrayicon) - Create system tray icons by writing to a pipe
 - [HerculesWS/Hercules](https://github.com/HerculesWS/Hercules) - Hercules is a collaborative software development project revolving around the creation of a robust massively multiplayer online role playing game (MMORPG) server package. Written in C, the program is 
 - [glennular/i3help](https://github.com/glennular/i3help) - Dialog to view your key bindings for i3wm
-- [DirkReinemann/i3blocks-scripts](https://github.com/DirkReinemann/i3blocks-scripts) - Scripts for i3blocks.
+- [DirkReinemann/i3blocksc](https://github.com/DirkReinemann/i3blocksc) - Extensions for i3blocks written in C and Shell.
 - [pickfire/spt](https://github.com/pickfire/spt) - Simple pomodoro timer that doubles your efficiency
 - [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [regolith-linux/i3xrocks](https://github.com/regolith-linux/i3xrocks) - A fork of i3blocks that can read Xresources.
