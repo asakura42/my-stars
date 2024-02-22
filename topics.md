@@ -323,6 +323,7 @@
 
 ## cli 
 
+- [kostyan-org/ip-list-generator-by-country](https://github.com/kostyan-org/ip-list-generator-by-country) - CLI utility | IP ranges by country | qBittorrent
 - [NotStatilko/tgbox-cli](https://github.com/NotStatilko/tgbox-cli) - CLI interface to the TGBOX
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
@@ -1638,6 +1639,7 @@
 
 ## php 
 
+- [kostyan-org/ip-list-generator-by-country](https://github.com/kostyan-org/ip-list-generator-by-country) - CLI utility | IP ranges by country | qBittorrent
 - [writeplace/linkfree-generator](https://github.com/writeplace/linkfree-generator) - A page to generate your own self-hosted linktree alternative
 - [DanWin/hosting](https://github.com/DanWin/hosting) - This is a setup for a Tor based shared web hosting server
 - [remipassmoilesel/tor-share](https://github.com/remipassmoilesel/tor-share) - Simple hosting and data sharing on Tor network
