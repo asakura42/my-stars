@@ -367,7 +367,7 @@
 - [yousefvand/secret-service](https://github.com/yousefvand/secret-service) - Service to keep secrets of applications
 - [ostafen/xdcc-cli](https://github.com/ostafen/xdcc-cli) - A command line tool for searching and downloading files from the IRC network.
 - [crholm/mark](https://github.com/crholm/mark) - 
-- [diamondburned/gtkcord4](https://github.com/diamondburned/gtkcord4) - GTK4 Discord client in Go, attempt #4.
+- [diamondburned/dissent](https://github.com/diamondburned/dissent) - GTK4 Discord client in Go, attempt #4.
 - [layeh/barnard](https://github.com/layeh/barnard) - barnard is a terminal-based client for the Mumble voice chat software
 - [majestrate/XD](https://github.com/majestrate/XD) - meme bittorrent client
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
@@ -444,7 +444,7 @@
 
 ## Haskell 
 
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [t-wissmann/caligraph](https://github.com/t-wissmann/caligraph) - Experiments with Haskell, Remind, and Brick
 
 ## Java 
@@ -1191,7 +1191,7 @@
 - [ashzero2/VimPilot](https://github.com/ashzero2/VimPilot) - Copilot with extra steps ^-^
 - [dhruvasagar/vim-dotoo](https://github.com/dhruvasagar/vim-dotoo) - Org-mode like task logging & time tracking in Vim
 - [skywind3000/vim-terminal-help](https://github.com/skywind3000/vim-terminal-help) - Small changes make vim/nvim's internal terminal great again !!
-- [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !! :sunglasses:
+- [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
 - [simeji/winresizer](https://github.com/simeji/winresizer) - very simple vim plugin for easy resizing of your vim windows
 - [xuhdev/vim-latex-live-preview](https://github.com/xuhdev/vim-latex-live-preview) - A Vim Plugin for Lively Previewing LaTeX PDF Output
 - [LaTeX-Box-Team/LaTeX-Box](https://github.com/LaTeX-Box-Team/LaTeX-Box) - Lightweight Toolbox for LaTeX - New Official repository
