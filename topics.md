@@ -9,6 +9,7 @@
 - [ai](#ai)
 - [android](#android)
 - [api](#api)
+- [archlinux](#archlinux)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
@@ -194,6 +195,16 @@
 - [druidamix/Opensubtitles-downloader](https://github.com/druidamix/Opensubtitles-downloader) - Opensubtitles.org downloader using the new API.
 - [aka-nikko/Automated-Content-Generator](https://github.com/aka-nikko/Automated-Content-Generator) - An Automation Tool to generate videos for Youtube and Instagram.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
+## archlinux 
+
+- [geigi/cozy](https://github.com/geigi/cozy) - 🎧 Listen to audio books 📚 on Linux
+- [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
+- [yousefvand/secret-service](https://github.com/yousefvand/secret-service) - Service to keep secrets of applications
+- [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
+- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
+- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
+- [WhyNotHugo/docker-makepkg](https://github.com/WhyNotHugo/docker-makepkg) - A Docker image that builds a PKGBUILD.
 
 ## arduino 
 
@@ -1040,6 +1051,7 @@
 
 ## others 
 
+- [asakura42/rp4](https://github.com/asakura42/rp4) - simple python replacement for the bloated LLM frontends
 - [ShadoySV/work-break](https://github.com/ShadoySV/work-break) - Work-break balancer for Windows / MacOS / Linux desktops
 - [Inochi2D/inochi2d](https://github.com/Inochi2D/inochi2d) - Inochi2D reference implementation aimed at rendering 2D puppets that can be animated in real-time (using eg. facial capture).
 - [krzysckh/mpvq](https://github.com/krzysckh/mpvq) - tui playlist manager for mpv.
@@ -1276,7 +1288,6 @@
 - [majestrate/XD](https://github.com/majestrate/XD) - meme bittorrent client
 - [L-Trump/scoop-raresoft](https://github.com/L-Trump/scoop-raresoft) - 提供许多破解版的应用
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
-- [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
 - [hqwrong/minitox](https://github.com/hqwrong/minitox) - Minimal client for Tox
 - [cleverca22/toxvpn](https://github.com/cleverca22/toxvpn) - A client / server for a Tox-based VPN. Run the server on one computer, copy the public key, and run the client (with that key) on another computer, and it should Just Work™.
 - [TunMax/tun2socks_gui_for_windows](https://github.com/TunMax/tun2socks_gui_for_windows) - A simple gui for tun2socks on windows. 配合v2ray、ss等客户端(eg. v2rayN)，可使其实现tun模式。
