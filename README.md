@@ -547,6 +547,7 @@
 
 ## Lua 
 
+- [occivink/mpv-gallery-view](https://github.com/occivink/mpv-gallery-view) - Gallery-view scripts for mpv
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.9+.
 - [rareitems/anki.nvim](https://github.com/rareitems/anki.nvim) - Neovim plugin that allows creation of Anki cards directly from neovim
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
@@ -924,6 +925,7 @@
 
 ## Roff 
 
+- [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
 - [plainoldcheese/groff-guide](https://github.com/plainoldcheese/groff-guide) - 📜 a simple example document that is easily readable so that it can be used as a learning tool to get up and running with groff very quickly.
 - [larrykollar/tines](https://github.com/larrykollar/tines) - Tines is a console-based outliner/planner/notebook. It is a fork of the hnb outliner, which has not been updated in &gt;10 years.
 
@@ -1029,7 +1031,6 @@
 - [brainfucksec/archtorify](https://github.com/brainfucksec/archtorify) - Transparent proxy through Tor for Arch Linux OS
 - [mcrapet/plowshare](https://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites
 - [tatsumoto-ren/bashcities](https://github.com/tatsumoto-ren/bashcities) - A Neocities client written in Bash.
-- [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
 - [cb-linux/breath](https://github.com/cb-linux/breath) - Linux for Chromebooks
 - [PeterCxy/shadowsocks-auto-redir.sh](https://github.com/PeterCxy/shadowsocks-auto-redir.sh) - Migrated, PLEASE GO TO
 - [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc...
