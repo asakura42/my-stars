@@ -342,7 +342,7 @@
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [rahulv07/Decypher](https://github.com/rahulv07/Decypher) - Decypher is a subtitle file generator for videos. It is made using Python and VOSK, an open source speech recognition engine.
-- [FastFingertips/letterboxd-downloader](https://github.com/FastFingertips/letterboxd-downloader) - Exports @Letterboxd lists to a CSV file using the CLI.
+- [fastfingertips/letterboxd-downloader](https://github.com/fastfingertips/letterboxd-downloader) - Exports @Letterboxd lists to a CSV file using the CLI.
 - [konstare/gdcv](https://github.com/konstare/gdcv) - gdcv - GoldenDict console version and emacs dynamic module
 - [kvannotten/pcd](https://github.com/kvannotten/pcd) - CLI podcast client (podcatcher) written in golang
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
@@ -713,7 +713,7 @@
 
 ## html 
 
-- [FastFingertips/letterboxd-downloader](https://github.com/FastFingertips/letterboxd-downloader) - Exports @Letterboxd lists to a CSV file using the CLI.
+- [fastfingertips/letterboxd-downloader](https://github.com/fastfingertips/letterboxd-downloader) - Exports @Letterboxd lists to a CSV file using the CLI.
 - [gonejack/html-to-epub](https://github.com/gonejack/html-to-epub) - This command line converts .html to .epub with images embed.
 - [prahou/teige](https://github.com/prahou/teige) - pure html image gallery
 - [sgerwk/pdftoroff](https://github.com/sgerwk/pdftoroff) - view pdf on X11 and the Linux framebuffer; resize pdf; convert pdf to text, html, TeX, groff
@@ -1725,7 +1725,7 @@
 - [clavesi/ffmpeg-automated-editor](https://github.com/clavesi/ffmpeg-automated-editor) - A program which automatically takes in videos and spits out a new video made up of shortened clips from the old videos.
 - [aka-nikko/Automated-Content-Generator](https://github.com/aka-nikko/Automated-Content-Generator) - An Automation Tool to generate videos for Youtube and Instagram.
 - [rahulv07/Decypher](https://github.com/rahulv07/Decypher) - Decypher is a subtitle file generator for videos. It is made using Python and VOSK, an open source speech recognition engine.
-- [FastFingertips/letterboxd-downloader](https://github.com/FastFingertips/letterboxd-downloader) - Exports @Letterboxd lists to a CSV file using the CLI.
+- [fastfingertips/letterboxd-downloader](https://github.com/fastfingertips/letterboxd-downloader) - Exports @Letterboxd lists to a CSV file using the CLI.
 - [ThisCakeIsALie/ki](https://github.com/ThisCakeIsALie/ki) - A tool to remember japanese word pronounciations using english words
 - [nipunsadvilkar/pySBD](https://github.com/nipunsadvilkar/pySBD) - 🐍💯pySBD (Python Sentence Boundary Disambiguation) is a rule-based sentence boundary detection that works out-of-the-box.
 - [balta2ar/srs-toolbelt](https://github.com/balta2ar/srs-toolbelt) - SRS (Anki/Memrise) toolbelt: automate conversion of a list of English/Korean/Norwegian words into Anki cards or course in Memrise, with pronunciation
@@ -2093,7 +2093,7 @@
 
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
-- [FastFingertips/letterboxd-downloader](https://github.com/FastFingertips/letterboxd-downloader) - Exports @Letterboxd lists to a CSV file using the CLI.
+- [fastfingertips/letterboxd-downloader](https://github.com/fastfingertips/letterboxd-downloader) - Exports @Letterboxd lists to a CSV file using the CLI.
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.10+) for cro
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
