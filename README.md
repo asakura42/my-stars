@@ -737,7 +737,7 @@
 - [rahulv07/Decypher](https://github.com/rahulv07/Decypher) - Decypher is a subtitle file generator for videos. It is made using Python and VOSK, an open source speech recognition engine.
 - [boi4/subextractor](https://github.com/boi4/subextractor) - Autogenerate subtitles using vosk speech recognition
 - [caitlinhenry14/Letterboxd-Scraper](https://github.com/caitlinhenry14/Letterboxd-Scraper) - Download Letterboxd lists as CSV files
-- [FastFingertips/letterboxd-downloader](https://github.com/FastFingertips/letterboxd-downloader) - Exports @Letterboxd lists to a CSV file using the CLI.
+- [fastfingertips/letterboxd-downloader](https://github.com/fastfingertips/letterboxd-downloader) - Exports @Letterboxd lists to a CSV file using the CLI.
 - [klieret/AnkiPandas](https://github.com/klieret/AnkiPandas) - Analyze and manipulate your Anki collection using pandas! 🌠🐼
 - [bluet/proxybroker2](https://github.com/bluet/proxybroker2) - The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [ThisCakeIsALie/ki](https://github.com/ThisCakeIsALie/ki) - A tool to remember japanese word pronounciations using english words
