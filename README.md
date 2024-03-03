@@ -188,6 +188,7 @@
 
 ## C++ 
 
+- [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
 - [deadYokai/yapng](https://github.com/deadYokai/yapng) - Yet Another PNGTuber
 - [Ajatt-Tools/rdricpp](https://github.com/Ajatt-Tools/rdricpp) - Rikaitan Deinflector Reference Implementation in C++.
@@ -938,6 +939,7 @@
 
 ## Rust 
 
+- [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - A protocol handler for mpv. Use mpv and yt-dlp to play video and music from the websites.
 - [ShadoySV/work-break](https://github.com/ShadoySV/work-break) - Work-break balancer for Windows / MacOS / Linux desktops
 - [shouya/malakal](https://github.com/shouya/malakal) - a day-planner/calendar app based on egui
 - [druidamix/Opensubtitles-downloader](https://github.com/druidamix/Opensubtitles-downloader) - Opensubtitles.org downloader using the new API.
