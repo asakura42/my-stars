@@ -100,6 +100,7 @@
 - [monero](#monero)
 - [mongodb](#mongodb)
 - [music](#music)
+- [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
@@ -971,6 +972,14 @@
 - [yuxshao/ptcollab](https://github.com/yuxshao/ptcollab) - A collaborative piano-roll music sequencer!
 - [pauloo27/neptune](https://github.com/pauloo27/neptune) - 🎧 A Work In Progress YouTube based song player, made with GTK and GoLang
 
+## natural-language-processing 
+
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
+- [tategakibunko/TypeNovel](https://github.com/tategakibunko/TypeNovel) - A simple markup language to write novel with types.
+- [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
+- [Huffon/sentence-compressor](https://github.com/Huffon/sentence-compressor) - Compress your lengthy sentence 🗜️
+- [rtrevinnoc/FUTURE](https://github.com/rtrevinnoc/FUTURE) - A private, free, open-source search engine built on a P2P network
+
 ## neovim 
 
 - [nims11/vim-nano](https://github.com/nims11/vim-nano) - Mighty nano inside a vim
@@ -1052,6 +1061,7 @@
 
 ## others 
 
+- [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - A protocol handler for mpv. Use mpv and yt-dlp to play video and music from the websites.
 - [asakura42/rp4](https://github.com/asakura42/rp4) - simple python replacement for the bloated LLM frontends
 - [ShadoySV/work-break](https://github.com/ShadoySV/work-break) - Work-break balancer for Windows / MacOS / Linux desktops
 - [Inochi2D/inochi2d](https://github.com/Inochi2D/inochi2d) - Inochi2D reference implementation aimed at rendering 2D puppets that can be animated in real-time (using eg. facial capture).
@@ -1801,6 +1811,7 @@
 
 ## qt 
 
+- [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [teriflix/scrite](https://github.com/teriflix/scrite) - Crossplatform Screenwriting Software
 - [story-apps/starc](https://github.com/story-apps/starc) - Reinventing the screenwriting software.
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
