@@ -259,7 +259,7 @@
 ## bash 
 
 - [Ajatt-Tools/impd](https://github.com/Ajatt-Tools/impd) - AJATT-style passive listening and condensed audio without bloat.
-- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram downloader/tools written in Golang
+- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram tookit written in Golang
 - [M0Rf30/shisper](https://github.com/M0Rf30/shisper) - A quick & dirty script to generate and view subtitles and transcriptions for your multimedia files using ggerganov/whisper.cpp
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
@@ -374,7 +374,7 @@
 - [SkobelevIgor/stackexchange-xml-converter](https://github.com/SkobelevIgor/stackexchange-xml-converter) - Stackexchange (e.g., stackoverflow) data dump converter from XML to CSV format.
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
-- [jpbruinsslot/anki-md](https://github.com/jpbruinsslot/anki-md) - A markdown to anki flash cards converter
+- [jpbruinsslot/anki-md](https://github.com/jpbruinsslot/anki-md) - 📚  A markdown to anki flash cards converter
 - [wustho/epr](https://github.com/wustho/epr) - CLI Epub Reader
 
 ## code 
@@ -619,7 +619,7 @@
 - [ciehanski/pigeon](https://github.com/ciehanski/pigeon) - WebSocket instant messaging utilizing Tor hidden services.
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [jpbruinsslot/anki-md](https://github.com/jpbruinsslot/anki-md) - A markdown to anki flash cards converter
+- [jpbruinsslot/anki-md](https://github.com/jpbruinsslot/anki-md) - 📚  A markdown to anki flash cards converter
 
 ## godot 
 
@@ -654,7 +654,7 @@
 - [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
 - [singalhimanshu/taskgo](https://github.com/singalhimanshu/taskgo) - Fast and simple terminal based Kanban board manager
 - [wlanboy/kanbantabs](https://github.com/wlanboy/kanbantabs) - golang based console kanban board
-- [jpbruinsslot/anki-md](https://github.com/jpbruinsslot/anki-md) - A markdown to anki flash cards converter
+- [jpbruinsslot/anki-md](https://github.com/jpbruinsslot/anki-md) - 📚  A markdown to anki flash cards converter
 - [matcornic/subify](https://github.com/matcornic/subify) - Subify - Download subtitles for your favorite TV shows and movies
 
 ## good-first-issue 
@@ -943,7 +943,7 @@
 - [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.
 - [kristapsdz/lowdown](https://github.com/kristapsdz/lowdown) - simple markdown translator
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
-- [jpbruinsslot/anki-md](https://github.com/jpbruinsslot/anki-md) - A markdown to anki flash cards converter
+- [jpbruinsslot/anki-md](https://github.com/jpbruinsslot/anki-md) - 📚  A markdown to anki flash cards converter
 
 ## mastodon 
 
@@ -1064,6 +1064,7 @@
 
 ## others 
 
+- [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - A protocol handler for mpv. Use mpv and yt-dlp to play video and music from the websites.
 - [asakura42/rp4](https://github.com/asakura42/rp4) - simple python replacement for the bloated LLM frontends
 - [ShadoySV/work-break](https://github.com/ShadoySV/work-break) - Work-break balancer for Windows / MacOS / Linux desktops
@@ -1983,7 +1984,7 @@
 - [NotStatilko/tgbox-cli](https://github.com/NotStatilko/tgbox-cli) - CLI interface to the TGBOX
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file 
 - [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei/telegram-configs-collector) - Script Collects Juicity, Hysteria, Tuic, Vless, Vmess, Trojan And ShadowSocks Configurations From Telegram Channels And Subscription Links
-- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram downloader/tools written in Golang
+- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram tookit written in Golang
 - [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
 - [evgeny-nadymov/telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
