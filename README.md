@@ -350,7 +350,7 @@
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
 - [anoop142/svc](https://github.com/anoop142/svc) - Simple TUI Video Compressor using ffmpeg
-- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram downloader/tools written in Golang
+- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram tookit written in Golang
 - [canhlinh/hlsdl](https://github.com/canhlinh/hlsdl) - A golang library to help you download a m3u8 file and save it as a single TS file
 - [gonejack/html-to-epub](https://github.com/gonejack/html-to-epub) - This command line converts .html to .epub with images embed.
 - [kvannotten/pcd](https://github.com/kvannotten/pcd) - CLI podcast client (podcatcher) written in golang
@@ -409,7 +409,7 @@
 - [singalhimanshu/taskgo](https://github.com/singalhimanshu/taskgo) - Fast and simple terminal based Kanban board manager
 - [wlanboy/kanbantabs](https://github.com/wlanboy/kanbantabs) - golang based console kanban board
 - [ustuehler/bunkai](https://github.com/ustuehler/bunkai) - Decompose media content with subtitles into flash cards (e.g., for Anki)
-- [jpbruinsslot/anki-md](https://github.com/jpbruinsslot/anki-md) - A markdown to anki flash cards converter
+- [jpbruinsslot/anki-md](https://github.com/jpbruinsslot/anki-md) - 📚  A markdown to anki flash cards converter
 - [Sioro-Neoku/go-peerflix](https://github.com/Sioro-Neoku/go-peerflix) - Go Peerflix
 - [matcornic/subify](https://github.com/matcornic/subify) - Subify - Download subtitles for your favorite TV shows and movies
 - [joshua-isak/Prism](https://github.com/joshua-isak/Prism) - E2E Encrypted Chat
@@ -695,6 +695,7 @@
 
 ## Python 
 
+- [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
 - [asakura42/rp4](https://github.com/asakura42/rp4) - simple python replacement for the bloated LLM frontends
