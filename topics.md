@@ -97,6 +97,7 @@
 - [mastodon](#mastodon)
 - [material-design](#material-design)
 - [microsoft](#microsoft)
+- [minecraft](#minecraft)
 - [monero](#monero)
 - [mongodb](#mongodb)
 - [music](#music)
@@ -292,7 +293,7 @@
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [aligrudi/neatroff](https://github.com/aligrudi/neatroff) - Neatroff troff clone
 - [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 450 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
-- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
 - [theimpossibleastronaut/rmw](https://github.com/theimpossibleastronaut/rmw) - trashcan/recycle bin utility for the command line
 - [HerculesWS/Hercules](https://github.com/HerculesWS/Hercules) - Hercules is a collaborative software development project revolving around the creation of a robust massively multiplayer online role playing game (MMORPG) server package. Written in C, the program is 
 - [jgmenu/jgmenu](https://github.com/jgmenu/jgmenu) - An X11 menu
@@ -366,7 +367,7 @@
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [irevenko/koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
-- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [mario-campos/xget](https://github.com/mario-campos/xget) - A minimal, secure, command-line XDCC client.
@@ -396,6 +397,7 @@
 ## cpp 
 
 - [Emanem/nettop](https://github.com/Emanem/nettop) - Utility to show network traffic (both TCP and UDP v4 and v6) split by process and remote host
+- [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Cracked Minecraft launcher. Not related to the original developers.
 - [floe/backscrub](https://github.com/floe/backscrub) - Virtual Video Device for Background Replacement with Deep Semantic Segmentation
 - [AmadeusK525/Amadeus-Writer](https://github.com/AmadeusK525/Amadeus-Writer) - Amadeus Writer is a multi-tool application to help fiction writers on writing their books as well as outlining, organizing ideas, characters, locations, etc.
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
@@ -679,6 +681,7 @@
 - [bluet/proxybroker2](https://github.com/bluet/proxybroker2) - The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
+- [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Cracked Minecraft launcher. Not related to the original developers.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
@@ -958,6 +961,10 @@
 
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 
+## minecraft 
+
+- [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Cracked Minecraft launcher. Not related to the original developers.
+
 ## monero 
 
 - [tipxmr/tipxmr](https://github.com/tipxmr/tipxmr) - An open-source, noncustodial livestream tipping service for Monero.
@@ -1119,7 +1126,7 @@
 - [Asterecho/ExcelGPT](https://github.com/Asterecho/ExcelGPT) - chatgpt for Excel ，基于ExcelDNA开发
 - [Mutigmss/xmind-anki](https://github.com/Mutigmss/xmind-anki) - 
 - [ItsEthra/typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading for your typst files
-- [typst/templates](https://github.com/typst/templates) - The templates that ship with the Typst web app.
+- [typst/templates](https://github.com/typst/templates) - Templates that are directly maintained by the Typst team.
 - [ludwig-austermann/typst-timetable](https://github.com/ludwig-austermann/typst-timetable) - A typst template for timetables
 - [abhinav12k/Typster](https://github.com/abhinav12k/Typster) - Typster is a simple typing game built using Desktop Compose. The game allows you to test your typing skills by typing a given text as fast and accurately as possible. You can also customize the text t
 - [danielgross/teleprompter](https://github.com/danielgross/teleprompter) - 
@@ -1227,7 +1234,6 @@
 - [KevCui/opensubtitles-dl](https://github.com/KevCui/opensubtitles-dl) - Download subtitles from opensubtitles.org
 - [patiencedaur/rename-subs](https://github.com/patiencedaur/rename-subs) - A small script to rename subtitles so that they match episode names, to simplify watching stuff in mpv
 - [rebkwok/kpcli](https://github.com/rebkwok/kpcli) - Command line interface for keepass database
-- [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Cracked Minecraft launcher. Not related to the original developers.
 - [chachmu/mpvDLNA](https://github.com/chachmu/mpvDLNA) - A plugin to allow mpv to browse and watch content hosted on DLNA servers
 - [akissinger/dodo](https://github.com/akissinger/dodo) - A graphical, hackable email client based on notmuch
 - [carsonritchey/caltrack](https://github.com/carsonritchey/caltrack) - a simple command line calorie tracker
@@ -1818,6 +1824,7 @@
 
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [teriflix/scrite](https://github.com/teriflix/scrite) - Crossplatform Screenwriting Software
+- [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Cracked Minecraft launcher. Not related to the original developers.
 - [story-apps/starc](https://github.com/story-apps/starc) - Reinventing the screenwriting software.
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [TreeNote/TreeNote](https://github.com/TreeNote/TreeNote) - An intuitive outliner for personal knowledge and task management
@@ -1948,7 +1955,7 @@
 - [pystardust/jsp](https://github.com/pystardust/jsp) - Json Shell Parser: A simple json parser in POSIX shell and sed
 - [pystardust/shup](https://github.com/pystardust/shup) - A POSIX shell script to parse HTML
 - [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 450 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
-- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -2023,7 +2030,7 @@
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [irevenko/koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
-- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
