@@ -139,7 +139,7 @@
 - [Firemoon777/tgfs](https://github.com/Firemoon777/tgfs) - telegram attachments in FUSE filesystem
 - [mbornet-hl/hl](https://github.com/mbornet-hl/hl) - Highlight (colorize) text data using regular expressions (efficient C program)
 - [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) - A Real Time Strategy game for Linux.
-- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
 - [bakkeby/dmenu-flexipatch](https://github.com/bakkeby/dmenu-flexipatch) - A dmenu build with preprocessor directives to decide which patches to include during build time
 - [brpocock/start.exe](https://github.com/brpocock/start.exe) - Launch an EXE file using DOSBox, Mono, or Wine, as appropriate
 - [vardy/aphelia](https://github.com/vardy/aphelia) - A light, single-file, minimalist window manager for X11.
@@ -1168,7 +1168,7 @@
 
 ## Typst 
 
-- [typst/templates](https://github.com/typst/templates) - The templates that ship with the Typst web app.
+- [typst/templates](https://github.com/typst/templates) - Templates that are directly maintained by the Typst team.
 - [ludwig-austermann/typst-timetable](https://github.com/ludwig-austermann/typst-timetable) - A typst template for timetables
 
 ## Vala 
