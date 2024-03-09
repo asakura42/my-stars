@@ -210,7 +210,7 @@
 - [SwagSoftware/Kisak-Strike](https://github.com/SwagSoftware/Kisak-Strike) - 100% Open Source CSGO
 - [teriflix/scrite](https://github.com/teriflix/scrite) - Crossplatform Screenwriting Software
 - [feather-wallet/feather](https://github.com/feather-wallet/feather) - A free and open-source Monero desktop wallet.
-- [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Cracked Minecraft launcher. Not related to the original developers.
+- [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - Archive and catalog the world for today's and tomorrow's generations! Available almost everyware. Completed?
@@ -338,6 +338,7 @@
 
 ## Go 
 
+- [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
 - [tgragnato/magnetico](https://github.com/tgragnato/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file 
@@ -723,7 +724,6 @@
 - [NoPlagiarism/instances-list](https://github.com/NoPlagiarism/instances-list) - Auto-updated list of alternative frontend instances
 - [tasksched/tasksched](https://github.com/tasksched/tasksched) - Task scheduler with automatic resource leveling
 - [fniessink/next-action](https://github.com/fniessink/next-action) - Next-action: determine the next action to work on from a list of actions in a todo.txt file
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [jzohrab/lute-v3](https://github.com/jzohrab/lute-v3) - LUTE = Learning Using Texts: learn languages through reading.  Python/Flask.
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
@@ -1008,7 +1008,7 @@
 
 - [odnar-dev/termv-rewrite](https://github.com/odnar-dev/termv-rewrite) - 
 - [mlangOS/rsh](https://github.com/mlangOS/rsh) - versioning control for a new era
-- [Ajatt-Tools/twimm](https://github.com/Ajatt-Tools/twimm) - Tool for watching twitch in a desired language (and a bit more)
+- [Ajatt-Tools/twimm](https://github.com/Ajatt-Tools/twimm) - Tool for watching twitch broadcasts in a desired language (and a bit more)
 - [Ajatt-Tools/impd](https://github.com/Ajatt-Tools/impd) - AJATT-style passive listening and condensed audio without bloat.
 - [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 - [tomcooks/giulioandreotti666](https://github.com/tomcooks/giulioandreotti666) - terminal based video editor for underpowered netbooks
@@ -1140,6 +1140,7 @@
 - [neurogen-dev/NeuroAPI](https://github.com/neurogen-dev/NeuroAPI) - Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [vangelov/calories-in](https://github.com/vangelov/calories-in) - A web-based meal plan editor for people who prepare all of their food.
 - [alexandria-reader/backend](https://github.com/alexandria-reader/backend) - Alexandria reading app back end
 - [NostrChat/NostrChat](https://github.com/NostrChat/NostrChat) - NostrChat is one of the most decentralized chat apps ever built.
