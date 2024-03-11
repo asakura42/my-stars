@@ -338,6 +338,7 @@
 
 ## Go 
 
+- [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
 - [tgragnato/magnetico](https://github.com/tgragnato/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite
@@ -1006,6 +1007,7 @@
 
 ## Shell 
 
+- [NapoleonWils0n/ffmpeg-scripts](https://github.com/NapoleonWils0n/ffmpeg-scripts) - ffmpeg shell scripts
 - [odnar-dev/termv-rewrite](https://github.com/odnar-dev/termv-rewrite) - 
 - [mlangOS/rsh](https://github.com/mlangOS/rsh) - versioning control for a new era
 - [Ajatt-Tools/twimm](https://github.com/Ajatt-Tools/twimm) - Tool for watching twitch broadcasts in a desired language (and a bit more)
