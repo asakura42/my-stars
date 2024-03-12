@@ -497,7 +497,7 @@
 - [mghlb/listak](https://github.com/mghlb/listak) - Save lists from IMDB and Letterboxd as CSV files.
 - [liuyug/flask-mdict](https://github.com/liuyug/flask-mdict) - Flask Mdict Server. Query word online with MDICT dictionary
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
-- [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
+- [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 - [mcthulhu/jorkens](https://github.com/mcthulhu/jorkens) - epub reader based on epub.js for foreign language learners
 - [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) - Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [chachmu/mpvDLNA](https://github.com/chachmu/mpvDLNA) - A plugin to allow mpv to browse and watch content hosted on DLNA servers
