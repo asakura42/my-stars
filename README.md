@@ -697,6 +697,7 @@
 
 ## Python 
 
+- [dusking/opensubtitles-com](https://github.com/dusking/opensubtitles-com) - 
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
