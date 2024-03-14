@@ -1075,6 +1075,7 @@
 
 ## others 
 
+- [dusking/opensubtitles-com](https://github.com/dusking/opensubtitles-com) - 
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [NapoleonWils0n/ffmpeg-scripts](https://github.com/NapoleonWils0n/ffmpeg-scripts) - ffmpeg shell scripts
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
