@@ -563,6 +563,7 @@
 
 ## game 
 
+- [Blank-09/Maths-Game](https://github.com/Blank-09/Maths-Game) - Are you interested in playing Maths Games? Then join the Math Quiz Leaderboard.
 - [divVerent/aaaaxy](https://github.com/divVerent/aaaaxy) - A nonlinear 2D puzzle platformer taking place in impossible spaces.
 - [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
@@ -720,6 +721,7 @@
 
 ## html 
 
+- [staart/site](https://github.com/staart/site) - 🏁📑 Static site generator for landing pages, docs, and more
 - [gonejack/html-to-epub](https://github.com/gonejack/html-to-epub) - This command line converts .html to .epub with images embed.
 - [prahou/teige](https://github.com/prahou/teige) - pure html image gallery
 - [sgerwk/pdftoroff](https://github.com/sgerwk/pdftoroff) - view pdf on X11 and the Linux framebuffer; resize pdf; convert pdf to text, html, TeX, groff
@@ -2063,6 +2065,7 @@
 
 ## typescript 
 
+- [staart/site](https://github.com/staart/site) - 🏁📑 Static site generator for landing pages, docs, and more
 - [alexandria-reader/backend](https://github.com/alexandria-reader/backend) - Alexandria reading app back end
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [tategakibunko/TypeNovel](https://github.com/tategakibunko/TypeNovel) - A simple markup language to write novel with types.
