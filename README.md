@@ -698,6 +698,7 @@
 
 ## Python 
 
+- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [dusking/opensubtitles-com](https://github.com/dusking/opensubtitles-com) - 
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
