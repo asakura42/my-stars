@@ -597,7 +597,7 @@
 
 ## github 
 
-- [writeplace/linkfree-generator](https://github.com/writeplace/linkfree-generator) - A page to generate your own self-hosted linktree alternative
+- [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A page to generate your own self-hosted linktree alternative
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [KevCui/download-github-stars](https://github.com/KevCui/download-github-stars) - :star2: Download Github user's stars information to local md/json file
 - [janeklb/gh-search](https://github.com/janeklb/gh-search) - GitHub code search with full text regex filtering, from your cli.
@@ -678,7 +678,7 @@
 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
-- [writeplace/linkfree-generator](https://github.com/writeplace/linkfree-generator) - A page to generate your own self-hosted linktree alternative
+- [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A page to generate your own self-hosted linktree alternative
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - 🛠️ FFmpeg Command Generator Web UI
 - [bluet/proxybroker2](https://github.com/bluet/proxybroker2) - The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
@@ -1079,6 +1079,7 @@
 
 ## others 
 
+- [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [dusking/opensubtitles-com](https://github.com/dusking/opensubtitles-com) - 
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [NapoleonWils0n/ffmpeg-scripts](https://github.com/NapoleonWils0n/ffmpeg-scripts) - ffmpeg shell scripts
@@ -1684,7 +1685,7 @@
 ## php 
 
 - [kostyan-org/ip-list-generator-by-country](https://github.com/kostyan-org/ip-list-generator-by-country) - CLI utility | IP ranges by country | qBittorrent
-- [writeplace/linkfree-generator](https://github.com/writeplace/linkfree-generator) - A page to generate your own self-hosted linktree alternative
+- [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A page to generate your own self-hosted linktree alternative
 - [DanWin/hosting](https://github.com/DanWin/hosting) - This is a setup for a Tor based shared web hosting server
 - [remipassmoilesel/tor-share](https://github.com/remipassmoilesel/tor-share) - Simple hosting and data sharing on Tor network
 
@@ -2118,7 +2119,7 @@
 
 ## webapp 
 
-- [writeplace/linkfree-generator](https://github.com/writeplace/linkfree-generator) - A page to generate your own self-hosted linktree alternative
+- [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A page to generate your own self-hosted linktree alternative
 - [liuyug/flask-mdict](https://github.com/liuyug/flask-mdict) - Flask Mdict Server. Query word online with MDICT dictionary
 - [Xtrendence/X-Chat](https://github.com/Xtrendence/X-Chat) - A Node.js and Socket.IO chat web application with RSA-2048 and AES-256-CTR encryption.
 
