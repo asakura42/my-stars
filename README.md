@@ -371,7 +371,7 @@
 - [yousefvand/secret-service](https://github.com/yousefvand/secret-service) - Service to keep secrets of applications
 - [ostafen/xdcc-cli](https://github.com/ostafen/xdcc-cli) - A command line tool for searching and downloading files from the IRC network.
 - [crholm/mark](https://github.com/crholm/mark) - 
-- [diamondburned/dissent](https://github.com/diamondburned/dissent) - GTK4 Discord client in Go, attempt #4.
+- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Lightweight and modern Discord client
 - [layeh/barnard](https://github.com/layeh/barnard) - barnard is a terminal-based client for the Mumble voice chat software
 - [majestrate/XD](https://github.com/majestrate/XD) - meme bittorrent client
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
@@ -499,7 +499,6 @@
 - [mghlb/listak](https://github.com/mghlb/listak) - Save lists from IMDB and Letterboxd as CSV files.
 - [liuyug/flask-mdict](https://github.com/liuyug/flask-mdict) - Flask Mdict Server. Query word online with MDICT dictionary
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
-- [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 - [mcthulhu/jorkens](https://github.com/mcthulhu/jorkens) - epub reader based on epub.js for foreign language learners
 - [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) - Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [chachmu/mpvDLNA](https://github.com/chachmu/mpvDLNA) - A plugin to allow mpv to browse and watch content hosted on DLNA servers
@@ -699,6 +698,7 @@
 
 ## Python 
 
+- [averkij/lingtrain-aligner](https://github.com/averkij/lingtrain-aligner) - Lingtrain Aligner — ML powered library for the accurate texts alignment.
 - [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [dusking/opensubtitles-com](https://github.com/dusking/opensubtitles-com) - 
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
@@ -1151,6 +1151,7 @@
 - [vangelov/calories-in](https://github.com/vangelov/calories-in) - A web-based meal plan editor for people who prepare all of their food.
 - [alexandria-reader/backend](https://github.com/alexandria-reader/backend) - Alexandria reading app back end
 - [NostrChat/NostrChat](https://github.com/NostrChat/NostrChat) - NostrChat is one of the most decentralized chat apps ever built.
+- [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com
 - [eyalzh/simple-kanban](https://github.com/eyalzh/simple-kanban) - A lightweight offline kanban board
 - [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface
 - [Coobaha/suomea](https://github.com/Coobaha/suomea) - Tools to learn Finnish. Includes Web app, Anki integration and Alfred workflow.
