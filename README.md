@@ -188,6 +188,8 @@
 
 ## C++ 
 
+- [mvsjober/yasa](https://github.com/mvsjober/yasa) - yasa is a program that aligns two translations of a text sentence by sentence in order to produce a bi-text
+- [wydengyre/hunalign](https://github.com/wydengyre/hunalign) - 
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
 - [deadYokai/yapng](https://github.com/deadYokai/yapng) - Yet Another PNGTuber
@@ -424,6 +426,7 @@
 
 ## HTML 
 
+- [wydengyre/bitextual](https://github.com/wydengyre/bitextual) - a tool for bilingual text alignment
 - [Blank-09/Maths-Game](https://github.com/Blank-09/Maths-Game) - Are you interested in playing Maths Games? Then join the Math Quiz Leaderboard.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
