@@ -1079,6 +1079,9 @@
 
 ## others 
 
+- [mvsjober/yasa](https://github.com/mvsjober/yasa) - yasa is a program that aligns two translations of a text sentence by sentence in order to produce a bi-text
+- [wydengyre/hunalign](https://github.com/wydengyre/hunalign) - 
+- [wydengyre/bitextual](https://github.com/wydengyre/bitextual) - a tool for bilingual text alignment
 - [averkij/lingtrain-aligner](https://github.com/averkij/lingtrain-aligner) - Lingtrain Aligner — ML powered library for the accurate texts alignment.
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [dusking/opensubtitles-com](https://github.com/dusking/opensubtitles-com) - 
