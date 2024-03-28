@@ -704,7 +704,6 @@
 
 - [Spiraldox/simDHT](https://github.com/Spiraldox/simDHT) - A very simple DHT crawler, written in Python.
 - [averkij/lingtrain-aligner](https://github.com/averkij/lingtrain-aligner) - Lingtrain Aligner — ML powered library for the accurate texts alignment.
-- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [dusking/opensubtitles-com](https://github.com/dusking/opensubtitles-com) - 
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -877,7 +876,6 @@
 - [SimonDaNinja/youtube_rss](https://github.com/SimonDaNinja/youtube_rss) - A YouTube-client for managing subscriptions and watching videos anonymously over Tor without a Google account.
 - [jtushman/pivotal_tools](https://github.com/jtushman/pivotal_tools) - geeky command-line interface with additional scrum, planning poker, and changelog generation features
 - [bgjd/MassAdd](https://github.com/bgjd/MassAdd) - 
-- [iWangJiaxiang/autosub](https://github.com/iWangJiaxiang/autosub) - Command-line utility for auto-generating subtitles for any video file
 - [raryelcostasouza/pyTranscriber](https://github.com/raryelcostasouza/pyTranscriber) - pyTranscriber can be used to generate automatic transcription / automatic subtitles for audio/video files through a friendly graphical user interface.
 - [vrde/i3-quiet](https://github.com/vrde/i3-quiet) - Distraction free i3 experience
 - [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
