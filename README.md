@@ -703,6 +703,7 @@
 
 ## Python 
 
+- [Zejun-Yang/AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
 - [Spiraldox/simDHT](https://github.com/Spiraldox/simDHT) - A very simple DHT crawler, written in Python.
 - [averkij/lingtrain-aligner](https://github.com/averkij/lingtrain-aligner) - Lingtrain Aligner — ML powered library for the accurate texts alignment.
 - [dusking/opensubtitles-com](https://github.com/dusking/opensubtitles-com) - 
