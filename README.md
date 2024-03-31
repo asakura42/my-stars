@@ -123,7 +123,7 @@
 - [kovmir/tinytldr](https://github.com/kovmir/tinytldr) - Minimalist tldr command line client written in C
 - [moritzbroe/terminal_minecraft](https://github.com/moritzbroe/terminal_minecraft) - 
 - [n-t-roff/Plan9_troff](https://github.com/n-t-roff/Plan9_troff) - troff ported from Plan 9
-- [Randoragon/groffhl](https://github.com/Randoragon/groffhl) - Groff Code Syntax Highlighting
+- [randoragon/groffhl](https://github.com/randoragon/groffhl) - Groff Code Syntax Highlighting
 - [aligrudi/neatroff](https://github.com/aligrudi/neatroff) - Neatroff troff clone
 - [padgettr/xomxplayer](https://github.com/padgettr/xomxplayer) - Simple X11 window control and mapping for omxplayer
 - [rfc-2549/demiurge](https://github.com/rfc-2549/demiurge) - Demiurge -- CLI client for pleroma
@@ -706,6 +706,7 @@
 - [Zejun-Yang/AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
 - [Spiraldox/simDHT](https://github.com/Spiraldox/simDHT) - A very simple DHT crawler, written in Python.
 - [averkij/lingtrain-aligner](https://github.com/averkij/lingtrain-aligner) - Lingtrain Aligner — ML powered library for the accurate texts alignment.
+- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [dusking/opensubtitles-com](https://github.com/dusking/opensubtitles-com) - 
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -1018,6 +1019,7 @@
 
 ## Shell 
 
+- [loiccoyle/rofi-cuff](https://github.com/loiccoyle/rofi-cuff) - 🔎 Rofi wrapper for cuff. Use the Jackett search API to find torrents.
 - [NapoleonWils0n/ffmpeg-scripts](https://github.com/NapoleonWils0n/ffmpeg-scripts) - ffmpeg shell scripts
 - [odnar-dev/termv-rewrite](https://github.com/odnar-dev/termv-rewrite) - 
 - [mlangOS/rsh](https://github.com/mlangOS/rsh) - versioning control for a new era
