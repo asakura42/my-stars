@@ -763,6 +763,7 @@
 
 ## java 
 
+- [DmytroNorth/Automated_Subtitles_Generation-Regex_Java](https://github.com/DmytroNorth/Automated_Subtitles_Generation-Regex_Java) - An automated workflow that generates timestamped subtitles from a video file with custom control using regex, Java and multiple online tools.
 - [BenHerbst/idaesbasic](https://github.com/BenHerbst/idaesbasic) - Idaesbasic - An all in one project manager that stores everything in files directly into your project! 🤯
 - [amiothenes/1T-Sentence-Miner](https://github.com/amiothenes/1T-Sentence-Miner) - Finds the lowest hanging fruit in your immersion automatically and adds it straight to your Anki deck. 1T Sentences are great to learn languages but very time-consuming, this tool makes Anki cards aut
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
@@ -1078,6 +1079,12 @@
 
 ## others 
 
+- [chrisspen/punctuator2](https://github.com/chrisspen/punctuator2) - A bidirectional recurrent neural network model with attention mechanism for restoring missing punctuation in unsegmented text
+- [ottokart/punctuator2](https://github.com/ottokart/punctuator2) - A bidirectional recurrent neural network model with attention mechanism for restoring missing punctuation in unsegmented text
+- [huggingface/speechbox](https://github.com/huggingface/speechbox) - 
+- [jumon/whisper-punctuator](https://github.com/jumon/whisper-punctuator) - Zero-shot multimodal punctuation insertion and truecasing using Whisper
+- [lowerquality/gentle](https://github.com/lowerquality/gentle) - gentle forced aligner
+- [SqrtMinusOne/podcasts-vosk](https://github.com/SqrtMinusOne/podcasts-vosk) - A tiny wrapper around VOSK API to extract SRT files from audio
 - [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
 - [loiccoyle/rofi-cuff](https://github.com/loiccoyle/rofi-cuff) - 🔎 Rofi wrapper for cuff. Use the Jackett search API to find torrents.
 - [Zejun-Yang/AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
@@ -1142,7 +1149,7 @@
 - [holly-hacker/td](https://github.com/holly-hacker/td) - A WIP graph-based TUI TODO app.
 - [fniessink/next-action](https://github.com/fniessink/next-action) - Next-action: determine the next action to work on from a list of actions in a todo.txt file
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [jzohrab/lute-v3](https://github.com/jzohrab/lute-v3) - LUTE = Learning Using Texts: learn languages through reading.  Python/Flask.
+- [LuteOrg/lute-v3](https://github.com/LuteOrg/lute-v3) - LUTE = Learning Using Texts: learn languages through reading.  Python/Flask.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [Asterecho/ExcelGPT](https://github.com/Asterecho/ExcelGPT) - chatgpt for Excel ，基于ExcelDNA开发
 - [Mutigmss/xmind-anki](https://github.com/Mutigmss/xmind-anki) - 
