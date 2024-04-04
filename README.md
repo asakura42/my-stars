@@ -704,6 +704,8 @@
 
 ## Python 
 
+- [j2qk3b/AnyBT](https://github.com/j2qk3b/AnyBT) - A tool for searching magnet link of all kinds of BitTorrent contents.
+- [dobrosketchkun/bionic-reading-epub-converter](https://github.com/dobrosketchkun/bionic-reading-epub-converter) - Convert your epub book into the bionic reading text formatting
 - [chrisspen/punctuator2](https://github.com/chrisspen/punctuator2) - A bidirectional recurrent neural network model with attention mechanism for restoring missing punctuation in unsegmented text
 - [ottokart/punctuator2](https://github.com/ottokart/punctuator2) - A bidirectional recurrent neural network model with attention mechanism for restoring missing punctuation in unsegmented text
 - [huggingface/speechbox](https://github.com/huggingface/speechbox) - 
@@ -956,6 +958,7 @@
 
 ## Ruby 
 
+- [kaboom-db/kaboom](https://github.com/kaboom-db/kaboom) - A comic tracker, written in Ruby on Rails
 - [ticky/wayback-classic](https://github.com/ticky/wayback-classic) - 🕸 A frontend for the Wayback Machine which works on old browsers
 - [pschonev/biBooks](https://github.com/pschonev/biBooks) - This allows automatic creation of bilingual e-books with two translations of a text as input using an alignment of language agnostic sentence vectors.
 - [coezbek/rodo](https://github.com/coezbek/rodo) - Rodo is a terminal-based todo manager written in Ruby
@@ -1140,6 +1143,7 @@
 
 ## TeX 
 
+- [dobrosketchkun/after_the_gates_2025](https://github.com/dobrosketchkun/after_the_gates_2025) - An artistic exploration of a world transformed the emergence of portals to dangerous dimensions and people with awakened abilities.
 - [EnricoMiccoli/TeXalendar](https://github.com/EnricoMiccoli/TeXalendar) - LaTeX weekly planner
 - [adunna/tase](https://github.com/adunna/tase) - Text-Audio Sync Engine
 - [ludus-leonis/nipajin](https://github.com/ludus-leonis/nipajin) - A pen'n'paper RPG that fits on 4 pages. Typeset in LaTeX.
