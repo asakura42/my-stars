@@ -202,6 +202,7 @@
 
 ## archlinux 
 
+- [txtsd/archosaur](https://github.com/txtsd/archosaur) - A PKGBUILD management framework for the Arch User Repository
 - [geigi/cozy](https://github.com/geigi/cozy) - 🎧 Listen to audio books 📚 on Linux
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
 - [yousefvand/secret-service](https://github.com/yousefvand/secret-service) - Service to keep secrets of applications
@@ -273,7 +274,7 @@
 - [dylanaraps/birch](https://github.com/dylanaraps/birch) - An IRC client written in bash
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 450 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 470 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [Biont/sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop) - TUI Application launcher with Desktop Entry support. Made for SwayWM, but runs anywhere
@@ -294,7 +295,7 @@
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [aligrudi/neatroff](https://github.com/aligrudi/neatroff) - Neatroff troff clone
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 450 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 470 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
 - [theimpossibleastronaut/rmw](https://github.com/theimpossibleastronaut/rmw) - trashcan/recycle bin utility for the command line
 - [HerculesWS/Hercules](https://github.com/HerculesWS/Hercules) - Hercules is a collaborative software development project revolving around the creation of a robust massively multiplayer online role playing game (MMORPG) server package. Written in C, the program is 
@@ -405,7 +406,7 @@
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [SZinedine/DeepTags](https://github.com/SZinedine/DeepTags) - DeepTags is a markdown notes manager with support for nested tags
 - [zorggomat/FractalCryptGUI](https://github.com/zorggomat/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 450 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 470 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 
 ## cryptocurrency 
@@ -677,6 +678,7 @@
 
 ## hacktoberfest 
 
+- [txtsd/archosaur](https://github.com/txtsd/archosaur) - A PKGBUILD management framework for the Arch User Repository
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A page to generate your own self-hosted linktree alternative
@@ -705,7 +707,7 @@
 - [PlaidWeb/Publ](https://github.com/PlaidWeb/Publ) - Flexible publishing system for the web
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 450 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 470 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [dhruvasagar/vim-dotoo](https://github.com/dhruvasagar/vim-dotoo) - Org-mode like task logging & time tracking in Vim
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [HerculesWS/Hercules](https://github.com/HerculesWS/Hercules) - Hercules is a collaborative software development project revolving around the creation of a robust massively multiplayer online role playing game (MMORPG) server package. Written in C, the program is 
@@ -873,7 +875,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [dyne/JaroMail](https://github.com/dyne/JaroMail) - Terminal UI email client to download, filter, search and archive messages off-line
 - [e-caste/study-planner](https://github.com/e-caste/study-planner) - A cross-platform desktop GUI to get a quick analysis from files and/or directories in terms of required time to study their contents
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 450 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 470 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
@@ -1081,6 +1083,7 @@
 
 ## others 
 
+- [HiranChaudhuri/OoliteStarter](https://github.com/HiranChaudhuri/OoliteStarter) - Manages Oolite installations, expansions and savegames in one easy to use GUI.
 - [j2qk3b/AnyBT](https://github.com/j2qk3b/AnyBT) - A tool for searching magnet link of all kinds of BitTorrent contents.
 - [dobrosketchkun/bionic-reading-epub-converter](https://github.com/dobrosketchkun/bionic-reading-epub-converter) - Convert your epub book into the bionic reading text formatting
 - [dobrosketchkun/after_the_gates_2025](https://github.com/dobrosketchkun/after_the_gates_2025) - An artistic exploration of a world transformed the emergence of portals to dangerous dimensions and people with awakened abilities.
@@ -1811,7 +1814,7 @@
 - [TeaM-TL/FotoKilof](https://github.com/TeaM-TL/FotoKilof) - GUI for ImageMagick and Wand
 - [kitplummer/clikan](https://github.com/kitplummer/clikan) - clikan is a super simple personal kanban board that runs in a CLI
 - [f1nnix/magplan](https://github.com/f1nnix/magplan) - Project management system for publishers, magazines and content creators 🗓️⏱️✍🏼
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 450 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 470 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [rusty-snake/firecfg.py](https://github.com/rusty-snake/firecfg.py) - An improved firecfg written in python.
@@ -1934,7 +1937,7 @@
 - [mirdaki/ping](https://github.com/mirdaki/ping) - A cross-platform and blazingly fast Matrix client focused on group and gaming chat.
 - [agraven/retrix](https://github.com/agraven/retrix) - Tiny matrix client (mirrored from gitea)
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 450 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 470 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -1993,7 +1996,7 @@
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [pystardust/jsp](https://github.com/pystardust/jsp) - Json Shell Parser: A simple json parser in POSIX shell and sed
 - [pystardust/shup](https://github.com/pystardust/shup) - A POSIX shell script to parse HTML
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 450 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 470 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
