@@ -167,6 +167,7 @@
 
 ## ai 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 - [FujiwaraChoki/NotesTaker](https://github.com/FujiwaraChoki/NotesTaker) - A webapp to take notes during class.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [whoisdsmith/AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR) - An Awesome Collection of AI Resources, MTHRFCKR!
@@ -339,6 +340,7 @@
 
 ## cli 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 - [kostyan-org/ip-list-generator-by-country](https://github.com/kostyan-org/ip-list-generator-by-country) - CLI utility | IP ranges by country | qBittorrent
 - [NotStatilko/tgbox-cli](https://github.com/NotStatilko/tgbox-cli) - CLI interface to the TGBOX
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool
@@ -634,6 +636,7 @@
 
 ## golang 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 - [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
 - [tkancf/rofi-snippet](https://github.com/tkancf/rofi-snippet) - Text expander for linux to be integrated with rofi
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
@@ -1083,6 +1086,7 @@
 
 ## others 
 
+- [linuxmint/jargonaut](https://github.com/linuxmint/jargonaut) - Easy to use Chat Room application
 - [HiranChaudhuri/OoliteStarter](https://github.com/HiranChaudhuri/OoliteStarter) - Manages Oolite installations, expansions and savegames in one easy to use GUI.
 - [j2qk3b/AnyBT](https://github.com/j2qk3b/AnyBT) - A tool for searching magnet link of all kinds of BitTorrent contents.
 - [dobrosketchkun/bionic-reading-epub-converter](https://github.com/dobrosketchkun/bionic-reading-epub-converter) - Convert your epub book into the bionic reading text formatting
@@ -1150,7 +1154,7 @@
 - [NoPlagiarism/instances-list](https://github.com/NoPlagiarism/instances-list) - Auto-updated list of alternative frontend instances
 - [AdmTal/chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - Prompts for playable games in ChatGPT
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
-- [antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) - Bypass check if user has a real microsoft account linked with the PrismLauncher, Prism Launcher, Poly MC or PolyMC
+- [antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) - Bypass check if user has a real microsoft account linked with the Minecraft Launchers PrismLauncher, Prism Launcher, Poly MC or PolyMC
 - [sitandr/quickpoeterGUI](https://github.com/sitandr/quickpoeterGUI) - Поэтический редактор с открытым исходным кодом на Tauri
 - [tasksched/tasksched](https://github.com/tasksched/tasksched) - Task scheduler with automatic resource leveling
 - [Procrat/eva](https://github.com/Procrat/eva) - Let algorithms decide your life.
