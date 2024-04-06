@@ -340,6 +340,7 @@
 
 ## Go 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
@@ -613,7 +614,7 @@
 - [successfulstudy/promptoftheyear](https://github.com/successfulstudy/promptoftheyear) - In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the y
 - [michmech/lemmatization-lists](https://github.com/michmech/lemmatization-lists) - Machine-readable lists of lemma-token pairs in 23 languages.
 - [AdmTal/chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - Prompts for playable games in ChatGPT
-- [antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) - Bypass check if user has a real microsoft account linked with the PrismLauncher, Prism Launcher, Poly MC or PolyMC
+- [antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) - Bypass check if user has a real microsoft account linked with the Minecraft Launchers PrismLauncher, Prism Launcher, Poly MC or PolyMC
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [jianzhnie/awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) - A Survey on Text-to-Video Generation/Synthesis.
 - [ccd0/imageboards.json](https://github.com/ccd0/imageboards.json) - List of imageboards in JSON format.
@@ -705,6 +706,7 @@
 
 ## Python 
 
+- [linuxmint/jargonaut](https://github.com/linuxmint/jargonaut) - Easy to use Chat Room application
 - [j2qk3b/AnyBT](https://github.com/j2qk3b/AnyBT) - A tool for searching magnet link of all kinds of BitTorrent contents.
 - [dobrosketchkun/bionic-reading-epub-converter](https://github.com/dobrosketchkun/bionic-reading-epub-converter) - Convert your epub book into the bionic reading text formatting
 - [chrisspen/punctuator2](https://github.com/chrisspen/punctuator2) - A bidirectional recurrent neural network model with attention mechanism for restoring missing punctuation in unsegmented text
