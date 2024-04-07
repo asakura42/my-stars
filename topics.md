@@ -1086,6 +1086,9 @@
 
 ## others 
 
+- [zaid/vim-rec](https://github.com/zaid/vim-rec) - GNU Recutils syntax highlighting support for Vim
+- [aisamanra/rrecutils](https://github.com/aisamanra/rrecutils) - A pure Rust implementation of the GNU Recutils format
+- [christian-korneck/tinytodo](https://github.com/christian-korneck/tinytodo) - a most minimal todo list in the shell
 - [linuxmint/jargonaut](https://github.com/linuxmint/jargonaut) - Easy to use Chat Room application
 - [HiranChaudhuri/OoliteStarter](https://github.com/HiranChaudhuri/OoliteStarter) - Manages Oolite installations, expansions and savegames in one easy to use GUI.
 - [j2qk3b/AnyBT](https://github.com/j2qk3b/AnyBT) - A tool for searching magnet link of all kinds of BitTorrent contents.
