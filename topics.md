@@ -1086,6 +1086,7 @@
 
 ## others 
 
+- [173duprot/harm-less](https://github.com/173duprot/harm-less) - Inspired by suckless and cat-v, this is a simple single document wiki of suckless practices and minimal software.
 - [zaid/vim-rec](https://github.com/zaid/vim-rec) - GNU Recutils syntax highlighting support for Vim
 - [aisamanra/rrecutils](https://github.com/aisamanra/rrecutils) - A pure Rust implementation of the GNU Recutils format
 - [christian-korneck/tinytodo](https://github.com/christian-korneck/tinytodo) - a most minimal todo list in the shell
@@ -1773,6 +1774,7 @@
 
 ## python 
 
+- [kra-mo/hyperplane](https://github.com/kra-mo/hyperplane) - A non-hierarchical file manager
 - [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [NotStatilko/tgbox-cli](https://github.com/NotStatilko/tgbox-cli) - CLI interface to the TGBOX
