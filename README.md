@@ -461,7 +461,6 @@
 ## Java 
 
 - [HiranChaudhuri/OoliteStarter](https://github.com/HiranChaudhuri/OoliteStarter) - Manages Oolite installations, expansions and savegames in one easy to use GUI.
-- [Mutigmss/xmind-anki](https://github.com/Mutigmss/xmind-anki) - 
 - [Dr4iv3rNope/NotSoAndroidAyuGram](https://github.com/Dr4iv3rNope/NotSoAndroidAyuGram) - AyuGram for Android without proprietary features.
 - [amiothenes/1T-Sentence-Miner](https://github.com/amiothenes/1T-Sentence-Miner) - Finds the lowest hanging fruit in your immersion automatically and adds it straight to your Anki deck. 1T Sentences are great to learn languages but very time-consuming, this tool makes Anki cards aut
 - [gen2brain/bukanir](https://github.com/gen2brain/bukanir) - Bukanir streams movies and TV shows from bittorrent magnet links
