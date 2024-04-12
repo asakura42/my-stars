@@ -733,7 +733,7 @@
 - [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei/telegram-configs-collector) - Script Collects Juicity, Hysteria, Tuic, Vless, Vmess, Trojan And ShadowSocks Configurations From Telegram Channels And Subscription Links
 - [mahdibland/V2RayAggregator](https://github.com/mahdibland/V2RayAggregator) - Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed
 - [Luctia/ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/Usenet/PleX/Jellyfin mediacenter stack using Docker
-- [Gemmstone/PyNGtuber](https://github.com/Gemmstone/PyNGtuber) - PNGtuber software made in Python, still in development
+- [Gemmstone/PyNGtuber](https://github.com/Gemmstone/PyNGtuber) - PNGtuber software made in Python and HTML
 - [bjascob/LemmInflect](https://github.com/bjascob/LemmInflect) - A python module for English lemmatization and inflection.
 - [bjascob/pyInflect](https://github.com/bjascob/pyInflect) - A python module for word inflections designed for use with spaCy.
 - [DmytroNorth/subtites_factor_stretch](https://github.com/DmytroNorth/subtites_factor_stretch) - A function that stretches subtitles by a given factor - Python
@@ -741,7 +741,7 @@
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
 - [osirislab/LeakyPastes-V2](https://github.com/osirislab/LeakyPastes-V2) - Looking at what people post to public pastebins
 - [AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST) - iPTV Free List
-- [manga-py/manga-py](https://github.com/manga-py/manga-py) - Universal manga downloader (for your offline reading)
+- [manga-py/manga-py](https://github.com/manga-py/manga-py) - Universal manga downloader (for your offline reading) upd: Please, use this tool: https://github.com/mikf/gallery-dl
 - [ftorres16/my_weekly_schedule](https://github.com/ftorres16/my_weekly_schedule) - CLI for plotting weekly schedules. With Python.
 - [aryakaul/random-month-scheduler](https://github.com/aryakaul/random-month-scheduler) - 🗓️ - schedule random recurring events
 - [utkuufuk/weekplot](https://github.com/utkuufuk/weekplot) - Visualize your weekly schedule
