@@ -1130,7 +1130,7 @@
 - [phuslu/iploc](https://github.com/phuslu/iploc) - Fastest IP To Country Library
 - [barry-far/V2ray-Configs](https://github.com/barry-far/V2ray-Configs) - 🛰️✨ Free V2ray Configs , Updating Every 10 minutes.
 - [deadYokai/yapng](https://github.com/deadYokai/yapng) - Yet Another PNGTuber
-- [Gemmstone/PyNGtuber](https://github.com/Gemmstone/PyNGtuber) - PNGtuber software made in Python, still in development
+- [Gemmstone/PyNGtuber](https://github.com/Gemmstone/PyNGtuber) - PNGtuber software made in Python and HTML
 - [shouya/malakal](https://github.com/shouya/malakal) - a day-planner/calendar app based on egui
 - [StefanVukovic99/yezichak](https://github.com/StefanVukovic99/yezichak) - Pop-up dictionary extension for Chrome and Firefox.
 - [jpillora/media-sort](https://github.com/jpillora/media-sort) - Automatically organise your movies and tv series
@@ -1846,7 +1846,7 @@
 
 ## python3 
 
-- [manga-py/manga-py](https://github.com/manga-py/manga-py) - Universal manga downloader (for your offline reading)
+- [manga-py/manga-py](https://github.com/manga-py/manga-py) - Universal manga downloader (for your offline reading) upd: Please, use this tool: https://github.com/mikf/gallery-dl
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [LightDestory/qBittorrent-Search-Plugins](https://github.com/LightDestory/qBittorrent-Search-Plugins) - A growing collection of search plugins for the qBittorrent, an awesome and opensource torrent client
