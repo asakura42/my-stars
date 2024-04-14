@@ -145,6 +145,7 @@
 - [software](#software)
 - [spacevim](#spacevim)
 - [sqlite](#sqlite)
+- [stable-diffusion](#stable-diffusion)
 - [svelte](#svelte)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
@@ -1316,7 +1317,6 @@
 - [demostanis/gimmeasearx](https://github.com/demostanis/gimmeasearx) - Find a random searx instance
 - [benjaminogles/budget-meal-planner](https://github.com/benjaminogles/budget-meal-planner) - Offline desktop app for storing recipes, creating meal plans and generating grocery lists on a budget
 - [jhunschejones/Texthooker-Local](https://github.com/jhunschejones/Texthooker-Local) - An improved version of https://texthooker.com that also runs offline!
-- [AskEdith/Once-Upon-AI-Time](https://github.com/AskEdith/Once-Upon-AI-Time) - GPT-3 and Stable Diffusion powered short story generator
 - [glutanimate/popup-dictionary](https://github.com/glutanimate/popup-dictionary) - Pop-up Dictionary Add-on for Anki
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [Ajatt-Tools/AnkiNoteTypes](https://github.com/Ajatt-Tools/AnkiNoteTypes) - A collection of note types for Anki 2.1
@@ -2030,6 +2030,11 @@
 ## sqlite 
 
 - [rwandaPinocle/Liszt](https://github.com/rwandaPinocle/Liszt) - A personal organization software with a script engine for automation
+
+## stable-diffusion 
+
+- [whoisdsmith/AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR) - An Awesome Collection of AI Resources, MTHRFCKR!
+- [AskEdith/Once-Upon-AI-Time](https://github.com/AskEdith/Once-Upon-AI-Time) - GPT-3 and Stable Diffusion powered short story generator
 
 ## svelte 
 
