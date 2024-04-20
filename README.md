@@ -809,7 +809,7 @@
 - [kanjieater/SubPlease](https://github.com/kanjieater/SubPlease) - 🫴 Generate accurate subtitles from audio, align existing subs to videos, generate your own Kindle's Immersion Reading like audiobook subs (Currently Japanese only) 📖🎧
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.15.0+) for c
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.15) for cros
 - [baxtree/subaligner](https://github.com/baxtree/subaligner) - Automatically synchronize and translate subtitles, or create new ones by transcribing, using pre-trained DNNs, Forced Alignments and Transformers. https://subaligner.readthedocs.io/
 - [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle) - Automatically generate and overlay subtitles for any video.
 - [patiencedaur/rename-subs](https://github.com/patiencedaur/rename-subs) - A small script to rename subtitles so that they match episode names, to simplify watching stuff in mpv
@@ -1110,7 +1110,7 @@
 - [Mia-Rain/shfire](https://github.com/Mia-Rain/shfire) - Making a discord client in POSIX sh, by jumping over the gateway cause it's useless, fuck your TOS
 - [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) - A command line tool to highlight terms
 - [pystardust/shup](https://github.com/pystardust/shup) - A POSIX shell script to parse HTML
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 470 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 490 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [Mia-Rain/shapplet](https://github.com/Mia-Rain/shapplet) - coreutils/busybox applets (certain/some) written in pure POSIX sh
 - [connermcd/gtd](https://github.com/connermcd/gtd) - A simple shell script for effective time management.
 - [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
