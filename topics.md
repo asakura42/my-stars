@@ -276,7 +276,7 @@
 - [dylanaraps/birch](https://github.com/dylanaraps/birch) - An IRC client written in bash
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 470 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 490 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [Biont/sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop) - TUI Application launcher with Desktop Entry support. Made for SwayWM, but runs anywhere
@@ -297,7 +297,7 @@
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [aligrudi/neatroff](https://github.com/aligrudi/neatroff) - Neatroff troff clone
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 470 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 490 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
 - [theimpossibleastronaut/rmw](https://github.com/theimpossibleastronaut/rmw) - trashcan/recycle bin utility for the command line
 - [HerculesWS/Hercules](https://github.com/HerculesWS/Hercules) - Hercules is a collaborative software development project revolving around the creation of a robust massively multiplayer online role playing game (MMORPG) server package. Written in C, the program is 
@@ -409,7 +409,7 @@
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [SZinedine/DeepTags](https://github.com/SZinedine/DeepTags) - DeepTags is a markdown notes manager with support for nested tags
 - [zorggomat/FractalCryptGUI](https://github.com/zorggomat/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 470 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 490 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 
 ## cryptocurrency 
@@ -712,7 +712,7 @@
 - [PlaidWeb/Publ](https://github.com/PlaidWeb/Publ) - Flexible publishing system for the web
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 470 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 490 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [dhruvasagar/vim-dotoo](https://github.com/dhruvasagar/vim-dotoo) - Org-mode like task logging & time tracking in Vim
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [HerculesWS/Hercules](https://github.com/HerculesWS/Hercules) - Hercules is a collaborative software development project revolving around the creation of a robust massively multiplayer online role playing game (MMORPG) server package. Written in C, the program is 
@@ -845,7 +845,7 @@
 - [rbckman/tarina](https://github.com/rbckman/tarina) - 3d printed Raspberry Pi gonzo camera with the essential filmmaking tools
 - [geigi/cozy](https://github.com/geigi/cozy) - 🎧 Listen to audio books 📚 on Linux
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.15.0+) for c
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.15) for cros
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
 - [m4tx/tundra](https://github.com/m4tx/tundra) - MyAnimeList scrobbler for Linux
@@ -880,7 +880,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [dyne/JaroMail](https://github.com/dyne/JaroMail) - Terminal UI email client to download, filter, search and archive messages off-line
 - [e-caste/study-planner](https://github.com/e-caste/study-planner) - A cross-platform desktop GUI to get a quick analysis from files and/or directories in terms of required time to study their contents
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 470 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 490 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
@@ -926,7 +926,7 @@
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.15.0+) for c
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.15) for cros
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - [gmt4/mpvc](https://github.com/gmt4/mpvc) - An mpc-like interface to control mpv from the terminal + extra goodies 🚀
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
@@ -1802,7 +1802,7 @@
 - [kokimame/joytan](https://github.com/kokimame/joytan) - Creative Audio/Textbook Maker 🎵 📖 See our YouTube channel
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.15.0+) for c
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.15) for cros
 - [PCigales/DLNAmpvRenderer](https://github.com/PCigales/DLNAmpvRenderer) - A script in Python 3 to turn mpv into a DLNA / UPnP renderer
 - [Duff89/parser_avito](https://github.com/Duff89/parser_avito) - Находит товары на avito.ru по ключевым словам
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -1825,7 +1825,7 @@
 - [TeaM-TL/FotoKilof](https://github.com/TeaM-TL/FotoKilof) - GUI for ImageMagick and Wand
 - [kitplummer/clikan](https://github.com/kitplummer/clikan) - clikan is a super simple personal kanban board that runs in a CLI
 - [f1nnix/magplan](https://github.com/f1nnix/magplan) - Project management system for publishers, magazines and content creators 🗓️⏱️✍🏼
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 470 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 490 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [rusty-snake/firecfg.py](https://github.com/rusty-snake/firecfg.py) - An improved firecfg written in python.
@@ -1948,7 +1948,7 @@
 - [mirdaki/ping](https://github.com/mirdaki/ping) - A cross-platform and blazingly fast Matrix client focused on group and gaming chat.
 - [agraven/retrix](https://github.com/agraven/retrix) - Tiny matrix client (mirrored from gitea)
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 470 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 490 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -2007,7 +2007,7 @@
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [pystardust/jsp](https://github.com/pystardust/jsp) - Json Shell Parser: A simple json parser in POSIX shell and sed
 - [pystardust/shup](https://github.com/pystardust/shup) - A POSIX shell script to parse HTML
-- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 470 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
+- [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 490 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -2180,7 +2180,7 @@
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [fastfingertips/letterboxd-downloader](https://github.com/fastfingertips/letterboxd-downloader) - Exports @Letterboxd lists to a CSV file using the CLI.
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.15.0+) for c
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.15) for cros
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file-transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between any devices that run Photon.
 - [tomboy-notes/tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - Next generation of Tomboy
