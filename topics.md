@@ -460,7 +460,7 @@
 ## discord 
 
 - [andre-tm-hui/ReVox](https://github.com/andre-tm-hui/ReVox) - A soundboard, sampler and voice changer packaged into a single app
-- [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, themes, plugins and more!
+- [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
