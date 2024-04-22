@@ -487,6 +487,7 @@
 
 ## electron 
 
+- [fredserva/birdskitchen](https://github.com/fredserva/birdskitchen) - A Desktop Recipe Manager application using Electron & React.
 - [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface
 - [neopostmodern/structure](https://github.com/neopostmodern/structure) - Structure is a knowledge management tool
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -1090,6 +1091,7 @@
 
 ## others 
 
+- [mikedilger/gossip](https://github.com/mikedilger/gossip) - Gossip is a nostr client
 - [173duprot/harm-less](https://github.com/173duprot/harm-less) - Inspired by suckless and cat-v, this is a simple single document wiki of suckless practices and minimal software.
 - [zaid/vim-rec](https://github.com/zaid/vim-rec) - GNU Recutils syntax highlighting support for Vim
 - [aisamanra/rrecutils](https://github.com/aisamanra/rrecutils) - A pure Rust implementation of the GNU Recutils format
@@ -1903,6 +1905,7 @@
 
 ## react 
 
+- [fredserva/birdskitchen](https://github.com/fredserva/birdskitchen) - A Desktop Recipe Manager application using Electron & React.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [eyalzh/simple-kanban](https://github.com/eyalzh/simple-kanban) - A lightweight offline kanban board
 - [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface
