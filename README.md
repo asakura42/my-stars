@@ -491,6 +491,7 @@
 
 ## JavaScript 
 
+- [fredserva/birdskitchen](https://github.com/fredserva/birdskitchen) - A Desktop Recipe Manager application using Electron & React.
 - [FujiwaraChoki/NotesTaker](https://github.com/FujiwaraChoki/NotesTaker) - A webapp to take notes during class.
 - [StefanVukovic99/yezichak](https://github.com/StefanVukovic99/yezichak) - Pop-up dictionary extension for Chrome and Firefox.
 - [Slamsneider/SingleTom](https://github.com/Slamsneider/SingleTom) - A GPT tool (client) using OpenAI's API
@@ -970,6 +971,7 @@
 
 ## Rust 
 
+- [mikedilger/gossip](https://github.com/mikedilger/gossip) - Gossip is a nostr client
 - [aisamanra/rrecutils](https://github.com/aisamanra/rrecutils) - A pure Rust implementation of the GNU Recutils format
 - [LuckyTurtleDev/crab-hole](https://github.com/LuckyTurtleDev/crab-hole) - 🦀 Pi-Hole clone written in rust using hickory-dns/trust-dns
 - [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - A protocol handler for mpv. Use mpv and yt-dlp to play video and music from the websites.
