@@ -810,7 +810,7 @@
 - [kanjieater/SubPlease](https://github.com/kanjieater/SubPlease) - 🫴 Generate accurate subtitles from audio, align existing subs to videos, generate your own Kindle's Immersion Reading like audiobook subs (Currently Japanese only) 📖🎧
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.15) for cros
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.9+) and Qt 5 (5.15) for cros
 - [baxtree/subaligner](https://github.com/baxtree/subaligner) - Automatically synchronize and translate subtitles, or create new ones by transcribing, using pre-trained DNNs, Forced Alignments and Transformers. https://subaligner.readthedocs.io/
 - [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle) - Automatically generate and overlay subtitles for any video.
 - [patiencedaur/rename-subs](https://github.com/patiencedaur/rename-subs) - A small script to rename subtitles so that they match episode names, to simplify watching stuff in mpv
@@ -971,6 +971,7 @@
 
 ## Rust 
 
+- [eras/mxrxtx](https://github.com/eras/mxrxtx) - Transfer files over Matrix, directly from client to client with WebRTC.
 - [mikedilger/gossip](https://github.com/mikedilger/gossip) - Gossip is a nostr client
 - [aisamanra/rrecutils](https://github.com/aisamanra/rrecutils) - A pure Rust implementation of the GNU Recutils format
 - [LuckyTurtleDev/crab-hole](https://github.com/LuckyTurtleDev/crab-hole) - 🦀 Pi-Hole clone written in rust using hickory-dns/trust-dns
