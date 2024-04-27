@@ -265,7 +265,7 @@
 
 ## bash 
 
-- [Ajatt-Tools/impd](https://github.com/Ajatt-Tools/impd) - AJATT-style passive listening and condensed audio without bloat.
+- [Ajatt-Tools/impd](https://github.com/Ajatt-Tools/impd) - 🍵 AJATT-style passive listening and condensed audio without bloat.
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram tookit written in Golang
 - [M0Rf30/shisper](https://github.com/M0Rf30/shisper) - A quick & dirty script to generate and view subtitles and transcriptions for your multimedia files using ggerganov/whisper.cpp
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
@@ -910,7 +910,7 @@
 - [nguyenvukhang/nvim-toggler](https://github.com/nguyenvukhang/nvim-toggler) - invert text in vim, purely with lua.
 - [Eisa01/mpv-scripts](https://github.com/Eisa01/mpv-scripts) - This repository contain scripts I have made for mpv media player...
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
-- [Ajatt-Tools/mpvacious](https://github.com/Ajatt-Tools/mpvacious) - Adds mpv keybindings to create Anki cards from movies and TV shows.
+- [Ajatt-Tools/mpvacious](https://github.com/Ajatt-Tools/mpvacious) - 🍜 Adds mpv keybindings to create Anki cards from movies and TV shows.
 
 ## mac 
 
@@ -1144,7 +1144,7 @@
 - [shouya/malakal](https://github.com/shouya/malakal) - a day-planner/calendar app based on egui
 - [StefanVukovic99/yezichak](https://github.com/StefanVukovic99/yezichak) - Pop-up dictionary extension for Chrome and Firefox.
 - [jpillora/media-sort](https://github.com/jpillora/media-sort) - Automatically organise your movies and tv series
-- [Ajatt-Tools/rdricpp](https://github.com/Ajatt-Tools/rdricpp) - Rikaitan Deinflector Reference Implementation in C++.
+- [Ajatt-Tools/rdricpp](https://github.com/Ajatt-Tools/rdricpp) - 🍔 Rikaitan Deinflector Reference Implementation in C++.
 - [fildpauz/vocab-lists](https://github.com/fildpauz/vocab-lists) - A list of vocabulary lists
 - [Slamsneider/SingleTom](https://github.com/Slamsneider/SingleTom) - A GPT tool (client) using OpenAI's API
 - [tinyx3k/c0d3bl0ck-obsidian](https://github.com/tinyx3k/c0d3bl0ck-obsidian) - 
@@ -1213,7 +1213,7 @@
 - [rareitems/anki.nvim](https://github.com/rareitems/anki.nvim) - Neovim plugin that allows creation of Anki cards directly from neovim
 - [klieret/AnkiPandas](https://github.com/klieret/AnkiPandas) - Analyze and manipulate your Anki collection using pandas! 🌠🐼
 - [CoolnsX/hls_downloader](https://github.com/CoolnsX/hls_downloader) - A posix compliant highly fast and efficient Asynchronous stable m3u8 links dowloader that uses shell jobs for controlling parallel download...
-- [Ajatt-Tools/gd-tools](https://github.com/Ajatt-Tools/gd-tools) - A set of tools to enhance GoldenDict.
+- [Ajatt-Tools/gd-tools](https://github.com/Ajatt-Tools/gd-tools) - 🍣 A set of tools to enhance GoldenDict.
 - [traes/Mnemonics](https://github.com/traes/Mnemonics) - Generate mnemonics for language learning
 - [Harshal-Sakhale/dictd_webserver](https://github.com/Harshal-Sakhale/dictd_webserver) - Dictionary webserver accessible using any web browser on mobile or desktop
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
@@ -1307,7 +1307,7 @@
 - [drunohazarb/4chan-captcha-solver](https://github.com/drunohazarb/4chan-captcha-solver) - 
 - [Ratakor/quand](https://github.com/Ratakor/quand) - Simple calendar written in POSIX sh
 - [mgudemann/sct](https://github.com/mgudemann/sct) - Change screen color temperature and brightness using the Xrandr extension
-- [Ajatt-Tools/transformers_ocr](https://github.com/Ajatt-Tools/transformers_ocr) - An OCR tool using maim with Transformers.
+- [Ajatt-Tools/transformers_ocr](https://github.com/Ajatt-Tools/transformers_ocr) - 🍤 An OCR tool using maim with Transformers.
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
 - [bitsmanent/sw](https://github.com/bitsmanent/sw) - simple wallet
 - [rehanzo/dyn-wall-rs](https://github.com/rehanzo/dyn-wall-rs) - Helps user set a dynamic wallpaper and more.
@@ -1327,7 +1327,7 @@
 - [jhunschejones/Texthooker-Local](https://github.com/jhunschejones/Texthooker-Local) - An improved version of https://texthooker.com that also runs offline!
 - [glutanimate/popup-dictionary](https://github.com/glutanimate/popup-dictionary) - Pop-up Dictionary Add-on for Anki
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
-- [Ajatt-Tools/AnkiNoteTypes](https://github.com/Ajatt-Tools/AnkiNoteTypes) - A collection of note types for Anki 2.1
+- [Ajatt-Tools/AnkiNoteTypes](https://github.com/Ajatt-Tools/AnkiNoteTypes) - 🍉 A collection of note types for Anki 2.1
 - [Servarr/Wiki](https://github.com/Servarr/Wiki) - 
 - [magnus-ISU/anki-touch](https://github.com/magnus-ISU/anki-touch) - Anki 2.x add-on that helps using with the touch interface
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
@@ -1355,7 +1355,7 @@
 - [barely-lucid/meme-diets](https://github.com/barely-lucid/meme-diets) - Collection of noteworth meme diets
 - [tijder/SmsMatrix](https://github.com/tijder/SmsMatrix) - A simple SMS &lt;--&gt; Matrix bridge.
 - [mcrapet/plowshare](https://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites
-- [Ajatt-Tools/sub-transition](https://github.com/Ajatt-Tools/sub-transition) - Speed up the video if no subtitles are visible.
+- [Ajatt-Tools/sub-transition](https://github.com/Ajatt-Tools/sub-transition) - 🍩 Speed up the video if no subtitles are visible.
 - [FionnD/Reddit-QA-Corpus](https://github.com/FionnD/Reddit-QA-Corpus) - A question and answer corpus from the /r/askreddit subreddit. Designed for training seq2seq neural networks.
 - [layeh/barnard](https://github.com/layeh/barnard) - barnard is a terminal-based client for the Mumble voice chat software
 - [ripose-jp/Memento](https://github.com/ripose-jp/Memento) - An mpv-based video player for studying Japanese
@@ -1687,12 +1687,12 @@
 - [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild) - A PyPI to PKGBUILD converter.
 - [meskio/tudu](https://github.com/meskio/tudu) - A comand line interface to manage hierarchical todos
 - [333-9/awk-html-generator](https://github.com/333-9/awk-html-generator) - generates html sites from markdown-like syntax
-- [Ajatt-Tools/mortician](https://github.com/Ajatt-Tools/mortician) - Buries time-wasting cards that you keep failing.
-- [Ajatt-Tools/learn-now-button](https://github.com/Ajatt-Tools/learn-now-button) - Put cards in the learning queue and answer cards from the Card Browser.
+- [Ajatt-Tools/mortician](https://github.com/Ajatt-Tools/mortician) - 🌽 Buries time-wasting cards that you keep failing.
+- [Ajatt-Tools/learn-now-button](https://github.com/Ajatt-Tools/learn-now-button) - 🍝 Put cards in the learning queue and answer cards from the Card Browser.
 - [shdown/anitomy-cli](https://github.com/shdown/anitomy-cli) - A command-line interface for anitomy, with mpv and shell scripts
 - [SiunCyclone/wintile](https://github.com/SiunCyclone/wintile) - Tiling Window Manager for Windows OS
-- [Ajatt-Tools/mergenotes](https://github.com/Ajatt-Tools/mergenotes) - Merge content of selected cards
-- [Ajatt-Tools/videoclip](https://github.com/Ajatt-Tools/videoclip) - Easily create videoclips with mpv.
+- [Ajatt-Tools/mergenotes](https://github.com/Ajatt-Tools/mergenotes) - 🥗 Merge content of selected cards
+- [Ajatt-Tools/videoclip](https://github.com/Ajatt-Tools/videoclip) - 🍗 Easily create videoclips with mpv.
 - [joshua-isak/Prism](https://github.com/joshua-isak/Prism) - E2E Encrypted Chat
 - [Astu04/kanji2hiragana](https://github.com/Astu04/kanji2hiragana) - Script to turn a kanji text to hiragana, designed to use with subtitles.
 - [hcmiya/opuscomment](https://github.com/hcmiya/opuscomment) - Utility to edit Ogg Opus tags/output gain - Ogg Opusのタグ及びOutput Gain情報をvorbiscomment(1)と互換のあるインターフェイスで編集するユーティリティ
