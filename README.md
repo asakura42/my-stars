@@ -193,7 +193,7 @@
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
 - [deadYokai/yapng](https://github.com/deadYokai/yapng) - Yet Another PNGTuber
-- [Ajatt-Tools/rdricpp](https://github.com/Ajatt-Tools/rdricpp) - Rikaitan Deinflector Reference Implementation in C++.
+- [Ajatt-Tools/rdricpp](https://github.com/Ajatt-Tools/rdricpp) - 🍔 Rikaitan Deinflector Reference Implementation in C++.
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [PlankCipher/kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings
 - [andre-tm-hui/ReVox](https://github.com/andre-tm-hui/ReVox) - A soundboard, sampler and voice changer packaged into a single app
@@ -201,7 +201,7 @@
 - [ThomasR95/rahituber](https://github.com/ThomasR95/rahituber) - A more lively and customisable approach to PNGTuber avatars.
 - [team-pp-studio/VoiceTuber](https://github.com/team-pp-studio/VoiceTuber) - VTuber application which only requires your voice and microphone, no need for a webcam or other tracking nonsense.
 - [doudar/SmartSpin2k](https://github.com/doudar/SmartSpin2k) - Transform your spin bike into a Smart Trainer!
-- [Ajatt-Tools/gd-tools](https://github.com/Ajatt-Tools/gd-tools) - A set of tools to enhance GoldenDict.
+- [Ajatt-Tools/gd-tools](https://github.com/Ajatt-Tools/gd-tools) - 🍣 A set of tools to enhance GoldenDict.
 - [moses-smt/giza-pp](https://github.com/moses-smt/giza-pp) - GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the w
 - [rakutentech/pisah](https://github.com/rakutentech/pisah) - Sentence Splitter Library (C++ port of pySBD)
 - [danielvarga/hunalign](https://github.com/danielvarga/hunalign) - Sentence aligner
@@ -282,7 +282,7 @@
 ## CSS 
 
 - [jhunschejones/Texthooker-Local](https://github.com/jhunschejones/Texthooker-Local) - An improved version of https://texthooker.com that also runs offline!
-- [Ajatt-Tools/AnkiNoteTypes](https://github.com/Ajatt-Tools/AnkiNoteTypes) - A collection of note types for Anki 2.1
+- [Ajatt-Tools/AnkiNoteTypes](https://github.com/Ajatt-Tools/AnkiNoteTypes) - 🍉 A collection of note types for Anki 2.1
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 - [gustavklopp/LingL](https://github.com/gustavklopp/LingL) - clone of lingq to learn new language
 - [mullr/jawt](https://github.com/mullr/jawt) - Japanese With Texts
@@ -570,7 +570,7 @@
 - [joaquintorres/autosubsync-mpv](https://github.com/joaquintorres/autosubsync-mpv) - Automatic subtitle synchronization script for mpv media player
 - [nguyenvukhang/nvim-toggler](https://github.com/nguyenvukhang/nvim-toggler) - invert text in vim, purely with lua.
 - [Eisa01/mpv-scripts](https://github.com/Eisa01/mpv-scripts) - This repository contain scripts I have made for mpv media player...
-- [Ajatt-Tools/sub-transition](https://github.com/Ajatt-Tools/sub-transition) - Speed up the video if no subtitles are visible.
+- [Ajatt-Tools/sub-transition](https://github.com/Ajatt-Tools/sub-transition) - 🍩 Speed up the video if no subtitles are visible.
 - [pocco81/high-str.nvim](https://github.com/pocco81/high-str.nvim) - 🦎 A NeoVim plugin for highlighting visual selections like in a normal document editor!
 - [Nexterr-origin/simpleTV-Scripts](https://github.com/Nexterr-origin/simpleTV-Scripts) - ★ Scripts for simpleTV IPTV Player
 - [CrendKing/mpv-twitch-chat](https://github.com/CrendKing/mpv-twitch-chat) - Show Twitch chat messages as subtitles when watching Twitch VOD with mpv.
@@ -581,8 +581,8 @@
 - [rahulg/mpv-twitch-chat](https://github.com/rahulg/mpv-twitch-chat) - Read twitch.tv chat while watching VoDs with mpv.
 - [cvzi/mpv-youtube-upnext](https://github.com/cvzi/mpv-youtube-upnext) - A userscript for MPV that allows you to play "up next"/recommended youtube videos ⏭️
 - [vxiiduu/picochan](https://github.com/vxiiduu/picochan) - Fast JS-free imageboard engine in LuaJIT using SQLite
-- [Ajatt-Tools/mpvacious](https://github.com/Ajatt-Tools/mpvacious) - Adds mpv keybindings to create Anki cards from movies and TV shows.
-- [Ajatt-Tools/videoclip](https://github.com/Ajatt-Tools/videoclip) - Easily create videoclips with mpv.
+- [Ajatt-Tools/mpvacious](https://github.com/Ajatt-Tools/mpvacious) - 🍜 Adds mpv keybindings to create Anki cards from movies and TV shows.
+- [Ajatt-Tools/videoclip](https://github.com/Ajatt-Tools/videoclip) - 🍗 Easily create videoclips with mpv.
 
 ## M4 
 
@@ -821,7 +821,7 @@
 - [Duff89/parser_avito](https://github.com/Duff89/parser_avito) - Находит товары на avito.ru по ключевым словам
 - [tvhong/incremental-reading](https://github.com/tvhong/incremental-reading) - Anki add-on providing incremental reading features
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-- [Ajatt-Tools/transformers_ocr](https://github.com/Ajatt-Tools/transformers_ocr) - An OCR tool using maim with Transformers.
+- [Ajatt-Tools/transformers_ocr](https://github.com/Ajatt-Tools/transformers_ocr) - 🍤 An OCR tool using maim with Transformers.
 - [dagraham/etm-dgraham](https://github.com/dagraham/etm-dgraham) - etm: event and task manager
 - [Hellisotherpeople/CX_DB8](https://github.com/Hellisotherpeople/CX_DB8) - a contextual, biasable, word-or-sentence-or-paragraph extractive summarizer powered by the latest in text embeddings (Bert, Universal Sentence Encoder, Flair)
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -942,9 +942,9 @@
 - [dobrosketchkun/Not_quite_SSML_tag_editor](https://github.com/dobrosketchkun/Not_quite_SSML_tag_editor) - Wrapping my shitty tags around unreadable SSML tags
 - [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild) - A PyPI to PKGBUILD converter.
 - [wustho/epr](https://github.com/wustho/epr) - CLI Epub Reader
-- [Ajatt-Tools/mortician](https://github.com/Ajatt-Tools/mortician) - Buries time-wasting cards that you keep failing.
-- [Ajatt-Tools/learn-now-button](https://github.com/Ajatt-Tools/learn-now-button) - Put cards in the learning queue and answer cards from the Card Browser.
-- [Ajatt-Tools/mergenotes](https://github.com/Ajatt-Tools/mergenotes) - Merge content of selected cards
+- [Ajatt-Tools/mortician](https://github.com/Ajatt-Tools/mortician) - 🌽 Buries time-wasting cards that you keep failing.
+- [Ajatt-Tools/learn-now-button](https://github.com/Ajatt-Tools/learn-now-button) - 🍝 Put cards in the learning queue and answer cards from the Card Browser.
+- [Ajatt-Tools/mergenotes](https://github.com/Ajatt-Tools/mergenotes) - 🥗 Merge content of selected cards
 - [micheleb/subslider](https://github.com/micheleb/subslider) - A script to fix out of sync subtitles
 
 ## QML 
@@ -1046,7 +1046,7 @@
 - [odnar-dev/termv-rewrite](https://github.com/odnar-dev/termv-rewrite) - 
 - [mlangOS/rsh](https://github.com/mlangOS/rsh) - versioning control for a new era
 - [Ajatt-Tools/twimm](https://github.com/Ajatt-Tools/twimm) - Tool for watching twitch broadcasts in a desired language (and a bit more)
-- [Ajatt-Tools/impd](https://github.com/Ajatt-Tools/impd) - AJATT-style passive listening and condensed audio without bloat.
+- [Ajatt-Tools/impd](https://github.com/Ajatt-Tools/impd) - 🍵 AJATT-style passive listening and condensed audio without bloat.
 - [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 - [tomcooks/giulioandreotti666](https://github.com/tomcooks/giulioandreotti666) - terminal based video editor for underpowered netbooks
 - [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
