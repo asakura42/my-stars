@@ -1318,7 +1318,6 @@
 - [t-wissmann/caligraph](https://github.com/t-wissmann/caligraph) - Experiments with Haskell, Remind, and Brick
 - [dagraham/etm-dgraham](https://github.com/dagraham/etm-dgraham) - etm: event and task manager
 - [MertGunduz/mkhtml](https://github.com/MertGunduz/mkhtml) - mkhtml is an html document generator that works with gpt
-- [hundehausen/obs-monero-donations](https://github.com/hundehausen/obs-monero-donations) - Accept Monero donations in your twitch or obs live stream.
 - [n0madic/go-hdrezka](https://github.com/n0madic/go-hdrezka) - Scraper package for HDrezka site
 - [tramhao/termusic](https://github.com/tramhao/termusic) - Music Player TUI written in Rust
 - [inugami-dev64/mublog](https://github.com/inugami-dev64/mublog) - Small blogging daemon with static site and rss feed generation
