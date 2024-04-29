@@ -41,7 +41,6 @@
 - [Perl](#perl)
 - [PostScript](#postscript)
 - [PowerShell](#powershell)
-- [Pug](#pug)
 - [Python](#python)
 - [QML](#qml)
 - [R](#r)
@@ -699,10 +698,6 @@
 ## PowerShell 
 
 - [L-Trump/scoop-raresoft](https://github.com/L-Trump/scoop-raresoft) - 提供许多破解版的应用
-
-## Pug 
-
-- [hundehausen/obs-monero-donations](https://github.com/hundehausen/obs-monero-donations) - Accept Monero donations in your twitch or obs live stream.
 
 ## Python 
 
