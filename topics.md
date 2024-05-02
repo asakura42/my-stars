@@ -1104,7 +1104,7 @@
 - [aisamanra/rrecutils](https://github.com/aisamanra/rrecutils) - A pure Rust implementation of the GNU Recutils format
 - [christian-korneck/tinytodo](https://github.com/christian-korneck/tinytodo) - a most minimal todo list in the shell
 - [linuxmint/jargonaut](https://github.com/linuxmint/jargonaut) - Easy to use Chat Room application
-- [HiranChaudhuri/OoliteStarter](https://github.com/HiranChaudhuri/OoliteStarter) - Manages Oolite installations, expansions and savegames in one easy to use GUI.
+- [HiranChaudhuri/OoliteStarter](https://github.com/HiranChaudhuri/OoliteStarter) - This repository has moved. You can find it now at https://github.com/OoliteProject/OoliteStarter
 - [j2qk3b/AnyBT](https://github.com/j2qk3b/AnyBT) - A tool for searching magnet link of all kinds of BitTorrent contents.
 - [dobrosketchkun/bionic-reading-epub-converter](https://github.com/dobrosketchkun/bionic-reading-epub-converter) - Convert your epub book into the bionic reading text formatting
 - [dobrosketchkun/after_the_gates_2025](https://github.com/dobrosketchkun/after_the_gates_2025) - An artistic exploration of a world transformed the emergence of portals to dangerous dimensions and people with awakened abilities.
