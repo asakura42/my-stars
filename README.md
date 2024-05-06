@@ -429,6 +429,7 @@
 
 ## HTML 
 
+- [athul/archie](https://github.com/athul/archie) - A minimal Hugo Theme
 - [DmytroNorth/Automated_Subtitles_Generation-Regex_Java](https://github.com/DmytroNorth/Automated_Subtitles_Generation-Regex_Java) - An automated workflow that generates timestamped subtitles from a video file with custom control using regex, Java and multiple online tools.
 - [wydengyre/bitextual](https://github.com/wydengyre/bitextual) - a tool for bilingual text alignment
 - [Blank-09/Maths-Game](https://github.com/Blank-09/Maths-Game) - Are you interested in playing Maths Games? Then join the Math Quiz Leaderboard.
