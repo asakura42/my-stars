@@ -346,7 +346,7 @@
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
-- [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
+- [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive
 - [tgragnato/magnetico](https://github.com/tgragnato/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file 
 - [xxf098/LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest) - A simple tool for batch test ss/ssr/v2ray/trojan servers.
@@ -462,6 +462,7 @@
 
 ## Java 
 
+- [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille) - 📲🚫 Block unwanted calls effortlessly. Supports regex. wildcard and open-source bans-lists. Fork of YetAnotherCallBlocker.
 - [HiranChaudhuri/OoliteStarter](https://github.com/HiranChaudhuri/OoliteStarter) - This repository has moved. You can find it now at https://github.com/OoliteProject/OoliteStarter
 - [Dr4iv3rNope/NotSoAndroidAyuGram](https://github.com/Dr4iv3rNope/NotSoAndroidAyuGram) - AyuGram for Android without proprietary features.
 - [amiothenes/1T-Sentence-Miner](https://github.com/amiothenes/1T-Sentence-Miner) - Finds the lowest hanging fruit in your immersion automatically and adds it straight to your Anki deck. 1T Sentences are great to learn languages but very time-consuming, this tool makes Anki cards aut
