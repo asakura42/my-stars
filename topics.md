@@ -41,6 +41,7 @@
 - [discord](#discord)
 - [django](#django)
 - [docker](#docker)
+- [dotfiles](#dotfiles)
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
@@ -486,6 +487,12 @@
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
 - [WhyNotHugo/docker-makepkg](https://github.com/WhyNotHugo/docker-makepkg) - A Docker image that builds a PKGBUILD.
+
+## dotfiles 
+
+- [jonathanpoelen/dotfiles](https://github.com/jonathanpoelen/dotfiles) - My configuration files (zsh, urxvt, i3, mpv, ...)
+- [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
+- [Andr3as07/dotfiles](https://github.com/Andr3as07/dotfiles) - 
 
 ## education 
 
@@ -1655,7 +1662,7 @@
 - [cfenollosa/feedtube](https://github.com/cfenollosa/feedtube) - A feed video downloader for Youtube
 - [zoff99/ToxCam](https://github.com/zoff99/ToxCam) - Tox Cam
 - [LittleVulpix/toxme](https://github.com/LittleVulpix/toxme) - See readme.md. RIP
-- [zoff99/ToxProxy](https://github.com/zoff99/ToxProxy) - 
+- [zoff99/ToxProxy](https://github.com/zoff99/ToxProxy) - Offline Messages for Tox
 - [inflex/ripMIME](https://github.com/inflex/ripMIME) - MIME/email package decoder
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [LukeSmithxyz/st](https://github.com/LukeSmithxyz/st) - Luke's fork of the suckless simple terminal (st) with vim bindings and Xresource compatibility.
