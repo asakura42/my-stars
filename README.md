@@ -167,7 +167,7 @@
 - [zoff99/ToxCam](https://github.com/zoff99/ToxCam) - Tox Cam
 - [uTox/uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 - [eXeC64/imv](https://github.com/eXeC64/imv) - Image viewer for X11/Wayland
-- [zoff99/ToxProxy](https://github.com/zoff99/ToxProxy) - 
+- [zoff99/ToxProxy](https://github.com/zoff99/ToxProxy) - Offline Messages for Tox
 - [inflex/ripMIME](https://github.com/inflex/ripMIME) - MIME/email package decoder
 - [LukeSmithxyz/st](https://github.com/LukeSmithxyz/st) - Luke's fork of the suckless simple terminal (st) with vim bindings and Xresource compatibility.
 - [bpeel/notbit](https://github.com/bpeel/notbit) - A minimal Bitmessage client
