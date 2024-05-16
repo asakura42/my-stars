@@ -807,7 +807,7 @@
 - [pettarin/forced-alignment-tools](https://github.com/pettarin/forced-alignment-tools) - A collection of links and notes on forced alignment tools
 - [mgaitan/miau](https://github.com/mgaitan/miau) - Remix speeches for fun and profit
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
-- [kanjieater/SubPlease](https://github.com/kanjieater/SubPlease) - 🫴 Generate accurate subtitles from audio, align existing subs to videos, generate your own Kindle's Immersion Reading like audiobook subs (Currently Japanese only) 📖🎧
+- [kanjieater/SubPlz](https://github.com/kanjieater/SubPlz) - 🫴 Generate accurate subtitles from audio, align existing subs to videos, generate your own Kindle's Immersion Reading like audiobook subs (Currently Japanese only) 📖🎧
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.9+) and Qt 5 (5.15) for cros
