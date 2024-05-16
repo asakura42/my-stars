@@ -1294,7 +1294,7 @@
 - [pettarin/forced-alignment-tools](https://github.com/pettarin/forced-alignment-tools) - A collection of links and notes on forced alignment tools
 - [altdesktop/playerbm](https://github.com/altdesktop/playerbm) - 📚 🎧 Bookmark CLI for media players to resume where you left off in audiobooks and podcasts
 - [mgaitan/miau](https://github.com/mgaitan/miau) - Remix speeches for fun and profit
-- [kanjieater/SubPlease](https://github.com/kanjieater/SubPlease) - 🫴 Generate accurate subtitles from audio, align existing subs to videos, generate your own Kindle's Immersion Reading like audiobook subs (Currently Japanese only) 📖🎧
+- [kanjieater/SubPlz](https://github.com/kanjieater/SubPlz) - 🫴 Generate accurate subtitles from audio, align existing subs to videos, generate your own Kindle's Immersion Reading like audiobook subs (Currently Japanese only) 📖🎧
 - [adunna/tase](https://github.com/adunna/tase) - Text-Audio Sync Engine
 - [r4victor/syncabook](https://github.com/r4victor/syncabook) - 📖🎧 A tool for creating ebooks with synchronized text and audio (EPUB3 with Media Overlays)
 - [IvanovCosmin/awesome-natural-approach](https://github.com/IvanovCosmin/awesome-natural-approach) - An repository with language learning (natural approach, comprehensible input and Teaching Proficiency through Reading and Storytelling) resources
