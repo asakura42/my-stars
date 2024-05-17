@@ -257,7 +257,7 @@
 - [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure
 - [Ponywka/MultiMC5-with-offline](https://github.com/Ponywka/MultiMC5-with-offline) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [Warsow/qfusion](https://github.com/Warsow/qfusion) - Source code for cross-platform OpenGL gaming engine
-- [MasterQ32/kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
+- [ikskuh/kristall](https://github.com/ikskuh/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [byronknoll/cmix](https://github.com/byronknoll/cmix) - cmix is a lossless data compression program aimed at optimizing compression ratio at the cost of high CPU/memory usage.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [lmartinking/TomatoTimer](https://github.com/lmartinking/TomatoTimer) - A Simple Pomodoro Timer that lives in the Menu Bar 🍅
@@ -341,7 +341,7 @@
 ## Go 
 
 - [0xInception/ppxity](https://github.com/0xInception/ppxity) - ppxity is a command-line tool that allows you to interact with the Perplexity Labs (unofficial) API
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for building complex, real-world software with LLMs
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Robust AI driven development in your terminal. Designed for large, real-world tasks in new or existing codebases.
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
