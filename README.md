@@ -916,7 +916,7 @@
 - [ferru97/PyPaperBot](https://github.com/ferru97/PyPaperBot) - PyPaperBot is a Python tool for downloading scientific papers using Google Scholar, Crossref, and SciHub.
 - [amyreese/markdown-pp](https://github.com/amyreese/markdown-pp) - Preprocessor for Markdown files to generate a table of contents and other documentation needs
 - [cathugger/currtrack-mpd](https://github.com/cathugger/currtrack-mpd) - python script to pretty-print current mpd track on irc or terminal
-- [aaronraimist/element-themes](https://github.com/aaronraimist/element-themes) - A place to share themes for Element (formerly Riot), PRs with new themes are welcome!
+- [aaronraimist/element-themes](https://github.com/aaronraimist/element-themes) - A place to share themes for Element. PRs with new themes are welcome!
 - [torpoker/app](https://github.com/torpoker/app) - Torpoker PyQt5 App
 - [volatide/concord](https://github.com/volatide/concord) - (really WIP) Discord client made in Qt5
 - [amustafa/recovering-incomplete-monero-mnemonic](https://github.com/amustafa/recovering-incomplete-monero-mnemonic) - 
