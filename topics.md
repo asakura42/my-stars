@@ -402,7 +402,7 @@
 
 ## config 
 
-- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei/telegram-configs-collector) - Script Collects Juicity, Hysteria, Tuic, Vless, Vmess, Trojan And ShadowSocks Configurations From Telegram Channels And Subscription Links
+- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei/telegram-configs-collector) - The Script Gathers Juicity, Hysteria, Tuic, Vless, Vmess, Trojan, and Shadowsocks Configurations From Telegram Channels and Subscription Links
 - [hl2guide/better-mpv-config](https://github.com/hl2guide/better-mpv-config) - An improved MPV Media Player v3 configuration file.
 - [jonathanpoelen/dotfiles](https://github.com/jonathanpoelen/dotfiles) - My configuration files (zsh, urxvt, i3, mpv, ...)
 - [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
@@ -2083,7 +2083,7 @@
 - [sshrshnv/tgstorage](https://github.com/sshrshnv/tgstorage) - Advanced "Saved Messages" of the Telegram. Store your notes, checklists, links, photos and any documents in Telegram Cloud.
 - [NotStatilko/tgbox-cli](https://github.com/NotStatilko/tgbox-cli) - CLI interface to the TGBOX
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file 
-- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei/telegram-configs-collector) - Script Collects Juicity, Hysteria, Tuic, Vless, Vmess, Trojan And ShadowSocks Configurations From Telegram Channels And Subscription Links
+- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei/telegram-configs-collector) - The Script Gathers Juicity, Hysteria, Tuic, Vless, Vmess, Trojan, and Shadowsocks Configurations From Telegram Channels and Subscription Links
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram tookit written in Golang
 - [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
