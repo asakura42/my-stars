@@ -82,6 +82,7 @@
 
 ## C 
 
+- [crispinprojects/talkcalendar](https://github.com/crispinprojects/talkcalendar) - Personal calendar for Linux with some speech capability
 - [Ajatt-Tools/dictpopup](https://github.com/Ajatt-Tools/dictpopup) - Looks up selected (Japanese) text in your Yomichan dictionaries and displays the result as a popup.
 - [krzysckh/mpvq](https://github.com/krzysckh/mpvq) - tui playlist manager for mpv.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
