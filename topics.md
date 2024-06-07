@@ -386,7 +386,6 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [mario-campos/xget](https://github.com/mario-campos/xget) - A minimal, secure, command-line XDCC client.
-- [Foldex/reflex-curses](https://github.com/Foldex/reflex-curses) - A fork of twitch-curses with added features.
 - [SkobelevIgor/stackexchange-xml-converter](https://github.com/SkobelevIgor/stackexchange-xml-converter) - Stackexchange (e.g., stackoverflow) data dump converter from XML to CSV format.
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
@@ -1876,7 +1875,6 @@
 - [rusty-snake/firecfg.py](https://github.com/rusty-snake/firecfg.py) - An improved firecfg written in python.
 - [pimutils/todoman](https://github.com/pimutils/todoman) - ✅ A simple, standards-based, cli todo (aka: task) manager.
 - [pictuga/morss](https://github.com/pictuga/morss) - Get full text RSS feeds
-- [Foldex/reflex-curses](https://github.com/Foldex/reflex-curses) - A fork of twitch-curses with added features.
 - [disappeerlabs/disappeer](https://github.com/disappeerlabs/disappeer) - A pure Python GUI app for GPG functionality and peer-to-peer encrypted messaging over Tor
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [amyreese/markdown-pp](https://github.com/amyreese/markdown-pp) - Preprocessor for Markdown files to generate a table of contents and other documentation needs
@@ -2143,7 +2141,6 @@
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
 - [pauloo27/tuner](https://github.com/pauloo27/tuner) - 🎵 Search and Play songs from YouTube inside your terminal
 - [pimutils/todoman](https://github.com/pimutils/todoman) - ✅ A simple, standards-based, cli todo (aka: task) manager.
-- [Foldex/reflex-curses](https://github.com/Foldex/reflex-curses) - A fork of twitch-curses with added features.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
