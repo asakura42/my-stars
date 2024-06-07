@@ -914,7 +914,6 @@
 - [nlpyang/BertSum](https://github.com/nlpyang/BertSum) - Code for paper Fine-tune BERT for Extractive Summarization
 - [dmmiller612/bert-extractive-summarizer](https://github.com/dmmiller612/bert-extractive-summarizer) - Easy to use extractive text summarization with BERT
 - [Huffon/sentence-compressor](https://github.com/Huffon/sentence-compressor) - Compress your lengthy sentence 🗜️
-- [Foldex/reflex-curses](https://github.com/Foldex/reflex-curses) - A fork of twitch-curses with added features.
 - [disappeerlabs/disappeer](https://github.com/disappeerlabs/disappeer) - A pure Python GUI app for GPG functionality and peer-to-peer encrypted messaging over Tor
 - [talwrii/i3parse](https://github.com/talwrii/i3parse) - Parser for i3wm's configuration file. Dump key-bindings.
 - [winsbe01/booki](https://github.com/winsbe01/booki) - organize your books on the command line
