@@ -238,7 +238,7 @@
 - [communi/communi-desktop](https://github.com/communi/communi-desktop) - An IRC client for desktop environments
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [kunpengcompute/hyperscan](https://github.com/kunpengcompute/hyperscan) - A high-performance regular expression matching library
-- [binex-dsk/passmanpp](https://github.com/binex-dsk/passmanpp) - passman++: A minimal password manager
+- [crueter/passmanpp](https://github.com/crueter/passmanpp) - passman++: A minimal password manager
 - [zorggomat/FractalCryptGUI](https://github.com/zorggomat/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
 - [ophiuchus2/wrongthink](https://github.com/ophiuchus2/wrongthink) - self hosted discord clone
 - [papylhomme/diskmonitor](https://github.com/papylhomme/diskmonitor) - KDE tools to monitor SMART devices and MDRaid health status
@@ -712,6 +712,7 @@
 
 ## Python 
 
+- [deltachat-bot/matterdelta](https://github.com/deltachat-bot/matterdelta) - Bridge Delta Chat with any service supported by matterbridge
 - [D4n13l3k00/tapkofon](https://github.com/D4n13l3k00/tapkofon) - Tapkofon - веб-клиент Telegram для тапиков
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
