@@ -380,7 +380,7 @@
 - [yousefvand/secret-service](https://github.com/yousefvand/secret-service) - Service to keep secrets of applications
 - [ostafen/xdcc-cli](https://github.com/ostafen/xdcc-cli) - A command line tool for searching and downloading files from the IRC network.
 - [crholm/mark](https://github.com/crholm/mark) - 
-- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny Discord app
+- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app
 - [layeh/barnard](https://github.com/layeh/barnard) - barnard is a terminal-based client for the Mumble voice chat software
 - [majestrate/XD](https://github.com/majestrate/XD) - meme bittorrent client
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
