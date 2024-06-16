@@ -1136,6 +1136,7 @@
 
 ## others 
 
+- [bivav/automate_all_social_media](https://github.com/bivav/automate_all_social_media) - Just don't want to use smartphone so will use email to see everything I need every 30 mins.
 - [maxhebditch/rss-roller](https://github.com/maxhebditch/rss-roller) - Shell script for generating and updating rss feeds
 - [Reddiepoint/userscripts](https://github.com/Reddiepoint/userscripts) - 
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
@@ -1200,7 +1201,7 @@
 - [kmein/kaikki-stardict](https://github.com/kmein/kaikki-stardict) - StarDict dictionary files, generated from Wiktionary
 - [AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST) - iPTV Free List
 - [odnar-dev/termv-rewrite](https://github.com/odnar-dev/termv-rewrite) - 
-- [mlangOS/rsh](https://github.com/mlangOS/rsh) - versioning control for a new era
+- [Mia-Rain/rsh](https://github.com/Mia-Rain/rsh) - versioning control for a new era
 - [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
 - [tylerdotrar/mkdocs-coverpage](https://github.com/tylerdotrar/mkdocs-coverpage) - Customizable cover page for an MkDocs site.
 - [aarora79/my-reading-list](https://github.com/aarora79/my-reading-list) - Books I have read or want to read.
