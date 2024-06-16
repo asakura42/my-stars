@@ -712,6 +712,7 @@
 
 ## Python 
 
+- [bivav/automate_all_social_media](https://github.com/bivav/automate_all_social_media) - Just don't want to use smartphone so will use email to see everything I need every 30 mins.
 - [deltachat-bot/matterdelta](https://github.com/deltachat-bot/matterdelta) - Bridge Delta Chat with any service supported by matterbridge
 - [D4n13l3k00/tapkofon](https://github.com/D4n13l3k00/tapkofon) - Tapkofon - веб-клиент Telegram для тапиков
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
@@ -1056,7 +1057,7 @@
 - [loiccoyle/rofi-cuff](https://github.com/loiccoyle/rofi-cuff) - 🔎 Rofi wrapper for cuff. Use the Jackett search API to find torrents.
 - [NapoleonWils0n/ffmpeg-scripts](https://github.com/NapoleonWils0n/ffmpeg-scripts) - ffmpeg shell scripts
 - [odnar-dev/termv-rewrite](https://github.com/odnar-dev/termv-rewrite) - 
-- [mlangOS/rsh](https://github.com/mlangOS/rsh) - versioning control for a new era
+- [Mia-Rain/rsh](https://github.com/Mia-Rain/rsh) - versioning control for a new era
 - [Ajatt-Tools/twimm](https://github.com/Ajatt-Tools/twimm) - Tool for watching twitch broadcasts in a desired language (and a bit more)
 - [Ajatt-Tools/impd](https://github.com/Ajatt-Tools/impd) - 🍵 AJATT-style passive listening and condensed audio without bloat.
 - [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
