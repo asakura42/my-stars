@@ -29,6 +29,7 @@
 - [config](#config)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -429,6 +430,11 @@
 ## cryptocurrency 
 
 - [banhao/CoinBasePro-Trading-Simulator](https://github.com/banhao/CoinBasePro-Trading-Simulator) - You can define your own trade conditions and by running CoinBasePro Trading Simulator to verify the conditions.
+
+## cryptography 
+
+- [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
+- [zorggomat/FractalCryptGUI](https://github.com/zorggomat/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
 
 ## csharp 
 
