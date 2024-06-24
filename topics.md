@@ -380,7 +380,7 @@
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [en9inerd/tgeraser](https://github.com/en9inerd/tgeraser) - Tool to delete all your messages from chat/channel/conversation on Telegram without requiring admin privileges
 - [zix99/rare](https://github.com/zix99/rare) - Realtime regex-extraction and aggregation into common CLI formats such as histograms, bar graphs, numerical summaries, tables, and more!
-- [kdeldycke/mail-deduplicate](https://github.com/kdeldycke/mail-deduplicate) - 📧 CLI to deduplicate mails from mail boxes.
+- [kdeldycke/mail-deduplicate](https://github.com/kdeldycke/mail-deduplicate) - 📧 CLI to deduplicate mails from mail boxes
 - [KenjiTakahashi/td](https://github.com/KenjiTakahashi/td) - a non-offensive, per project ToDo manager.
 - [s-p-k/foxy](https://github.com/s-p-k/foxy) - A simple script that handles bookmarks stored in a txt file.
 - [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
@@ -1882,7 +1882,7 @@
 - [rwandaPinocle/Liszt](https://github.com/rwandaPinocle/Liszt) - A personal organization software with a script engine for automation
 - [en9inerd/tgeraser](https://github.com/en9inerd/tgeraser) - Tool to delete all your messages from chat/channel/conversation on Telegram without requiring admin privileges
 - [daGrevis/mdx_linkify](https://github.com/daGrevis/mdx_linkify) - Link recognition for Python Markdown
-- [kdeldycke/mail-deduplicate](https://github.com/kdeldycke/mail-deduplicate) - 📧 CLI to deduplicate mails from mail boxes.
+- [kdeldycke/mail-deduplicate](https://github.com/kdeldycke/mail-deduplicate) - 📧 CLI to deduplicate mails from mail boxes
 - [KenjiTakahashi/td](https://github.com/KenjiTakahashi/td) - a non-offensive, per project ToDo manager.
 - [MilesCranmer/gso](https://github.com/MilesCranmer/gso) - 🏃  Google StackOverflow in Vim. Copy-pastes the code directly in your script.
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
