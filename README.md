@@ -675,7 +675,7 @@
 - [shinovon/mpgram-web](https://github.com/shinovon/mpgram-web) - Lightweight telegram web client based on MadelineProto
 - [AndiDittrich/dns-adblock](https://github.com/AndiDittrich/dns-adblock) - PHP based Converter to create dnsmasq and unbound compatible adblock lists
 - [kostyan-org/ip-list-generator-by-country](https://github.com/kostyan-org/ip-list-generator-by-country) - CLI utility | IP ranges by country | qBittorrent
-- [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A page to generate your own self-hosted linktree alternative
+- [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A simple, free, open-source, and self-hosted alternative to linktree
 - [jzohrab/lute](https://github.com/jzohrab/lute) - DEPRECATED: LUTE (Learning Using Texts) is a self-hosted web app for learning language through reading, based on Learning with Texts (LWT)
 - [usemoslinux/aprelendo](https://github.com/usemoslinux/aprelendo) - Learn vocabulary while reading
 - [DanWin/hosting](https://github.com/DanWin/hosting) - This is a setup for a Tor based shared web hosting server
