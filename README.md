@@ -189,6 +189,7 @@
 
 ## C++ 
 
+- [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [mvsjober/yasa](https://github.com/mvsjober/yasa) - yasa is a program that aligns two translations of a text sentence by sentence in order to produce a bi-text
 - [wydengyre/hunalign](https://github.com/wydengyre/hunalign) - 
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
