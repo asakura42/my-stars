@@ -869,7 +869,7 @@
 
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
-- [crispinprojects/talkcalendar](https://github.com/crispinprojects/talkcalendar) - Personal calendar for Linux with some speech capability
+- [crispinprojects/talkcalendar](https://github.com/crispinprojects/talkcalendar) - Talking calendar (original version) using built-in word concatenation speech synthesizer
 - [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
 - [Ajatt-Tools/dictpopup](https://github.com/Ajatt-Tools/dictpopup) - Looks up selected (Japanese) text in your Yomichan dictionaries and displays the result as a popup.
 - [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
