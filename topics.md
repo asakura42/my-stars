@@ -276,7 +276,7 @@
 ## bash 
 
 - [Ajatt-Tools/impd](https://github.com/Ajatt-Tools/impd) - 🍵 AJATT-style passive listening and condensed audio without bloat.
-- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram tookit written in Golang
+- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 - [M0Rf30/shisper](https://github.com/M0Rf30/shisper) - A quick & dirty script to generate and view subtitles and transcriptions for your multimedia files using ggerganov/whisper.cpp
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
@@ -869,7 +869,7 @@
 
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
-- [crispinprojects/talkcalendar](https://github.com/crispinprojects/talkcalendar) - Talking calendar (original version) using built-in word concatenation speech synthesizer
+- [crispinprojects/talkcalendar-original](https://github.com/crispinprojects/talkcalendar-original) - Talking calendar (original version) using built-in word concatenation speech synthesizer
 - [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
 - [Ajatt-Tools/dictpopup](https://github.com/Ajatt-Tools/dictpopup) - Looks up selected (Japanese) text in your Yomichan dictionaries and displays the result as a popup.
 - [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
@@ -2120,7 +2120,7 @@
 - [NotStatilko/tgbox-cli](https://github.com/NotStatilko/tgbox-cli) - CLI interface to the TGBOX
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file 
 - [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei/telegram-configs-collector) - The Script Gathers Juicity, Hysteria, Tuic, Vless, Vmess, Trojan, and Shadowsocks Configurations From Telegram Channels and Subscription Links
-- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram tookit written in Golang
+- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 - [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - [Migrated to self-hosted ari-web Forgejo: https://git.ari.lt/ari/arigram] A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
 - [evgeny-nadymov/telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
