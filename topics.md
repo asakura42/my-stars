@@ -1717,7 +1717,6 @@
 - [rls-moe/nyx](https://github.com/rls-moe/nyx) - A simple imageboard with no javascript or dependencies written in Go
 - [coyove/chann](https://github.com/coyove/chann) - Chann is an anonymous imageboard written in C/C++
 - [dnbrakk/comfy](https://github.com/dnbrakk/comfy) - Comfy is a console application for browsing imageboards. It supports mouse input and can display images.
-- [vxiiduu/picochan](https://github.com/vxiiduu/picochan) - Fast JS-free imageboard engine in LuaJIT using SQLite
 - [aizenbit/Scribbler](https://github.com/aizenbit/Scribbler) - A program that creates handwritten text from a typed text by simulating user's own handwriting
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [LukeSmithxyz/vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate Bible on the Command Line
