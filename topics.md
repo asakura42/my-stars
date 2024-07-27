@@ -1694,7 +1694,7 @@
 - [inflex/ripMIME](https://github.com/inflex/ripMIME) - MIME/email package decoder
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [LukeSmithxyz/st](https://github.com/LukeSmithxyz/st) - Luke's fork of the suckless simple terminal (st) with vim bindings and Xresource compatibility.
-- [textbrowser/spot-on](https://github.com/textbrowser/spot-on) - Complexity is beautiful. Anywhere, anyone. AMD, ARM, Alpha, PowerPC, Sparc64, etc. Completed.
+- [textbrowser/spot-on](https://github.com/textbrowser/spot-on) - Complexity is beautiful. Anyware, everyone. Completed.
 - [textbrowser/smoke](https://github.com/textbrowser/smoke) - In a burning world, there will always be Smoke. Completed.
 - [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
 - [bpeel/notbit](https://github.com/bpeel/notbit) - A minimal Bitmessage client
