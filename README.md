@@ -272,7 +272,7 @@
 - [blueprint-freespeech/ricochet-refresh](https://github.com/blueprint-freespeech/ricochet-refresh) - Anonymous peer-to-peer instant messaging
 - [nwg-piotr/nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - GTK-based launchers: application grid, button bar, dmenu for sway and other window managers
 - [qTox/qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
-- [textbrowser/spot-on](https://github.com/textbrowser/spot-on) - Complexity is beautiful. Anywhere, anyone. AMD, ARM, Alpha, PowerPC, Sparc64, etc. Completed.
+- [textbrowser/spot-on](https://github.com/textbrowser/spot-on) - Complexity is beautiful. Anyware, everyone. Completed.
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 - [dnbrakk/comfy](https://github.com/dnbrakk/comfy) - Comfy is a console application for browsing imageboards. It supports mouse input and can display images.
 - [aizenbit/Scribbler](https://github.com/aizenbit/Scribbler) - A program that creates handwritten text from a typed text by simulating user's own handwriting
