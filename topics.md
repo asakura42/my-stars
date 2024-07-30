@@ -379,7 +379,7 @@
 - [MattMoony/figaro](https://github.com/MattMoony/figaro) - Real-time voice-changer for voice-chat, etc. Will support many different voice-filters and features in the future. 🎵
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [en9inerd/tgeraser](https://github.com/en9inerd/tgeraser) - Tool to delete all your messages from chat/channel/conversation on Telegram without requiring admin privileges
-- [zix99/rare](https://github.com/zix99/rare) - Realtime regex-extraction and aggregation into common CLI formats such as histograms, bar graphs, numerical summaries, tables, and more!
+- [zix99/rare](https://github.com/zix99/rare) - Create console histograms, bar graphs, tables, heatmaps and more in realtime using regex and expressions.
 - [kdeldycke/mail-deduplicate](https://github.com/kdeldycke/mail-deduplicate) - 📧 CLI to deduplicate mails from mail boxes
 - [KenjiTakahashi/td](https://github.com/KenjiTakahashi/td) - a non-offensive, per project ToDo manager.
 - [s-p-k/foxy](https://github.com/s-p-k/foxy) - A simple script that handles bookmarks stored in a txt file.
@@ -1497,7 +1497,6 @@
 - [unifiMynet/dnsmasqAdBlock](https://github.com/unifiMynet/dnsmasqAdBlock) - Dnsmasq based Ad blocking for UBNT equipment (USG, ER-X, etc.) - should work on any dnsmasq instance
 - [lixingcong/dnsmasq-regex](https://github.com/lixingcong/dnsmasq-regex) - dnsmasq with regex match module(libpcre v8.45, the older version)
 - [bottomless-archive-project/library-of-alexandria](https://github.com/bottomless-archive-project/library-of-alexandria) - Library of Alexandria (LoA in short) is a project that aims to collect and archive documents from the internet.
-- [jakedolan443/ytrake](https://github.com/jakedolan443/ytrake) - Audio playlist downloader with full metadata support
 - [nuetoban/gardener](https://github.com/nuetoban/gardener) - Creates directory tree from provided yaml
 - [gcmt/mktree](https://github.com/gcmt/mktree) - Simple tool for creating directory trees in one shot
 - [tosone/IOCCC](https://github.com/tosone/IOCCC) - IOCCC International Obfuscated C code contest entries http://www.ioccc.org
