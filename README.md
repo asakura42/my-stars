@@ -399,7 +399,7 @@
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
 - [3bl3gamer/tg_history_dumper](https://github.com/3bl3gamer/tg_history_dumper) - Exports messages and media from Telegram dialogs, groups and channels
 - [catatsuy/lls](https://github.com/catatsuy/lls) - you can get a list of files in a directory that contains a large number of files
-- [zix99/rare](https://github.com/zix99/rare) - Realtime regex-extraction and aggregation into common CLI formats such as histograms, bar graphs, numerical summaries, tables, and more!
+- [zix99/rare](https://github.com/zix99/rare) - Create console histograms, bar graphs, tables, heatmaps and more in realtime using regex and expressions.
 - [ajaxray/geek-life](https://github.com/ajaxray/geek-life) - The Todo List / Task Manager for Geeks in command line
 - [novus0rdo/e2eirc](https://github.com/novus0rdo/e2eirc) - E2EIRC allows you to create end to end encrpyted chat rooms on Regular (Unmodified) IRC servers and your favorite IRC client.
 - [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
@@ -861,7 +861,6 @@
 - [MattMoony/figaro](https://github.com/MattMoony/figaro) - Real-time voice-changer for voice-chat, etc. Will support many different voice-filters and features in the future. 🎵
 - [lyrebird-voice-changer/lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - 🦜 Simple and powerful voice changer for Linux, written with Python & GTK
 - [setnicka/ulozto-downloader](https://github.com/setnicka/ulozto-downloader) - EOL - end of life | Uloz.to quick multiple sessions downloader
-- [jakedolan443/ytrake](https://github.com/jakedolan443/ytrake) - Audio playlist downloader with full metadata support
 - [gcmt/mktree](https://github.com/gcmt/mktree) - Simple tool for creating directory trees in one shot
 - [elektito/ih2torrent](https://github.com/elektito/ih2torrent) - Create a trackerless torrent file from an infohash.
 - [xi/xiwal](https://github.com/xi/xiwal) - Generate terminal color schemes
