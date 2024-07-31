@@ -1143,7 +1143,7 @@
 - [sayan01/scripts](https://github.com/sayan01/scripts) - scripts
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [ChipCE/Smartphone-tablet-as-second-monitor-for-linux](https://github.com/ChipCE/Smartphone-tablet-as-second-monitor-for-linux) - Use android as second monitor for linux
-- [joestandring/dwm-bar](https://github.com/joestandring/dwm-bar) - A modular statusbar for dwm
+- [hollystandring/dwm-bar](https://github.com/hollystandring/dwm-bar) - A modular statusbar for dwm
 - [cfenollosa/feedtube](https://github.com/cfenollosa/feedtube) - A feed video downloader for Youtube
 - [MarcMilany/archmy_2020](https://github.com/MarcMilany/archmy_2020) - В процессе тестирования Install Linux Legacy BIOS and Uefi
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
