@@ -82,7 +82,7 @@
 
 ## C 
 
-- [crispinprojects/talkcalendar-original](https://github.com/crispinprojects/talkcalendar-original) - Talking calendar (original version) using built-in word concatenation speech synthesizer
+- [crispinprojects/talkcalendar](https://github.com/crispinprojects/talkcalendar) - Talking calendar (original version) using built-in word concatenation speech synthesizer
 - [Ajatt-Tools/dictpopup](https://github.com/Ajatt-Tools/dictpopup) - Looks up selected (Japanese) text in your Yomichan dictionaries and displays the result as a popup.
 - [krzysckh/mpvq](https://github.com/krzysckh/mpvq) - tui playlist manager for mpv.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
@@ -250,7 +250,7 @@
 - [EntireTwix/Prioritize](https://github.com/EntireTwix/Prioritize) - just a quick test program as I mess around with imgui, although thats not to say this program lacks utility for simple task prioritization.
 - [gavv/tagberry](https://github.com/gavv/tagberry) - Tag-oriented Qt5 desktop calendar, task manager, and todo list.
 - [MaximeAeva/TheEfficientGuy](https://github.com/MaximeAeva/TheEfficientGuy) - An embedded project management tool based on Qt & sqlite.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.2: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.3: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [mypasswordisqwerty/zipsync](https://github.com/mypasswordisqwerty/zipsync) - Sync zip &lt;-&gt; dir
 - [Monthy/gr-lida](https://github.com/Monthy/gr-lida) - Front-End para DOSBox, ScummVM y VDMSound
 - [yuxshao/ptcollab](https://github.com/yuxshao/ptcollab) - A collaborative piano-roll music sequencer!
