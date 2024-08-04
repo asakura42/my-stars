@@ -82,7 +82,7 @@
 
 ## C 
 
-- [crispinprojects/talkcalendar](https://github.com/crispinprojects/talkcalendar) - Talk Calendar is a personal desktop calendar for Linux which has some speech capability using a built-in speech synthesizer.
+- [crispinprojects/talkcalendar](https://github.com/crispinprojects/talkcalendar) - Talk Calendar is a personal desktop calendar for Linux which has speech capability using a built-in text-to-speech synthesizer.
 - [Ajatt-Tools/dictpopup](https://github.com/Ajatt-Tools/dictpopup) - Looks up selected (Japanese) text in your Yomichan dictionaries and displays the result as a popup.
 - [krzysckh/mpvq](https://github.com/krzysckh/mpvq) - tui playlist manager for mpv.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
