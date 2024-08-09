@@ -15,6 +15,7 @@
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
+- [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Earthly](#earthly)
@@ -304,6 +305,10 @@
 - [stumpwm/stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager
 - [lewis-weinberger/cprl](https://github.com/lewis-weinberger/cprl) - a cyberpunk roguelike game
 
+## D 
+
+- [Inochi2D/inochi2d](https://github.com/Inochi2D/inochi2d) - Inochi2D SDK - Bring your characters to life
+
 ## Dart 
 
 - [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
@@ -334,7 +339,6 @@
 
 ## GLSL 
 
-- [Inochi2D/inochi2d](https://github.com/Inochi2D/inochi2d) - Inochi2D reference implementation aimed at rendering 2D puppets that can be animated in real-time (using eg. facial capture).
 - [hl2guide/better-mpv-config](https://github.com/hl2guide/better-mpv-config) - An improved MPV Media Player v3 configuration file.
 
 ## Go 
