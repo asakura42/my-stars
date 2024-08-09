@@ -1185,7 +1185,7 @@
 - [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - A protocol handler for mpv. Use mpv and yt-dlp to play video and music from the websites.
 - [asakura42/rp4](https://github.com/asakura42/rp4) - simple python replacement for the bloated LLM frontends
 - [ShadoySV/work-break](https://github.com/ShadoySV/work-break) - Work-break balancer for Windows / MacOS / Linux desktops
-- [Inochi2D/inochi2d](https://github.com/Inochi2D/inochi2d) - Inochi2D reference implementation aimed at rendering 2D puppets that can be animated in real-time (using eg. facial capture).
+- [Inochi2D/inochi2d](https://github.com/Inochi2D/inochi2d) - Inochi2D SDK - Bring your characters to life
 - [krzysckh/mpvq](https://github.com/krzysckh/mpvq) - tui playlist manager for mpv.
 - [Nidelon/ru-block-v2ray-rules](https://github.com/Nidelon/ru-block-v2ray-rules) - Список заблокированных сайтов в России для xray или других маршрутизаторов трафика. List of blocked sites in Russia for xray or other traffic routers.
 - [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
