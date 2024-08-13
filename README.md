@@ -343,6 +343,7 @@
 
 ## Go 
 
+- [b1ek/bshchk](https://github.com/b1ek/bshchk) - 
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
 - [rusq/wipemychat](https://github.com/rusq/wipemychat) - Deletes your messages for everyone in Public and Private Telegram chats (group chats).
 - [0xInception/ppxity](https://github.com/0xInception/ppxity) - ppxity is a command-line tool that allows you to interact with the Perplexity Labs (unofficial) API
@@ -982,6 +983,7 @@
 
 ## Rust 
 
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
 - [eras/mxrxtx](https://github.com/eras/mxrxtx) - Transfer files over Matrix, directly from client to client with WebRTC.
 - [mikedilger/gossip](https://github.com/mikedilger/gossip) - Gossip is a nostr client
 - [aisamanra/rrecutils](https://github.com/aisamanra/rrecutils) - A pure Rust implementation of the GNU Recutils format
