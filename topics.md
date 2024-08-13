@@ -275,6 +275,7 @@
 
 ## bash 
 
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
 - [Ajatt-Tools/impd](https://github.com/Ajatt-Tools/impd) - 🍵 AJATT-style passive listening and condensed audio without bloat.
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 - [M0Rf30/shisper](https://github.com/M0Rf30/shisper) - A quick & dirty script to generate and view subtitles and transcriptions for your multimedia files using ggerganov/whisper.cpp
@@ -1145,6 +1146,7 @@
 
 ## others 
 
+- [b1ek/bshchk](https://github.com/b1ek/bshchk) - 
 - [bivav/automate_all_social_media](https://github.com/bivav/automate_all_social_media) - Just don't want to use smartphone so will use email to see everything I need every 30 mins.
 - [maxhebditch/rss-roller](https://github.com/maxhebditch/rss-roller) - Shell script for generating and updating rss feeds
 - [Reddiepoint/userscripts](https://github.com/Reddiepoint/userscripts) - 
