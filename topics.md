@@ -385,7 +385,7 @@
 - [kdeldycke/mail-deduplicate](https://github.com/kdeldycke/mail-deduplicate) - 📧 CLI to deduplicate mails from mail boxes
 - [KenjiTakahashi/td](https://github.com/KenjiTakahashi/td) - a non-offensive, per project ToDo manager.
 - [s-p-k/foxy](https://github.com/s-p-k/foxy) - A simple script that handles bookmarks stored in a txt file.
-- [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
+- [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Easily switch between your git profiles
 - [fabianonline/telegram.sh](https://github.com/fabianonline/telegram.sh) - Send telegram messages right from your command line.
 - [mterron/swuniq](https://github.com/mterron/swuniq) - A command-line tool for deduplicating entries in a file or stream with constant memory usage
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
@@ -415,7 +415,7 @@
 - [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei/telegram-configs-collector) - The Script Gathers Juicity, Hysteria, Tuic, Vless, Vmess, Trojan, and Shadowsocks Configurations From Telegram Channels and Subscription Links
 - [hl2guide/better-mpv-config](https://github.com/hl2guide/better-mpv-config) - An improved MPV Media Player v3 configuration file.
 - [jonathanpoelen/dotfiles](https://github.com/jonathanpoelen/dotfiles) - My configuration files (zsh, urxvt, i3, mpv, ...)
-- [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
+- [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Easily switch between your git profiles
 
 ## cpp 
 
@@ -633,7 +633,7 @@
 
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
+- [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Easily switch between your git profiles
 
 ## github 
 
@@ -741,7 +741,7 @@
 - [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
+- [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Easily switch between your git profiles
 - [PlaidWeb/Publ](https://github.com/PlaidWeb/Publ) - Flexible publishing system for the web
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
