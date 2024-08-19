@@ -1151,6 +1151,7 @@
 
 ## others 
 
+- [seth-js/yomichan-es](https://github.com/seth-js/yomichan-es) - A Spanish hover dictionary. It's a modified version of Yomichan that works with Spanish (Castilian).
 - [b1ek/bshchk](https://github.com/b1ek/bshchk) - 
 - [bivav/automate_all_social_media](https://github.com/bivav/automate_all_social_media) - Just don't want to use smartphone so will use email to see everything I need every 30 mins.
 - [maxhebditch/rss-roller](https://github.com/maxhebditch/rss-roller) - Shell script for generating and updating rss feeds
