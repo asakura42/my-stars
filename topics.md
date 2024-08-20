@@ -1210,7 +1210,7 @@
 - [Ajatt-Tools/rdricpp](https://github.com/Ajatt-Tools/rdricpp) - 🍔 Rikaitan Deinflector Reference Implementation in C++.
 - [fildpauz/vocab-lists](https://github.com/fildpauz/vocab-lists) - A list of vocabulary lists
 - [Slamsneider/SingleTom](https://github.com/Slamsneider/SingleTom) - A GPT tool (client) using OpenAI's API
-- [tinyx3k/c0d3bl0ck-obsidian](https://github.com/tinyx3k/c0d3bl0ck-obsidian) - 
+- [lovmoon3k/c0d3bl0ck-obsidian](https://github.com/lovmoon3k/c0d3bl0ck-obsidian) - 
 - [dvds1151/AR-TV](https://github.com/dvds1151/AR-TV) - 
 - [osirislab/LeakyPastes-V2](https://github.com/osirislab/LeakyPastes-V2) - Looking at what people post to public pastebins
 - [yIsus-mEx/AF1CIONADOS](https://github.com/yIsus-mEx/AF1CIONADOS) - 
@@ -2007,6 +2007,7 @@
 
 ## rust 
 
+- [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [ulyssa/iamb](https://github.com/ulyssa/iamb) - A Matrix client for Vim addicts
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [iphands/rust_tray](https://github.com/iphands/rust_tray) - Simple tray utils in rust
