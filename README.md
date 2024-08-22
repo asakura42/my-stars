@@ -81,7 +81,7 @@
 
 ## C 
 
-- [crispinprojects/talkcalendar](https://github.com/crispinprojects/talkcalendar) - Talk Calendar is a personal desktop calendar for Linux which has speech capability using a built-in text-to-speech synthesizer.
+- [crispinprojects/talkcalendar](https://github.com/crispinprojects/talkcalendar) - Talk Calendar is a personal desktop calendar for Linux which has speech capability using a built-in speech engine.
 - [Ajatt-Tools/dictpopup](https://github.com/Ajatt-Tools/dictpopup) - Looks up selected (Japanese) text in your Yomichan dictionaries and displays the result as a popup.
 - [krzysckh/mpvq](https://github.com/krzysckh/mpvq) - tui playlist manager for mpv.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
@@ -93,6 +93,7 @@
 - [dowobeha/Gale_and_Church_1993](https://github.com/dowobeha/Gale_and_Church_1993) - Bilingual sentence aligner (Gale & Church, 1993)
 - [mlj/castget](https://github.com/mlj/castget) - A simple, command-line based RSS enclosure downloader, primarily intended for automatic, unattended downloading of podcasts.
 - [bakkeby/st-flexipatch](https://github.com/bakkeby/st-flexipatch) - An st build with preprocessor directives to decide which patches to include during build time
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [nichujie/zathura-txt](https://github.com/nichujie/zathura-txt) - A zathura plugin to open plain text files.
 - [Dudemanguy/vmn](https://github.com/Dudemanguy/vmn) - Simplistic cli music player built on mpv and curses
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
@@ -213,7 +214,6 @@
 - [SwagSoftware/Kisak-Strike](https://github.com/SwagSoftware/Kisak-Strike) - 100% Open Source CSGO
 - [teriflix/scrite](https://github.com/teriflix/scrite) - Crossplatform Screenwriting Software
 - [feather-wallet/feather](https://github.com/feather-wallet/feather) - A free and open-source Monero desktop wallet.
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
