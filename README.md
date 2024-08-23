@@ -81,7 +81,7 @@
 
 ## C 
 
-- [crispinprojects/talkcalendar](https://github.com/crispinprojects/talkcalendar) - Talk Calendar is a personal desktop calendar for Linux which has speech capability using a built-in speech engine.
+- [crispinprojects/talkcalendar](https://github.com/crispinprojects/talkcalendar) - Talk Calendar is a personal desktop calendar for Linux which has some speech capability using a built-in speech engine.
 - [Ajatt-Tools/dictpopup](https://github.com/Ajatt-Tools/dictpopup) - Looks up selected (Japanese) text in your Yomichan dictionaries and displays the result as a popup.
 - [krzysckh/mpvq](https://github.com/krzysckh/mpvq) - tui playlist manager for mpv.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
@@ -1101,7 +1101,7 @@
 - [raember/arch-install](https://github.com/raember/arch-install) - A handy script to shorten the time to install Arch Linux
 - [gomesdigital/airplonk](https://github.com/gomesdigital/airplonk) - Plonk stuff around your local net.
 - [OpenSourceImageFolder/OSIF](https://github.com/OpenSourceImageFolder/OSIF) - The Open Source Image Folder Project
-- [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
+- [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Simple, native and efficient local ad blocker. Only Bash.
 - [unifiMynet/dnsmasqAdBlock](https://github.com/unifiMynet/dnsmasqAdBlock) - Dnsmasq based Ad blocking for UBNT equipment (USG, ER-X, etc.) - should work on any dnsmasq instance
 - [lixingcong/dnsmasq-regex](https://github.com/lixingcong/dnsmasq-regex) - dnsmasq with regex match module(libpcre v8.45, the older version)
 - [kibook/1436chan](https://github.com/kibook/1436chan) - Gopher textboard
