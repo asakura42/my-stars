@@ -622,7 +622,7 @@
 - [successfulstudy/promptoftheyear](https://github.com/successfulstudy/promptoftheyear) - In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the y
 - [michmech/lemmatization-lists](https://github.com/michmech/lemmatization-lists) - Machine-readable lists of lemma-token pairs in 23 languages.
 - [AdmTal/chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - Prompts for playable games in ChatGPT
-- [antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) - Bypass check if user has a real microsoft account linked with the Minecraft Launchers PrismLauncher, Prism Launcher, Poly MC or PolyMC
+- [antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) - Bypass check if user has a real Microsoft MSA account linked with the Minecraft Launchers PrismLauncher, Prism Launcher
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [jianzhnie/awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) - A Survey on Text-to-Video Generation/Synthesis.
 - [ccd0/imageboards.json](https://github.com/ccd0/imageboards.json) - List of imageboards in JSON format.
