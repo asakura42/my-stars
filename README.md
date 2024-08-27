@@ -1034,7 +1034,7 @@
 - [sanpii/effitask](https://github.com/sanpii/effitask) - Graphical task manager, based on the todo.txt format.
 - [megabytesofrem/aurora](https://github.com/megabytesofrem/aurora) - Probably the worlds smallest AUR helper.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [jonhoo/buzz](https://github.com/jonhoo/buzz) - A simple system tray application for notifying about unseen e-mail
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
