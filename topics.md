@@ -20,6 +20,7 @@
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
@@ -329,6 +330,13 @@
 - [madeso/euphoria](https://github.com/madeso/euphoria) - data driven "game engine"
 - [qTox/qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
 
+## chatbot 
+
+- [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [noway/diy-llm-bot](https://github.com/noway/diy-llm-bot) - Compare a generic GPT-3 based chatbot with ChatGPT
+- [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
+
 ## chatgpt 
 
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
@@ -382,7 +390,7 @@
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - An mpc-like interface to control mpv from the terminal + extra goodies 🚀
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A music player in POSIX sh(1) to control mpv from the terminal + extra goodies 🚀
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [hardcore-sushi/doby](https://github.com/hardcore-sushi/doby) - Secure symmetric encryption from the command line.
 - [8go/matrix-commander](https://github.com/8go/matrix-commander) - simple but convenient CLI-based Matrix client app for sending and receiving
@@ -996,7 +1004,7 @@
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.9+) and Qt 5 (5.15) for cros
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - An mpc-like interface to control mpv from the terminal + extra goodies 🚀
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A music player in POSIX sh(1) to control mpv from the terminal + extra goodies 🚀
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
 - [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file-transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between any devices that run Photon.
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
@@ -2163,7 +2171,7 @@
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - An mpc-like interface to control mpv from the terminal + extra goodies 🚀
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A music player in POSIX sh(1) to control mpv from the terminal + extra goodies 🚀
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
 - [foxfriends/paper-terminal](https://github.com/foxfriends/paper-terminal) - Print Markdown to a paper in your terminal
