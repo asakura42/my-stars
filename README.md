@@ -284,7 +284,6 @@
 ## CSS 
 
 - [jhunschejones/Texthooker-Local](https://github.com/jhunschejones/Texthooker-Local) - An improved version of https://texthooker.com that also runs offline!
-- [Ajatt-Tools/AnkiNoteTypes](https://github.com/Ajatt-Tools/AnkiNoteTypes) - 🍉 A collection of note types for Anki 2.1
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 - [gustavklopp/LingL](https://github.com/gustavklopp/LingL) - clone of lingq to learn new language
 - [mullr/jawt](https://github.com/mullr/jawt) - Japanese With Texts
@@ -444,6 +443,7 @@
 - [averkij/a-studio](https://github.com/averkij/a-studio) - Lingtrain Alignment Studio is an ML based app for texts alignment on different languages. It can produce parallel corpora and parallel books.
 - [jsmsj/GPT4](https://github.com/jsmsj/GPT4) - UI for gpt4 and gpt3.5 Run and use for free while it lasts. [Forefront, theb.ai, poe, you, phind, bard]
 - [r4victor/syncabook](https://github.com/r4victor/syncabook) - 📖🎧 A tool for creating ebooks with synchronized text and audio (EPUB3 with Media Overlays)
+- [Ajatt-Tools/AnkiNoteTypes](https://github.com/Ajatt-Tools/AnkiNoteTypes) - 🍉 A collection of note types for Anki 2.1
 - [tatsumoto-ren/matrix](https://github.com/tatsumoto-ren/matrix) - Sort public Matrix servers.
 - [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
 - [OleVik/localized-readability](https://github.com/OleVik/localized-readability) - Generate readability statistics with localized options.
