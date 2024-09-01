@@ -347,9 +347,9 @@
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
-- [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive
+- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Telegram Drive
 - [tgragnato/magnetico](https://github.com/tgragnato/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite
-- [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file 
+- [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr
 - [xxf098/LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest) - A simple tool for batch test ss/ssr/v2ray/trojan servers.
 - [phuslu/iploc](https://github.com/phuslu/iploc) - Fastest IP To Country Library
 - [jpillora/media-sort](https://github.com/jpillora/media-sort) - Automatically organise your movies and tv series
@@ -612,7 +612,7 @@
 
 ## Others 
 
-- [hstsethi/awesome-j2me](https://github.com/hstsethi/awesome-j2me) - List about everything related to J2ME, a Java specification for old keypad phones and PDAs.
+- [hstsethi/awesome-j2me](https://github.com/hstsethi/awesome-j2me) - Awesome list about everything related to J2ME, a Java specification for old keypad phones and PDAs.
 - [Nidelon/ru-block-v2ray-rules](https://github.com/Nidelon/ru-block-v2ray-rules) - Список заблокированных сайтов в России для xray или других маршрутизаторов трафика. List of blocked sites in Russia for xray or other traffic routers.
 - [fildpauz/vocab-lists](https://github.com/fildpauz/vocab-lists) - A list of vocabulary lists
 - [saturn99/open-film-server](https://github.com/saturn99/open-film-server) - سروهایی که باز هستند و فیلم و موسیقی هستند رو لیست میکنم
