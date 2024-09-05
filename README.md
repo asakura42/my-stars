@@ -613,6 +613,7 @@
 
 ## Others 
 
+- [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
 - [hstsethi/awesome-j2me](https://github.com/hstsethi/awesome-j2me) - Awesome list about everything related to J2ME, a Java specification for old keypad phones and PDAs.
 - [Nidelon/ru-block-v2ray-rules](https://github.com/Nidelon/ru-block-v2ray-rules) - Список заблокированных сайтов в России для xray или других маршрутизаторов трафика. List of blocked sites in Russia for xray or other traffic routers.
 - [fildpauz/vocab-lists](https://github.com/fildpauz/vocab-lists) - A list of vocabulary lists
@@ -667,7 +668,6 @@
 - [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [mozumder/HTML6](https://github.com/mozumder/HTML6) - An HTML6 proposal for single-page apps without Javascript.
 
 ## PHP 
@@ -1072,7 +1072,7 @@
 - [Breaeth/Opensub-cli](https://github.com/Breaeth/Opensub-cli) - A cli tools for auto download opensubtitles.org subtitles !
 - [KevCui/opensubtitles-dl](https://github.com/KevCui/opensubtitles-dl) - Download subtitles from opensubtitles.org
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A music player in POSIX sh(1) to control mpv from the terminal + extra goodies 🚀
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A shell script player to control mpv from the terminal + extras/goodies 🚀.
 - [Ratakor/quand](https://github.com/Ratakor/quand) - Simple calendar written in POSIX sh
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
