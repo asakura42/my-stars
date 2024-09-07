@@ -390,6 +390,7 @@
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
 - [gmt4/mpvc](https://github.com/gmt4/mpvc) - A shell script player to control mpv from the terminal + extras/goodies 🚀.
+- [Ratakor/quand](https://github.com/Ratakor/quand) - Simple calendar written in POSIX sh
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [hardcore-sushi/doby](https://github.com/hardcore-sushi/doby) - Secure symmetric encryption from the command line.
 - [8go/matrix-commander](https://github.com/8go/matrix-commander) - simple but convenient CLI-based Matrix client app for sending and receiving
@@ -1386,7 +1387,6 @@
 - [td512/RcloneBrowser](https://github.com/td512/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [HamletDuFromage/4chan-mass-reply](https://github.com/HamletDuFromage/4chan-mass-reply) - Easy mass replies on 4channel.org
 - [drunohazarb/4chan-captcha-solver](https://github.com/drunohazarb/4chan-captcha-solver) - 
-- [Ratakor/quand](https://github.com/Ratakor/quand) - Simple calendar written in POSIX sh
 - [mgudemann/sct](https://github.com/mgudemann/sct) - Change screen color temperature and brightness using the Xrandr extension
 - [Ajatt-Tools/transformers_ocr](https://github.com/Ajatt-Tools/transformers_ocr) - 🍤 An OCR tool using maim with Transformers.
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
