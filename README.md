@@ -1073,7 +1073,7 @@
 - [Breaeth/Opensub-cli](https://github.com/Breaeth/Opensub-cli) - A cli tools for auto download opensubtitles.org subtitles !
 - [KevCui/opensubtitles-dl](https://github.com/KevCui/opensubtitles-dl) - Download subtitles from opensubtitles.org
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A shell script player to control mpv from the terminal + extras/goodies 🚀.
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A shell script player to control mpv from the terminal + extras/goodies 🚀
 - [Ratakor/quand](https://github.com/Ratakor/quand) - Simple calendar written in POSIX sh
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
@@ -1188,6 +1188,7 @@
 
 ## TypeScript 
 
+- [sussy-code/providers](https://github.com/sussy-code/providers) - Providers and sources for sudo-flix
 - [internetfiles/tpp](https://github.com/internetfiles/tpp) - TPP
 - [sussy-code/smov](https://github.com/sussy-code/smov) - Sudo-flix's source code (Allegedly)
 - [skgupta507/rive-next](https://github.com/skgupta507/rive-next) - Rive is a cutting-edge, ad-free platform for streaming/downloading movies and TV shows online. Your Personal Streaming Oasis
