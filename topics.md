@@ -1391,7 +1391,7 @@
 - [Dudemanguy/vmn](https://github.com/Dudemanguy/vmn) - Simplistic cli music player built on mpv and curses
 - [nzilbb/spanishphonology](https://github.com/nzilbb/spanishphonology) - Rule-based phonemic transcription of Spanish words, ported to Java and Javascript from spanish-pronunciation-rules-php
 - [TALP-UPC/saga](https://github.com/TALP-UPC/saga) - SAGA - Phonetic transcription software for all Spanish variants.
-- [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - Archive and catalog the world for today's and tomorrow's generations! Available almost everyware. Completed?
+- [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - Archive and catalog the world for today's and tomorrow's generations! Awesome and everyware.
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [td512/RcloneBrowser](https://github.com/td512/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [HamletDuFromage/4chan-mass-reply](https://github.com/HamletDuFromage/4chan-mass-reply) - Easy mass replies on 4channel.org
@@ -1875,6 +1875,7 @@
 
 ## python 
 
+- [TheSpeedX/socker](https://github.com/TheSpeedX/socker) - Checks SOCKS Proxy List To find Working Proxies
 - [D4n13l3k00/tapkofon](https://github.com/D4n13l3k00/tapkofon) - Tapkofon - веб-клиент Telegram для тапиков
 - [kra-mo/hyperplane](https://github.com/kra-mo/hyperplane) - A non-hierarchical file manager
 - [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
