@@ -218,7 +218,7 @@
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
-- [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - Archive and catalog the world for today's and tomorrow's generations! Available almost everyware. Completed?
+- [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - Archive and catalog the world for today's and tomorrow's generations! Awesome and everyware.
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [td512/RcloneBrowser](https://github.com/td512/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
@@ -712,6 +712,7 @@
 
 ## Python 
 
+- [TheSpeedX/socker](https://github.com/TheSpeedX/socker) - Checks SOCKS Proxy List To find Working Proxies
 - [bivav/automate_all_social_media](https://github.com/bivav/automate_all_social_media) - Just don't want to use smartphone so will use email to see everything I need every 30 mins.
 - [deltachat-bot/matterdelta](https://github.com/deltachat-bot/matterdelta) - Bridge Delta Chat with any service supported by matterbridge
 - [D4n13l3k00/tapkofon](https://github.com/D4n13l3k00/tapkofon) - Tapkofon - веб-клиент Telegram для тапиков
