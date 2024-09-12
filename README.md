@@ -339,6 +339,8 @@
 
 ## Go 
 
+- [nfx/slrp](https://github.com/nfx/slrp) - rotating open proxy multiplexer
+- [kitabisa/mubeng](https://github.com/kitabisa/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
 - [b1ek/bshchk](https://github.com/b1ek/bshchk) - 
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
 - [rusq/wipemychat](https://github.com/rusq/wipemychat) - Deletes your messages for everyone in Public and Private Telegram chats (group chats).
@@ -712,6 +714,7 @@
 
 ## Python 
 
+- [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [TheSpeedX/socker](https://github.com/TheSpeedX/socker) - Checks SOCKS Proxy List To find Working Proxies
 - [bivav/automate_all_social_media](https://github.com/bivav/automate_all_social_media) - Just don't want to use smartphone so will use email to see everything I need every 30 mins.
 - [deltachat-bot/matterdelta](https://github.com/deltachat-bot/matterdelta) - Bridge Delta Chat with any service supported by matterbridge
@@ -724,7 +727,6 @@
 - [pemistahl/lingua-py](https://github.com/pemistahl/lingua-py) - The most accurate natural language detection library for Python, suitable for short text and mixed-language text
 - [kra-mo/hyperplane](https://github.com/kra-mo/hyperplane) - A non-hierarchical file manager
 - [linuxmint/jargonaut](https://github.com/linuxmint/jargonaut) - Easy to use Chat Room application
-- [j2qk3b/AnyBT](https://github.com/j2qk3b/AnyBT) - A tool for searching magnet link of all kinds of BitTorrent contents.
 - [dobrosketchkun/bionic-reading-epub-converter](https://github.com/dobrosketchkun/bionic-reading-epub-converter) - Convert your epub book into the bionic reading text formatting
 - [chrisspen/punctuator2](https://github.com/chrisspen/punctuator2) - A bidirectional recurrent neural network model with attention mechanism for restoring missing punctuation in unsegmented text
 - [ottokart/punctuator2](https://github.com/ottokart/punctuator2) - A bidirectional recurrent neural network model with attention mechanism for restoring missing punctuation in unsegmented text
