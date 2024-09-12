@@ -15,9 +15,11 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [aws](#aws)
 - [bash](#bash)
 - [bitcoin](#bitcoin)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chatbot](#chatbot)
@@ -276,6 +278,10 @@
 - [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting) - A curated list of amazingly awesome open source resources related to broadcast technologies
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 
+## aws 
+
+- [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
+
 ## bash 
 
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
@@ -308,6 +314,10 @@
 - [deltachat-bot/matterdelta](https://github.com/deltachat-bot/matterdelta) - Bridge Delta Chat with any service supported by matterbridge
 - [wsdjeg/vim-chat](https://github.com/wsdjeg/vim-chat) - :purple_heart: Chatting client for neovim/vim8
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
+
+## bugbounty 
+
+- [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 
 ## c 
 
@@ -691,6 +701,7 @@
 
 ## golang 
 
+- [nfx/slrp](https://github.com/nfx/slrp) - rotating open proxy multiplexer
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Telegram Drive
 - [tkancf/rofi-snippet](https://github.com/tkancf/rofi-snippet) - Text expander for linux to be integrated with rofi
@@ -736,6 +747,7 @@
 
 ## hacktoberfest 
 
+- [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [txtsd/archosaur](https://github.com/txtsd/archosaur) - A PKGBUILD management framework for the Arch User Repository
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
@@ -1175,6 +1187,7 @@
 
 ## others 
 
+- [kitabisa/mubeng](https://github.com/kitabisa/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
 - [sussy-code/providers](https://github.com/sussy-code/providers) - Providers and sources for sudo-flix
 - [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
 - [internetfiles/tpp](https://github.com/internetfiles/tpp) - TPP
@@ -1196,7 +1209,6 @@
 - [aisamanra/rrecutils](https://github.com/aisamanra/rrecutils) - A pure Rust implementation of the GNU Recutils format
 - [christian-korneck/tinytodo](https://github.com/christian-korneck/tinytodo) - a most minimal todo list in the shell
 - [linuxmint/jargonaut](https://github.com/linuxmint/jargonaut) - Easy to use Chat Room application
-- [j2qk3b/AnyBT](https://github.com/j2qk3b/AnyBT) - A tool for searching magnet link of all kinds of BitTorrent contents.
 - [dobrosketchkun/bionic-reading-epub-converter](https://github.com/dobrosketchkun/bionic-reading-epub-converter) - Convert your epub book into the bionic reading text formatting
 - [dobrosketchkun/after_the_gates_2025](https://github.com/dobrosketchkun/after_the_gates_2025) - An artistic exploration of a world transformed the emergence of portals to dangerous dimensions and people with awakened abilities.
 - [chrisspen/punctuator2](https://github.com/chrisspen/punctuator2) - A bidirectional recurrent neural network model with attention mechanism for restoring missing punctuation in unsegmented text
@@ -2067,6 +2079,7 @@
 
 ## security 
 
+- [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) - Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
