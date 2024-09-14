@@ -513,7 +513,6 @@
 - [deadinsky/js-pngtuber](https://github.com/deadinsky/js-pngtuber) - A slightly more complicated pngtuber made from JS
 - [ButzYung/SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline) - XR Animator, AI-based Full Body Motion Capture and Extended Reality (XR) solution, powered by System Animator Online
 - [Automattic/VU-VRM](https://github.com/Automattic/VU-VRM) - Lip-sync VRM avatar client for zero-webcam mic-based vtubing
-- [mghlb/listak](https://github.com/mghlb/listak) - Save lists from IMDB and Letterboxd as CSV files.
 - [liuyug/flask-mdict](https://github.com/liuyug/flask-mdict) - Flask Mdict Server. Query word online with MDICT dictionary
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [mcthulhu/jorkens](https://github.com/mcthulhu/jorkens) - epub reader based on epub.js for foreign language learners
