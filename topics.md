@@ -1312,7 +1312,6 @@
 - [Xeelix/phind-regger](https://github.com/Xeelix/phind-regger) - Simple automated registration at phind.com with cloudflare bypass using python selenium.
 - [akkana/crikey](https://github.com/akkana/crikey) - Crikey! A program to generate typed key events on Linux
 - [boi4/subextractor](https://github.com/boi4/subextractor) - Autogenerate subtitles using vosk speech recognition
-- [mghlb/listak](https://github.com/mghlb/listak) - Save lists from IMDB and Letterboxd as CSV files.
 - [caitlinhenry14/Letterboxd-Scraper](https://github.com/caitlinhenry14/Letterboxd-Scraper) - Download Letterboxd lists as CSV files
 - [rareitems/anki.nvim](https://github.com/rareitems/anki.nvim) - Neovim plugin that allows creation of Anki cards directly from neovim
 - [klieret/AnkiPandas](https://github.com/klieret/AnkiPandas) - Analyze and manipulate your Anki collection using pandas! 🌠🐼
