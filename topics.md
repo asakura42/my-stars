@@ -192,6 +192,7 @@
 
 ## android 
 
+- [Belluxx/Java2Smali](https://github.com/Belluxx/Java2Smali) - This tool converts java code to smali
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille) - 📲🚫 Block unwanted calls effortlessly. Supports regex. wildcard and open-source bans-lists. Fork of YetAnotherCallBlocker.
 - [Relorer/Edokuri](https://github.com/Relorer/Edokuri) - Edokuri is a foreign book reader that assists in memorizing words and phrases.
@@ -846,6 +847,7 @@
 
 ## java 
 
+- [Belluxx/Java2Smali](https://github.com/Belluxx/Java2Smali) - This tool converts java code to smali
 - [hstsethi/awesome-j2me](https://github.com/hstsethi/awesome-j2me) - Awesome list about everything related to J2ME, a Java specification for old keypad phones and PDAs.
 - [DmytroNorth/Automated_Subtitles_Generation-Regex_Java](https://github.com/DmytroNorth/Automated_Subtitles_Generation-Regex_Java) - An automated workflow that generates timestamped subtitles from a video file with custom control using regex, Java and multiple online tools.
 - [BenHerbst/idaesbasic](https://github.com/BenHerbst/idaesbasic) - Idaesbasic - An all in one project manager that stores everything in files directly into your project! 🤯
@@ -1188,6 +1190,7 @@
 
 ## others 
 
+- [ftde0/yt2009](https://github.com/ftde0/yt2009) - 2009 youtube frontend.
 - [kitabisa/mubeng](https://github.com/kitabisa/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
 - [sussy-code/providers](https://github.com/sussy-code/providers) - Providers and sources for sudo-flix
 - [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
@@ -2040,6 +2043,7 @@
 
 ## reverse-engineering 
 
+- [Belluxx/Java2Smali](https://github.com/Belluxx/Java2Smali) - This tool converts java code to smali
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for linux games
 
