@@ -181,6 +181,7 @@
 
 ## ai 
 
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [FujiwaraChoki/NotesTaker](https://github.com/FujiwaraChoki/NotesTaker) - A webapp to take notes during class.
@@ -193,6 +194,7 @@
 
 ## android 
 
+- [Merrit/adventure_list](https://github.com/Merrit/adventure_list) - Todo list that syncs to all your devices
 - [Belluxx/Java2Smali](https://github.com/Belluxx/Java2Smali) - This tool converts java code to smali
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille) - 📲🚫 Block unwanted calls effortlessly. Supports regex. wildcard and open-source bans-lists. Fork of YetAnotherCallBlocker.
@@ -372,6 +374,7 @@
 
 ## chrome 
 
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [s-p-k/foxy](https://github.com/s-p-k/foxy) - A simple script that handles bookmarks stored in a txt file.
@@ -387,6 +390,7 @@
 
 ## cli 
 
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [kostyan-org/ip-list-generator-by-country](https://github.com/kostyan-org/ip-list-generator-by-country) - CLI utility | IP ranges by country | qBittorrent
 - [NotStatilko/tgbox-cli](https://github.com/NotStatilko/tgbox-cli) - CLI interface to the TGBOX
@@ -449,6 +453,7 @@
 
 ## cpp 
 
+- [nuttyartist/daino-notes-public](https://github.com/nuttyartist/daino-notes-public) - Write beautifully. Effortlessly. A note-taking app written in Qt C++ and QML.
 - [Emanem/nettop](https://github.com/Emanem/nettop) - Utility to show network traffic (both TCP and UDP v4 and v6) split by process and remote host
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
 - [floe/backscrub](https://github.com/floe/backscrub) - Virtual Video Device for Background Replacement with Deep Semantic Segmentation
@@ -483,6 +488,7 @@
 
 ## dart 
 
+- [Merrit/adventure_list](https://github.com/Merrit/adventure_list) - Todo list that syncs to all your devices
 - [Kaiteki-Fedi/Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 
@@ -579,6 +585,7 @@
 
 ## firefox 
 
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
 - [Alex313031/Mercury](https://github.com/Alex313031/Mercury) - Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and GNU IceCat.
 - [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
@@ -600,6 +607,7 @@
 
 ## flutter 
 
+- [Merrit/adventure_list](https://github.com/Merrit/adventure_list) - Todo list that syncs to all your devices
 - [Relorer/Edokuri](https://github.com/Relorer/Edokuri) - Edokuri is a foreign book reader that assists in memorizing words and phrases.
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 - [Kaiteki-Fedi/Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere
@@ -703,6 +711,7 @@
 
 ## golang 
 
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [nfx/slrp](https://github.com/nfx/slrp) - rotating open proxy multiplexer
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Telegram Drive
@@ -882,6 +891,7 @@
 
 ## kotlin 
 
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [evilcorpltd/aTox](https://github.com/evilcorpltd/aTox) - Reasonable Tox client for Android
@@ -914,6 +924,8 @@
 
 ## linux 
 
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
+- [Merrit/adventure_list](https://github.com/Merrit/adventure_list) - Todo list that syncs to all your devices
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
@@ -1049,6 +1061,8 @@
 
 ## markdown 
 
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
+- [nuttyartist/daino-notes-public](https://github.com/nuttyartist/daino-notes-public) - Write beautifully. Effortlessly. A note-taking app written in Qt C++ and QML.
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
@@ -1201,6 +1215,8 @@
 
 ## others 
 
+- [BenWiederhake/tdlib-purple](https://github.com/BenWiederhake/tdlib-purple) - libpurple Telegram plugin using tdlib
+- [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
 - [ftde0/yt2009](https://github.com/ftde0/yt2009) - 2009 youtube frontend.
 - [kitabisa/mubeng](https://github.com/kitabisa/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
 - [sussy-code/providers](https://github.com/sussy-code/providers) - Providers and sources for sudo-flix
@@ -1998,6 +2014,7 @@
 
 ## qt 
 
+- [nuttyartist/daino-notes-public](https://github.com/nuttyartist/daino-notes-public) - Write beautifully. Effortlessly. A note-taking app written in Qt C++ and QML.
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
@@ -2093,6 +2110,7 @@
 
 ## security 
 
+- [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
@@ -2316,6 +2334,8 @@
 
 ## windows 
 
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
+- [Merrit/adventure_list](https://github.com/Merrit/adventure_list) - Todo list that syncs to all your devices
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
