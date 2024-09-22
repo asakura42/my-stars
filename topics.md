@@ -340,6 +340,7 @@
 
 ## c-plus-plus 
 
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [madeso/euphoria](https://github.com/madeso/euphoria) - data driven "game engine"
 - [qTox/qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
@@ -453,7 +454,6 @@
 
 ## cpp 
 
-- [nuttyartist/daino-notes-public](https://github.com/nuttyartist/daino-notes-public) - Write beautifully. Effortlessly. A note-taking app written in Qt C++ and QML.
 - [Emanem/nettop](https://github.com/Emanem/nettop) - Utility to show network traffic (both TCP and UDP v4 and v6) split by process and remote host
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
 - [floe/backscrub](https://github.com/floe/backscrub) - Virtual Video Device for Background Replacement with Deep Semantic Segmentation
@@ -1061,8 +1061,8 @@
 
 ## markdown 
 
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
-- [nuttyartist/daino-notes-public](https://github.com/nuttyartist/daino-notes-public) - Write beautifully. Effortlessly. A note-taking app written in Qt C++ and QML.
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
@@ -1215,6 +1215,7 @@
 
 ## others 
 
+- [philippta/flyscrape](https://github.com/philippta/flyscrape) - Flyscrape is a command-line web scraping tool designed for those without advanced programming skills.
 - [BenWiederhake/tdlib-purple](https://github.com/BenWiederhake/tdlib-purple) - libpurple Telegram plugin using tdlib
 - [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
 - [ftde0/yt2009](https://github.com/ftde0/yt2009) - 2009 youtube frontend.
@@ -2014,7 +2015,7 @@
 
 ## qt 
 
-- [nuttyartist/daino-notes-public](https://github.com/nuttyartist/daino-notes-public) - Write beautifully. Effortlessly. A note-taking app written in Qt C++ and QML.
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
