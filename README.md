@@ -189,8 +189,8 @@
 
 ## C++ 
 
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [BenWiederhake/tdlib-purple](https://github.com/BenWiederhake/tdlib-purple) - libpurple Telegram plugin using tdlib
-- [nuttyartist/daino-notes-public](https://github.com/nuttyartist/daino-notes-public) - Write beautifully. Effortlessly. A note-taking app written in Qt C++ and QML.
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [mvsjober/yasa](https://github.com/mvsjober/yasa) - yasa is a program that aligns two translations of a text sentence by sentence in order to produce a bi-text
@@ -342,6 +342,7 @@
 
 ## Go 
 
+- [philippta/flyscrape](https://github.com/philippta/flyscrape) - Flyscrape is a command-line web scraping tool designed for those without advanced programming skills.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [nfx/slrp](https://github.com/nfx/slrp) - rotating open proxy multiplexer
