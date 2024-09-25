@@ -324,6 +324,7 @@
 
 ## Dockerfile 
 
+- [developeranaz/URL-Magnet-Cloud-Uploader-Heroku](https://github.com/developeranaz/URL-Magnet-Cloud-Uploader-Heroku) - Aria 2 Rclone Remote URL /magnet Clouds upload via HEROKU
 - [jsz4n/lwt-docker](https://github.com/jsz4n/lwt-docker) - Learning With Texts with Docker
 - [WhyNotHugo/docker-makepkg](https://github.com/WhyNotHugo/docker-makepkg) - A Docker image that builds a PKGBUILD.
 
@@ -446,6 +447,7 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [lovmoon3k/c0d3bl0ck-obsidian](https://github.com/lovmoon3k/c0d3bl0ck-obsidian) - 
+- [saturn99/open-film-server](https://github.com/saturn99/open-film-server) - سروهایی که باز هستند و فیلم و موسیقی هستند رو لیست میکنم
 - [tylerdotrar/mkdocs-coverpage](https://github.com/tylerdotrar/mkdocs-coverpage) - Customizable cover page for an MkDocs site.
 - [aarora79/my-reading-list](https://github.com/aarora79/my-reading-list) - Books I have read or want to read.
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
@@ -628,7 +630,6 @@
 - [hstsethi/awesome-j2me](https://github.com/hstsethi/awesome-j2me) - Awesome list about everything related to J2ME, a Java specification for old keypad phones and PDAs.
 - [Nidelon/ru-block-v2ray-rules](https://github.com/Nidelon/ru-block-v2ray-rules) - Список заблокированных сайтов в России для xray или других маршрутизаторов трафика. List of blocked sites in Russia for xray or other traffic routers.
 - [fildpauz/vocab-lists](https://github.com/fildpauz/vocab-lists) - A list of vocabulary lists
-- [saturn99/open-film-server](https://github.com/saturn99/open-film-server) - سروهایی که باز هستند و فیلم و موسیقی هستند رو لیست میکنم
 - [dvds1151/AR-TV](https://github.com/dvds1151/AR-TV) - 
 - [yIsus-mEx/AF1CIONADOS](https://github.com/yIsus-mEx/AF1CIONADOS) - 
 - [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
@@ -723,6 +724,8 @@
 
 ## Python 
 
+- [milahu/annas-archive-torrent-client](https://github.com/milahu/annas-archive-torrent-client) - download individual files from annas-archive over bittorrent
+- [qtchaos/py_mega_account_generator](https://github.com/qtchaos/py_mega_account_generator) - 🤖 Create and manage MEGA accounts with ease, upload and share files.
 - [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [TheSpeedX/socker](https://github.com/TheSpeedX/socker) - Checks SOCKS Proxy List To find Working Proxies
@@ -1064,6 +1067,7 @@
 
 ## Shell 
 
+- [peterpt/IPTV-CHECK](https://github.com/peterpt/IPTV-CHECK) - A script to check if the links in an iptv list file (m3u) are online or offline , and will create an output m3u file with valid urls only  .
 - [maxhebditch/rss-roller](https://github.com/maxhebditch/rss-roller) - Shell script for generating and updating rss feeds
 - [173duprot/harm-less](https://github.com/173duprot/harm-less) - Inspired by suckless and cat-v, this is a simple single document wiki of suckless practices and minimal software.
 - [christian-korneck/tinytodo](https://github.com/christian-korneck/tinytodo) - a most minimal todo list in the shell
@@ -1201,6 +1205,7 @@
 
 ## TypeScript 
 
+- [bookracy/frontend](https://github.com/bookracy/frontend) - Frontend for Bookracy
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
 - [sussy-code/providers](https://github.com/sussy-code/providers) - Providers and sources for sudo-flix
 - [internetfiles/tpp](https://github.com/internetfiles/tpp) - TPP
