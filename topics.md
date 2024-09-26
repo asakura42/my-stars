@@ -1282,7 +1282,7 @@
 - [barry-far/V2ray-Configs](https://github.com/barry-far/V2ray-Configs) - 🛰️✨ Free V2ray Configs , Updating Every 10 minutes.
 - [deadYokai/yapng](https://github.com/deadYokai/yapng) - Yet Another PNGTuber
 - [Gemmstone/PyNGtuber](https://github.com/Gemmstone/PyNGtuber) - PNGtuber software made in Python and HTML
-- [shouya/malakal](https://github.com/shouya/malakal) - a day-planner/calendar app based on egui
+- [shouya/malakal](https://github.com/shouya/malakal) - Minimalistic day-planner app
 - [StefanVukovic99/yezichak](https://github.com/StefanVukovic99/yezichak) - Pop-up dictionary extension for Chrome and Firefox.
 - [jpillora/media-sort](https://github.com/jpillora/media-sort) - Automatically organise your movies and tv series
 - [Ajatt-Tools/rdricpp](https://github.com/Ajatt-Tools/rdricpp) - 🍔 Rikaitan Deinflector Reference Implementation in C++.
