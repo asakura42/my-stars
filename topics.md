@@ -713,6 +713,7 @@
 
 ## golang 
 
+- [aaaton/golem](https://github.com/aaaton/golem) - A lemmatizer implemented in Go
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [nfx/slrp](https://github.com/nfx/slrp) - rotating open proxy multiplexer
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
@@ -1155,6 +1156,7 @@
 
 ## nlp 
 
+- [aaaton/golem](https://github.com/aaaton/golem) - A lemmatizer implemented in Go
 - [pemistahl/lingua-py](https://github.com/pemistahl/lingua-py) - The most accurate natural language detection library for Python, suitable for short text and mixed-language text
 - [bjascob/LemmInflect](https://github.com/bjascob/LemmInflect) - A python module for English lemmatization and inflection.
 - [bjascob/pyInflect](https://github.com/bjascob/pyInflect) - A python module for word inflections designed for use with spaCy.
@@ -1218,6 +1220,9 @@
 
 ## others 
 
+- [bright-spark/x-frame-bypass](https://github.com/bright-spark/x-frame-bypass) - Web Component extending IFrame to bypass X-Frame-Options: deny/sameorigin
+- [koofr/vault](https://github.com/koofr/vault) - Koofr Vault is an open-source, client-side encrypted folder for your Koofr cloud storage offering an extra layer of security for your most sensitive files.
+- [MalcolmReed-ent/BadWolf-1.3.0](https://github.com/MalcolmReed-ent/BadWolf-1.3.0) - My deblobbed version of the BadWolf WebKitGTK browser.
 - [milahu/annas-archive-torrent-client](https://github.com/milahu/annas-archive-torrent-client) - download individual files from annas-archive over bittorrent
 - [peterpt/IPTV-CHECK](https://github.com/peterpt/IPTV-CHECK) - A script to check if the links in an iptv list file (m3u) are online or offline , and will create an output m3u file with valid urls only  .
 - [vsemozhetbyt/gls_sd_conv](https://github.com/vsemozhetbyt/gls_sd_conv) - Скрипт, конвертирующий исходные файлы .gls в словари StarDict и обратно.
