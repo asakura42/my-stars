@@ -81,6 +81,7 @@
 
 ## C 
 
+- [MalcolmReed-ent/BadWolf-1.3.0](https://github.com/MalcolmReed-ent/BadWolf-1.3.0) - My deblobbed version of the BadWolf WebKitGTK browser.
 - [crispinprojects/speakingcalendar](https://github.com/crispinprojects/speakingcalendar) - Speaking Calendar is a personal desktop calendar for Linux which has some speech capability using a built-in speech engine.
 - [Ajatt-Tools/dictpopup](https://github.com/Ajatt-Tools/dictpopup) - Looks up selected (Japanese) text in your Yomichan dictionaries and displays the result as a popup.
 - [krzysckh/mpvq](https://github.com/krzysckh/mpvq) - tui playlist manager for mpv.
@@ -343,6 +344,7 @@
 
 ## Go 
 
+- [aaaton/golem](https://github.com/aaaton/golem) - A lemmatizer implemented in Go
 - [philippta/flyscrape](https://github.com/philippta/flyscrape) - Flyscrape is a command-line web scraping tool designed for those without advanced programming skills.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
@@ -440,6 +442,7 @@
 
 ## HTML 
 
+- [bright-spark/x-frame-bypass](https://github.com/bright-spark/x-frame-bypass) - Web Component extending IFrame to bypass X-Frame-Options: deny/sameorigin
 - [athul/archie](https://github.com/athul/archie) - A minimal Hugo Theme
 - [DmytroNorth/Automated_Subtitles_Generation-Regex_Java](https://github.com/DmytroNorth/Automated_Subtitles_Generation-Regex_Java) - An automated workflow that generates timestamped subtitles from a video file with custom control using regex, Java and multiple online tools.
 - [wydengyre/bitextual](https://github.com/wydengyre/bitextual) - a tool for bilingual text alignment
@@ -997,6 +1000,7 @@
 
 ## Rust 
 
+- [koofr/vault](https://github.com/koofr/vault) - Koofr Vault is an open-source, client-side encrypted folder for your Koofr cloud storage offering an extra layer of security for your most sensitive files.
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
