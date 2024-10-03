@@ -47,6 +47,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [TeX](#tex)
@@ -70,6 +71,7 @@
 
 ## Awk 
 
+- [amitzionii/awnki](https://github.com/amitzionii/awnki) - An Anki written in awk
 - [huijunchen9260/bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk
 - [icyphox/mawkdown](https://github.com/icyphox/mawkdown) - a subset of markdown, written in awk
 - [LukeSmithxyz/vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate Bible on the Command Line
@@ -81,6 +83,7 @@
 
 ## C 
 
+- [sentinm/Chadwm-Arch](https://github.com/sentinm/Chadwm-Arch) - Chadwm installation optimized for archlinux users.
 - [MalcolmReed-ent/BadWolf-1.3.0](https://github.com/MalcolmReed-ent/BadWolf-1.3.0) - My deblobbed version of the BadWolf WebKitGTK browser.
 - [crispinprojects/speakingcalendar](https://github.com/crispinprojects/speakingcalendar) - Speaking Calendar is a personal desktop calendar for Linux which has some speech capability using a built-in speech engine.
 - [Ajatt-Tools/dictpopup](https://github.com/Ajatt-Tools/dictpopup) - Looks up selected (Japanese) text in your Yomichan dictionaries and displays the result as a popup.
@@ -510,6 +513,7 @@
 
 ## JavaScript 
 
+- [coffee-and-fun/google-profanity-words](https://github.com/coffee-and-fun/google-profanity-words) - Full list of bad words and top swear words banned by Google.
 - [vsemozhetbyt/gls_sd_conv](https://github.com/vsemozhetbyt/gls_sd_conv) - Скрипт, конвертирующий исходные файлы .gls в словари StarDict и обратно.
 - [ftde0/yt2009](https://github.com/ftde0/yt2009) - 2009 youtube frontend.
 - [seth-js/yomichan-es](https://github.com/seth-js/yomichan-es) - A Spanish hover dictionary. It's a modified version of Yomichan that works with Spanish (Castilian).
@@ -629,6 +633,7 @@
 
 ## Others 
 
+- [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
 - [hstsethi/awesome-j2me](https://github.com/hstsethi/awesome-j2me) - Awesome list about everything related to J2ME, a Java specification for old keypad phones and PDAs.
 - [Nidelon/ru-block-v2ray-rules](https://github.com/Nidelon/ru-block-v2ray-rules) - Список заблокированных сайтов в России для xray или других маршрутизаторов трафика. List of blocked sites in Russia for xray or other traffic routers.
@@ -727,6 +732,9 @@
 
 ## Python 
 
+- [StephanAkkerman/FluentAI](https://github.com/StephanAkkerman/FluentAI) - Automating language learning with the power of Artificial Intelligence. This repository presents FluentAI, a tool that combines Fluent Forever techniques with AI-driven automation. It streamlines the 
+- [arianneorpilla/DSL2JSON](https://github.com/arianneorpilla/DSL2JSON) - A script for converting DSL format dictionaries compatible with GoldenDict to the Migaku Dictionary format.
+- [FreeLanguageTools/vocabsieve](https://github.com/FreeLanguageTools/vocabsieve) - Simple sentence mining tool for language learning
 - [milahu/annas-archive-torrent-client](https://github.com/milahu/annas-archive-torrent-client) - download individual files from annas-archive over bittorrent
 - [qtchaos/py_mega_account_generator](https://github.com/qtchaos/py_mega_account_generator) - 🤖 Create and manage MEGA accounts with ease, upload and share files.
 - [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
@@ -1000,6 +1008,7 @@
 
 ## Rust 
 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [koofr/vault](https://github.com/koofr/vault) - Koofr Vault is an open-source, client-side encrypted folder for your Koofr cloud storage offering an extra layer of security for your most sensitive files.
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
@@ -1068,6 +1077,10 @@
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [karan/nojs.club](https://github.com/karan/nojs.club) - You don't need Javascript to make a beautiful, usable web. How it works: https://goel.io/nojs-club
+
+## Scala 
+
+- [msavva/transphoner](https://github.com/msavva/transphoner) - TransPhoner: Automated Mnemonic Keyword Generation
 
 ## Shell 
 
