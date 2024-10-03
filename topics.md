@@ -30,6 +30,7 @@
 - [cli](#cli)
 - [code](#code)
 - [compiler](#compiler)
+- [computer-vision](#computer-vision)
 - [config](#config)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
@@ -181,6 +182,7 @@
 
 ## ai 
 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain, open and self-hostable. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3).
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
@@ -444,6 +446,10 @@
 ## compiler 
 
 - [tategakibunko/TypeNovel](https://github.com/tategakibunko/TypeNovel) - A simple markup language to write novel with types.
+
+## computer-vision 
+
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 
 ## config 
 
@@ -753,6 +759,7 @@
 
 ## google 
 
+- [coffee-and-fun/google-profanity-words](https://github.com/coffee-and-fun/google-profanity-words) - Full list of bad words and top swear words banned by Google.
 - [MilesCranmer/gso](https://github.com/MilesCranmer/gso) - 🏃  Google StackOverflow in Vim. Copy-pastes the code directly in your script.
 
 ## graphql 
@@ -903,6 +910,8 @@
 
 ## language 
 
+- [StephanAkkerman/FluentAI](https://github.com/StephanAkkerman/FluentAI) - Automating language learning with the power of Artificial Intelligence. This repository presents FluentAI, a tool that combines Fluent Forever techniques with AI-driven automation. It streamlines the 
+- [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [nramos0/fluent-reader](https://github.com/nramos0/fluent-reader) - Language learning app similar to https://lingq.com/, but open source and free written in Typescript and Rust. Supports English and Chinese.
 - [usemoslinux/aprelendo](https://github.com/usemoslinux/aprelendo) - Learn vocabulary while reading
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
@@ -1002,6 +1011,7 @@
 
 ## llm 
 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain, open and self-hostable. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3).
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
@@ -1029,6 +1039,7 @@
 
 ## machine-learning 
 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [whoisdsmith/AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR) - An Awesome Collection of AI Resources, MTHRFCKR!
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [tategakibunko/TypeNovel](https://github.com/tategakibunko/TypeNovel) - A simple markup language to write novel with types.
@@ -1220,6 +1231,10 @@
 
 ## others 
 
+- [amitzionii/awnki](https://github.com/amitzionii/awnki) - An Anki written in awk
+- [msavva/transphoner](https://github.com/msavva/transphoner) - TransPhoner: Automated Mnemonic Keyword Generation
+- [sentinm/Chadwm-Arch](https://github.com/sentinm/Chadwm-Arch) - Chadwm installation optimized for archlinux users.
+- [arianneorpilla/DSL2JSON](https://github.com/arianneorpilla/DSL2JSON) - A script for converting DSL format dictionaries compatible with GoldenDict to the Migaku Dictionary format.
 - [bright-spark/x-frame-bypass](https://github.com/bright-spark/x-frame-bypass) - Web Component extending IFrame to bypass X-Frame-Options: deny/sameorigin
 - [koofr/vault](https://github.com/koofr/vault) - Koofr Vault is an open-source, client-side encrypted folder for your Koofr cloud storage offering an extra layer of security for your most sensitive files.
 - [MalcolmReed-ent/BadWolf-1.3.0](https://github.com/MalcolmReed-ent/BadWolf-1.3.0) - My deblobbed version of the BadWolf WebKitGTK browser.
@@ -1928,6 +1943,7 @@
 
 ## python 
 
+- [FreeLanguageTools/vocabsieve](https://github.com/FreeLanguageTools/vocabsieve) - Simple sentence mining tool for language learning
 - [qtchaos/py_mega_account_generator](https://github.com/qtchaos/py_mega_account_generator) - 🤖 Create and manage MEGA accounts with ease, upload and share files.
 - [TheSpeedX/socker](https://github.com/TheSpeedX/socker) - Checks SOCKS Proxy List To find Working Proxies
 - [D4n13l3k00/tapkofon](https://github.com/D4n13l3k00/tapkofon) - Tapkofon - веб-клиент Telegram для тапиков
