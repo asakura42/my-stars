@@ -27,6 +27,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
@@ -34,6 +35,7 @@
 - [Makefile](#makefile)
 - [Nim](#nim)
 - [OCaml](#ocaml)
+- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -193,6 +195,7 @@
 
 ## C++ 
 
+- [tim-gromeyer/VoiceAssistant](https://github.com/tim-gromeyer/VoiceAssistant) - Empower Your Voice, Secure Your Privacy - Experience VoiceAssistant, Your Customizable Offline Voice Assistant!
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [BenWiederhake/tdlib-purple](https://github.com/BenWiederhake/tdlib-purple) - libpurple Telegram plugin using tdlib
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
@@ -347,6 +350,7 @@
 
 ## Go 
 
+- [wolfeidau/humanhash](https://github.com/wolfeidau/humanhash) - humanhash - make a hash more human.
 - [aaaton/golem](https://github.com/aaaton/golem) - A lemmatizer implemented in Go
 - [philippta/flyscrape](https://github.com/philippta/flyscrape) - Flyscrape is a command-line web scraping tool designed for those without advanced programming skills.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -570,6 +574,10 @@
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
 - [livingflame/simple-kanban](https://github.com/livingflame/simple-kanban) - A very lightweight kanban board
 
+## Julia 
+
+- [omlins/JustSayIt.jl](https://github.com/omlins/JustSayIt.jl) - Software and high-level API for offline, low latency and secure translation of human speech to computer commands or text on Linux, MacOS and Windows
+
 ## Jupyter Notebook 
 
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
@@ -630,6 +638,10 @@
 
 - [ChesleyTan/ascii-chat](https://github.com/ChesleyTan/ascii-chat) - A terminal-based peer-to-peer (P2P) end-to-end-encrypted (E2EE) video chat application with text messaging, written in OCaml. Supports up to 4 clients. Supports connections over internet and LAN.
 - [Perdu/wyrd](https://github.com/Perdu/wyrd) - [OLD REPO] Fixing wyrd compile issues in a modern archlinux environment
+
+## Objective-C 
+
+- [frymanofer/ReactNative_WakeWordDetection](https://github.com/frymanofer/ReactNative_WakeWordDetection) - Create any wake word, deploy on any device and operating system.
 
 ## Others 
 
@@ -732,6 +744,10 @@
 
 ## Python 
 
+- [Luzivog/Neuron](https://github.com/Luzivog/Neuron) - Personal voice assistant using Vosk for speech recognition
+- [alxpez/alts](https://github.com/alxpez/alts) - 100% free, local & offline voice assistant with speech recognition
+- [NeonGeckoCom/NeonCore](https://github.com/NeonGeckoCom/NeonCore) - Neon Core extends Mycroft core with more modular code, extended multi-user support, and more.
+- [zacharyvoase/humanhash](https://github.com/zacharyvoase/humanhash) - Human-readable digests.
 - [StephanAkkerman/FluentAI](https://github.com/StephanAkkerman/FluentAI) - Automating language learning with the power of Artificial Intelligence. This repository presents FluentAI, a tool that combines Fluent Forever techniques with AI-driven automation. It streamlines the 
 - [arianneorpilla/DSL2JSON](https://github.com/arianneorpilla/DSL2JSON) - A script for converting DSL format dictionaries compatible with GoldenDict to the Migaku Dictionary format.
 - [FreeLanguageTools/vocabsieve](https://github.com/FreeLanguageTools/vocabsieve) - Simple sentence mining tool for language learning
@@ -847,7 +863,7 @@
 - [pettarin/forced-alignment-tools](https://github.com/pettarin/forced-alignment-tools) - A collection of links and notes on forced alignment tools
 - [mgaitan/miau](https://github.com/mgaitan/miau) - Remix speeches for fun and profit
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
-- [kanjieater/SubPlz](https://github.com/kanjieater/SubPlz) - 🫴 Generate accurate subtitles from audio, align existing subs to videos, generate your own Kindle's Immersion Reading like audiobook subs 📖🎧
+- [kanjieater/SubPlz](https://github.com/kanjieater/SubPlz) - 🫴 Generate, sync, and manage subtitle files for any media; Generate your own audiobook subs similar to Kindle's Immersion Reading 📖🎧
 - [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.9+) and Qt 5 (5.15) for cros
@@ -1084,6 +1100,8 @@
 
 ## Shell 
 
+- [valorekhov/ovos-arch-linux](https://github.com/valorekhov/ovos-arch-linux) - PKGBUILD files and image scripts for OpenVoiceAssistant (OVOS)
+- [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [peterpt/IPTV-CHECK](https://github.com/peterpt/IPTV-CHECK) - A script to check if the links in an iptv list file (m3u) are online or offline , and will create an output m3u file with valid urls only  .
 - [maxhebditch/rss-roller](https://github.com/maxhebditch/rss-roller) - Shell script for generating and updating rss feeds
 - [173duprot/harm-less](https://github.com/173duprot/harm-less) - Inspired by suckless and cat-v, this is a simple single document wiki of suckless practices and minimal software.
