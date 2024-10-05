@@ -724,6 +724,7 @@
 
 ## godot 
 
+- [MudkipWorld/PNGTuber-Remix](https://github.com/MudkipWorld/PNGTuber-Remix) - An Open-source PNGTubing app based off PNGTuber+ :D
 - [virtual-puppet-project/vpuppr](https://github.com/virtual-puppet-project/vpuppr) - VTuber application made with Godot 4
 
 ## golang 
@@ -1695,7 +1696,7 @@
 - [sanpii/effitask](https://github.com/sanpii/effitask) - Graphical task manager, based on the todo.txt format.
 - [wansing/maildirfs](https://github.com/wansing/maildirfs) - A FUSE filesystem which serves a folder as a Maildir.
 - [megabytesofrem/aurora](https://github.com/megabytesofrem/aurora) - Probably the worlds smallest AUR helper.
-- [InspectorMustache/todo_blocklet](https://github.com/InspectorMustache/todo_blocklet) - A todo.txt GUI for i3blocks based on GTK
+- [Pu-Anlai/todo_blocklet](https://github.com/Pu-Anlai/todo_blocklet) - A todo.txt GUI for i3blocks based on GTK
 - [Mia-Rain/shfire](https://github.com/Mia-Rain/shfire) - Making a discord client in POSIX sh, by jumping over the gateway cause it's useless, fuck your TOS
 - [asciimoo/morty](https://github.com/asciimoo/morty) - Privacy aware web content sanitizer proxy as a service
 - [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) - A command line tool to highlight terms
