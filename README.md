@@ -342,6 +342,7 @@
 
 ## GDScript 
 
+- [MudkipWorld/PNGTuber-Remix](https://github.com/MudkipWorld/PNGTuber-Remix) - An Open-source PNGTubing app based off PNGTuber+ :D
 - [virtual-puppet-project/vpuppr](https://github.com/virtual-puppet-project/vpuppr) - VTuber application made with Godot 4
 
 ## GLSL 
@@ -940,7 +941,7 @@
 - [OpenJarbas/kaldi_spotter](https://github.com/OpenJarbas/kaldi_spotter) - wake word spotting with kaldi
 - [kitplummer/clikan](https://github.com/kitplummer/clikan) - clikan is a super simple personal kanban board that runs in a CLI
 - [AnthonyDiGirolamo/todotxt-machine](https://github.com/AnthonyDiGirolamo/todotxt-machine) - an interactive terminal based todo.txt file editor with an interface similar to mutt
-- [InspectorMustache/todo_blocklet](https://github.com/InspectorMustache/todo_blocklet) - A todo.txt GUI for i3blocks based on GTK
+- [Pu-Anlai/todo_blocklet](https://github.com/Pu-Anlai/todo_blocklet) - A todo.txt GUI for i3blocks based on GTK
 - [f1nnix/magplan](https://github.com/f1nnix/magplan) - Project management system for publishers, magazines and content creators 🗓️⏱️✍🏼
 - [timeopochin/GanTTY](https://github.com/timeopochin/GanTTY) - Project planning from the terminal
 - [sjl/t](https://github.com/sjl/t) - A command-line todo list manager for people that want to finish tasks, not organize them.  (git mirror)
