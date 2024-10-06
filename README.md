@@ -351,6 +351,7 @@
 
 ## Go 
 
+- [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [wolfeidau/humanhash](https://github.com/wolfeidau/humanhash) - humanhash - make a hash more human.
 - [aaaton/golem](https://github.com/aaaton/golem) - A lemmatizer implemented in Go
 - [philippta/flyscrape](https://github.com/philippta/flyscrape) - Flyscrape is a command-line web scraping tool designed for those without advanced programming skills.
@@ -518,6 +519,7 @@
 
 ## JavaScript 
 
+- [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [coffee-and-fun/google-profanity-words](https://github.com/coffee-and-fun/google-profanity-words) - Full list of bad words and top swear words banned by Google.
 - [vsemozhetbyt/gls_sd_conv](https://github.com/vsemozhetbyt/gls_sd_conv) - Скрипт, конвертирующий исходные файлы .gls в словари StarDict и обратно.
 - [ftde0/yt2009](https://github.com/ftde0/yt2009) - 2009 youtube frontend.
@@ -596,6 +598,7 @@
 
 ## Lua 
 
+- [4e6/mpv-reload](https://github.com/4e6/mpv-reload) - mpv plugin for automatic reloading of slow/stuck video streams
 - [occivink/mpv-gallery-view](https://github.com/occivink/mpv-gallery-view) - Gallery-view scripts for mpv
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.9+.
 - [rareitems/anki.nvim](https://github.com/rareitems/anki.nvim) - Neovim plugin that allows creation of Anki cards directly from neovim
@@ -745,6 +748,7 @@
 
 ## Python 
 
+- [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [Luzivog/Neuron](https://github.com/Luzivog/Neuron) - Personal voice assistant using Vosk for speech recognition
 - [alxpez/alts](https://github.com/alxpez/alts) - 100% free, local & offline voice assistant with speech recognition
 - [NeonGeckoCom/NeonCore](https://github.com/NeonGeckoCom/NeonCore) - Neon Core extends Mycroft core with more modular code, extended multi-user support, and more.
