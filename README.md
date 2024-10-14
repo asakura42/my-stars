@@ -432,7 +432,7 @@
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [ncarlier/readflow](https://github.com/ncarlier/readflow) - readflow is a news-reading (or read-it-later) solution focused on versatility and simplicity.
 - [SkobelevIgor/stackexchange-xml-converter](https://github.com/SkobelevIgor/stackexchange-xml-converter) - Stackexchange (e.g., stackoverflow) data dump converter from XML to CSV format.
-- [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
+- [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
 - [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
 - [modood/xmrkeygen](https://github.com/modood/xmrkeygen) - A very simple and easy to use monero(xmr) key/wallet generator.
 - [rls-moe/nyx](https://github.com/rls-moe/nyx) - A simple imageboard with no javascript or dependencies written in Go
@@ -767,7 +767,7 @@
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
 - [KenKundert/emborg](https://github.com/KenKundert/emborg) - Interactive command line interface to Borg Backup
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain, open and self-hostable. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3).
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Open and self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Access from web, obsidian, emacs,
 - [arcolinux/archlinux-tweak-tool](https://github.com/arcolinux/archlinux-tweak-tool) - 
 - [pemistahl/lingua-py](https://github.com/pemistahl/lingua-py) - The most accurate natural language detection library for Python, suitable for short text and mixed-language text
 - [kra-mo/hyperplane](https://github.com/kra-mo/hyperplane) - A non-hierarchical file manager
