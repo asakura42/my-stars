@@ -99,7 +99,6 @@
 - [dowobeha/Gale_and_Church_1993](https://github.com/dowobeha/Gale_and_Church_1993) - Bilingual sentence aligner (Gale & Church, 1993)
 - [mlj/castget](https://github.com/mlj/castget) - A simple, command-line based RSS enclosure downloader, primarily intended for automatic, unattended downloading of podcasts.
 - [bakkeby/st-flexipatch](https://github.com/bakkeby/st-flexipatch) - An st build with preprocessor directives to decide which patches to include during build time
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [nichujie/zathura-txt](https://github.com/nichujie/zathura-txt) - A zathura plugin to open plain text files.
 - [Dudemanguy/vmn](https://github.com/Dudemanguy/vmn) - Simplistic cli music player built on mpv and curses
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
@@ -224,6 +223,7 @@
 - [SwagSoftware/Kisak-Strike](https://github.com/SwagSoftware/Kisak-Strike) - 100% Open Source CSGO
 - [teriflix/scrite](https://github.com/teriflix/scrite) - Crossplatform Screenwriting Software
 - [feather-wallet/feather](https://github.com/feather-wallet/feather) - A free and open-source Monero desktop wallet.
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
@@ -747,6 +747,7 @@
 
 ## Python 
 
+- [milahu/opensubtitles-scraper](https://github.com/milahu/opensubtitles-scraper) - scrape subtitles from opensubtitles.org
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [Luzivog/Neuron](https://github.com/Luzivog/Neuron) - Personal voice assistant using Vosk for speech recognition
 - [alxpez/alts](https://github.com/alxpez/alts) - 100% free, local & offline voice assistant with speech recognition
