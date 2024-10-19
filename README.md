@@ -85,6 +85,7 @@
 
 ## C 
 
+- [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
 - [sentinm/Chadwm-Arch](https://github.com/sentinm/Chadwm-Arch) - Chadwm installation optimized for archlinux users.
 - [MalcolmReed-ent/BadWolf-1.3.0](https://github.com/MalcolmReed-ent/BadWolf-1.3.0) - My deblobbed version of the BadWolf WebKitGTK browser.
 - [crispinprojects/speakingcalendar](https://github.com/crispinprojects/speakingcalendar) - Speaking Calendar is a personal desktop calendar for Linux which has some speech capability using a built-in speech engine.
