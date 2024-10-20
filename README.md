@@ -749,6 +749,7 @@
 
 ## Python 
 
+- [s3rgeym/hh-applicant-tool](https://github.com/s3rgeym/hh-applicant-tool) - Автоматизация дейcтвий на HH.RU: отклик на подходящие вакансии, обновление всех резюме...
 - [milahu/opensubtitles-scraper](https://github.com/milahu/opensubtitles-scraper) - scrape subtitles from opensubtitles.org
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [Luzivog/Neuron](https://github.com/Luzivog/Neuron) - Personal voice assistant using Vosk for speech recognition
