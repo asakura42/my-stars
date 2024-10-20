@@ -226,6 +226,7 @@
 
 ## api 
 
+- [s3rgeym/hh-applicant-tool](https://github.com/s3rgeym/hh-applicant-tool) - Автоматизация дейcтвий на HH.RU: отклик на подходящие вакансии, обновление всех резюме...
 - [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [druidamix/Opensubtitles-downloader](https://github.com/druidamix/Opensubtitles-downloader) - Opensubtitles.com downloader using the new API.
@@ -405,6 +406,7 @@
 
 ## cli 
 
+- [s3rgeym/hh-applicant-tool](https://github.com/s3rgeym/hh-applicant-tool) - Автоматизация дейcтвий на HH.RU: отклик на подходящие вакансии, обновление всех резюме...
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [kostyan-org/ip-list-generator-by-country](https://github.com/kostyan-org/ip-list-generator-by-country) - CLI utility | IP ranges by country | qBittorrent
