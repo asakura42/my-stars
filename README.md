@@ -1109,6 +1109,7 @@
 
 ## Shell 
 
+- [ImMALWARE/bash-warp-generator](https://github.com/ImMALWARE/bash-warp-generator) - Генератор конфига Cloudflare WARP для AmneziaWG
 - [valorekhov/ovos-arch-linux](https://github.com/valorekhov/ovos-arch-linux) - PKGBUILD files and image scripts for OpenVoiceAssistant (OVOS)
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [peterpt/IPTV-CHECK](https://github.com/peterpt/IPTV-CHECK) - A script to check if the links in an iptv list file (m3u) are online or offline , and will create an output m3u file with valid urls only  .
