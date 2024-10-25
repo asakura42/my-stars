@@ -260,7 +260,7 @@
 - [EntireTwix/Prioritize](https://github.com/EntireTwix/Prioritize) - just a quick test program as I mess around with imgui, although thats not to say this program lacks utility for simple task prioritization.
 - [gavv/tagberry](https://github.com/gavv/tagberry) - Tag-oriented Qt5 desktop calendar, task manager, and todo list.
 - [MaximeAeva/TheEfficientGuy](https://github.com/MaximeAeva/TheEfficientGuy) - An embedded project management tool based on Qt & sqlite.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.5: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 7.0: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [mypasswordisqwerty/zipsync](https://github.com/mypasswordisqwerty/zipsync) - Sync zip &lt;-&gt; dir
 - [Monthy/gr-lida](https://github.com/Monthy/gr-lida) - Front-End para DOSBox, ScummVM y VDMSound
 - [yuxshao/ptcollab](https://github.com/yuxshao/ptcollab) - A collaborative piano-roll music sequencer!
@@ -585,7 +585,6 @@
 ## Jupyter Notebook 
 
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
-- [whoisdsmith/AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR) - An Awesome Collection of AI Resources, MTHRFCKR!
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 
 ## Kotlin 
