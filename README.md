@@ -85,6 +85,7 @@
 
 ## C 
 
+- [farfalleflickan/cmyflix](https://github.com/farfalleflickan/cmyflix) - cmyflix, a Netflix clone!
 - [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
 - [sentinm/Chadwm-Arch](https://github.com/sentinm/Chadwm-Arch) - Chadwm installation optimized for archlinux users.
 - [MalcolmReed-ent/BadWolf-1.3.0](https://github.com/MalcolmReed-ent/BadWolf-1.3.0) - My deblobbed version of the BadWolf WebKitGTK browser.
@@ -352,6 +353,7 @@
 
 ## Go 
 
+- [artem-russkikh/wireproxy-awg](https://github.com/artem-russkikh/wireproxy-awg) - AmneziaWG compatible wireguard client that exposes itself as a socks5 proxy
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [wolfeidau/humanhash](https://github.com/wolfeidau/humanhash) - humanhash - make a hash more human.
 - [aaaton/golem](https://github.com/aaaton/golem) - A lemmatizer implemented in Go
