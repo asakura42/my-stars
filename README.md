@@ -485,6 +485,7 @@
 
 ## Haskell 
 
+- [keithfancher/tvmv](https://github.com/keithfancher/tvmv) - Bulk-rename TV episode files with minimal fuss
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [t-wissmann/caligraph](https://github.com/t-wissmann/caligraph) - Experiments with Haskell, Remind, and Brick
 - [gfarrell/gtf.io](https://github.com/gfarrell/gtf.io) - Personal website
