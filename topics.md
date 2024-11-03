@@ -187,7 +187,7 @@
 - [Luzivog/Neuron](https://github.com/Luzivog/Neuron) - Personal voice assistant using Vosk for speech recognition
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source 24/7 screen & voice recording for the age of superintelligence
-- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy thinkers.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Build custom agents, personalized automati
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [FujiwaraChoki/NotesTaker](https://github.com/FujiwaraChoki/NotesTaker) - A webapp to take notes during class.
@@ -1096,7 +1096,7 @@
 ## markdown 
 
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
-- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy thinkers.
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
@@ -1789,7 +1789,7 @@
 - [quentinsence/mbm](https://github.com/quentinsence/mbm) - My Bookmark Manager: manage your bookmarks easily from the bash command line
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [regolith-linux/i3xrocks](https://github.com/regolith-linux/i3xrocks) - A fork of i3blocks that can read Xresources.
-- [ferru97/PyPaperBot](https://github.com/ferru97/PyPaperBot) - PyPaperBot is a Python tool for downloading scientific papers using Google Scholar, Crossref, and SciHub.
+- [ferru97/PyPaperBot](https://github.com/ferru97/PyPaperBot) - PyPaperBot is a Python tool for downloading scientific papers using Google Scholar, Crossref, SciHub, and SciDB.
 - [erezrokah/gitchi](https://github.com/erezrokah/gitchi) - Turn GitHub Pull Request Comments into a Chat
 - [cathugger/currtrack-mpd](https://github.com/cathugger/currtrack-mpd) - python script to pretty-print current mpd track on irc or terminal
 - [cathugger/mkp224o](https://github.com/cathugger/mkp224o) - vanity address generator for tor onion v3 (ed25519) hidden services
@@ -1979,6 +1979,7 @@
 
 ## python 
 
+- [kivaiko/hh-api-skills-analyst](https://github.com/kivaiko/hh-api-skills-analyst) - Скрипт по API HeadHunter собирает ключевые слова и навыки из вакансий, после выдает список самых часто упоминаемых
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [FreeLanguageTools/vocabsieve](https://github.com/FreeLanguageTools/vocabsieve) - Simple sentence mining tool for language learning
 - [qtchaos/py_mega_account_generator](https://github.com/qtchaos/py_mega_account_generator) - 🤖 Create and manage MEGA accounts with ease, upload and share files.
