@@ -980,7 +980,7 @@
 - [winsbe01/booki](https://github.com/winsbe01/booki) - organize your books on the command line
 - [kantord/i3-gnome-pomodoro](https://github.com/kantord/i3-gnome-pomodoro) - :tomato: Integrate gnome-pomodoro into i3
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [ferru97/PyPaperBot](https://github.com/ferru97/PyPaperBot) - PyPaperBot is a Python tool for downloading scientific papers using Google Scholar, Crossref, and SciHub.
+- [ferru97/PyPaperBot](https://github.com/ferru97/PyPaperBot) - PyPaperBot is a Python tool for downloading scientific papers using Google Scholar, Crossref, SciHub, and SciDB.
 - [amyreese/markdown-pp](https://github.com/amyreese/markdown-pp) - Preprocessor for Markdown files to generate a table of contents and other documentation needs
 - [cathugger/currtrack-mpd](https://github.com/cathugger/currtrack-mpd) - python script to pretty-print current mpd track on irc or terminal
 - [aaronraimist/element-themes](https://github.com/aaronraimist/element-themes) - A place to share themes for Element. PRs with new themes are welcome!
@@ -1258,7 +1258,7 @@
 ## TypeScript 
 
 - [bookracy/frontend](https://github.com/bookracy/frontend) - Frontend for Bookracy
-- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy thinkers.
 - [sussy-code/providers](https://github.com/sussy-code/providers) - Providers and sources for sudo-flix
 - [internetfiles/tpp](https://github.com/internetfiles/tpp) - TPP
 - [sussy-code/smov](https://github.com/sussy-code/smov) - Sudo-flix's source code (Allegedly)
