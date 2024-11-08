@@ -516,7 +516,7 @@
 - [sergeyCodenameOne/UberEatsClone](https://github.com/sergeyCodenameOne/UberEatsClone) - Grub is an UberEats clone. A full-featured cross-platform food delivery app template in Java/Kotlin for Android, iOS, Desktop & Web.
 - [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
 - [MaLeLabTs/RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) - This project contains the source code of a tool for generating regular expressions for text extraction:  1. automatically, 2. based only on examples of the desired behavior, 3. without any external hi
-- [kalli-st/conversations](https://github.com/kalli-st/conversations) - 
+- [kalli-st/conversations](https://github.com/kalli-st/conversations) - UMANTAINED SEE: https://gt.kalli.st/czar/fnord
 - [pixelstuermer/img2excel](https://github.com/pixelstuermer/img2excel) - Convert images into Excel files :rocket:
 - [betaiotazeta/AutoShiftPlanner](https://github.com/betaiotazeta/AutoShiftPlanner) - Auto Shift Planner is a user-friendly desktop application that can design detailed employees shift schedules and solve them automatically while meeting the maximum satisfaction of constraints.
 - [tboegi/GpsMaster](https://github.com/tboegi/GpsMaster) - 
@@ -781,7 +781,7 @@
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
 - [KenKundert/emborg](https://github.com/KenKundert/emborg) - Interactive command line interface to Borg Backup
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [arcolinux/archlinux-tweak-tool](https://github.com/arcolinux/archlinux-tweak-tool) - 
 - [pemistahl/lingua-py](https://github.com/pemistahl/lingua-py) - The most accurate natural language detection library for Python, suitable for short text and mixed-language text
 - [kra-mo/hyperplane](https://github.com/kra-mo/hyperplane) - A non-hierarchical file manager
