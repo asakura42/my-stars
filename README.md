@@ -270,7 +270,7 @@
 - [madeso/euphoria](https://github.com/madeso/euphoria) - data driven "game engine"
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure
-- [Ponywka/MultiMC5-with-offline](https://github.com/Ponywka/MultiMC5-with-offline) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
+- [golandprog/MultiMC5-with-offline](https://github.com/golandprog/MultiMC5-with-offline) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [Warsow/qfusion](https://github.com/Warsow/qfusion) - Source code for cross-platform OpenGL gaming engine
 - [ikskuh/kristall](https://github.com/ikskuh/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [byronknoll/cmix](https://github.com/byronknoll/cmix) - cmix is a lossless data compression program aimed at optimizing compression ratio at the cost of high CPU/memory usage.
@@ -437,7 +437,6 @@
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [ncarlier/readflow](https://github.com/ncarlier/readflow) - readflow is a news-reading (or read-it-later) solution focused on versatility and simplicity.
 - [SkobelevIgor/stackexchange-xml-converter](https://github.com/SkobelevIgor/stackexchange-xml-converter) - Stackexchange (e.g., stackoverflow) data dump converter from XML to CSV format.
-- [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
 - [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
 - [modood/xmrkeygen](https://github.com/modood/xmrkeygen) - A very simple and easy to use monero(xmr) key/wallet generator.
 - [rls-moe/nyx](https://github.com/rls-moe/nyx) - A simple imageboard with no javascript or dependencies written in Go
@@ -1303,6 +1302,7 @@
 - [benawad/vsinder](https://github.com/benawad/vsinder) - Dating App for VSCode
 - [TheYarin/ShellPiper](https://github.com/TheYarin/ShellPiper) - ShellPiper is an editor for writing long pipe one-liners in the shell
 - [erezrokah/gitchi](https://github.com/erezrokah/gitchi) - Turn GitHub Pull Request Comments into a Chat
+- [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
 - [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TypeScript and TensorFlow.js.
 
 ## Typst 
