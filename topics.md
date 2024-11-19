@@ -1771,7 +1771,7 @@
 - [graysky2/newsboat_custom_stuff](https://github.com/graysky2/newsboat_custom_stuff) - Hacky shell scripts to generate RSS feeds on the fly for newsboat
 - [zserge/tray](https://github.com/zserge/tray) - Cross-platform, super tiny C99 implementation of a system tray icon with a popup menu.
 - [jonhoo/mktrayicon](https://github.com/jonhoo/mktrayicon) - Create system tray icons by writing to a pipe
-- [Ponywka/MultiMC5-with-offline](https://github.com/Ponywka/MultiMC5-with-offline) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
+- [golandprog/MultiMC5-with-offline](https://github.com/golandprog/MultiMC5-with-offline) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [Warsow/qfusion](https://github.com/Warsow/qfusion) - Source code for cross-platform OpenGL gaming engine
 - [open-antux/DSOA](https://github.com/open-antux/DSOA) - Delete Shit On Arch
 - [rahulg/mpv-twitch-chat](https://github.com/rahulg/mpv-twitch-chat) - Read twitch.tv chat while watching VoDs with mpv.
@@ -1963,7 +1963,7 @@
 - [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
 - [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
-- [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - DNS Block Lists
+- [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - Custom DNS Block Lists
 - [R4yGM/garlicshare](https://github.com/R4yGM/garlicshare) - Private and self-hosted file sharing over the Tor network written in golang
 - [Standard-Unix-Notes/unix-notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG encrypted notebooks.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
