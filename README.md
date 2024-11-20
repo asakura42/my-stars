@@ -759,6 +759,7 @@
 
 ## Python 
 
+- [mohbattharani/LLaVA-Chef](https://github.com/mohbattharani/LLaVA-Chef) - FoodKG paper related models and results.
 - [alltheplaces/alltheplaces](https://github.com/alltheplaces/alltheplaces) - A set of spiders and scrapers to extract location information from places that post their location on the internet.
 - [kivaiko/hh-api-skills-analyst](https://github.com/kivaiko/hh-api-skills-analyst) - Скрипт по API HeadHunter собирает ключевые слова и навыки из вакансий, после выдает список самых часто упоминаемых
 - [FReak4L/warp-plus](https://github.com/FReak4L/warp-plus) - Get free WARP+ GBs in CloudFlare's 1.1.1.1!!
