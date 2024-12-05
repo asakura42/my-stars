@@ -348,6 +348,7 @@
 - [aligrudi/neatroff](https://github.com/aligrudi/neatroff) - Neatroff troff clone
 - [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 500 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
+- [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [theimpossibleastronaut/rmw](https://github.com/theimpossibleastronaut/rmw) - trashcan/recycle bin utility for the command line
 - [HerculesWS/Hercules](https://github.com/HerculesWS/Hercules) - Hercules is a collaborative software development project revolving around the creation of a robust massively multiplayer online role playing game (MMORPG) server package. Written in C, the program is 
 - [jgmenu/jgmenu](https://github.com/jgmenu/jgmenu) - An X11 menu
