@@ -1275,6 +1275,7 @@
 
 ## others 
 
+- [Zaruber/Sheetswbparser](https://github.com/Zaruber/Sheetswbparser) - 🔍 Парсер позиций товаров Wildberries в Google Sheets
 - [mohbattharani/LLaVA-Chef](https://github.com/mohbattharani/LLaVA-Chef) - FoodKG paper related models and results.
 - [joelmathewthomas/archinstall-luks2-lvm2-secureboot-tpm2](https://github.com/joelmathewthomas/archinstall-luks2-lvm2-secureboot-tpm2) - A complete Arch Linux installation guide with luks2 full disk encryption, and logical volumes with lvm2, and added security using secure boot and tpm2 luks key enrollment for auto unlocking encrypted 
 - [keithfancher/tvmv](https://github.com/keithfancher/tvmv) - Bulk-rename TV episode files with minimal fuss
