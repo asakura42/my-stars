@@ -519,7 +519,7 @@
 - [pixelstuermer/img2excel](https://github.com/pixelstuermer/img2excel) - Convert images into Excel files :rocket:
 - [betaiotazeta/AutoShiftPlanner](https://github.com/betaiotazeta/AutoShiftPlanner) - Auto Shift Planner is a user-friendly desktop application that can design detailed employees shift schedules and solve them automatically while meeting the maximum satisfaction of constraints.
 - [tboegi/GpsMaster](https://github.com/tboegi/GpsMaster) - 
-- [textbrowser/smoke](https://github.com/textbrowser/smoke) - In a burning world there will always be Smoke. Completed.
+- [textbrowser/smoke](https://github.com/textbrowser/smoke) - In a burning world, there will always be Smoke. Completed.
 
 ## JavaScript 
 
@@ -1015,7 +1015,7 @@
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [windwp/i3-master-stack](https://github.com/windwp/i3-master-stack) - I3wm master and stack layout
 - [rtrevinnoc/FUTURE](https://github.com/rtrevinnoc/FUTURE) - A private, free, open-source search engine built on a P2P network
-- [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! trunk
+- [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! desktop app development
 - [aprikyan/google-books-downloader](https://github.com/aprikyan/google-books-downloader) - An open-source utility to scrape Google Books
 - [dobrosketchkun/Not_quite_SSML_tag_editor](https://github.com/dobrosketchkun/Not_quite_SSML_tag_editor) - Wrapping my shitty tags around unreadable SSML tags
 - [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild) - A PyPI to PKGBUILD converter.
