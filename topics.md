@@ -348,7 +348,7 @@
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [aligrudi/neatroff](https://github.com/aligrudi/neatroff) - Neatroff troff clone
 - [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 500 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
-- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - :floppy_disk: The shell-like, command line terminal file manager
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [theimpossibleastronaut/rmw](https://github.com/theimpossibleastronaut/rmw) - trashcan/recycle bin utility for the command line
 - [HerculesWS/Hercules](https://github.com/HerculesWS/Hercules) - Hercules is a collaborative software development project revolving around the creation of a robust massively multiplayer online role playing game (MMORPG) server package. Written in C, the program is 
@@ -454,7 +454,7 @@
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [irevenko/koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
-- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - :floppy_disk: The shell-like, command line terminal file manager
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [mario-campos/xget](https://github.com/mario-campos/xget) - A minimal, secure, command-line XDCC client.
@@ -1119,6 +1119,7 @@
 
 ## markdown 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [boneill02/md2roff](https://github.com/boneill02/md2roff) - Markdown to roff (ms) compiler
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
@@ -1249,6 +1250,7 @@
 
 ## openai 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
@@ -1566,7 +1568,7 @@
 - [xypiie/spread0r](https://github.com/xypiie/spread0r) - spread0r is a txt reader, which makes your reading twice as fast as usual
 - [nemanjan00/uniread](https://github.com/nemanjan00/uniread) - Uniread is Spritz like CLI fast reading software.
 - [davidseegert/spritz.exe](https://github.com/davidseegert/spritz.exe) - a command line spritz application
-- [zuloo/fast](https://github.com/zuloo/fast) - An RSVP reader for the *nix command line (like more or less)
+- [jbfits/fast](https://github.com/jbfits/fast) - An RSVP reader for the *nix command line (like more or less)
 - [davidmerfield/Stroke](https://github.com/davidmerfield/Stroke) - A text editor for first drafts
 - [blackhole89/notekit](https://github.com/blackhole89/notekit) - A GTK3 hierarchical markdown notetaking application with tablet support.
 - [irislib/iris-messenger](https://github.com/irislib/iris-messenger) - Decentralized messenger
@@ -2262,7 +2264,7 @@
 - [pystardust/jsp](https://github.com/pystardust/jsp) - Json Shell Parser: A simple json parser in POSIX shell and sed
 - [pystardust/shup](https://github.com/pystardust/shup) - A POSIX shell script to parse HTML
 - [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 500 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
-- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - :floppy_disk: The shell-like, command line terminal file manager
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -2350,7 +2352,7 @@
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [irevenko/koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
-- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - :floppy_disk: The shell-like, command line terminal file manager
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
