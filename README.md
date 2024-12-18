@@ -115,7 +115,7 @@
 - [feider/zk](https://github.com/feider/zk) - Zettelkasten notekeeping software for the terminal
 - [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - An efficient, lean, and asynchronous status feed generator for dwm.
 - [davidseegert/spritz.exe](https://github.com/davidseegert/spritz.exe) - a command line spritz application
-- [zuloo/fast](https://github.com/zuloo/fast) - An RSVP reader for the *nix command line (like more or less)
+- [jbfits/fast](https://github.com/jbfits/fast) - An RSVP reader for the *nix command line (like more or less)
 - [hqwrong/minitox](https://github.com/hqwrong/minitox) - Minimal client for Tox
 - [screen-editor/se](https://github.com/screen-editor/se) - se is a screen oriented version of the classic UNIX text editor ed.
 - [kohler/gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
@@ -148,7 +148,7 @@
 - [Firemoon777/tgfs](https://github.com/Firemoon777/tgfs) - telegram attachments in FUSE filesystem
 - [mbornet-hl/hl](https://github.com/mbornet-hl/hl) - Highlight (colorize) text data using regular expressions (efficient C program)
 - [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) - A Real Time Strategy game for Linux.
-- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - :floppy_disk: The shell-like, command line terminal file manager
 - [bakkeby/dmenu-flexipatch](https://github.com/bakkeby/dmenu-flexipatch) - A dmenu build with preprocessor directives to decide which patches to include during build time
 - [brpocock/start.exe](https://github.com/brpocock/start.exe) - Launch an EXE file using DOSBox, Mono, or Wine, as appropriate
 - [vardy/aphelia](https://github.com/vardy/aphelia) - A light, single-file, minimalist window manager for X11.
@@ -761,6 +761,7 @@
 
 ## Python 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [mohbattharani/LLaVA-Chef](https://github.com/mohbattharani/LLaVA-Chef) - FoodKG paper related models and results.
 - [alltheplaces/alltheplaces](https://github.com/alltheplaces/alltheplaces) - A set of spiders and scrapers to extract location information from places that post their location on the internet.
 - [kivaiko/hh-api-skills-analyst](https://github.com/kivaiko/hh-api-skills-analyst) - Скрипт по API HeadHunter собирает ключевые слова и навыки из вакансий, после выдает список самых часто упоминаемых
