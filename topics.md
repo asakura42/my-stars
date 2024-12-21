@@ -1738,7 +1738,7 @@
 - [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - Simple, hackable offline speech to text - using the VOSK-API.
 - [OpenJarbas/kaldi_spotter](https://github.com/OpenJarbas/kaldi_spotter) - wake word spotting with kaldi
 - [AnthonyDiGirolamo/todotxt-machine](https://github.com/AnthonyDiGirolamo/todotxt-machine) - an interactive terminal based todo.txt file editor with an interface similar to mutt
-- [sanpii/effitask](https://github.com/sanpii/effitask) - Graphical task manager, based on the todo.txt format.
+- [todotxt-rs/effitask](https://github.com/todotxt-rs/effitask) - Graphical task manager, based on the todo.txt format.
 - [wansing/maildirfs](https://github.com/wansing/maildirfs) - A FUSE filesystem which serves a folder as a Maildir.
 - [megabytesofrem/aurora](https://github.com/megabytesofrem/aurora) - Probably the worlds smallest AUR helper.
 - [Pu-Anlai/todo_blocklet](https://github.com/Pu-Anlai/todo_blocklet) - A todo.txt GUI for i3blocks based on GTK
