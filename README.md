@@ -1104,7 +1104,7 @@
 - [agraven/retrix](https://github.com/agraven/retrix) - Tiny matrix client (mirrored from gitea)
 - [Arnavion/matrix-client-rs](https://github.com/Arnavion/matrix-client-rs) - TUI Matrix client in Rust.
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
-- [sanpii/effitask](https://github.com/sanpii/effitask) - Graphical task manager, based on the todo.txt format.
+- [todotxt-rs/effitask](https://github.com/todotxt-rs/effitask) - Graphical task manager, based on the todo.txt format.
 - [megabytesofrem/aurora](https://github.com/megabytesofrem/aurora) - Probably the worlds smallest AUR helper.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
