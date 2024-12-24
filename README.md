@@ -792,7 +792,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [arcolinux/archlinux-tweak-tool](https://github.com/arcolinux/archlinux-tweak-tool) - 
 - [pemistahl/lingua-py](https://github.com/pemistahl/lingua-py) - The most accurate natural language detection library for Python, suitable for short text and mixed-language text
-- [kra-mo/hyperplane](https://github.com/kra-mo/hyperplane) - A non-hierarchical file manager
+- [kra-mo/hyperplane](https://github.com/kra-mo/hyperplane) - Non-hierarchical file manager
 - [linuxmint/jargonaut](https://github.com/linuxmint/jargonaut) - Easy to use Chat Room application
 - [dobrosketchkun/bionic-reading-epub-converter](https://github.com/dobrosketchkun/bionic-reading-epub-converter) - Convert your epub book into the bionic reading text formatting
 - [chrisspen/punctuator2](https://github.com/chrisspen/punctuator2) - A bidirectional recurrent neural network model with attention mechanism for restoring missing punctuation in unsegmented text
