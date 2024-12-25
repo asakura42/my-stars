@@ -761,7 +761,7 @@
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [nfx/slrp](https://github.com/nfx/slrp) - rotating open proxy multiplexer
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
-- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Telegram Drive
+- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [tkancf/rofi-snippet](https://github.com/tkancf/rofi-snippet) - Text expander for linux to be integrated with rofi
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
@@ -1277,6 +1277,7 @@
 
 ## others 
 
+- [daniel-seiler/ImageTheming](https://github.com/daniel-seiler/ImageTheming) - Match a wallpaper to your color scheme
 - [MartinPacker/md2pptx](https://github.com/MartinPacker/md2pptx) - Markdown To PowerPoint converter
 - [Zaruber/Sheetswbparser](https://github.com/Zaruber/Sheetswbparser) - 🔍 Парсер позиций товаров Wildberries в Google Sheets
 - [mohbattharani/LLaVA-Chef](https://github.com/mohbattharani/LLaVA-Chef) - FoodKG paper related models and results.
@@ -2014,7 +2015,7 @@
 - [qtchaos/py_mega_account_generator](https://github.com/qtchaos/py_mega_account_generator) - 🤖 Create and manage MEGA accounts with ease, upload and share files.
 - [TheSpeedX/socker](https://github.com/TheSpeedX/socker) - Checks SOCKS Proxy List To find Working Proxies
 - [D4n13l3k00/tapkofon](https://github.com/D4n13l3k00/tapkofon) - Tapkofon - веб-клиент Telegram для тапиков
-- [kra-mo/hyperplane](https://github.com/kra-mo/hyperplane) - A non-hierarchical file manager
+- [kra-mo/hyperplane](https://github.com/kra-mo/hyperplane) - Non-hierarchical file manager
 - [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [NotStatilko/tgbox-cli](https://github.com/NotStatilko/tgbox-cli) - CLI interface to the TGBOX
@@ -2307,7 +2308,7 @@
 - [D4n13l3k00/tapkofon](https://github.com/D4n13l3k00/tapkofon) - Tapkofon - веб-клиент Telegram для тапиков
 - [shinovon/mpgram-web](https://github.com/shinovon/mpgram-web) - Lightweight telegram web client based on MadelineProto
 - [rusq/wipemychat](https://github.com/rusq/wipemychat) - Deletes your messages for everyone in Public and Private Telegram chats (group chats).
-- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Telegram Drive
+- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [sshrshnv/tgstorage](https://github.com/sshrshnv/tgstorage) - Advanced "Saved Messages" of the Telegram. Store your notes, checklists, links, photos and any documents in Telegram Cloud.
 - [NotStatilko/tgbox-cli](https://github.com/NotStatilko/tgbox-cli) - CLI interface to the TGBOX
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr
