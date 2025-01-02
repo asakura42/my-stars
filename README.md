@@ -97,6 +97,7 @@
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [DevonCrawford/Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
 - [EmotionEngineer/EmotionLib](https://github.com/EmotionEngineer/EmotionLib) - Simple dynamic library for video sentiment recognition
+- [ThomasR95/rahituber](https://github.com/ThomasR95/rahituber) - A more lively and customisable approach to PNGTuber avatars.
 - [akkana/crikey](https://github.com/akkana/crikey) - Crikey! A program to generate typed key events on Linux
 - [konstare/gdcv](https://github.com/konstare/gdcv) - gdcv - GoldenDict console version and emacs dynamic module
 - [dowobeha/Gale_and_Church_1993](https://github.com/dowobeha/Gale_and_Church_1993) - Bilingual sentence aligner (Gale & Church, 1993)
@@ -212,7 +213,6 @@
 - [PlankCipher/kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings
 - [andre-tm-hui/ReVox](https://github.com/andre-tm-hui/ReVox) - A soundboard, sampler and voice changer packaged into a single app
 - [adrianiainlam/mouse-tracker-for-cubism](https://github.com/adrianiainlam/mouse-tracker-for-cubism) - Uses mouse cursor location and microphone input to produce Live2D Cubism SDK parameters
-- [ThomasR95/rahituber](https://github.com/ThomasR95/rahituber) - A more lively and customisable approach to PNGTuber avatars.
 - [team-pp-studio/VoiceTuber](https://github.com/team-pp-studio/VoiceTuber) - VTuber application which only requires your voice and microphone, no need for a webcam or other tracking nonsense.
 - [doudar/SmartSpin2k](https://github.com/doudar/SmartSpin2k) - Transform your spin bike into a Smart Trainer!
 - [Ajatt-Tools/gd-tools](https://github.com/Ajatt-Tools/gd-tools) - 🍣 A set of tools to enhance GoldenDict.
