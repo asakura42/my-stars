@@ -96,7 +96,7 @@
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [DevonCrawford/Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
-- [EmotionEngineer/EmotionLib](https://github.com/EmotionEngineer/EmotionLib) - Simple dynamic library for video sentiment recognition
+- [EmotionEngineer/EmotionLib](https://github.com/EmotionEngineer/EmotionLib) - Efficient Library for Media Content Analysis
 - [ThomasR95/rahituber](https://github.com/ThomasR95/rahituber) - A more lively and customisable approach to PNGTuber avatars.
 - [akkana/crikey](https://github.com/akkana/crikey) - Crikey! A program to generate typed key events on Linux
 - [konstare/gdcv](https://github.com/konstare/gdcv) - gdcv - GoldenDict console version and emacs dynamic module
@@ -354,6 +354,7 @@
 
 ## Go 
 
+- [lilendian0x00/xray-knife](https://github.com/lilendian0x00/xray-knife) - A swiss army knife for xray-core to do task such as parsing xray config links, batch testing (latency, speedtest), socks proxy client, etc
 - [abeleinin/goki](https://github.com/abeleinin/goki) - Anki-like flashcard management tool for the terminal!
 - [artem-russkikh/wireproxy-awg](https://github.com/artem-russkikh/wireproxy-awg) - AmneziaWG compatible wireguard client that exposes itself as a socks5 proxy
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
