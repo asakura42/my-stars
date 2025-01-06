@@ -198,6 +198,7 @@
 
 ## C++ 
 
+- [rollerozxa/MC2MT](https://github.com/rollerozxa/MC2MT) - 
 - [tim-gromeyer/VoiceAssistant](https://github.com/tim-gromeyer/VoiceAssistant) - Empower Your Voice, Secure Your Privacy - Experience VoiceAssistant, Your Customizable Offline Voice Assistant!
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [BenWiederhake/tdlib-purple](https://github.com/BenWiederhake/tdlib-purple) - libpurple Telegram plugin using tdlib
