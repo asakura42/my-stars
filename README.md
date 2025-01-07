@@ -614,7 +614,7 @@
 
 - [4e6/mpv-reload](https://github.com/4e6/mpv-reload) - mpv plugin for automatic reloading of slow/stuck video streams
 - [occivink/mpv-gallery-view](https://github.com/occivink/mpv-gallery-view) - Gallery-view scripts for mpv
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.9+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.0+.
 - [rareitems/anki.nvim](https://github.com/rareitems/anki.nvim) - Neovim plugin that allows creation of Anki cards directly from neovim
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
@@ -1001,7 +1001,7 @@
 - [torpoker/app](https://github.com/torpoker/app) - Torpoker PyQt5 App
 - [volatide/concord](https://github.com/volatide/concord) - (really WIP) Discord client made in Qt5
 - [amustafa/recovering-incomplete-monero-mnemonic](https://github.com/amustafa/recovering-incomplete-monero-mnemonic) - 
-- [cbuijs/accomplist](https://github.com/cbuijs/accomplist) - ACCOMPLIST - List Compiler
+- [cbuijs/accomplist-archive](https://github.com/cbuijs/accomplist-archive) - ### NOTICE: This repo will be removed on the request of Github as it is outside the usage-agreement. ### ACCOMPLIST - List Compiler
 - [vmonaco/keystroke-obfuscation](https://github.com/vmonaco/keystroke-obfuscation) - Obfuscate keystroke timings to help protect privacy
 - [berteh/ScribusGenerator](https://github.com/berteh/ScribusGenerator) - Create beautiful documents with data. Open source pdf (and Scribus) template and mail-merge alternative.
 - [christianbraathen/spaced_repetition](https://github.com/christianbraathen/spaced_repetition) - A digital assistant helping you to identify when to repeat exercises
