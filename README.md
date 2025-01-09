@@ -961,7 +961,7 @@
 - [PlaidWeb/Publ](https://github.com/PlaidWeb/Publ) - Flexible publishing system for the web
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
-- [TeaM-TL/FotoKilof](https://github.com/TeaM-TL/FotoKilof) - GUI for ImageMagick and Wand
+- [TeaM-TL/FotoKilof](https://github.com/TeaM-TL/FotoKilof) - GUI for ImageMagick and Wand or Pillow
 - [barrucadu/lainonlife](https://github.com/barrucadu/lainonlife) - RIP lainchan radio, taken out by HDD failure.
 - [formspree/formspree](https://github.com/formspree/formspree) - The successor to this repository is actively maintained at https://formspree.io. Its source code is not available
 - [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - Simple, hackable offline speech to text - using the VOSK-API.
@@ -1001,7 +1001,6 @@
 - [torpoker/app](https://github.com/torpoker/app) - Torpoker PyQt5 App
 - [volatide/concord](https://github.com/volatide/concord) - (really WIP) Discord client made in Qt5
 - [amustafa/recovering-incomplete-monero-mnemonic](https://github.com/amustafa/recovering-incomplete-monero-mnemonic) - 
-- [cbuijs/accomplist-archive](https://github.com/cbuijs/accomplist-archive) - ### NOTICE: This repo will be removed on the request of Github as it is outside the usage-agreement. ### ACCOMPLIST - List Compiler
 - [vmonaco/keystroke-obfuscation](https://github.com/vmonaco/keystroke-obfuscation) - Obfuscate keystroke timings to help protect privacy
 - [berteh/ScribusGenerator](https://github.com/berteh/ScribusGenerator) - Create beautiful documents with data. Open source pdf (and Scribus) template and mail-merge alternative.
 - [christianbraathen/spaced_repetition](https://github.com/christianbraathen/spaced_repetition) - A digital assistant helping you to identify when to repeat exercises
@@ -1272,7 +1271,7 @@
 ## TypeScript 
 
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - build ai agents that have the full context, open source, runs locally, developer friendly. 24/7 screen, mic, keyboard recording and control
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - library & platform to build, distribute, monetize ai apps that have the full context (like rewind, granola, etc.), open source, 100% local, developer friendly. 24/7 screen, mic, keyboard recording and
 - [bookracy/frontend](https://github.com/bookracy/frontend) - Frontend for Bookracy
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [sussy-code/providers](https://github.com/sussy-code/providers) - Providers and sources for sudo-flix
