@@ -875,7 +875,7 @@
 - [kokimame/joytan](https://github.com/kokimame/joytan) - Creative Audio/Textbook Maker 🎵 📖 See our YouTube channel
 - [manolomartinez/greg](https://github.com/manolomartinez/greg) - A command-line podcast aggregator
 - [mgrankin/ru_transformers](https://github.com/mgrankin/ru_transformers) - 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data
 - [jurialmunkey/plugin.video.themoviedb.helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper) - 
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [shwnchpl/mutt-theme-generator](https://github.com/shwnchpl/mutt-theme-generator) - Generates Mutt/Neomutt themes from .Xresources files.
@@ -894,7 +894,7 @@
 - [kanjieater/SubPlz](https://github.com/kanjieater/SubPlz) - 🫴 Generate, sync, and manage subtitle files for any media; Generate your own audiobook subs similar to Kindle's Immersion Reading 📖🎧
 - [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.9+) and Qt 5 (5.15) for cros
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [baxtree/subaligner](https://github.com/baxtree/subaligner) - Automatically synchronize and translate subtitles, or create new ones by transcribing, using pre-trained DNNs, Forced Alignments and Transformers. https://subaligner.readthedocs.io/
 - [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle) - Automatically generate and overlay subtitles for any video.
 - [patiencedaur/rename-subs](https://github.com/patiencedaur/rename-subs) - A small script to rename subtitles so that they match episode names, to simplify watching stuff in mpv
