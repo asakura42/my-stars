@@ -90,7 +90,6 @@
 - [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
 - [sentinm/Chadwm-Arch](https://github.com/sentinm/Chadwm-Arch) - Chadwm installation optimized for archlinux users.
 - [MalcolmReed-ent/BadWolf-1.3.0](https://github.com/MalcolmReed-ent/BadWolf-1.3.0) - My deblobbed version of the BadWolf WebKitGTK browser.
-- [crispinprojects/speakingcalendar](https://github.com/crispinprojects/speakingcalendar) - Speaking Calendar is a personal desktop calendar for Linux which has some speech capability using a built-in speech engine.
 - [Ajatt-Tools/dictpopup](https://github.com/Ajatt-Tools/dictpopup) - Looks up selected (Japanese) text in your Yomichan dictionaries and displays the result as a popup.
 - [krzysckh/mpvq](https://github.com/krzysckh/mpvq) - tui playlist manager for mpv.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
@@ -495,6 +494,7 @@
 ## Java 
 
 - [Belluxx/Java2Smali](https://github.com/Belluxx/Java2Smali) - This tool converts java code to smali
+- [hstsethi/awesome-j2me](https://github.com/hstsethi/awesome-j2me) - Awesome list about everything related to J2ME, a Java specification for old keypad phones and PDAs.
 - [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille) - 📲🚫 Block unwanted calls effortlessly. Supports regex. wildcard and open-source bans-lists. Fork of YetAnotherCallBlocker.
 - [Dr4iv3rNope/NotSoAndroidAyuGram](https://github.com/Dr4iv3rNope/NotSoAndroidAyuGram) - AyuGram for Android without proprietary features.
 - [amiothenes/1T-Sentence-Miner](https://github.com/amiothenes/1T-Sentence-Miner) - Finds the lowest hanging fruit in your immersion automatically and adds it straight to your Anki deck. 1T Sentences are great to learn languages but very time-consuming, this tool makes Anki cards aut
@@ -666,7 +666,6 @@
 - [joelmathewthomas/archinstall-luks2-lvm2-secureboot-tpm2](https://github.com/joelmathewthomas/archinstall-luks2-lvm2-secureboot-tpm2) - A complete Arch Linux installation guide with luks2 full disk encryption, and logical volumes with lvm2, and added security using secure boot and tpm2 luks key enrollment for auto unlocking encrypted 
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
-- [hstsethi/awesome-j2me](https://github.com/hstsethi/awesome-j2me) - Awesome list about everything related to J2ME, a Java specification for old keypad phones and PDAs.
 - [Nidelon/ru-block-v2ray-rules](https://github.com/Nidelon/ru-block-v2ray-rules) - Список заблокированных сайтов в России для xray или других маршрутизаторов трафика. List of blocked sites in Russia for xray or other traffic routers.
 - [fildpauz/vocab-lists](https://github.com/fildpauz/vocab-lists) - A list of vocabulary lists
 - [dvds1151/AR-TV](https://github.com/dvds1151/AR-TV) - 
@@ -875,7 +874,7 @@
 - [kokimame/joytan](https://github.com/kokimame/joytan) - Creative Audio/Textbook Maker 🎵 📖 See our YouTube channel
 - [manolomartinez/greg](https://github.com/manolomartinez/greg) - A command-line podcast aggregator
 - [mgrankin/ru_transformers](https://github.com/mgrankin/ru_transformers) - 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [jurialmunkey/plugin.video.themoviedb.helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper) - 
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [shwnchpl/mutt-theme-generator](https://github.com/shwnchpl/mutt-theme-generator) - Generates Mutt/Neomutt themes from .Xresources files.
