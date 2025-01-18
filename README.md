@@ -544,7 +544,6 @@
 - [Procrat/eva-web](https://github.com/Procrat/eva-web) - Web frontend for Eva
 - [klimeryk/recalendar.js](https://github.com/klimeryk/recalendar.js) - ReCalendar - create your personalized calendar PDF for ReMarkable tablets
 - [data-niklas/typst_live](https://github.com/data-niklas/typst_live) - Running Typst in your Browser
-- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [deadinsky/js-pngtuber](https://github.com/deadinsky/js-pngtuber) - A slightly more complicated pngtuber made from JS
 - [ButzYung/SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline) - XR Animator, AI-based Full Body Motion Capture and Extended Reality (XR) solution, powered by System Animator Online
 - [Automattic/VU-VRM](https://github.com/Automattic/VU-VRM) - Lip-sync VRM avatar client for zero-webcam mic-based vtubing
@@ -1289,6 +1288,7 @@
 - [neurogen-dev/NeuroAPI](https://github.com/neurogen-dev/NeuroAPI) - Free ChatGPT 3.5 / Cheap ChatGPT 4o API / Бесплатный ChatGPT 3.5 Turbo / Дешевый СhatGPT 4o
 - [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
+- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [vangelov/calories-in](https://github.com/vangelov/calories-in) - A web-based meal plan editor for people who prepare all of their food.
 - [alexandria-reader/backend](https://github.com/alexandria-reader/backend) - Alexandria reading app back end
 - [NostrChat/NostrChat](https://github.com/NostrChat/NostrChat) - NostrChat is one of the most decentralized chat apps ever built.
