@@ -436,7 +436,7 @@
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh interfacing mpv from the shell + extras/goodies 🚀
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh interfaces mpv from the shell + extras/goodies 🚀
 - [Ratakor/quand](https://github.com/Ratakor/quand) - Simple calendar written in POSIX sh
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [hardcore-sushi/doby](https://github.com/hardcore-sushi/doby) - Secure symmetric encryption from the command line.
@@ -705,6 +705,7 @@
 
 ## games 
 
+- [wea-f/ByePassHub](https://github.com/wea-f/ByePassHub) - 1400+ UNRESTRICTED unblockers, games, cheats, exploits, bookmarklets, and AI
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [guental/sigchk](https://github.com/guental/sigchk) - Verify GOG Setup Integrity/Authenticity
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
@@ -1101,7 +1102,7 @@
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh interfacing mpv from the shell + extras/goodies 🚀
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh interfaces mpv from the shell + extras/goodies 🚀
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
 - [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file and folder transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between any devices that run Photon.
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
@@ -1279,6 +1280,11 @@
 
 ## others 
 
+- [slasjh/cy](https://github.com/slasjh/cy) - 
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets.
+- [fatyzzz/Byedpi-Setup](https://github.com/fatyzzz/Byedpi-Setup) - Скрипт, для подбора настроек и автоустановки ByeDPI на Linux
+- [romanvht/ByeDPIAndroid](https://github.com/romanvht/ByeDPIAndroid) - Приложение локально запускает ByeDPI и перенаправляет весь TCP трафик через него
+- [erynith/movie-web-instances](https://github.com/erynith/movie-web-instances) - 
 - [rollerozxa/MC2MT](https://github.com/rollerozxa/MC2MT) - 
 - [lilendian0x00/xray-knife](https://github.com/lilendian0x00/xray-knife) - A swiss army knife for xray-core to do task such as parsing xray config links, batch testing (latency, speedtest), socks proxy client, etc
 - [daniel-seiler/ImageTheming](https://github.com/daniel-seiler/ImageTheming) - Match a wallpaper to your color scheme
@@ -2352,7 +2358,7 @@
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh interfacing mpv from the shell + extras/goodies 🚀
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh interfaces mpv from the shell + extras/goodies 🚀
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
 - [foxfriends/paper-terminal](https://github.com/foxfriends/paper-terminal) - Print Markdown to a paper in your terminal
