@@ -1276,10 +1276,12 @@
 
 ## osint 
 
+- [netstalking-core/netstalking-catalogue](https://github.com/netstalking-core/netstalking-catalogue) - Каталог нетсталкерских ресурсов, команд, инструментов, источников контента.
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 
 ## others 
 
+- [maximilionus/byedpictl](https://github.com/maximilionus/byedpictl) - Experimental utility for user-friendly DPI desync on Linux
 - [slasjh/cy](https://github.com/slasjh/cy) - 
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
 - [fatyzzz/Byedpi-Setup](https://github.com/fatyzzz/Byedpi-Setup) - Скрипт, для подбора настроек и автоустановки ByeDPI на Linux
@@ -1760,7 +1762,7 @@
 - [benawad/vsinder](https://github.com/benawad/vsinder) - Dating App for VSCode
 - [Mia-Rain/shapplet](https://github.com/Mia-Rain/shapplet) - coreutils/busybox applets (certain/some) written in pure POSIX sh
 - [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) - A Real Time Strategy game for Linux.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 7.2: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.2 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
 - [timeopochin/GanTTY](https://github.com/timeopochin/GanTTY) - Project planning from the terminal
 - [huijunchen9260/bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk
 - [sjl/t](https://github.com/sjl/t) - A command-line todo list manager for people that want to finish tasks, not organize them.  (git mirror)
