@@ -13,6 +13,7 @@
 - [archlinux](#archlinux)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
+- [atom](#atom)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -259,6 +260,10 @@
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 
+## atom 
+
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+
 ## automation 
 
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
@@ -332,6 +337,7 @@
 
 ## bot 
 
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [deltachat-bot/matterdelta](https://github.com/deltachat-bot/matterdelta) - Bridge Delta Chat with any service supported by matterbridge
 - [wsdjeg/vim-chat](https://github.com/wsdjeg/vim-chat) - :purple_heart: Chatting client for neovim/vim8
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
@@ -369,7 +375,7 @@
 
 - [alxpez/alts](https://github.com/alxpez/alts) - 100% free, local & offline voice assistant with speech recognition
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
 - [noway/diy-llm-bot](https://github.com/noway/diy-llm-bot) - Compare a generic GPT-3 based chatbot with ChatGPT
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 
@@ -383,7 +389,7 @@
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [successfulstudy/promptoftheyear](https://github.com/successfulstudy/promptoftheyear) - In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the y
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
 - [wqhadija/online-marketer-chatgpt-prompts](https://github.com/wqhadija/online-marketer-chatgpt-prompts) - A skilled online business marketer utilizing ChatGPT technology to engage with potential customers and effectively pitch products or services.
 - [noway/diy-llm-bot](https://github.com/noway/diy-llm-bot) - Compare a generic GPT-3 based chatbot with ChatGPT
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -391,7 +397,7 @@
 ## chatgpt-api 
 
 - [neurogen-dev/NeuroAPI](https://github.com/neurogen-dev/NeuroAPI) - Free ChatGPT 3.5 / Cheap ChatGPT 4o API / Бесплатный ChatGPT 3.5 Turbo / Дешевый СhatGPT 4o
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
 
 ## chrome 
 
@@ -571,6 +577,7 @@
 
 ## docker 
 
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [developeranaz/URL-Magnet-Cloud-Uploader-Heroku](https://github.com/developeranaz/URL-Magnet-Cloud-Uploader-Heroku) - Aria 2 Rclone Remote URL /magnet Clouds upload via HEROKU
@@ -705,7 +712,7 @@
 
 ## games 
 
-- [wea-f/ByePassHub](https://github.com/wea-f/ByePassHub) - 1400+ UNRESTRICTED unblockers, games, cheats, exploits, bookmarklets, and AI
+- [wea-f/ByePassHub](https://github.com/wea-f/ByePassHub) - 1700+ UNRESTRICTED unblockers, games, cheats, exploits, bookmarklets, and AI
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [guental/sigchk](https://github.com/guental/sigchk) - Verify GOG Setup Integrity/Authenticity
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
@@ -1259,7 +1266,7 @@
 - [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
 ## opencv 
@@ -2019,6 +2026,7 @@
 
 ## python 
 
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [alltheplaces/alltheplaces](https://github.com/alltheplaces/alltheplaces) - A set of spiders and scrapers to extract location information from places that post their location on the internet.
 - [kivaiko/hh-api-skills-analyst](https://github.com/kivaiko/hh-api-skills-analyst) - Скрипт по API HeadHunter собирает ключевые слова и навыки из вакансий, после выдает список самых часто упоминаемых
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
@@ -2055,7 +2063,6 @@
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [PCigales/DLNAmpvRenderer](https://github.com/PCigales/DLNAmpvRenderer) - A script in Python 3 to turn mpv into a DLNA / UPnP renderer
 - [Duff89/parser_avito](https://github.com/Duff89/parser_avito) - Находит товары на avito.ru по ключевым словам
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [Hellisotherpeople/CX_DB8](https://github.com/Hellisotherpeople/CX_DB8) - a contextual, biasable, word-or-sentence-or-paragraph extractive summarizer powered by the latest in text embeddings (Bert, Universal Sentence Encoder, Flair)
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [TruncatedDinoSour/arigram](https://github.com/TruncatedDinoSour/arigram) - [Migrated to self-hosted ari-web Forgejo: https://git.ari.lt/ari/arigram] A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
@@ -2186,7 +2193,7 @@
 ## reverse-engineering 
 
 - [Belluxx/Java2Smali](https://github.com/Belluxx/Java2Smali) - This tool converts java code to smali
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
 - [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for linux games
 
 ## ruby 
@@ -2252,6 +2259,7 @@
 
 ## self-hosted 
 
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [farfalleflickan/cmyflix](https://github.com/farfalleflickan/cmyflix) - cmyflix, a Netflix clone!
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -2308,6 +2316,7 @@
 
 ## sqlite 
 
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [rwandaPinocle/Liszt](https://github.com/rwandaPinocle/Liszt) - A personal organization software with a script engine for automation
 
 ## stable-diffusion 
@@ -2326,6 +2335,7 @@
 
 ## telegram 
 
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [D4n13l3k00/tapkofon](https://github.com/D4n13l3k00/tapkofon) - Tapkofon - веб-клиент Telegram для тапиков
 - [shinovon/mpgram-web](https://github.com/shinovon/mpgram-web) - Lightweight telegram web client based on MadelineProto
 - [rusq/wipemychat](https://github.com/rusq/wipemychat) - Deletes your messages for everyone in Public and Private Telegram chats (group chats).
