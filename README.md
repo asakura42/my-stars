@@ -355,6 +355,7 @@
 
 ## Go 
 
+- [lichendust/meander](https://github.com/lichendust/meander) - 📝 A powerful, portable utility for production screenplays and manuscripts
 - [lilendian0x00/xray-knife](https://github.com/lilendian0x00/xray-knife) - A swiss army knife for xray-core to do task such as parsing xray config links, batch testing (latency, speedtest), socks proxy client, etc
 - [abeleinin/goki](https://github.com/abeleinin/goki) - Anki-like flashcard management tool for the terminal!
 - [artem-russkikh/wireproxy-awg](https://github.com/artem-russkikh/wireproxy-awg) - AmneziaWG compatible wireguard client that exposes itself as a socks5 proxy
@@ -457,6 +458,7 @@
 
 ## HTML 
 
+- [Kirilllive/tuesday-js](https://github.com/Kirilllive/tuesday-js) - simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional s
 - [erynith/movie-web-instances](https://github.com/erynith/movie-web-instances) - 
 - [ircfspace/endpoint](https://github.com/ircfspace/endpoint) - Suggested Endpoints for Warp
 - [bright-spark/x-frame-bypass](https://github.com/bright-spark/x-frame-bypass) - Web Component extending IFrame to bypass X-Frame-Options: deny/sameorigin
@@ -526,6 +528,8 @@
 
 ## JavaScript 
 
+- [vinayaksodar/plot-lines](https://github.com/vinayaksodar/plot-lines) - Writing app for screenplays, web series etc
+- [Bedrockbreaker/afterwriting-labs](https://github.com/Bedrockbreaker/afterwriting-labs) - Post-processing for Fountain screenplays
 - [slasjh/cy](https://github.com/slasjh/cy) - 
 - [Zaruber/Sheetswbparser](https://github.com/Zaruber/Sheetswbparser) - 🔍 Парсер позиций товаров Wildberries в Google Sheets
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
@@ -665,6 +669,7 @@
 
 ## Others 
 
+- [machiav3lli/alt3rnative](https://github.com/machiav3lli/alt3rnative) - Resources of knowledge and tools from and for the digital world.
 - [netstalking-core/netstalking-catalogue](https://github.com/netstalking-core/netstalking-catalogue) - Каталог нетсталкерских ресурсов, команд, инструментов, источников контента.
 - [wea-f/ByePassHub](https://github.com/wea-f/ByePassHub) - 1700+ UNRESTRICTED unblockers, games, cheats, exploits, bookmarklets, and AI
 - [joelmathewthomas/archinstall-luks2-lvm2-secureboot-tpm2](https://github.com/joelmathewthomas/archinstall-luks2-lvm2-secureboot-tpm2) - A complete Arch Linux installation guide with luks2 full disk encryption, and logical volumes with lvm2, and added security using secure boot and tpm2 luks key enrollment for auto unlocking encrypted 
@@ -807,7 +812,7 @@
 - [jumon/whisper-punctuator](https://github.com/jumon/whisper-punctuator) - Zero-shot multimodal punctuation insertion and truecasing using Whisper
 - [lowerquality/gentle](https://github.com/lowerquality/gentle) - gentle forced aligner
 - [SqrtMinusOne/podcasts-vosk](https://github.com/SqrtMinusOne/podcasts-vosk) - A tiny wrapper around VOSK API to extract SRT files from audio
-- [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
+- [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Multi-backend whisper app. Blazing fast. Mac-arm optimized. Easy install. Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
 - [Zejun-Yang/AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
 - [Spiraldox/simDHT](https://github.com/Spiraldox/simDHT) - A very simple DHT crawler, written in Python.
 - [averkij/lingtrain-aligner](https://github.com/averkij/lingtrain-aligner) - Lingtrain Aligner — ML powered library for the accurate texts alignment.
