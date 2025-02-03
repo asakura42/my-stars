@@ -58,6 +58,7 @@
 - [embedded](#embedded)
 - [emoji](#emoji)
 - [ethereum](#ethereum)
+- [facebook](#facebook)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -292,6 +293,7 @@
 
 ## awesome-list 
 
+- [machiav3lli/alt3rnative](https://github.com/machiav3lli/alt3rnative) - Resources of knowledge and tools from and for the digital world.
 - [hstsethi/awesome-j2me](https://github.com/hstsethi/awesome-j2me) - Awesome list about everything related to J2ME, a Java specification for old keypad phones and PDAs.
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -622,6 +624,10 @@
 ## ethereum 
 
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
+
+## facebook 
+
+- [vasani-arpit/Social-Media-Automation](https://github.com/vasani-arpit/Social-Media-Automation) - Automate social media because you don't have to be active on all of them😉. Best way to be active on all social media without actually being active on them. 😃
 
 ## finance 
 
@@ -1288,6 +1294,9 @@
 
 ## others 
 
+- [vinayaksodar/plot-lines](https://github.com/vinayaksodar/plot-lines) - Writing app for screenplays, web series etc
+- [Kirilllive/tuesday-js](https://github.com/Kirilllive/tuesday-js) - simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional s
+- [Bedrockbreaker/afterwriting-labs](https://github.com/Bedrockbreaker/afterwriting-labs) - Post-processing for Fountain screenplays
 - [maximilionus/byedpictl](https://github.com/maximilionus/byedpictl) - Experimental utility for user-friendly DPI desync on Linux
 - [slasjh/cy](https://github.com/slasjh/cy) - 
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
@@ -1360,7 +1369,7 @@
 - [jumon/whisper-punctuator](https://github.com/jumon/whisper-punctuator) - Zero-shot multimodal punctuation insertion and truecasing using Whisper
 - [lowerquality/gentle](https://github.com/lowerquality/gentle) - gentle forced aligner
 - [SqrtMinusOne/podcasts-vosk](https://github.com/SqrtMinusOne/podcasts-vosk) - A tiny wrapper around VOSK API to extract SRT files from audio
-- [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
+- [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Multi-backend whisper app. Blazing fast. Mac-arm optimized. Easy install. Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
 - [loiccoyle/rofi-cuff](https://github.com/loiccoyle/rofi-cuff) - 🔎 Rofi wrapper for cuff. Use the Jackett search API to find torrents.
 - [Zejun-Yang/AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
 - [LuckyTurtleDev/crab-hole](https://github.com/LuckyTurtleDev/crab-hole) - 🦀 Pi-Hole clone written in rust using hickory-dns/trust-dns
@@ -1978,6 +1987,7 @@
 
 ## privacy 
 
+- [machiav3lli/alt3rnative](https://github.com/machiav3lli/alt3rnative) - Resources of knowledge and tools from and for the digital world.
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [rusq/wipemychat](https://github.com/rusq/wipemychat) - Deletes your messages for everyone in Public and Private Telegram chats (group chats).
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
@@ -2283,6 +2293,7 @@
 
 ## shell 
 
+- [lichendust/meander](https://github.com/lichendust/meander) - 📝 A powerful, portable utility for production screenplays and manuscripts
 - [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
