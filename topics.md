@@ -1294,6 +1294,7 @@
 
 ## others 
 
+- [snailyp/apichecker](https://github.com/snailyp/apichecker) - 浏览器插件版api检测工具
 - [vinayaksodar/plot-lines](https://github.com/vinayaksodar/plot-lines) - Writing app for screenplays, web series etc
 - [Kirilllive/tuesday-js](https://github.com/Kirilllive/tuesday-js) - simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional s
 - [Bedrockbreaker/afterwriting-labs](https://github.com/Bedrockbreaker/afterwriting-labs) - Post-processing for Fountain screenplays
@@ -1890,7 +1891,7 @@
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [LukeSmithxyz/st](https://github.com/LukeSmithxyz/st) - Luke's fork of the suckless simple terminal (st) with vim bindings and Xresource compatibility.
 - [textbrowser/spot-on](https://github.com/textbrowser/spot-on) - Complexity is beautiful. Anyware, everyone. Completed.
-- [textbrowser/smoke](https://github.com/textbrowser/smoke) - In a burning world, there will always be Smoke. Completed.
+- [textbrowser/smoke](https://github.com/textbrowser/smoke) - In a burning world, there will always be Smoke. Sing along with Prison Blues. Completed.
 - [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
 - [bpeel/notbit](https://github.com/bpeel/notbit) - A minimal Bitmessage client
 - [deltachat/provider-db](https://github.com/deltachat/provider-db) - Database of Email Providers and how well they work with DeltaChat
