@@ -666,6 +666,7 @@
 
 ## Objective-C 
 
+- [richardmrodriguez/Beat-Rewrite](https://github.com/richardmrodriguez/Beat-Rewrite) - Beat - a simple and elegant screenwriting app - port for Windows and Linux
 - [frymanofer/ReactNative_WakeWordDetection](https://github.com/frymanofer/ReactNative_WakeWordDetection) - Create any wake word, deploy on any device and operating system.
 
 ## Others 
