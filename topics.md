@@ -1294,6 +1294,7 @@
 
 ## others 
 
+- [richardmrodriguez/Beat-Rewrite](https://github.com/richardmrodriguez/Beat-Rewrite) - Beat - a simple and elegant screenwriting app - port for Windows and Linux
 - [snailyp/apichecker](https://github.com/snailyp/apichecker) - 浏览器插件版api检测工具
 - [vinayaksodar/plot-lines](https://github.com/vinayaksodar/plot-lines) - Writing app for screenplays, web series etc
 - [Kirilllive/tuesday-js](https://github.com/Kirilllive/tuesday-js) - simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional s
