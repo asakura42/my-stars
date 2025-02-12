@@ -1303,7 +1303,7 @@
 - [slasjh/cy](https://github.com/slasjh/cy) - 
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
 - [fatyzzz/Byedpi-Setup](https://github.com/fatyzzz/Byedpi-Setup) - Скрипт, для подбора настроек и автоустановки ByeDPI на Linux
-- [romanvht/ByeDPIAndroid](https://github.com/romanvht/ByeDPIAndroid) - Приложение локально запускает ByeDPI и перенаправляет весь TCP трафик через него
+- [romanvht/ByeDPIAndroid](https://github.com/romanvht/ByeDPIAndroid) - Приложение локально запускает ByeDPI и перенаправляет весь трафик через него
 - [erynith/movie-web-instances](https://github.com/erynith/movie-web-instances) - 
 - [rollerozxa/MC2MT](https://github.com/rollerozxa/MC2MT) - 
 - [lilendian0x00/xray-knife](https://github.com/lilendian0x00/xray-knife) - A swiss army knife for xray-core to do task such as parsing xray config links, batch testing (latency, speedtest), socks proxy client, etc
