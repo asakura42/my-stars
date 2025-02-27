@@ -438,6 +438,7 @@
 - [pauloo27/tuner](https://github.com/pauloo27/tuner) - 🎵 Search and Play songs from YouTube inside your terminal
 - [ciehanski/pigeon](https://github.com/ciehanski/pigeon) - WebSocket instant messaging utilizing Tor hidden services.
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [ncarlier/readflow](https://github.com/ncarlier/readflow) - readflow is a news-reading (or read-it-later) solution focused on versatility and simplicity.
 - [SkobelevIgor/stackexchange-xml-converter](https://github.com/SkobelevIgor/stackexchange-xml-converter) - Stackexchange (e.g., stackoverflow) data dump converter from XML to CSV format.
 - [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
@@ -583,7 +584,6 @@
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [maunium/stickerpicker](https://github.com/maunium/stickerpicker) - A fast and simple Matrix sticker picker widget
-- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [uncss/uncss](https://github.com/uncss/uncss) - Remove unused styles from CSS
 - [mitul45/ta-calendar](https://github.com/mitul45/ta-calendar) - 📋 An app to plan your day, just today.
 - [asamuzaK/shareSNS](https://github.com/asamuzaK/shareSNS) - Share with SNS
