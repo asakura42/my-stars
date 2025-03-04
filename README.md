@@ -261,7 +261,7 @@
 - [EntireTwix/Prioritize](https://github.com/EntireTwix/Prioritize) - just a quick test program as I mess around with imgui, although thats not to say this program lacks utility for simple task prioritization.
 - [gavv/tagberry](https://github.com/gavv/tagberry) - Tag-oriented Qt5 desktop calendar, task manager, and todo list.
 - [MaximeAeva/TheEfficientGuy](https://github.com/MaximeAeva/TheEfficientGuy) - An embedded project management tool based on Qt & sqlite.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.2 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.3 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
 - [mypasswordisqwerty/zipsync](https://github.com/mypasswordisqwerty/zipsync) - Sync zip &lt;-&gt; dir
 - [Monthy/gr-lida](https://github.com/Monthy/gr-lida) - Front-End para DOSBox, ScummVM y VDMSound
 - [yuxshao/ptcollab](https://github.com/yuxshao/ptcollab) - A collaborative piano-roll music sequencer!
@@ -483,7 +483,7 @@
 - [spamgourmet/spamgourmet](https://github.com/spamgourmet/spamgourmet) - This is the actively maintained source for spamgourmet.com
 - [tosone/IOCCC](https://github.com/tosone/IOCCC) - IOCCC International Obfuscated C code contest entries http://www.ioccc.org
 - [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
-- [deltachat/provider-db](https://github.com/deltachat/provider-db) - Database of Email Providers and how well they work with DeltaChat
+- [chatmail/provider-db](https://github.com/chatmail/provider-db) - Database of Email Providers and how well they work with DeltaChat
 - [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.
 - [remipassmoilesel/tor-share](https://github.com/remipassmoilesel/tor-share) - Simple hosting and data sharing on Tor network
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
