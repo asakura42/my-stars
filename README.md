@@ -460,7 +460,6 @@
 
 - [Kirilllive/tuesday-js](https://github.com/Kirilllive/tuesday-js) - simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional s
 - [erynith/movie-web-instances](https://github.com/erynith/movie-web-instances) - 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [ircfspace/endpoint](https://github.com/ircfspace/endpoint) - Suggested Endpoints for Warp
 - [bright-spark/x-frame-bypass](https://github.com/bright-spark/x-frame-bypass) - Web Component extending IFrame to bypass X-Frame-Options: deny/sameorigin
 - [DmytroNorth/Automated_Subtitles_Generation-Regex_Java](https://github.com/DmytroNorth/Automated_Subtitles_Generation-Regex_Java) - An automated workflow that generates timestamped subtitles from a video file with custom control using regex, Java and multiple online tools.
@@ -777,6 +776,7 @@
 - [lfoppiano/document-qa](https://github.com/lfoppiano/document-qa) - Scientific Document Insight Q/A
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [MartinPacker/md2pptx](https://github.com/MartinPacker/md2pptx) - Markdown To PowerPoint converter
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [mohbattharani/LLaVA-Chef](https://github.com/mohbattharani/LLaVA-Chef) - FoodKG paper related models and results.
 - [alltheplaces/alltheplaces](https://github.com/alltheplaces/alltheplaces) - A set of spiders and scrapers to extract location information from places that post their location on the internet.
 - [kivaiko/hh-api-skills-analyst](https://github.com/kivaiko/hh-api-skills-analyst) - Скрипт по API HeadHunter собирает ключевые слова и навыки из вакансий, после выдает список самых часто упоминаемых
