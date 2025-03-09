@@ -1723,7 +1723,7 @@
 - [idlewan/javascript-control](https://github.com/idlewan/javascript-control) - Browser WebExtension that adds a JS toggle button in Firefox's url bar
 - [t-lou/MiKan](https://github.com/t-lou/MiKan) - Personal and local Kanban software, perhaps not fancy, but 100% safe and ready for inspection
 - [StefanoLusardi/Kanban](https://github.com/StefanoLusardi/Kanban) - Simple Kanban Board Application made with C++17/Qt5
-- [peterhs73/xBan](https://github.com/peterhs73/xBan) - Offline Personal Kanban
+- [peterhys/xBan](https://github.com/peterhys/xBan) - Offline Personal Kanban
 - [patricks/osm-garmin](https://github.com/patricks/osm-garmin) - Shell scripts to build openstreetmap maps for garmin devices
 - [9viz/bottom-sh](https://github.com/9viz/bottom-sh) - Bottom encoder and decoder in pure sh
 - [MeiK2333/pyppeteer_stealth](https://github.com/MeiK2333/pyppeteer_stealth) - 
