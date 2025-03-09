@@ -953,7 +953,7 @@
 - [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for linux games
 - [Lyaaaaaaaaaaaaaaa/Project_Kanban](https://github.com/Lyaaaaaaaaaaaaaaa/Project_Kanban) - A lightweight desktop software, under the MIT licence to create and manage your Kanbans boards for your personal projects
 - [t-lou/MiKan](https://github.com/t-lou/MiKan) - Personal and local Kanban software, perhaps not fancy, but 100% safe and ready for inspection
-- [peterhs73/xBan](https://github.com/peterhs73/xBan) - Offline Personal Kanban
+- [peterhys/xBan](https://github.com/peterhys/xBan) - Offline Personal Kanban
 - [rwandaPinocle/Liszt](https://github.com/rwandaPinocle/Liszt) - A personal organization software with a script engine for automation
 - [en9inerd/tgeraser](https://github.com/en9inerd/tgeraser) - Tool to delete all your messages from chat/channel/conversation on Telegram without requiring admin privileges
 - [ValeriyMaslenikov/tg-notify-deleted-messages](https://github.com/ValeriyMaslenikov/tg-notify-deleted-messages) - Telegram client to save and notify about deleted messages
