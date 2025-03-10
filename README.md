@@ -1096,7 +1096,7 @@
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
 - [m4tx/tundra](https://github.com/m4tx/tundra) - MyAnimeList scrobbler for Linux
 - [dborsukov/tinyrss](https://github.com/dborsukov/tinyrss) - Small and simple RSS aggregator
-- [carsonritchey/caltrack](https://github.com/carsonritchey/caltrack) - a simple command line calorie tracker
+- [catsonr/caltrack](https://github.com/catsonr/caltrack) - a simple command line calorie tracker
 - [LiHRaM/zathura-markdown-rs](https://github.com/LiHRaM/zathura-markdown-rs) - A Zathura plugin for Markdown
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [rehanzo/dyn-wall-rs](https://github.com/rehanzo/dyn-wall-rs) - Helps user set a dynamic wallpaper and more.
@@ -1286,6 +1286,8 @@
 
 ## TypeScript 
 
+- [joschi/mastofeedbot](https://github.com/joschi/mastofeedbot) - A bot that posts RSS feeds to Mastodon via GitHub Actions
+- [selfagency/mastofeedbot](https://github.com/selfagency/mastofeedbot) - A bot that posts RSS feeds to Mastodon via GitHub Actions
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [bookracy/frontend](https://github.com/bookracy/frontend) - Frontend for Bookracy
