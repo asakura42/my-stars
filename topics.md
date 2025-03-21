@@ -206,6 +206,7 @@
 
 ## android 
 
+- [fguisso/CospendWise](https://github.com/fguisso/CospendWise) - A Flutter app to make your Nextcloud Cospend experience more beautiful!
 - [tim-gromeyer/VoiceAssistant](https://github.com/tim-gromeyer/VoiceAssistant) - Empower Your Voice, Secure Your Privacy - Experience VoiceAssistant, Your Customizable Offline Voice Assistant!
 - [Merrit/adventure_list](https://github.com/Merrit/adventure_list) - Todo list that syncs to all your devices
 - [Belluxx/Java2Smali](https://github.com/Belluxx/Java2Smali) - This tool converts java code to smali
@@ -671,6 +672,7 @@
 
 ## flutter-apps 
 
+- [fguisso/CospendWise](https://github.com/fguisso/CospendWise) - A Flutter app to make your Nextcloud Cospend experience more beautiful!
 - [DungeonPaper/dungeon-paper-app](https://github.com/DungeonPaper/dungeon-paper-app) - A Dungeon World character sheet app written with Flutter
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 
@@ -777,6 +779,7 @@
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [nfx/slrp](https://github.com/nfx/slrp) - rotating open proxy multiplexer
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
+- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [tkancf/rofi-snippet](https://github.com/tkancf/rofi-snippet) - Text expander for linux to be integrated with rofi
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
@@ -997,7 +1000,6 @@
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [Merrit/adventure_list](https://github.com/Merrit/adventure_list) - Todo list that syncs to all your devices
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-- [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
 - [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
 - [Ajatt-Tools/dictpopup](https://github.com/Ajatt-Tools/dictpopup) - Looks up selected (Japanese) text in your Yomichan dictionaries and displays the result as a popup.
@@ -1296,6 +1298,7 @@
 
 ## others 
 
+- [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [edsu/feediverse](https://github.com/edsu/feediverse) - Send RSS/Atom feeds to Mastodon
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) - RSS + Mastodon feed reader
 - [selfagency/mastofeedbot](https://github.com/selfagency/mastofeedbot) - A bot that posts RSS feeds to Mastodon via GitHub Actions
@@ -1353,6 +1356,7 @@
 - [skgupta507/rive-next](https://github.com/skgupta507/rive-next) - Rive is a cutting-edge, ad-free platform for streaming/downloading movies and TV shows online. Your Personal Streaming Oasis
 - [seth-js/yomichan-es](https://github.com/seth-js/yomichan-es) - A Spanish hover dictionary. It's a modified version of Yomichan that works with Spanish (Castilian).
 - [b1ek/bshchk](https://github.com/b1ek/bshchk) - 
+- [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [bivav/automate_all_social_media](https://github.com/bivav/automate_all_social_media) - Just don't want to use smartphone so will use email to see everything I need every 30 mins.
 - [maxhebditch/rss-roller](https://github.com/maxhebditch/rss-roller) - Shell script for generating and updating rss feeds
 - [Reddiepoint/userscripts](https://github.com/Reddiepoint/userscripts) - 
@@ -2152,7 +2156,6 @@
 - [tim-gromeyer/VoiceAssistant](https://github.com/tim-gromeyer/VoiceAssistant) - Empower Your Voice, Secure Your Privacy - Experience VoiceAssistant, Your Customizable Offline Voice Assistant!
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-- [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [teriflix/scrite](https://github.com/teriflix/scrite) - Crossplatform Screenwriting Software
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
@@ -2359,6 +2362,7 @@
 - [D4n13l3k00/tapkofon](https://github.com/D4n13l3k00/tapkofon) - Tapkofon - веб-клиент Telegram для тапиков
 - [shinovon/mpgram-web](https://github.com/shinovon/mpgram-web) - Lightweight telegram web client based on MadelineProto
 - [rusq/wipemychat](https://github.com/rusq/wipemychat) - Deletes your messages for everyone in Public and Private Telegram chats (group chats).
+- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [sshrshnv/tgstorage](https://github.com/sshrshnv/tgstorage) - Advanced "Saved Messages" of the Telegram. Store your notes, checklists, links, photos and any documents in Telegram Cloud.
 - [NotStatilko/tgbox-cli](https://github.com/NotStatilko/tgbox-cli) - CLI interface to the TGBOX
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr
@@ -2507,7 +2511,6 @@
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [Merrit/adventure_list](https://github.com/Merrit/adventure_list) - Todo list that syncs to all your devices
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-- [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
