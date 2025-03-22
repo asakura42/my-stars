@@ -484,7 +484,7 @@
 - [spamgourmet/spamgourmet](https://github.com/spamgourmet/spamgourmet) - This is the actively maintained source for spamgourmet.com
 - [tosone/IOCCC](https://github.com/tosone/IOCCC) - IOCCC International Obfuscated C code contest entries http://www.ioccc.org
 - [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
-- [chatmail/provider-db](https://github.com/chatmail/provider-db) - Database of Email Providers and how well they work with DeltaChat
+- [chatmail/provider-db](https://github.com/chatmail/provider-db) - Database of Email Providers and how well they work with chatmail
 - [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.
 - [remipassmoilesel/tor-share](https://github.com/remipassmoilesel/tor-share) - Simple hosting and data sharing on Tor network
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
