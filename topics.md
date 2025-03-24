@@ -1351,7 +1351,7 @@
 - [ftde0/yt2009](https://github.com/ftde0/yt2009) - 2009 youtube frontend.
 - [mubeng/mubeng](https://github.com/mubeng/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
 - [sussy-code/providers](https://github.com/sussy-code/providers) - Providers and sources for sudo-flix
-- [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
+- [bpc-clone/bpc_firefox_support](https://github.com/bpc-clone/bpc_firefox_support) - 
 - [internetfiles/tpp](https://github.com/internetfiles/tpp) - TPP
 - [skgupta507/rive-next](https://github.com/skgupta507/rive-next) - Rive is a cutting-edge, ad-free platform for streaming/downloading movies and TV shows online. Your Personal Streaming Oasis
 - [seth-js/yomichan-es](https://github.com/seth-js/yomichan-es) - A Spanish hover dictionary. It's a modified version of Yomichan that works with Spanish (Castilian).
@@ -1904,7 +1904,7 @@
 - [textbrowser/smoke](https://github.com/textbrowser/smoke) - In a burning world, there will always be Smoke. Sing along with Prison Blues. Completed.
 - [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
 - [bpeel/notbit](https://github.com/bpeel/notbit) - A minimal Bitmessage client
-- [chatmail/provider-db](https://github.com/chatmail/provider-db) - Database of Email Providers and how well they work with DeltaChat
+- [chatmail/provider-db](https://github.com/chatmail/provider-db) - Database of Email Providers and how well they work with chatmail
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
 - [MarcMilany/archmy_2020](https://github.com/MarcMilany/archmy_2020) - В процессе тестирования Install Linux Legacy BIOS and Uefi
 - [pagekite/PyPagekite](https://github.com/pagekite/PyPagekite) - Python implementation of the PageKite remote front-end protocols.
