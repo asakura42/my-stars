@@ -583,7 +583,6 @@
 - [underrobyn/AbsoluteDoubleTrace](https://github.com/underrobyn/AbsoluteDoubleTrace) - A web extension to block browser fingerprinting (Manifest V2)
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
-- [maunium/stickerpicker](https://github.com/maunium/stickerpicker) - A fast and simple Matrix sticker picker widget
 - [uncss/uncss](https://github.com/uncss/uncss) - Remove unused styles from CSS
 - [mitul45/ta-calendar](https://github.com/mitul45/ta-calendar) - 📋 An app to plan your day, just today.
 - [asamuzaK/shareSNS](https://github.com/asamuzaK/shareSNS) - Share with SNS
@@ -1001,6 +1000,7 @@
 - [coldfix/udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
 - [rusty-snake/firecfg.py](https://github.com/rusty-snake/firecfg.py) - An improved firecfg written in python.
 - [pimutils/todoman](https://github.com/pimutils/todoman) - ✅ Simple, standards-based, command line todo (aka: task) manager.
+- [maunium/stickerpicker](https://github.com/maunium/stickerpicker) - A fast and simple Matrix sticker picker widget
 - [pictuga/morss](https://github.com/pictuga/morss) - Get full text RSS feeds
 - [eliep/i3-layouts](https://github.com/eliep/i3-layouts) - Dynamic layouts for i3wm
 - [nlpyang/BertSum](https://github.com/nlpyang/BertSum) - Code for paper Fine-tune BERT for Extractive Summarization
