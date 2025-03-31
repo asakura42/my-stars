@@ -1417,7 +1417,6 @@
 - [lovmoon3k/c0d3bl0ck-obsidian](https://github.com/lovmoon3k/c0d3bl0ck-obsidian) - 
 - [dvds1151/AR-TV](https://github.com/dvds1151/AR-TV) - 
 - [osirislab/LeakyPastes-V2](https://github.com/osirislab/LeakyPastes-V2) - Looking at what people post to public pastebins
-- [yIsus-mEx/AF1CIONADOS](https://github.com/yIsus-mEx/AF1CIONADOS) - 
 - [kmein/kaikki-stardict](https://github.com/kmein/kaikki-stardict) - StarDict dictionary files, generated from Wiktionary
 - [AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST) - iPTV Free List
 - [odnar-dev/termv-rewrite](https://github.com/odnar-dev/termv-rewrite) - 
@@ -1672,7 +1671,6 @@
 - [weevilgit/Groff-Screenplay-Macro-Package](https://github.com/weevilgit/Groff-Screenplay-Macro-Package) - A mom-based groff macro package
 - [bwipp/postscriptbarcode](https://github.com/bwipp/postscriptbarcode) - Barcode Writer in Pure PostScript
 - [n-t-roff/Plan9_troff](https://github.com/n-t-roff/Plan9_troff) - troff ported from Plan 9
-- [BillDett/gv](https://github.com/BillDett/gv) - gv - a simple console-based outliner tool
 - [angea/pocorgtfo](https://github.com/angea/pocorgtfo) - a "Proof of Concept or GTFO" mirror with an extensive index with also whole issues or individual articles as clean PDFs.
 - [GDGVIT/groff-editor-frontend](https://github.com/GDGVIT/groff-editor-frontend) - 
 - [GDGVIT/groff-editor-backend](https://github.com/GDGVIT/groff-editor-backend) - 
