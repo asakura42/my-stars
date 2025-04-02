@@ -369,7 +369,7 @@
 - [nfx/slrp](https://github.com/nfx/slrp) - rotating open proxy multiplexer
 - [mubeng/mubeng](https://github.com/mubeng/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
 - [b1ek/bshchk](https://github.com/b1ek/bshchk) - 
-- [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
+- [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A TUI bluetooth manager for Linux.
 - [rusq/wipemychat](https://github.com/rusq/wipemychat) - Deletes your messages for everyone in Public and Private Telegram chats (group chats).
 - [0xInception/ppxity](https://github.com/0xInception/ppxity) - ppxity is a command-line tool that allows you to interact with the Perplexity Labs (unofficial) API
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
