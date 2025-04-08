@@ -972,7 +972,7 @@
 
 ## language 
 
-- [StephanAkkerman/FluentAI](https://github.com/StephanAkkerman/FluentAI) - Automating language learning with the power of Artificial Intelligence. This repository presents FluentAI, a tool that combines Fluent Forever techniques with AI-driven automation. It streamlines the 
+- [StephanAkkerman/mnemorai](https://github.com/StephanAkkerman/mnemorai) - Automating language learning with the power of Artificial Intelligence. This repository presents mnemorai, a tool that combines Fluent Forever techniques with AI-driven automation. It streamlines the 
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [nramos0/fluent-reader](https://github.com/nramos0/fluent-reader) - Language learning app similar to https://lingq.com/, but open source and free written in Typescript and Rust. Supports English and Chinese.
 - [usemoslinux/aprelendo](https://github.com/usemoslinux/aprelendo) - Learn vocabulary while reading
