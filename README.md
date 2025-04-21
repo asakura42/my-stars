@@ -672,7 +672,7 @@
 
 - [machiav3lli/alt3rnative](https://github.com/machiav3lli/alt3rnative) - Resources of knowledge and tools from and for the digital world.
 - [netstalking-core/netstalking-catalogue](https://github.com/netstalking-core/netstalking-catalogue) - Каталог нетсталкерских ресурсов, команд, инструментов, источников контента.
-- [wea-f/ByePassHub](https://github.com/wea-f/ByePassHub) - 2500+ UNRESTRICTED unblockers, games, cheats, exploits, bookmarklets, and AI
+- [wea-f/ByePassHub](https://github.com/wea-f/ByePassHub) - 3000+ UNRESTRICTED unblockers, games, exploits, bookmarklets, and AI
 - [joelmathewthomas/archinstall-luks2-lvm2-secureboot-tpm2](https://github.com/joelmathewthomas/archinstall-luks2-lvm2-secureboot-tpm2) - A complete Arch Linux installation guide with luks2 full disk encryption, and logical volumes with lvm2, and added security using secure boot and tpm2 luks key enrollment for auto unlocking encrypted 
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [bpc-clone/bpc_firefox_support](https://github.com/bpc-clone/bpc_firefox_support) - 
@@ -919,7 +919,7 @@
 - [akissinger/dodo](https://github.com/akissinger/dodo) - A graphical, hackable email client based on notmuch
 - [Duff89/parser_avito](https://github.com/Duff89/parser_avito) - Находит товары на avito.ru по ключевым словам
 - [tvhong/incremental-reading](https://github.com/tvhong/incremental-reading) - Anki add-on providing incremental reading features
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [Ajatt-Tools/transformers_ocr](https://github.com/Ajatt-Tools/transformers_ocr) - 🍤 An OCR tool using maim with Transformers.
 - [dagraham/etm-dgraham](https://github.com/dagraham/etm-dgraham) - etm: event and task manager
 - [Hellisotherpeople/CX_DB8](https://github.com/Hellisotherpeople/CX_DB8) - a contextual, biasable, word-or-sentence-or-paragraph extractive summarizer powered by the latest in text embeddings (Bert, Universal Sentence Encoder, Flair)
