@@ -86,6 +86,7 @@
 
 ## C 
 
+- [ohwgiles/focal](https://github.com/ohwgiles/focal) - Calendar application for Linux with CalDAV
 - [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [farfalleflickan/cmyflix](https://github.com/farfalleflickan/cmyflix) - cmyflix, a Netflix clone!
 - [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
