@@ -999,6 +999,7 @@
 
 ## linux 
 
+- [ohwgiles/focal](https://github.com/ohwgiles/focal) - Calendar application for Linux with CalDAV
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [Merrit/adventure_list](https://github.com/Merrit/adventure_list) - Todo list that syncs to all your devices
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
