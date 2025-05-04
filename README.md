@@ -111,7 +111,7 @@
 - [mgudemann/sct](https://github.com/mgudemann/sct) - Change screen color temperature and brightness using the Xrandr extension
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
 - [bitsmanent/sw](https://github.com/bitsmanent/sw) - simple wallet
-- [MertGunduz/mkhtml](https://github.com/MertGunduz/mkhtml) - mkhtml is an html document generator that works with gpt
+- [mmertgunduz/mkhtml](https://github.com/mmertgunduz/mkhtml) - mkhtml is an html document generator that works with gpt
 - [uditkarode/libxft-bgra](https://github.com/uditkarode/libxft-bgra) - A patched version of libxft that allows for colored emojis to be rendered in Suckless software (dmenu/st/whatever).
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [feider/zk](https://github.com/feider/zk) - Zettelkasten notekeeping software for the terminal
