@@ -434,6 +434,7 @@
 - [s3rgeym/hh-applicant-tool](https://github.com/s3rgeym/hh-applicant-tool) - Автоматизация дейcтвий на HH.RU: отклик на подходящие вакансии, обновление всех резюме...
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
+- [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [kostyan-org/ip-list-generator-by-country](https://github.com/kostyan-org/ip-list-generator-by-country) - CLI utility | IP ranges by country | qBittorrent
 - [NotStatilko/tgbox-cli](https://github.com/NotStatilko/tgbox-cli) - CLI interface to the TGBOX
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool
@@ -782,6 +783,7 @@
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [nfx/slrp](https://github.com/nfx/slrp) - rotating open proxy multiplexer
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
+- [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [tkancf/rofi-snippet](https://github.com/tkancf/rofi-snippet) - Text expander for linux to be integrated with rofi
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
@@ -1393,7 +1395,6 @@
 - [wydengyre/hunalign](https://github.com/wydengyre/hunalign) - 
 - [wydengyre/bitextual](https://github.com/wydengyre/bitextual) - a tool for bilingual text alignment
 - [averkij/lingtrain-aligner](https://github.com/averkij/lingtrain-aligner) - Lingtrain Aligner — ML powered library for the accurate texts alignment.
-- [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [dusking/opensubtitles-com](https://github.com/dusking/opensubtitles-com) - 
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [NapoleonWils0n/ffmpeg-scripts](https://github.com/NapoleonWils0n/ffmpeg-scripts) - ffmpeg shell scripts
@@ -1581,7 +1582,7 @@
 - [CountMurphy/QTalarm](https://github.com/CountMurphy/QTalarm) - A handy alarm clock Program written in QT.
 - [t-wissmann/caligraph](https://github.com/t-wissmann/caligraph) - Experiments with Haskell, Remind, and Brick
 - [dagraham/etm-dgraham](https://github.com/dagraham/etm-dgraham) - etm: event and task manager
-- [MertGunduz/mkhtml](https://github.com/MertGunduz/mkhtml) - mkhtml is an html document generator that works with gpt
+- [mmertgunduz/mkhtml](https://github.com/mmertgunduz/mkhtml) - mkhtml is an html document generator that works with gpt
 - [n0madic/go-hdrezka](https://github.com/n0madic/go-hdrezka) - Scraper package for HDrezka site
 - [tramhao/termusic](https://github.com/tramhao/termusic) - Music Player TUI written in Rust
 - [inugami-dev64/mublog](https://github.com/inugami-dev64/mublog) - Small blogging daemon with static site and rss feed generation
