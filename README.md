@@ -460,6 +460,7 @@
 
 ## HTML 
 
+- [NoelDeMartin/umai](https://github.com/NoelDeMartin/umai) - Local-first Recipes Manager
 - [Kirilllive/tuesday-js](https://github.com/Kirilllive/tuesday-js) - simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional s
 - [erynith/movie-web-instances](https://github.com/erynith/movie-web-instances) - 
 - [ircfspace/endpoint](https://github.com/ircfspace/endpoint) - Suggested Endpoints for Warp
