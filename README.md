@@ -644,6 +644,7 @@
 - [marzzzello/mpv_thumbnail_script](https://github.com/marzzzello/mpv_thumbnail_script) - A Lua script to show preview thumbnails in mpv's OSC seekbar, sans external dependencies (fork)
 - [rahulg/mpv-twitch-chat](https://github.com/rahulg/mpv-twitch-chat) - Read twitch.tv chat while watching VoDs with mpv.
 - [cvzi/mpv-youtube-upnext](https://github.com/cvzi/mpv-youtube-upnext) - A userscript for MPV that allows you to play "up next"/recommended youtube videos ⏭️
+- [Andr3as07/dotfiles](https://github.com/Andr3as07/dotfiles) - 
 - [Ajatt-Tools/mpvacious](https://github.com/Ajatt-Tools/mpvacious) - 🍜 Adds mpv keybindings to create Anki cards from movies and TV shows.
 - [Ajatt-Tools/videoclip](https://github.com/Ajatt-Tools/videoclip) - 🍗 Easily create videoclips with mpv.
 
@@ -873,7 +874,7 @@
 - [boi4/subextractor](https://github.com/boi4/subextractor) - Autogenerate subtitles using vosk speech recognition
 - [caitlinhenry14/Letterboxd-Scraper](https://github.com/caitlinhenry14/Letterboxd-Scraper) - Download Letterboxd lists as CSV files
 - [fastfingertips/letterboxd-downloader](https://github.com/fastfingertips/letterboxd-downloader) - Exports @Letterboxd lists to a CSV file using the CLI.
-- [klieret/AnkiPandas](https://github.com/klieret/AnkiPandas) - Analyze and manipulate your Anki collection using pandas! 🌠🐼
+- [klieret/AnkiPandas](https://github.com/klieret/AnkiPandas) - Analyze and manipulate your Anki flashcards using pandas dataframes!
 - [bluet/proxybroker2](https://github.com/bluet/proxybroker2) - The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [ThisCakeIsALie/ki](https://github.com/ThisCakeIsALie/ki) - A tool to remember japanese word pronounciations using english words
 - [Harshal-Sakhale/dictd_webserver](https://github.com/Harshal-Sakhale/dictd_webserver) - Dictionary webserver accessible using any web browser on mobile or desktop
@@ -1258,7 +1259,6 @@
 - [Biont/sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop) - TUI Application launcher with Desktop Entry support. Made for SwayWM, but runs anywhere
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
-- [Andr3as07/dotfiles](https://github.com/Andr3as07/dotfiles) - 
 - [klesh/dotfiles](https://github.com/klesh/dotfiles) - 
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [afontenot/firefox-clean](https://github.com/afontenot/firefox-clean) - A PKGBUILD for Firefox with defaults for the privacy-conscious and power users
