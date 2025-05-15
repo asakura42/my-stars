@@ -165,6 +165,7 @@
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
 - [svelte](#svelte)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
@@ -175,6 +176,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [vim](#vim)
 - [vpn](#vpn)
 - [vue](#vue)
@@ -1479,7 +1481,7 @@
 - [boi4/subextractor](https://github.com/boi4/subextractor) - Autogenerate subtitles using vosk speech recognition
 - [caitlinhenry14/Letterboxd-Scraper](https://github.com/caitlinhenry14/Letterboxd-Scraper) - Download Letterboxd lists as CSV files
 - [rareitems/anki.nvim](https://github.com/rareitems/anki.nvim) - Neovim plugin that allows creation of Anki cards directly from neovim
-- [klieret/AnkiPandas](https://github.com/klieret/AnkiPandas) - Analyze and manipulate your Anki collection using pandas! 🌠🐼
+- [klieret/AnkiPandas](https://github.com/klieret/AnkiPandas) - Analyze and manipulate your Anki flashcards using pandas dataframes!
 - [CoolnsX/hls_downloader](https://github.com/CoolnsX/hls_downloader) - A posix compliant highly fast and efficient Asynchronous stable m3u8 links dowloader that uses shell jobs for controlling parallel download...
 - [Ajatt-Tools/gd-tools](https://github.com/Ajatt-Tools/gd-tools) - 🍣 A set of tools to enhance GoldenDict.
 - [traes/Mnemonics](https://github.com/traes/Mnemonics) - Generate mnemonics for language learning
@@ -1890,8 +1892,8 @@
 - [nwg-piotr/nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - GTK-based launchers: application grid, button bar, dmenu for sway and other window managers
 - [xslightz/binance-simulator](https://github.com/xslightz/binance-simulator) - just a simulator.
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
-- [bogachenko/filterlist](https://github.com/bogachenko/filterlist) - Yet another anti-bullshit filter list.
-- [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
+- [bogachenkove/filterlist](https://github.com/bogachenkove/filterlist) - Yet another anti-bullshit filter list.
+- [bogachenkove/fuckfuckadblock](https://github.com/bogachenkove/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
 - [larrykollar/tines](https://github.com/larrykollar/tines) - Tines is a console-based outliner/planner/notebook. It is a fork of the hnb outliner, which has not been updated in &gt;10 years.
 - [cruegge/pam-gnupg](https://github.com/cruegge/pam-gnupg) - Unlock GnuPG keys on login
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
@@ -2356,6 +2358,11 @@
 - [Coobaha/suomea](https://github.com/Coobaha/suomea) - Tools to learn Finnish. Includes Web app, Anki integration and Alfred workflow.
 - [lettier/blender-keymap-trainer](https://github.com/lettier/blender-keymap-trainer) - :keyboard: Digital flashcards for memorizing Blender's shortcut keys.
 
+## tailwind 
+
+- [uigywnkiub/diet-me](https://github.com/uigywnkiub/diet-me) - Take a photo. Get calories, protein, fat, and carbs. Simple as that.
+- [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
+
 ## tailwindcss 
 
 - [sussy-code/smov](https://github.com/sussy-code/smov) - Sudo-flix's source code (Allegedly)
@@ -2470,6 +2477,11 @@
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [Andr3as07/dotfiles](https://github.com/Andr3as07/dotfiles) - 
+
+## ui 
+
+- [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 ## vim 
 
