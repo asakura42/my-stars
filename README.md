@@ -1338,7 +1338,7 @@
 - [benawad/vsinder](https://github.com/benawad/vsinder) - Dating App for VSCode
 - [TheYarin/ShellPiper](https://github.com/TheYarin/ShellPiper) - ShellPiper is an editor for writing long pipe one-liners in the shell
 - [erezrokah/gitchi](https://github.com/erezrokah/gitchi) - Turn GitHub Pull Request Comments into a Chat
-- [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
+- [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TypeScript and TensorFlow.js.
 
 ## Typst 
