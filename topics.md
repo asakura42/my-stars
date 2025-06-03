@@ -814,7 +814,7 @@
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [ncarlier/readflow](https://github.com/ncarlier/readflow) - readflow is a news-reading (or read-it-later) solution focused on versatility and simplicity.
 - [SkobelevIgor/stackexchange-xml-converter](https://github.com/SkobelevIgor/stackexchange-xml-converter) - Stackexchange (e.g., stackoverflow) data dump converter from XML to CSV format.
-- [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
+- [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [singalhimanshu/taskgo](https://github.com/singalhimanshu/taskgo) - Fast and simple terminal based Kanban board manager
 - [wlanboy/kanbantabs](https://github.com/wlanboy/kanbantabs) - golang based console kanban board
 - [jpbruinsslot/anki-md](https://github.com/jpbruinsslot/anki-md) - 📚  A markdown to anki flash cards converter
