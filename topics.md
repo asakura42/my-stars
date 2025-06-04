@@ -731,7 +731,7 @@
 
 ## games 
 
-- [wea-f/ByePassHub](https://github.com/wea-f/ByePassHub) - 3000+ UNRESTRICTED unblockers, games, exploits, bookmarklets, and AI
+- [wea-f/ByePassHub](https://github.com/wea-f/ByePassHub) - 3500+ UNRESTRICTED unblockers, games, exploits, bookmarklets, and AI
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [guental/sigchk](https://github.com/guental/sigchk) - Verify GOG Setup Integrity/Authenticity
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
