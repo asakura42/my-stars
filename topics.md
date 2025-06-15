@@ -1312,6 +1312,7 @@
 
 ## others 
 
+- [Nutlope/ai-search-engine](https://github.com/Nutlope/ai-search-engine) - AI search engine in 100 LOC
 - [letmutex/htmd-cli](https://github.com/letmutex/htmd-cli) - The command line tool for htmd
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
