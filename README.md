@@ -697,7 +697,7 @@
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 - [wqhadija/online-marketer-chatgpt-prompts](https://github.com/wqhadija/online-marketer-chatgpt-prompts) - A skilled online business marketer utilizing ChatGPT technology to engage with potential customers and effectively pitch products or services.
-- [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
+- [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
 - [barely-lucid/meme-diets](https://github.com/barely-lucid/meme-diets) - Collection of noteworth meme diets
 - [FionnD/Reddit-QA-Corpus](https://github.com/FionnD/Reddit-QA-Corpus) - A question and answer corpus from the /r/askreddit subreddit. Designed for training seq2seq neural networks.
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
@@ -774,6 +774,7 @@
 
 ## Python 
 
+- [Ariskrisen/immersive_morrowind_llm_ai](https://github.com/Ariskrisen/immersive_morrowind_llm_ai) - Immersive Morrowind LLM AI mod
 - [drzdo/immersive_morrowind_llm_ai](https://github.com/drzdo/immersive_morrowind_llm_ai) - Immersive Morrowind LLM AI mod
 - [Nutlope/ai-search-engine](https://github.com/Nutlope/ai-search-engine) - AI search engine in 100 LOC
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
