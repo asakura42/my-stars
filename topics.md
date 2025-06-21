@@ -1312,6 +1312,7 @@
 
 ## others 
 
+- [Ariskrisen/immersive_morrowind_llm_ai](https://github.com/Ariskrisen/immersive_morrowind_llm_ai) - Immersive Morrowind LLM AI mod
 - [drzdo/immersive_morrowind_llm_ai](https://github.com/drzdo/immersive_morrowind_llm_ai) - Immersive Morrowind LLM AI mod
 - [Nutlope/ai-search-engine](https://github.com/Nutlope/ai-search-engine) - AI search engine in 100 LOC
 - [letmutex/htmd-cli](https://github.com/letmutex/htmd-cli) - The command line tool for htmd
@@ -1377,7 +1378,6 @@
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [bivav/automate_all_social_media](https://github.com/bivav/automate_all_social_media) - Just don't want to use smartphone so will use email to see everything I need every 30 mins.
 - [maxhebditch/rss-roller](https://github.com/maxhebditch/rss-roller) - Shell script for generating and updating rss feeds
-- [Reddiepoint/userscripts](https://github.com/Reddiepoint/userscripts) - 
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [KenKundert/emborg](https://github.com/KenKundert/emborg) - Interactive command line interface to Borg Backup
 - [arcolinux/archlinux-tweak-tool](https://github.com/arcolinux/archlinux-tweak-tool) - 
@@ -1606,7 +1606,7 @@
 - [Ajatt-Tools/AnkiNoteTypes](https://github.com/Ajatt-Tools/AnkiNoteTypes) - 🍉 A collection of note types for Anki 2.1
 - [Servarr/Wiki](https://github.com/Servarr/Wiki) - 
 - [magnus-ISU/anki-touch](https://github.com/magnus-ISU/anki-touch) - Anki 2.x add-on that helps using with the touch interface
-- [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
+- [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
 - [florianjacob/dsn-traveller](https://github.com/florianjacob/dsn-traveller) - Travelling the Matrix network, for Science!
 - [turt2live/matrix-voyager-bot](https://github.com/turt2live/matrix-voyager-bot) - A Matrix bot that attempts to travel the whole network, finding rooms along the way
 - [tatsumoto-ren/matrix](https://github.com/tatsumoto-ren/matrix) - Sort public Matrix servers.
@@ -1710,7 +1710,6 @@
 - [StefanoFiumara/harry-potter-tcg](https://github.com/StefanoFiumara/harry-potter-tcg) - A digital recreation of the old Harry Potter Trading Card Game developed (and sadly discontinued) by Wizards of the Coast.
 - [jsz4n/lwt-docker](https://github.com/jsz4n/lwt-docker) - Learning With Texts with Docker
 - [padgettr/xomxplayer](https://github.com/padgettr/xomxplayer) - Simple X11 window control and mapping for omxplayer
-- [rfc-2549/demiurge](https://github.com/rfc-2549/demiurge) - Demiurge -- CLI client for pleroma
 - [OpenSourceImageFolder/OSIF](https://github.com/OpenSourceImageFolder/OSIF) - The Open Source Image Folder Project
 - [etagate/gigacat](https://github.com/etagate/gigacat) - 
 - [seekwhencer/Playlist-Automation](https://github.com/seekwhencer/Playlist-Automation) - 
