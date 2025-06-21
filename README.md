@@ -138,7 +138,6 @@
 - [randoragon/groffhl](https://github.com/randoragon/groffhl) - Groff Code Syntax Highlighting
 - [aligrudi/neatroff](https://github.com/aligrudi/neatroff) - Neatroff troff clone
 - [padgettr/xomxplayer](https://github.com/padgettr/xomxplayer) - Simple X11 window control and mapping for omxplayer
-- [rfc-2549/demiurge](https://github.com/rfc-2549/demiurge) - Demiurge -- CLI client for pleroma
 - [sgerwk/pdftoroff](https://github.com/sgerwk/pdftoroff) - view pdf on X11 and the Linux framebuffer; resize pdf; convert pdf to text, html, TeX, groff
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
@@ -543,7 +542,6 @@
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [ftde0/yt2009](https://github.com/ftde0/yt2009) - 2009 youtube frontend.
 - [seth-js/yomichan-es](https://github.com/seth-js/yomichan-es) - A Spanish hover dictionary. It's a modified version of Yomichan that works with Spanish (Castilian).
-- [Reddiepoint/userscripts](https://github.com/Reddiepoint/userscripts) - 
 - [fredserva/birdskitchen](https://github.com/fredserva/birdskitchen) - A Desktop Recipe Manager application using Electron & React.
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [FujiwaraChoki/NotesTaker](https://github.com/FujiwaraChoki/NotesTaker) - A webapp to take notes during class.
