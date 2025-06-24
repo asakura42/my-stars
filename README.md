@@ -614,7 +614,7 @@
 
 ## Lex 
 
-- [boneill02/md2roff](https://github.com/boneill02/md2roff) - Markdown to roff (ms) compiler
+- [boneill02/md2roff](https://github.com/boneill02/md2roff) - A markdown to roff (ms or manpage) compiler
 
 ## Lua 
 
