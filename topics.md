@@ -492,7 +492,7 @@
 
 ## compiler 
 
-- [boneill02/md2roff](https://github.com/boneill02/md2roff) - Markdown to roff (ms) compiler
+- [boneill02/md2roff](https://github.com/boneill02/md2roff) - A markdown to roff (ms or manpage) compiler
 - [tategakibunko/TypeNovel](https://github.com/tategakibunko/TypeNovel) - A simple markup language to write novel with types.
 
 ## computer-vision 
@@ -1150,7 +1150,7 @@
 ## markdown 
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [boneill02/md2roff](https://github.com/boneill02/md2roff) - Markdown to roff (ms) compiler
+- [boneill02/md2roff](https://github.com/boneill02/md2roff) - A markdown to roff (ms or manpage) compiler
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
