@@ -501,7 +501,6 @@
 
 ## config 
 
-- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei/telegram-configs-collector) - The Script Gathers Juicity, Hysteria, Tuic, Vless, Vmess, Trojan, and Shadowsocks Configurations From Telegram Channels and Subscription Links
 - [hl2guide/better-mpv-config](https://github.com/hl2guide/better-mpv-config) - An improved MPV Media Player v3 configuration file.
 - [jonathanpoelen/dotfiles](https://github.com/jonathanpoelen/dotfiles) - My configuration files (zsh, urxvt, i3, mpv, ...)
 - [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Easily switch between your git profiles
@@ -1333,7 +1332,7 @@
 - [romanvht/ByeDPIAndroid](https://github.com/romanvht/ByeDPIAndroid) - Приложение локально запускает ByeDPI и перенаправляет весь трафик через него
 - [erynith/movie-web-instances](https://github.com/erynith/movie-web-instances) - 
 - [rollerozxa/MC2MT](https://github.com/rollerozxa/MC2MT) - Convert a Minecraft world into a Luanti world
-- [lilendian0x00/xray-knife](https://github.com/lilendian0x00/xray-knife) - A swiss army knife for xray-core to do task such as parsing xray config links, batch testing (latency, speedtest), socks proxy client, etc
+- [lilendian0x00/xray-knife](https://github.com/lilendian0x00/xray-knife) - The Ultimate Swiss Army Knife for Xray and Sing-box
 - [daniel-seiler/ImageTheming](https://github.com/daniel-seiler/ImageTheming) - Match a wallpaper to your color scheme
 - [MartinPacker/md2pptx](https://github.com/MartinPacker/md2pptx) - Markdown To PowerPoint converter
 - [Zaruber/Sheetswbparser](https://github.com/Zaruber/Sheetswbparser) - 🔍 Парсер позиций товаров Wildberries в Google Sheets
@@ -2400,7 +2399,6 @@
 - [sshrshnv/tgstorage](https://github.com/sshrshnv/tgstorage) - Advanced "Saved Messages" of the Telegram. Store your notes, checklists, links, photos and any documents in Telegram Cloud.
 - [NotStatilko/tgbox-cli](https://github.com/NotStatilko/tgbox-cli) - CLI interface to the TGBOX
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr
-- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei/telegram-configs-collector) - The Script Gathers Juicity, Hysteria, Tuic, Vless, Vmess, Trojan, and Shadowsocks Configurations From Telegram Channels and Subscription Links
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 - [ar1ja/arigram](https://github.com/ar1ja/arigram) - [Migrated to self-hosted ari-web Forgejo: https://git.ari.lt/ari/arigram] A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
@@ -2532,7 +2530,6 @@
 
 - [BarbossHack/RiseupVPN-OpenVPN](https://github.com/BarbossHack/RiseupVPN-OpenVPN) - Simple Bash script that generates an OpenVPN configuration file for use with RiseupVPN
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
-- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei/telegram-configs-collector) - The Script Gathers Juicity, Hysteria, Tuic, Vless, Vmess, Trojan, and Shadowsocks Configurations From Telegram Channels and Subscription Links
 - [my0419/myvpn-desktop](https://github.com/my0419/myvpn-desktop) - VPN server configuration software. Protocols: L2TP, PPTP, OpenVPN, WireGuard, Socks5, ShadowSocks (v2ray). | Providers: DigitalOcean, Linode, CryptoServers, Hetzner Cloud, Custom Server
 
 ## vue 
