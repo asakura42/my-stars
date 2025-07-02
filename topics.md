@@ -1433,7 +1433,7 @@
 - [kmein/kaikki-stardict](https://github.com/kmein/kaikki-stardict) - StarDict dictionary files, generated from Wiktionary
 - [AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST) - iPTV Free List
 - [odnar-dev/termv-rewrite](https://github.com/odnar-dev/termv-rewrite) - 
-- [Mia-Rain/rsh](https://github.com/Mia-Rain/rsh) - versioning control for a new era
+- [miacate/rsh](https://github.com/miacate/rsh) - versioning control for a new era
 - [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
 - [tylerdotrar/mkdocs-coverpage](https://github.com/tylerdotrar/mkdocs-coverpage) - Customizable cover page for an MkDocs site.
 - [aarora79/my-reading-list](https://github.com/aarora79/my-reading-list) - Books I have read or want to read.
@@ -1758,7 +1758,7 @@
 - [mike42/mail2csv](https://github.com/mike42/mail2csv) - Export email messages in a Maildir as CSV file
 - [kynikos/outspline](https://github.com/kynikos/outspline) - Extensible outliner and personal time organizer to manage todo lists, schedule tasks, remind events.
 - [beranat/lockore](https://github.com/beranat/lockore) - Open source password manager application for Java ME (J2ME) mobile phones
-- [Mia-Rain/fedish](https://github.com/Mia-Rain/fedish) - POSIX sh fediverse client - Because I hate myself uwu
+- [miacate/fedish](https://github.com/miacate/fedish) - POSIX sh fediverse client - Because I hate myself uwu
 - [hoang-khoi/tksort](https://github.com/hoang-khoi/tksort) - A dead-simple task prioritizer, inspired by UNIX tsort.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [Kwpolska/todolist](https://github.com/Kwpolska/todolist) - Chris Warrick’s LaTeX Todo List.
@@ -1793,12 +1793,12 @@
 - [wansing/maildirfs](https://github.com/wansing/maildirfs) - A FUSE filesystem which serves a folder as a Maildir.
 - [megabytesofrem/aurora](https://github.com/megabytesofrem/aurora) - Probably the worlds smallest AUR helper.
 - [Pu-Anlai/todo_blocklet](https://github.com/Pu-Anlai/todo_blocklet) - A todo.txt GUI for i3blocks based on GTK
-- [Mia-Rain/shfire](https://github.com/Mia-Rain/shfire) - Making a discord client in POSIX sh, by jumping over the gateway cause it's useless, fuck your TOS
+- [miacate/shfire](https://github.com/miacate/shfire) - discord client in pure shell from a different era
 - [asciimoo/morty](https://github.com/asciimoo/morty) - Privacy aware web content sanitizer proxy as a service
 - [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) - A command line tool to highlight terms
 - [mbornet-hl/hl](https://github.com/mbornet-hl/hl) - Highlight (colorize) text data using regular expressions (efficient C program)
 - [benawad/vsinder](https://github.com/benawad/vsinder) - Dating App for VSCode
-- [Mia-Rain/shapplet](https://github.com/Mia-Rain/shapplet) - coreutils/busybox applets (certain/some) written in pure POSIX sh
+- [miacate/shapplet](https://github.com/miacate/shapplet) - coreutils/busybox applets (certain/some) written in pure POSIX sh
 - [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) - A Real Time Strategy game for Linux.
 - [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.5 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [timeopochin/GanTTY](https://github.com/timeopochin/GanTTY) - Project planning from the terminal
