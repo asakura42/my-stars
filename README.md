@@ -614,10 +614,11 @@
 
 ## Lex 
 
-- [boneill02/md2roff](https://github.com/boneill02/md2roff) - A markdown to roff (ms or manpage) compiler
+- [bmoneill/md2roff](https://github.com/bmoneill/md2roff) - A markdown to roff (ms or manpage) compiler
 
 ## Lua 
 
+- [MiragianCycle/OVIWrite](https://github.com/MiragianCycle/OVIWrite) - Integrated Writing Environment (IWE) based on NeoVim
 - [4e6/mpv-reload](https://github.com/4e6/mpv-reload) - mpv plugin for automatic reloading of slow/stuck video streams
 - [occivink/mpv-gallery-view](https://github.com/occivink/mpv-gallery-view) - Gallery-view scripts for mpv
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.3+.
