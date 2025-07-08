@@ -618,6 +618,7 @@
 
 ## Lua 
 
+- [jake-stewart/lazier.nvim](https://github.com/jake-stewart/lazier.nvim) - 
 - [MiragianCycle/OVIWrite](https://github.com/MiragianCycle/OVIWrite) - Integrated Writing Environment (IWE) based on NeoVim
 - [4e6/mpv-reload](https://github.com/4e6/mpv-reload) - mpv plugin for automatic reloading of slow/stuck video streams
 - [occivink/mpv-gallery-view](https://github.com/occivink/mpv-gallery-view) - Gallery-view scripts for mpv
@@ -773,6 +774,8 @@
 
 ## Python 
 
+- [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
+- [lambdasonly/VimWikiGraph](https://github.com/lambdasonly/VimWikiGraph) - A flask web application for visualising VimWiki. VimWikiGraph creates an undirected graphs of links between VimWiki files that affords filtering and highlighting.
 - [Ariskrisen/immersive_morrowind_llm_ai](https://github.com/Ariskrisen/immersive_morrowind_llm_ai) - Immersive Morrowind LLM AI mod
 - [drzdo/immersive_morrowind_llm_ai](https://github.com/drzdo/immersive_morrowind_llm_ai) - Immersive Morrowind LLM AI mod
 - [Nutlope/ai-search-engine](https://github.com/Nutlope/ai-search-engine) - AI search engine in 100 LOC
