@@ -213,6 +213,7 @@
 ## android 
 
 - [fguisso/CospendWise](https://github.com/fguisso/CospendWise) - A Flutter app to make your Nextcloud Cospend experience more beautiful!
+- [romanvht/ByeByeDPI](https://github.com/romanvht/ByeByeDPI) - Приложение локально запускает ByeDPI и перенаправляет весь трафик через него
 - [tim-gromeyer/VoiceAssistant](https://github.com/tim-gromeyer/VoiceAssistant) - Empower Your Voice, Secure Your Privacy - Experience VoiceAssistant, Your Customizable Offline Voice Assistant!
 - [Merrit/adventure_list](https://github.com/Merrit/adventure_list) - Todo list that syncs to all your devices
 - [Belluxx/Java2Smali](https://github.com/Belluxx/Java2Smali) - This tool converts java code to smali
@@ -492,7 +493,7 @@
 
 ## compiler 
 
-- [boneill02/md2roff](https://github.com/boneill02/md2roff) - A markdown to roff (ms or manpage) compiler
+- [bmoneill/md2roff](https://github.com/bmoneill/md2roff) - A markdown to roff (ms or manpage) compiler
 - [tategakibunko/TypeNovel](https://github.com/tategakibunko/TypeNovel) - A simple markup language to write novel with types.
 
 ## computer-vision 
@@ -991,6 +992,7 @@
 
 ## latex 
 
+- [MiragianCycle/OVIWrite](https://github.com/MiragianCycle/OVIWrite) - Integrated Writing Environment (IWE) based on NeoVim
 - [EnricoMiccoli/TeXalendar](https://github.com/EnricoMiccoli/TeXalendar) - LaTeX weekly planner
 - [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 - [plainoldcheese/groff-guide](https://github.com/plainoldcheese/groff-guide) - 📜 a simple example document that is easily readable so that it can be used as a learning tool to get up and running with groff very quickly.
@@ -1149,7 +1151,7 @@
 ## markdown 
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [boneill02/md2roff](https://github.com/boneill02/md2roff) - A markdown to roff (ms or manpage) compiler
+- [bmoneill/md2roff](https://github.com/bmoneill/md2roff) - A markdown to roff (ms or manpage) compiler
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
@@ -1215,6 +1217,7 @@
 
 ## neovim 
 
+- [MiragianCycle/OVIWrite](https://github.com/MiragianCycle/OVIWrite) - Integrated Writing Environment (IWE) based on NeoVim
 - [nims11/vim-nano](https://github.com/nims11/vim-nano) - Mighty nano inside a vim
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.3+.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
@@ -1311,6 +1314,8 @@
 
 ## others 
 
+- [lambdasonly/VimWikiGraph](https://github.com/lambdasonly/VimWikiGraph) - A flask web application for visualising VimWiki. VimWikiGraph creates an undirected graphs of links between VimWiki files that affords filtering and highlighting.
+- [jake-stewart/lazier.nvim](https://github.com/jake-stewart/lazier.nvim) - 
 - [Ariskrisen/immersive_morrowind_llm_ai](https://github.com/Ariskrisen/immersive_morrowind_llm_ai) - Immersive Morrowind LLM AI mod
 - [drzdo/immersive_morrowind_llm_ai](https://github.com/drzdo/immersive_morrowind_llm_ai) - Immersive Morrowind LLM AI mod
 - [Nutlope/ai-search-engine](https://github.com/Nutlope/ai-search-engine) - AI search engine in 100 LOC
@@ -1329,7 +1334,6 @@
 - [slasjh/cy](https://github.com/slasjh/cy) - 
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [fatyzzz/Byedpi-Setup](https://github.com/fatyzzz/Byedpi-Setup) - Скрипт, для подбора настроек и автоустановки ByeDPI на Linux
-- [romanvht/ByeDPIAndroid](https://github.com/romanvht/ByeDPIAndroid) - Приложение локально запускает ByeDPI и перенаправляет весь трафик через него
 - [erynith/movie-web-instances](https://github.com/erynith/movie-web-instances) - 
 - [rollerozxa/MC2MT](https://github.com/rollerozxa/MC2MT) - Convert a Minecraft world into a Luanti world
 - [lilendian0x00/xray-knife](https://github.com/lilendian0x00/xray-knife) - The Ultimate Swiss Army Knife for Xray and Sing-box
@@ -2506,6 +2510,7 @@
 
 ## vim 
 
+- [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [PlankCipher/kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings
 - [nims11/vim-nano](https://github.com/nims11/vim-nano) - Mighty nano inside a vim
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.3+.
