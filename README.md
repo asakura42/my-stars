@@ -1361,6 +1361,7 @@
 
 ## Vim Script 
 
+- [lervag/wiki.vim](https://github.com/lervag/wiki.vim) - A wiki plugin for Vim
 - [zaid/vim-rec](https://github.com/zaid/vim-rec) - GNU Recutils syntax highlighting support for Vim
 - [nims11/vim-nano](https://github.com/nims11/vim-nano) - Mighty nano inside a vim
 - [tucnak/vim-playfount](https://github.com/tucnak/vim-playfount) - Playfount is a dialect of Fountain plaintext screenwriting markup language.
