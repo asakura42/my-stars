@@ -866,7 +866,7 @@
 - [clavesi/ffmpeg-automated-editor](https://github.com/clavesi/ffmpeg-automated-editor) - A program which automatically takes in videos and spits out a new video made up of shortened clips from the old videos.
 - [coderefinery/ffmpeg-editlist](https://github.com/coderefinery/ffmpeg-editlist) - Script ffmpeg video cutting
 - [agent-storm/automatic-video-editor](https://github.com/agent-storm/automatic-video-editor) - A simple Terminal based application that takes a image and audio file/spotify playlist link and outputs a video of desired length in mp4 format.
-- [aka-nikko/Automated-Content-Generator](https://github.com/aka-nikko/Automated-Content-Generator) - An Automation Tool to generate videos for Youtube and Instagram.
+- [aka-nikko/automated-content-generator](https://github.com/aka-nikko/automated-content-generator) - An Automation Tool to generate videos for Youtube and Instagram.
 - [jliljebl/flowblade](https://github.com/jliljebl/flowblade) - Video Editor for Linux
 - [QuestForTetris/QFT](https://github.com/QuestForTetris/QFT) - A repository for the Quest For Tetris
 - [CatharsisFonts/Ysabeau](https://github.com/CatharsisFonts/Ysabeau) - Ysabeau: The essence of Garamond in an open-source sans-serif typeface
