@@ -74,7 +74,6 @@
 
 ## Awk 
 
-- [amitzionii/awnki](https://github.com/amitzionii/awnki) - An Anki written in awk
 - [huijunchen9260/bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk
 - [icyphox/mawkdown](https://github.com/icyphox/mawkdown) - a subset of markdown, written in awk
 - [LukeSmithxyz/vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate Bible on the Command Line
