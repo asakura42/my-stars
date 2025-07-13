@@ -246,7 +246,7 @@
 - [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [druidamix/Opensubtitles-downloader](https://github.com/druidamix/Opensubtitles-downloader) - Opensubtitles.com downloader using the new API.
-- [aka-nikko/Automated-Content-Generator](https://github.com/aka-nikko/Automated-Content-Generator) - An Automation Tool to generate videos for Youtube and Instagram.
+- [aka-nikko/automated-content-generator](https://github.com/aka-nikko/automated-content-generator) - An Automation Tool to generate videos for Youtube and Instagram.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 ## archlinux 
@@ -279,7 +279,7 @@
 
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [DmytroNorth/subtites_factor_stretch](https://github.com/DmytroNorth/subtites_factor_stretch) - A function that stretches subtitles by a given factor - Python
-- [aka-nikko/Automated-Content-Generator](https://github.com/aka-nikko/Automated-Content-Generator) - An Automation Tool to generate videos for Youtube and Instagram.
+- [aka-nikko/automated-content-generator](https://github.com/aka-nikko/automated-content-generator) - An Automation Tool to generate videos for Youtube and Instagram.
 - [vasani-arpit/Social-Media-Automation](https://github.com/vasani-arpit/Social-Media-Automation) - Automate social media because you don't have to be active on all of them😉. Best way to be active on all social media without actually being active on them. 😃
 - [en9inerd/tgeraser](https://github.com/en9inerd/tgeraser) - Tool to delete all your messages from chat/channel/conversation on Telegram without requiring admin privileges
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
@@ -913,7 +913,7 @@
 
 ## instagram 
 
-- [aka-nikko/Automated-Content-Generator](https://github.com/aka-nikko/Automated-Content-Generator) - An Automation Tool to generate videos for Youtube and Instagram.
+- [aka-nikko/automated-content-generator](https://github.com/aka-nikko/automated-content-generator) - An Automation Tool to generate videos for Youtube and Instagram.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [vasani-arpit/Social-Media-Automation](https://github.com/vasani-arpit/Social-Media-Automation) - Automate social media because you don't have to be active on all of them😉. Best way to be active on all social media without actually being active on them. 😃
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
@@ -1357,7 +1357,6 @@
 - [NeonGeckoCom/NeonCore](https://github.com/NeonGeckoCom/NeonCore) - Neon Core extends Mycroft core with more modular code, extended multi-user support, and more.
 - [zacharyvoase/humanhash](https://github.com/zacharyvoase/humanhash) - Human-readable digests.
 - [wolfeidau/humanhash](https://github.com/wolfeidau/humanhash) - humanhash - make a hash more human.
-- [amitzionii/awnki](https://github.com/amitzionii/awnki) - An Anki written in awk
 - [msavva/transphoner](https://github.com/msavva/transphoner) - TransPhoner: Automated Mnemonic Keyword Generation
 - [sentinm/Chadwm-Arch](https://github.com/sentinm/Chadwm-Arch) - Chadwm installation optimized for archlinux users.
 - [arianneorpilla/DSL2JSON](https://github.com/arianneorpilla/DSL2JSON) - A script for converting DSL format dictionaries compatible with GoldenDict to the Migaku Dictionary format.
@@ -2104,7 +2103,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [utility-code/seeNoVideo](https://github.com/utility-code/seeNoVideo) - Text based video editor
 - [clavesi/ffmpeg-automated-editor](https://github.com/clavesi/ffmpeg-automated-editor) - A program which automatically takes in videos and spits out a new video made up of shortened clips from the old videos.
-- [aka-nikko/Automated-Content-Generator](https://github.com/aka-nikko/Automated-Content-Generator) - An Automation Tool to generate videos for Youtube and Instagram.
+- [aka-nikko/automated-content-generator](https://github.com/aka-nikko/automated-content-generator) - An Automation Tool to generate videos for Youtube and Instagram.
 - [rahulv07/Decypher](https://github.com/rahulv07/Decypher) - Decypher is a subtitle file generator for videos. It is made using Python and VOSK, an open source speech recognition engine.
 - [fastfingertips/letterboxd-downloader](https://github.com/fastfingertips/letterboxd-downloader) - Exports @Letterboxd lists to a CSV file using the CLI.
 - [ThisCakeIsALie/ki](https://github.com/ThisCakeIsALie/ki) - A tool to remember japanese word pronounciations using english words
@@ -2469,7 +2468,7 @@
 
 ## text-to-speech 
 
-- [aka-nikko/Automated-Content-Generator](https://github.com/aka-nikko/Automated-Content-Generator) - An Automation Tool to generate videos for Youtube and Instagram.
+- [aka-nikko/automated-content-generator](https://github.com/aka-nikko/automated-content-generator) - An Automation Tool to generate videos for Youtube and Instagram.
 - [kokimame/joytan](https://github.com/kokimame/joytan) - Creative Audio/Textbook Maker 🎵 📖 See our YouTube channel
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
