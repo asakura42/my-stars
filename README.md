@@ -1188,7 +1188,7 @@
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
 - [magnus-ISU/any2any](https://github.com/magnus-ISU/any2any) - any2any - generate and convert files from any format to any format
 - [prahou/teige](https://github.com/prahou/teige) - pure html image gallery
-- [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
+- [bugswriter/notflix](https://github.com/bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [naps62/zk](https://github.com/naps62/zk) - A simple zettelkasten setup using Vim, fzf and ripgrep
 - [AndrewCopeland/zettelkasten](https://github.com/AndrewCopeland/zettelkasten) - Creating notes with the zettelkasten note taking method and storing all notes on github
 - [rusty-snake/fireurl](https://github.com/rusty-snake/fireurl) - Fixing the firejail URL open issue
