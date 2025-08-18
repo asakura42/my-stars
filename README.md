@@ -910,7 +910,7 @@
 - [pettarin/forced-alignment-tools](https://github.com/pettarin/forced-alignment-tools) - A collection of links and notes on forced alignment tools
 - [mgaitan/miau](https://github.com/mgaitan/miau) - Remix speeches for fun and profit
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
-- [kanjieater/SubPlz](https://github.com/kanjieater/SubPlz) - 🫴 Generate, sync, and manage subtitle files for any media; Generate your own audiobook subs similar to Kindle's Immersion Reading 📖🎧
+- [kanjieater/SubPlz](https://github.com/kanjieater/SubPlz) - 🫴 Generate, sync, manage, and automate subtitle files for any media; Generate your own audiobook subs similar to Kindle's Immersion Reading 📖🎧
 - [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
@@ -1311,7 +1311,7 @@
 - [sshrshnv/tgstorage](https://github.com/sshrshnv/tgstorage) - Advanced "Saved Messages" of the Telegram. Store your notes, checklists, links, photos and any documents in Telegram Cloud.
 - [neurogen-dev/NeuroAPI](https://github.com/neurogen-dev/NeuroAPI) - Free ChatGPT 3.5 / Cheap ChatGPT 4o API / Бесплатный ChatGPT 3.5 Turbo / Дешевый СhatGPT 4o
 - [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Knowledge ingestion, LLM-agnostic deployment, and API connectivity for agents.
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [vangelov/calories-in](https://github.com/vangelov/calories-in) - A web-based meal plan editor for people who prepare all of their food.
 - [alexandria-reader/backend](https://github.com/alexandria-reader/backend) - Alexandria reading app back end
