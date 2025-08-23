@@ -13,7 +13,6 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
-- [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
 - [D](#d)
 - [Dart](#dart)
@@ -307,10 +306,6 @@
 - [WaLLy3K/wally3k.github.io](https://github.com/WaLLy3K/wally3k.github.io) - Repo for Firebog hosting
 - [skyline75489/Genie](https://github.com/skyline75489/Genie) - The Simplest Static Blog Generator You'll Ever Seen
 
-## CoffeeScript 
-
-- [pnlpal/dictionariez](https://github.com/pnlpal/dictionariez) - One dictionary to rule them all -- a browser extension to help you learn languages
-
 ## Common Lisp 
 
 - [gigamonkey/monkeylib-prose-diff](https://github.com/gigamonkey/monkeylib-prose-diff) - Diff program optimized for comparing text files containing prose.
@@ -562,6 +557,7 @@
 - [cmdruid/nostr-storage](https://github.com/cmdruid/nostr-storage) - A shared, encrypted cloud storage using Nostr.
 - [vbguyny/ws4kp](https://github.com/vbguyny/ws4kp) - WeatherStar 4000+
 - [HamletDuFromage/4chan-mass-reply](https://github.com/HamletDuFromage/4chan-mass-reply) - Easy mass replies on 4channel.org
+- [pnlpal/dictionariez](https://github.com/pnlpal/dictionariez) - One dictionary to rule them all -- a browser extension to help you learn languages
 - [turt2live/matrix-voyager-bot](https://github.com/turt2live/matrix-voyager-bot) - A Matrix bot that attempts to travel the whole network, finding rooms along the way
 - [nemanjan00/uniread](https://github.com/nemanjan00/uniread) - Uniread is Spritz like CLI fast reading software.
 - [davidmerfield/Stroke](https://github.com/davidmerfield/Stroke) - A text editor for first drafts
