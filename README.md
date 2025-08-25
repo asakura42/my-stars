@@ -696,7 +696,7 @@
 - [barely-lucid/meme-diets](https://github.com/barely-lucid/meme-diets) - Collection of noteworth meme diets
 - [FionnD/Reddit-QA-Corpus](https://github.com/FionnD/Reddit-QA-Corpus) - A question and answer corpus from the /r/askreddit subreddit. Designed for training seq2seq neural networks.
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
-- [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - Custom DNS Block Lists
+- [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - Custom DNS block lists
 - [koalagang/awesome-browserless](https://github.com/koalagang/awesome-browserless) - 😎 🌍 A curated list of awesome alternatives to apps tradtionally used in the web browser.
 - [majamin/oneliners.txt](https://github.com/majamin/oneliners.txt) - oneliners.txt
 - [weevilgit/Groff-Screenplay-Macro-Package](https://github.com/weevilgit/Groff-Screenplay-Macro-Package) - A mom-based groff macro package
