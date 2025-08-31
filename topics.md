@@ -1893,7 +1893,6 @@
 - [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [hastinbe/i3-volume](https://github.com/hastinbe/i3-volume) - Volume control and volume notifications
 - [quentinsence/mbm](https://github.com/quentinsence/mbm) - My Bookmark Manager: manage your bookmarks easily from the bash command line
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [regolith-linux/i3xrocks](https://github.com/regolith-linux/i3xrocks) - A fork of i3blocks that can read Xresources.
 - [ferru97/PyPaperBot](https://github.com/ferru97/PyPaperBot) - PyPaperBot is a Python tool for downloading scientific papers using Google Scholar, Crossref, SciHub, and SciDB.
 - [erezrokah/gitchi](https://github.com/erezrokah/gitchi) - Turn GitHub Pull Request Comments into a Chat
@@ -2227,6 +2226,7 @@
 - [yuxshao/ptcollab](https://github.com/yuxshao/ptcollab) - A collaborative piano-roll music sequencer!
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [lmartinking/TomatoTimer](https://github.com/lmartinking/TomatoTimer) - A Simple Pomodoro Timer that lives in the Menu Bar 🍅
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [mirukana/mirage](https://github.com/mirukana/mirage) - A fancy, customizable, keyboard-operable Qt/QML & Python Matrix chat client for encrypted and decentralized communication.
 - [volatide/concord](https://github.com/volatide/concord) - (really WIP) Discord client made in Qt5
 - [qTox/qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
