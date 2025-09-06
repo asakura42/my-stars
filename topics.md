@@ -1239,7 +1239,7 @@
 
 - [MiragianCycle/OVIWrite](https://github.com/MiragianCycle/OVIWrite) - Integrated Writing Environment (IWE) based on NeoVim
 - [nims11/vim-nano](https://github.com/nims11/vim-nano) - Mighty nano inside a vim
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.3+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [wsdjeg/vim-chat](https://github.com/wsdjeg/vim-chat) - :purple_heart: Chatting client for neovim/vim8
 - [nguyenvukhang/nvim-toggler](https://github.com/nguyenvukhang/nvim-toggler) - invert text in vim, purely with lua.
@@ -2541,7 +2541,7 @@
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [PlankCipher/kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings
 - [nims11/vim-nano](https://github.com/nims11/vim-nano) - Mighty nano inside a vim
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.3+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
 - [wsdjeg/vim-chat](https://github.com/wsdjeg/vim-chat) - :purple_heart: Chatting client for neovim/vim8
 - [trapd00r/utils](https://github.com/trapd00r/utils) - Small useful utilities for everyday work
 - [strang1ato/tibivi](https://github.com/strang1ato/tibivi) - Terminal based, vim-like time managment tool
