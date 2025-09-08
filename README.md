@@ -917,7 +917,7 @@
 - [PCigales/DLNAmpvRenderer](https://github.com/PCigales/DLNAmpvRenderer) - A script in Python 3 to turn mpv into a DLNA / UPnP renderer
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - [akissinger/dodo](https://github.com/akissinger/dodo) - A graphical, hackable email client based on notmuch
-- [Duff89/parser_avito](https://github.com/Duff89/parser_avito) - Avito Parser —бесплатный парсер для автоматического мониторинга новых объявлений на Avito
+- [Duff89/parser_avito](https://github.com/Duff89/parser_avito) - Avito Parser —бесплатный парсер для автоматического мониторинга новых объявлений на Avito и\или выгрузки объявлений в файл
 - [tvhong/incremental-reading](https://github.com/tvhong/incremental-reading) - Anki add-on providing incremental reading features
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [Ajatt-Tools/transformers_ocr](https://github.com/Ajatt-Tools/transformers_ocr) - 🍤 An OCR tool using maim with Transformers.
