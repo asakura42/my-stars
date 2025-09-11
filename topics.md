@@ -427,6 +427,7 @@
 
 ## chrome-extension 
 
+- [baptistecdr/aria2-extensions](https://github.com/baptistecdr/aria2-extensions) - Captures new download tasks and sends them to Aria2 automatically.
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
 - [pnlpal/dictionariez](https://github.com/pnlpal/dictionariez) - One dictionary to rule them all -- a browser extension to help you learn languages
@@ -909,6 +910,7 @@
 
 ## html 
 
+- [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [staart/site](https://github.com/staart/site) - 🏁📑 Static site generator for landing pages, docs, and more
 - [gonejack/html-to-epub](https://github.com/gonejack/html-to-epub) - This command line converts .html to .epub with images embed.
 - [prahou/teige](https://github.com/prahou/teige) - pure html image gallery
@@ -975,6 +977,7 @@
 
 ## javascript 
 
+- [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - 🛠️ FFmpeg Command Generator Web UI
 - [Xtrendence/X-Chat](https://github.com/Xtrendence/X-Chat) - A Node.js and Socket.IO chat web application with RSA-2048 and AES-256-CTR encryption.
@@ -1353,7 +1356,7 @@
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [edsu/feediverse](https://github.com/edsu/feediverse) - Send RSS/Atom feeds to Mastodon
-- [facundoolano/feedi](https://github.com/facundoolano/feedi) - RSS + Mastodon feed reader
+- [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal feed reader
 - [selfagency/mastofeedbot](https://github.com/selfagency/mastofeedbot) - A bot that posts RSS feeds to Mastodon via GitHub Actions
 - [richardmrodriguez/Beat-Rewrite](https://github.com/richardmrodriguez/Beat-Rewrite) - Beat - a simple and elegant screenwriting app - port for Windows and Linux
 - [snailyp/apichecker](https://github.com/snailyp/apichecker) - 浏览器插件版api检测工具
@@ -2012,7 +2015,7 @@
 
 ## parsing 
 
-- [Duff89/parser_avito](https://github.com/Duff89/parser_avito) - Avito Parser —бесплатный парсер для автоматического мониторинга новых объявлений на Avito и\или выгрузки объявлений в файл
+- [Duff89/parser_avito](https://github.com/Duff89/parser_avito) - Avito Parser —бесплатный парсер для автоматического мониторинга новых объявлений Avito и\или выгрузки объявлений в файл
 
 ## perl 
 
@@ -2146,7 +2149,7 @@
 - [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [PCigales/DLNAmpvRenderer](https://github.com/PCigales/DLNAmpvRenderer) - A script in Python 3 to turn mpv into a DLNA / UPnP renderer
-- [Duff89/parser_avito](https://github.com/Duff89/parser_avito) - Avito Parser —бесплатный парсер для автоматического мониторинга новых объявлений на Avito и\или выгрузки объявлений в файл
+- [Duff89/parser_avito](https://github.com/Duff89/parser_avito) - Avito Parser —бесплатный парсер для автоматического мониторинга новых объявлений Avito и\или выгрузки объявлений в файл
 - [Hellisotherpeople/CX_DB8](https://github.com/Hellisotherpeople/CX_DB8) - a contextual, biasable, word-or-sentence-or-paragraph extractive summarizer powered by the latest in text embeddings (Bert, Universal Sentence Encoder, Flair)
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [ar1ja/arigram](https://github.com/ar1ja/arigram) - [Migrated to self-hosted ari-web Forgejo: https://git.ari.lt/ari/arigram] A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
@@ -2537,6 +2540,7 @@
 
 ## ui 
 
+- [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
@@ -2582,6 +2586,7 @@
 
 ## web 
 
+- [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [D4n13l3k00/tapkofon](https://github.com/D4n13l3k00/tapkofon) - Tapkofon - веб-клиент Telegram для тапиков
 
 ## webapp 
