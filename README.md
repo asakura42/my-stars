@@ -524,6 +524,7 @@
 
 ## JavaScript 
 
+- [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [snailyp/apichecker](https://github.com/snailyp/apichecker) - 浏览器插件版api检测工具
 - [vinayaksodar/plot-lines](https://github.com/vinayaksodar/plot-lines) - Writing app for screenplays, web series etc
 - [Bedrockbreaker/afterwriting-labs](https://github.com/Bedrockbreaker/afterwriting-labs) - Post-processing for Fountain screenplays
@@ -667,6 +668,7 @@
 
 ## Others 
 
+- [baptistecdr/aria2-extensions](https://github.com/baptistecdr/aria2-extensions) - Captures new download tasks and sends them to Aria2 automatically.
 - [machiav3lli/alt3rnative](https://github.com/machiav3lli/alt3rnative) - Resources of knowledge and tools from and for the digital world.
 - [netstalking-core/netstalking-catalogue](https://github.com/netstalking-core/netstalking-catalogue) - Каталог нетсталкерских ресурсов, команд, инструментов, источников контента.
 - [wea-f/ByePassHub](https://github.com/wea-f/ByePassHub) - 3500+ UNRESTRICTED unblockers, games, exploits, bookmarklets, and AI
@@ -777,7 +779,7 @@
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [wenLiangcan/pip2pkgbuild](https://github.com/wenLiangcan/pip2pkgbuild) - Generate PKGBUILD file for a Python module from PyPi
 - [edsu/feediverse](https://github.com/edsu/feediverse) - Send RSS/Atom feeds to Mastodon
-- [facundoolano/feedi](https://github.com/facundoolano/feedi) - RSS + Mastodon feed reader
+- [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal feed reader
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 - [lfoppiano/document-qa](https://github.com/lfoppiano/document-qa) - Scientific Document Insight Q/A
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
@@ -917,7 +919,7 @@
 - [PCigales/DLNAmpvRenderer](https://github.com/PCigales/DLNAmpvRenderer) - A script in Python 3 to turn mpv into a DLNA / UPnP renderer
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - [akissinger/dodo](https://github.com/akissinger/dodo) - A graphical, hackable email client based on notmuch
-- [Duff89/parser_avito](https://github.com/Duff89/parser_avito) - Avito Parser —бесплатный парсер для автоматического мониторинга новых объявлений на Avito и\или выгрузки объявлений в файл
+- [Duff89/parser_avito](https://github.com/Duff89/parser_avito) - Avito Parser —бесплатный парсер для автоматического мониторинга новых объявлений Avito и\или выгрузки объявлений в файл
 - [tvhong/incremental-reading](https://github.com/tvhong/incremental-reading) - Anki add-on providing incremental reading features
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [Ajatt-Tools/transformers_ocr](https://github.com/Ajatt-Tools/transformers_ocr) - 🍤 An OCR tool using maim with Transformers.
