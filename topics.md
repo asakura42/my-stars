@@ -1367,7 +1367,6 @@
 - [slasjh/cy](https://github.com/slasjh/cy) - 
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [fatyzzz/Byedpi-Setup](https://github.com/fatyzzz/Byedpi-Setup) - Скрипт, для подбора настроек и автоустановки ByeDPI на Linux
-- [erynith/movie-web-instances](https://github.com/erynith/movie-web-instances) - 
 - [rollerozxa/MC2MT](https://github.com/rollerozxa/MC2MT) - Convert a Minecraft world into a Luanti world
 - [lilendian0x00/xray-knife](https://github.com/lilendian0x00/xray-knife) - The Ultimate Swiss Army Knife for Xray and Sing-box
 - [daniel-seiler/ImageTheming](https://github.com/daniel-seiler/ImageTheming) - Match a wallpaper to your color scheme
