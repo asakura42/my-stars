@@ -130,6 +130,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [numpy](#numpy)
+- [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -1300,6 +1301,12 @@
 
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 
+## obsidian 
+
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [uwidev/life-disciplines-projects](https://github.com/uwidev/life-disciplines-projects) - Life-Disciplines-Projects (LDP) is a life-management framework built within Obsidian. Feel free to transform it for your own personal needs.
+
 ## obsidian-md 
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -1376,7 +1383,7 @@
 - [joelmathewthomas/archinstall-luks2-lvm2-secureboot-tpm2](https://github.com/joelmathewthomas/archinstall-luks2-lvm2-secureboot-tpm2) - A complete Arch Linux installation guide with luks2 full disk encryption, and logical volumes with lvm2, and added security using secure boot and tpm2 luks key enrollment for auto unlocking encrypted 
 - [keithfancher/tvmv](https://github.com/keithfancher/tvmv) - Bulk-rename TV episode files with minimal fuss
 - [artem-russkikh/wireproxy-awg](https://github.com/artem-russkikh/wireproxy-awg) - AmneziaWG compatible wireguard client that exposes itself as a socks5 proxy
-- [ircfspace/endpoint](https://github.com/ircfspace/endpoint) - Suggested Endpoints for Warp
+- [ircfspace/endpoint](https://github.com/ircfspace/endpoint) - Suggested Endpoints for Warp & Masque
 - [ircfspace/warpkey](https://github.com/ircfspace/warpkey) - WARP+ Keys Collector
 - [FReak4L/warp-plus](https://github.com/FReak4L/warp-plus) - Get free WARP+ GBs in CloudFlare's 1.1.1.1!!
 - [ImMALWARE/bash-warp-generator](https://github.com/ImMALWARE/bash-warp-generator) - Генератор конфига Cloudflare WARP для AmneziaWG
