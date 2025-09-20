@@ -1152,7 +1152,7 @@
 - [maximilionus/byedpictl](https://github.com/maximilionus/byedpictl) - Experimental utility for user-friendly DPI desync on Linux
 - [fatyzzz/Byedpi-Setup](https://github.com/fatyzzz/Byedpi-Setup) - Скрипт, для подбора настроек и автоустановки ByeDPI на Linux
 - [BarbossHack/RiseupVPN-OpenVPN](https://github.com/BarbossHack/RiseupVPN-OpenVPN) - Simple Bash script that generates an OpenVPN configuration file for use with RiseupVPN
-- [ImMALWARE/bash-warp-generator](https://github.com/ImMALWARE/bash-warp-generator) - Генератор конфига Cloudflare WARP для AmneziaWG
+- [ImMALWARE/bash-warp-generator](https://github.com/ImMALWARE/bash-warp-generator) - Генератор конфига Cloudflare WARP для AmneziaVPN
 - [valorekhov/ovos-arch-linux](https://github.com/valorekhov/ovos-arch-linux) - PKGBUILD files and image scripts for OpenVoiceAssistant (OVOS)
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [peterpt/IPTV-CHECK](https://github.com/peterpt/IPTV-CHECK) - A script to check if the links in an iptv list file (m3u) are online or offline , and will create an output m3u file with valid urls only  .
