@@ -195,6 +195,7 @@
 - [windows](#windows)
 - [xml](#xml)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -2640,6 +2641,14 @@
 ## zig 
 
 - [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
+
+## zsh 
+
+- [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
+- [dyne/JaroMail](https://github.com/dyne/JaroMail) - Terminal UI email client to download, filter, search and archive messages off-line
+- [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
+- [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
+- [Andr3as07/dotfiles](https://github.com/Andr3as07/dotfiles) - 
 
 
 ## License
