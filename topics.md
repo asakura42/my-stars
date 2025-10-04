@@ -186,6 +186,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [vim](#vim)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -866,6 +867,7 @@
 
 ## hacktoberfest 
 
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [alltheplaces/alltheplaces](https://github.com/alltheplaces/alltheplaces) - A set of spiders and scrapers to extract location information from places that post their location on the internet.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
@@ -1362,7 +1364,6 @@
 - [drzdo/immersive_morrowind_llm_ai](https://github.com/drzdo/immersive_morrowind_llm_ai) - Immersive Morrowind LLM AI mod
 - [Nutlope/ai-search-engine](https://github.com/Nutlope/ai-search-engine) - AI search engine in 100 LOC
 - [letmutex/htmd-cli](https://github.com/letmutex/htmd-cli) - The command line tool for htmd
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [edsu/feediverse](https://github.com/edsu/feediverse) - Send RSS/Atom feeds to Mastodon
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal feed reader
@@ -1483,7 +1484,6 @@
 - [aarora79/my-reading-list](https://github.com/aarora79/my-reading-list) - Books I have read or want to read.
 - [MindscapeHQ/highweigh](https://github.com/MindscapeHQ/highweigh) - A lightweight roadmap generator
 - [Procrat/eva-web](https://github.com/Procrat/eva-web) - Web frontend for Eva
-- [ftorres16/my_weekly_schedule](https://github.com/ftorres16/my_weekly_schedule) - CLI for plotting weekly schedules. With Python.
 - [aryakaul/random-month-scheduler](https://github.com/aryakaul/random-month-scheduler) - 🗓️ - schedule random recurring events
 - [klimeryk/recalendar.js](https://github.com/klimeryk/recalendar.js) - ReCalendar - create your personalized calendar PDF for ReMarkable tablets
 - [Ajatt-Tools/twimm](https://github.com/Ajatt-Tools/twimm) - Tool for watching twitch broadcasts in a desired language (and a bit more)
@@ -2575,6 +2575,10 @@
 - [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
 - [karlch/vimiv](https://github.com/karlch/vimiv) - An image viewer with vim-like keybindings.
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
+
+## visualization 
+
+- [ftorres16/my_weekly_schedule](https://github.com/ftorres16/my_weekly_schedule) - CLI for plotting weekly schedules. With Python.
 
 ## vpn 
 
