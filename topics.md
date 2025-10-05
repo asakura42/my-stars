@@ -252,7 +252,6 @@
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [s3rgeym/hh-applicant-tool](https://github.com/s3rgeym/hh-applicant-tool) - Автоматизация дейcтвий на HH.RU: отклик на подходящие вакансии, обновление всех резюме...
-- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [druidamix/Opensubtitles-downloader](https://github.com/druidamix/Opensubtitles-downloader) - Opensubtitles.com downloader using the new API.
 - [aka-nikko/automated-content-generator](https://github.com/aka-nikko/automated-content-generator) - An Automation Tool to generate videos for Youtube and Instagram.
@@ -1049,7 +1048,6 @@
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A TUI bluetooth manager for Linux.
 - [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
 - [Ajatt-Tools/dictpopup](https://github.com/Ajatt-Tools/dictpopup) - Looks up selected (Japanese) text in your Yomichan dictionaries and displays the result as a popup.
-- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
 - [tkancf/rofi-snippet](https://github.com/tkancf/rofi-snippet) - Text expander for linux to be integrated with rofi
@@ -1139,7 +1137,6 @@
 
 ## mac 
 
-- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
 - [tomboy-notes/tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - Next generation of Tomboy
 - [lmartinking/TomatoTimer](https://github.com/lmartinking/TomatoTimer) - A Simple Pomodoro Timer that lives in the Menu Bar 🍅
@@ -1452,6 +1449,7 @@
 - [wydengyre/hunalign](https://github.com/wydengyre/hunalign) - 
 - [wydengyre/bitextual](https://github.com/wydengyre/bitextual) - a tool for bilingual text alignment
 - [averkij/lingtrain-aligner](https://github.com/averkij/lingtrain-aligner) - Lingtrain Aligner — ML powered library for the accurate texts alignment.
+- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [dusking/opensubtitles-com](https://github.com/dusking/opensubtitles-com) - 
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [NapoleonWils0n/ffmpeg-scripts](https://github.com/NapoleonWils0n/ffmpeg-scripts) - ffmpeg shell scripts
@@ -2130,7 +2128,6 @@
 - [TheSpeedX/socker](https://github.com/TheSpeedX/socker) - Checks SOCKS Proxy List To find Working Proxies
 - [D4n13l3k00/tapkofon](https://github.com/D4n13l3k00/tapkofon) - Tapkofon - веб-клиент Telegram для тапиков
 - [kra-mo/hyperplane](https://github.com/kra-mo/hyperplane) - Mirrored from https://codeberg.org/kramo/hyperplane
-- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [NotStatilko/tgbox-cli](https://github.com/NotStatilko/tgbox-cli) - CLI interface to the TGBOX
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
