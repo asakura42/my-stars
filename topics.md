@@ -871,6 +871,7 @@
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
+- [hstsethi/awesome-j2me](https://github.com/hstsethi/awesome-j2me) - Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.
 - [txtsd/archosaur](https://github.com/txtsd/archosaur) - A PKGBUILD management framework for the Arch User Repository
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
