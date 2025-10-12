@@ -195,6 +195,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
+- [youtube](#youtube)
 - [zig](#zig)
 - [zsh](#zsh)
 
@@ -221,6 +222,7 @@
 
 ## android 
 
+- [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [fguisso/CospendWise](https://github.com/fguisso/CospendWise) - A Flutter app to make your Nextcloud Cospend experience more beautiful!
 - [romanvht/ByeByeDPI](https://github.com/romanvht/ByeByeDPI) - Приложение локально запускает ByeDPI и перенаправляет весь трафик через него
 - [tim-gromeyer/VoiceAssistant](https://github.com/tim-gromeyer/VoiceAssistant) - Empower Your Voice, Secure Your Privacy - Experience VoiceAssistant, Your Customizable Offline Voice Assistant!
@@ -521,6 +523,7 @@
 
 ## cpp 
 
+- [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [Emanem/nettop](https://github.com/Emanem/nettop) - Utility to show network traffic (both TCP and UDP v4 and v6) split by process and remote host
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
 - [floe/backscrub](https://github.com/floe/backscrub) - Virtual Video Device for Background Replacement with Deep Semantic Segmentation
@@ -1006,6 +1009,7 @@
 
 ## kotlin 
 
+- [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
@@ -1042,6 +1046,7 @@
 
 ## linux 
 
+- [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [ohwgiles/focal](https://github.com/ohwgiles/focal) - Calendar application for Linux with CalDAV
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [Merrit/adventure_list](https://github.com/Merrit/adventure_list) - Todo list that syncs to all your devices
@@ -1356,6 +1361,7 @@
 
 ## others 
 
+- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 - [lambdasonly/VimWikiGraph](https://github.com/lambdasonly/VimWikiGraph) - A flask web application for visualising VimWiki. VimWikiGraph creates an undirected graphs of links between VimWiki files that affords filtering and highlighting.
 - [jake-stewart/lazier.nvim](https://github.com/jake-stewart/lazier.nvim) - 
 - [Ariskrisen/immersive_morrowind_llm_ai](https://github.com/Ariskrisen/immersive_morrowind_llm_ai) - Immersive Morrowind LLM AI mod
@@ -1848,7 +1854,6 @@
 - [sjl/t](https://github.com/sjl/t) - A command-line todo list manager for people that want to finish tasks, not organize them.  (git mirror)
 - [fi3te/NotificationCron](https://github.com/fi3te/NotificationCron) - Notification Cron is a straightforward tool to schedule recurring notifications on your phone without adding calendar entries
 - [y-yagi/croncal](https://github.com/y-yagi/croncal) - croncal shows crontab list to calendar
-- [SimonDaNinja/youtube_rss](https://github.com/SimonDaNinja/youtube_rss) - A YouTube-client for managing subscriptions and watching videos anonymously over Tor without a Google account.
 - [jtushman/pivotal_tools](https://github.com/jtushman/pivotal_tools) - geeky command-line interface with additional scrum, planning poker, and changelog generation features
 - [connermcd/gtd](https://github.com/connermcd/gtd) - A simple shell script for effective time management.
 - [maoiscat/mpv-osc-modern](https://github.com/maoiscat/mpv-osc-modern) - Another mpv osc script
@@ -1918,7 +1923,6 @@
 - [betaiotazeta/AutoShiftPlanner](https://github.com/betaiotazeta/AutoShiftPlanner) - Auto Shift Planner is a user-friendly desktop application that can design detailed employees shift schedules and solve them automatically while meeting the maximum satisfaction of constraints.
 - [sayan01/scripts](https://github.com/sayan01/scripts) - scripts
 - [jfogarty/latex-createspace-bookcover](https://github.com/jfogarty/latex-createspace-bookcover) - Generates a customizable print-on-demand paperback book cover as a PDF using LaTeX
-- [cvzi/mpv-youtube-upnext](https://github.com/cvzi/mpv-youtube-upnext) - A userscript for MPV that allows you to play "up next"/recommended youtube videos ⏭️
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [torpoker/app](https://github.com/torpoker/app) - Torpoker PyQt5 App
 - [Maproom/qmapshack](https://github.com/Maproom/qmapshack) - Consumer grade GIS software
@@ -2611,6 +2615,7 @@
 
 ## windows 
 
+- [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [Merrit/adventure_list](https://github.com/Merrit/adventure_list) - Todo list that syncs to all your devices
@@ -2640,6 +2645,18 @@
 
 - [ShellShoccar-jpn/Parsrs](https://github.com/ShellShoccar-jpn/Parsrs) - CSV, JSON, XML text parsers and generators written in pure POSIX shellscript
 - [SkobelevIgor/stackexchange-xml-converter](https://github.com/SkobelevIgor/stackexchange-xml-converter) - Stackexchange (e.g., stackoverflow) data dump converter from XML to CSV format.
+
+## youtube 
+
+- [aka-nikko/automated-content-generator](https://github.com/aka-nikko/automated-content-generator) - An Automation Tool to generate videos for Youtube and Instagram.
+- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
+- [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
+- [SimonDaNinja/youtube_rss](https://github.com/SimonDaNinja/youtube_rss) - A YouTube-client for managing subscriptions and watching videos anonymously over Tor without a Google account.
+- [pauloo27/neptune](https://github.com/pauloo27/neptune) - 🎧 A Work In Progress YouTube based song player, made with GTK and GoLang
+- [pauloo27/tuner](https://github.com/pauloo27/tuner) - 🎵 Search and Play songs from YouTube inside your terminal
+- [cvzi/mpv-youtube-upnext](https://github.com/cvzi/mpv-youtube-upnext) - A userscript for MPV that allows you to play "up next"/recommended youtube videos ⏭️
+- [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
 
 ## zig 
 
