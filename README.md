@@ -495,6 +495,7 @@
 
 ## Java 
 
+- [hapepo23/foreign-language-text-reader](https://github.com/hapepo23/foreign-language-text-reader) - This is the official "Foreign Language Text Reader" (FLTR), a Java application for language learning.
 - [Belluxx/Java2Smali](https://github.com/Belluxx/Java2Smali) - This tool converts java code to smali
 - [hstsethi/awesome-j2me](https://github.com/hstsethi/awesome-j2me) - Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.
 - [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille) - 📲🚫 Block unwanted calls effortlessly. Supports regex. wildcard and open-source bans-lists. Fork of YetAnotherCallBlocker.
@@ -732,6 +733,7 @@
 
 ## PHP 
 
+- [hapepo23/learning-with-texts](https://github.com/hapepo23/learning-with-texts) - This is the official "Learning with Texts" (LWT), a web app for language learning.
 - [ircfspace/warpkey](https://github.com/ircfspace/warpkey) - WARP+ Keys Collector
 - [shinovon/mpgram-web](https://github.com/shinovon/mpgram-web) - Lightweight telegram web client based on MadelineProto
 - [AndiDittrich/dns-adblock](https://github.com/AndiDittrich/dns-adblock) - PHP based Converter to create dnsmasq and unbound compatible adblock lists
@@ -859,7 +861,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [LuteOrg/lute-v3](https://github.com/LuteOrg/lute-v3) - LUTE = Learning Using Texts: learn languages through reading.
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [danielgross/teleprompter](https://github.com/danielgross/teleprompter) - 
 - [mntmn/mntcut](https://github.com/mntmn/mntcut) - minimalist video editor based on python/gstreamer/ffmpeg
@@ -1183,7 +1185,7 @@
 - [Breaeth/Opensub-cli](https://github.com/Breaeth/Opensub-cli) - A cli tools for auto download opensubtitles.org subtitles !
 - [KevCui/opensubtitles-dl](https://github.com/KevCui/opensubtitles-dl) - Download subtitles from opensubtitles.org
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh using mpv from the shell/fzf + extras/goodies 📡🛸
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh using mpv from the shell/fzf + extras/goodies 🎧📡🛸
 - [Ratakor/quand](https://github.com/Ratakor/quand) - Simple calendar written in POSIX sh
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
