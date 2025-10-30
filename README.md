@@ -579,7 +579,7 @@
 - [hpennington/kanception](https://github.com/hpennington/kanception) - 
 - [idlewan/javascript-control](https://github.com/idlewan/javascript-control) - Browser WebExtension that adds a JS toggle button in Firefox's url bar
 - [MeiK2333/pyppeteer_stealth](https://github.com/MeiK2333/pyppeteer_stealth) - 
-- [DEgITx/rats-search](https://github.com/DEgITx/rats-search) - BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
+- [librats/rats-search](https://github.com/librats/rats-search) - rats-search: BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client
 - [underrobyn/AbsoluteDoubleTrace](https://github.com/underrobyn/AbsoluteDoubleTrace) - A web extension to block browser fingerprinting (Manifest V2)
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
 - [uncss/uncss](https://github.com/uncss/uncss) - Remove unused styles from CSS
@@ -676,7 +676,6 @@
 - [netstalking-core/netstalking-catalogue](https://github.com/netstalking-core/netstalking-catalogue) - Каталог нетсталкерских ресурсов, команд, инструментов, источников контента.
 - [wea-f/ByePassHub](https://github.com/wea-f/ByePassHub) - 3500+ UNRESTRICTED unblockers, games, exploits, bookmarklets, and AI
 - [joelmathewthomas/archinstall-luks2-lvm2-secureboot-tpm2](https://github.com/joelmathewthomas/archinstall-luks2-lvm2-secureboot-tpm2) - A complete Arch Linux installation guide with luks2 full disk encryption, and logical volumes with lvm2, and added security using secure boot and tpm2 luks key enrollment for auto unlocking encrypted 
-- [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [bpc-clone/bpc_firefox_support](https://github.com/bpc-clone/bpc_firefox_support) - 
 - [Nidelon/ru-block-v2ray-rules](https://github.com/Nidelon/ru-block-v2ray-rules) - Список заблокированных сайтов в России для xray или других маршрутизаторов трафика. List of blocked sites in Russia for xray or other traffic routers.
 - [fildpauz/vocab-lists](https://github.com/fildpauz/vocab-lists) - A list of vocabulary lists
@@ -802,6 +801,7 @@
 - [NeonGeckoCom/NeonCore](https://github.com/NeonGeckoCom/NeonCore) - Neon Core extends Mycroft core with more modular code, extended multi-user support, and more.
 - [zacharyvoase/humanhash](https://github.com/zacharyvoase/humanhash) - Human-readable digests.
 - [arianneorpilla/DSL2JSON](https://github.com/arianneorpilla/DSL2JSON) - A script for converting DSL format dictionaries compatible with GoldenDict to the Migaku Dictionary format.
+- [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [FreeLanguageTools/vocabsieve](https://github.com/FreeLanguageTools/vocabsieve) - Simple sentence mining tool for language learning
 - [milahu/annas-archive-torrent-client](https://github.com/milahu/annas-archive-torrent-client) - download individual files from annas-archive over bittorrent
 - [qtchaos/py_mega_account_generator](https://github.com/qtchaos/py_mega_account_generator) - 🤖 Create and manage MEGA accounts with ease, upload and share files.
@@ -1275,6 +1275,7 @@
 
 ## Svelte 
 
+- [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 - [lettier/blender-keymap-trainer](https://github.com/lettier/blender-keymap-trainer) - :keyboard: Digital flashcards for memorizing Blender's shortcut keys.
 
 ## TeX 
