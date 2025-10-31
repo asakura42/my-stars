@@ -1370,6 +1370,7 @@
 
 ## others 
 
+- [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 - [lambdasonly/VimWikiGraph](https://github.com/lambdasonly/VimWikiGraph) - A flask web application for visualising VimWiki. VimWikiGraph creates an undirected graphs of links between VimWiki files that affords filtering and highlighting.
 - [jake-stewart/lazier.nvim](https://github.com/jake-stewart/lazier.nvim) - 
@@ -2027,7 +2028,7 @@
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [cabal-club/cabal-desktop](https://github.com/cabal-club/cabal-desktop) - Desktop client for Cabal, the p2p/decentralized/local-first chat platform.
 - [ChesleyTan/ascii-chat](https://github.com/ChesleyTan/ascii-chat) - A terminal-based peer-to-peer (P2P) end-to-end-encrypted (E2EE) video chat application with text messaging, written in OCaml. Supports up to 4 clients. Supports connections over internet and LAN.
-- [DEgITx/rats-search](https://github.com/DEgITx/rats-search) - BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
+- [librats/rats-search](https://github.com/librats/rats-search) - rats-search: BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client
 - [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [SomajitDey/ipfs-chat](https://github.com/SomajitDey/ipfs-chat) - Real-time P2P messenger using go-ipfs pubsub. TUI. End-to-end encrypted texting & file-sharing. NAT traversal.
 - [qTox/qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
