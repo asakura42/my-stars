@@ -671,6 +671,7 @@
 
 ## Others 
 
+- [mrzjy/multimodal-genshin-impact](https://github.com/mrzjy/multimodal-genshin-impact) - Collecting multimodal page content for Genshin Impact fandom wiki
 - [baptistecdr/aria2-extensions](https://github.com/baptistecdr/aria2-extensions) - Captures new download tasks and sends them to Aria2 automatically.
 - [machiav3lli/alt3rnative](https://github.com/machiav3lli/alt3rnative) - Resources of knowledge and tools from and for the digital world.
 - [netstalking-core/netstalking-catalogue](https://github.com/netstalking-core/netstalking-catalogue) - Каталог нетсталкерских ресурсов, команд, инструментов, источников контента.
