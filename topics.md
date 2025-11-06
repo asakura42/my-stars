@@ -1373,6 +1373,8 @@
 
 ## others 
 
+- [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, 11, XP and Server. Generate RDP and MSI files for clients.
+- [mrzjy/multimodal-genshin-impact](https://github.com/mrzjy/multimodal-genshin-impact) - Collecting multimodal page content for Genshin Impact fandom wiki
 - [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 - [lambdasonly/VimWikiGraph](https://github.com/lambdasonly/VimWikiGraph) - A flask web application for visualising VimWiki. VimWikiGraph creates an undirected graphs of links between VimWiki files that affords filtering and highlighting.
