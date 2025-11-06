@@ -58,6 +58,7 @@
 - [Typst](#typst)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [Zig](#zig)
 - [jq](#jq)
@@ -1387,6 +1388,10 @@
 - [xuhdev/vim-latex-live-preview](https://github.com/xuhdev/vim-latex-live-preview) - A Vim Plugin for Lively Previewing LaTeX PDF Output
 - [LaTeX-Box-Team/LaTeX-Box](https://github.com/LaTeX-Box-Team/LaTeX-Box) - Lightweight Toolbox for LaTeX - New Official repository
 - [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
+
+## Visual Basic .NET 
+
+- [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, 11, XP and Server. Generate RDP and MSI files for clients.
 
 ## Vue 
 
