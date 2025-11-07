@@ -528,6 +528,7 @@
 
 ## JavaScript 
 
+- [weiruchenai1/api-key-tester](https://github.com/weiruchenai1/api-key-tester) - API Key 测活工具 - 用于批量检测 OpenAI、Claude、Gemini 等 API 密钥有效性 | Modern API Key Tester - Used for batch testing the validity of API keys such as OpenAI, Claude, Gemini
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [snailyp/apichecker](https://github.com/snailyp/apichecker) - 浏览器插件版api检测工具
 - [vinayaksodar/plot-lines](https://github.com/vinayaksodar/plot-lines) - Writing app for screenplays, web series etc
@@ -776,6 +777,7 @@
 
 ## Python 
 
+- [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
 - [rmusser01/tldw_server](https://github.com/rmusser01/tldw_server) - tl/dw (Too Long, Didn't Watch): Your Personal Research Multi-Tool - a naive attempt at 'A Young Lady's Illustrated Primer' (Open Source NotebookLM)
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
@@ -807,6 +809,7 @@
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [FreeLanguageTools/vocabsieve](https://github.com/FreeLanguageTools/vocabsieve) - Simple sentence mining tool for language learning
 - [milahu/annas-archive-torrent-client](https://github.com/milahu/annas-archive-torrent-client) - download individual files from annas-archive over bittorrent
+- [peterpt/IPTV-CHECK](https://github.com/peterpt/IPTV-CHECK) - A script to check if the links in an iptv list file (m3u) are online or offline , and will create an output m3u file with valid urls only  .
 - [qtchaos/py_mega_account_generator](https://github.com/qtchaos/py_mega_account_generator) - 🤖 Create and manage MEGA accounts with ease, upload and share files.
 - [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
@@ -1166,7 +1169,6 @@
 - [ImMALWARE/bash-warp-generator](https://github.com/ImMALWARE/bash-warp-generator) - Генератор конфига Cloudflare WARP для AmneziaVPN
 - [valorekhov/ovos-arch-linux](https://github.com/valorekhov/ovos-arch-linux) - PKGBUILD files and image scripts for OpenVoiceAssistant (OVOS)
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
-- [peterpt/IPTV-CHECK](https://github.com/peterpt/IPTV-CHECK) - A script to check if the links in an iptv list file (m3u) are online or offline , and will create an output m3u file with valid urls only  .
 - [maxhebditch/rss-roller](https://github.com/maxhebditch/rss-roller) - Shell script for generating and updating rss feeds
 - [173duprot/harm-less](https://github.com/173duprot/harm-less) - Inspired by suckless and cat-v, this is a simple single document wiki of suckless practices and minimal software.
 - [christian-korneck/tinytodo](https://github.com/christian-korneck/tinytodo) - a most minimal todo list in the shell
