@@ -354,7 +354,6 @@
 
 ## Go 
 
-- [sillsdev/go-aeneas](https://github.com/sillsdev/go-aeneas) - 
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 - [lichendust/meander](https://github.com/lichendust/meander) - 📝 A powerful, portable utility for production screenplays and manuscripts
 - [lilendian0x00/xray-knife](https://github.com/lilendian0x00/xray-knife) - The Ultimate Swiss Army Knife for Xray and Sing-box
@@ -778,6 +777,8 @@
 
 ## Python 
 
+- [tabahi/bournemouth-forced-aligner](https://github.com/tabahi/bournemouth-forced-aligner) - Extract phoneme-level timestamps from speeh audio.
+- [avinashvarna/aeneas](https://github.com/avinashvarna/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
 - [rmusser01/tldw_server](https://github.com/rmusser01/tldw_server) - tl/dw (Too Long, Didn't Watch): Your Personal Research Multi-Tool - a naive attempt at 'A Young Lady's Illustrated Primer' (Open Source NotebookLM)
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
