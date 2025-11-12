@@ -497,7 +497,7 @@
 ## Java 
 
 - [hapepo23/foreign-language-text-reader](https://github.com/hapepo23/foreign-language-text-reader) - This is the official "Foreign Language Text Reader" (FLTR), a Java application for language learning.
-- [Belluxx/Java2Smali](https://github.com/Belluxx/Java2Smali) - This tool converts java code to smali
+- [Belluxx/Java2Smali](https://github.com/Belluxx/Java2Smali) - Convert java code to smali with one command
 - [hstsethi/awesome-j2me](https://github.com/hstsethi/awesome-j2me) - Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.
 - [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille) - 📲🚫 Block unwanted calls effortlessly. Supports regex. wildcard and open-source bans-lists. Fork of YetAnotherCallBlocker.
 - [Dr4iv3rNope/NotSoAndroidAyuGram](https://github.com/Dr4iv3rNope/NotSoAndroidAyuGram) - AyuGram for Android without proprietary features.
