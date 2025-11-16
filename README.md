@@ -403,7 +403,6 @@
 - [inugami-dev64/mublog](https://github.com/inugami-dev64/mublog) - Small blogging daemon with static site and rss feed generation
 - [demostanis/gimmeasearx](https://github.com/demostanis/gimmeasearx) - Find a random searx instance
 - [divVerent/aaaaxy](https://github.com/divVerent/aaaaxy) - A nonlinear 2D puzzle platformer taking place in impossible spaces.
-- [yousefvand/secret-service](https://github.com/yousefvand/secret-service) - Service to keep secrets of applications
 - [ostafen/xdcc-cli](https://github.com/ostafen/xdcc-cli) - A command line tool for searching and downloading files from the IRC network.
 - [crholm/mark](https://github.com/crholm/mark) - 
 - [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app
