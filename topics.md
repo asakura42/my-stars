@@ -271,7 +271,6 @@
 - [txtsd/archosaur](https://github.com/txtsd/archosaur) - A PKGBUILD management framework for the Arch User Repository
 - [geigi/cozy](https://github.com/geigi/cozy) - 🎧 Listen to audio books 📚 on Linux
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
-- [yousefvand/secret-service](https://github.com/yousefvand/secret-service) - Service to keep secrets of applications
 - [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
@@ -807,7 +806,6 @@
 - [scotow/mego](https://github.com/scotow/mego) - A simple megadl wrapper with auto-retry and download list
 - [zupzup/calories](https://github.com/zupzup/calories) - Calories Tracker for the Commandline
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [yousefvand/secret-service](https://github.com/yousefvand/secret-service) - Service to keep secrets of applications
 - [strang1ato/tibivi](https://github.com/strang1ato/tibivi) - Terminal based, vim-like time managment tool
 - [Jacalz/rymdport](https://github.com/Jacalz/rymdport) - Cross-platform application for easy encrypted file, folder, and text sharing between devices.
 - [darkliquid/textstats](https://github.com/darkliquid/textstats) - Generate information about text including syllable counts and Flesch-Kincaid, Gunning-Fog, Coleman-Liau, SMOG and Automated Readability scores.
@@ -1089,7 +1087,6 @@
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
 - [ar1ja/arigram](https://github.com/ar1ja/arigram) - [Migrated to self-hosted ari-web Forgejo: https://git.ari.lt/ari/arigram] A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
-- [yousefvand/secret-service](https://github.com/yousefvand/secret-service) - Service to keep secrets of applications
 - [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file and folder transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between any devices that run Photon.
 - [tomboy-notes/tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - Next generation of Tomboy
 - [Darazaki/Spedread](https://github.com/Darazaki/Spedread) - GTK speed reading software: Read like a speedrunner!
