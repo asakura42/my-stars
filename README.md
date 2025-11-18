@@ -1083,6 +1083,7 @@
 
 ## Rust 
 
+- [mistrmochov/WaydroidSU](https://github.com/mistrmochov/WaydroidSU) - WaydroidSU, CLI Magisk manager and installer for Waydroid written in Rust
 - [mak-kirkland/chronicler](https://github.com/mak-kirkland/chronicler) - Chronicler is a free desktop app for note-takers, storytellers, researchers, and creative minds. It saves your notes as plain Markdown files on your computer
 - [letmutex/htmd-cli](https://github.com/letmutex/htmd-cli) - The command line tool for htmd
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
