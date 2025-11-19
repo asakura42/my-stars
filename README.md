@@ -425,7 +425,6 @@
 - [zix99/rare](https://github.com/zix99/rare) - Create terminal-based histograms, bar graphs, tables, heatmaps and more in realtime using regex and expressions.
 - [ajaxray/geek-life](https://github.com/ajaxray/geek-life) - The Todo List / Task Manager for Geeks in command line
 - [novus0rdo/e2eirc](https://github.com/novus0rdo/e2eirc) - E2EIRC allows you to create end to end encrpyted chat rooms on Regular (Unmodified) IRC servers and your favorite IRC client.
-- [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Easily switch between your git profiles
 - [doronbehar/pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
 - [Sambigeara/fuzzynote](https://github.com/Sambigeara/fuzzynote) - Terminal-based, hyper-fast, CRDT-backed, collaborative note-taking tool
 - [wansing/maildirfs](https://github.com/wansing/maildirfs) - A FUSE filesystem which serves a folder as a Maildir.
@@ -1143,6 +1142,7 @@
 - [mirdaki/ping](https://github.com/mirdaki/ping) - A cross-platform and blazingly fast Matrix client focused on group and gaming chat.
 - [agraven/retrix](https://github.com/agraven/retrix) - Tiny matrix client (mirrored from gitea)
 - [Arnavion/matrix-client-rs](https://github.com/Arnavion/matrix-client-rs) - TUI Matrix client in Rust.
+- [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Easily switch between your git profiles
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
 - [todotxt-rs/effitask](https://github.com/todotxt-rs/effitask) - Graphical task manager, based on the todo.txt format.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
