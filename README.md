@@ -282,7 +282,6 @@
 - [Maproom/qmapshack](https://github.com/Maproom/qmapshack) - Consumer grade GIS software
 - [MaartenBaert/ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
 - [textbrowser/dooble](https://github.com/textbrowser/dooble) - Dooble is a scientific browser. Minimal, cute, unusually stable, and available almost everyware. Completed?
-- [blueprint-freespeech/ricochet-refresh](https://github.com/blueprint-freespeech/ricochet-refresh) - Anonymous peer-to-peer instant messaging
 - [nwg-piotr/nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - GTK-based launchers: application grid, button bar, dmenu for sway and other window managers
 - [qTox/qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
 - [textbrowser/spot-on](https://github.com/textbrowser/spot-on) - Complexity is beautiful. Anyware, everyone. Completed.
@@ -1151,6 +1150,7 @@
 - [jonhoo/buzz](https://github.com/jonhoo/buzz) - A simple system tray application for notifying about unseen e-mail
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [hipstermojo/paperoni](https://github.com/hipstermojo/paperoni) - An article extractor in Rust
+- [blueprint-freespeech/ricochet-refresh](https://github.com/blueprint-freespeech/ricochet-refresh) - Anonymous peer-to-peer instant messaging
 - [Rudo2204/gd2anki](https://github.com/Rudo2204/gd2anki) - [WIP] An attempt to bridge the gap between looking up words in GoldenDict and create flashcard with Anki
 
 ## SCSS 
