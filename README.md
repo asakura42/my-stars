@@ -81,6 +81,7 @@
 
 ## Batchfile 
 
+- [G0-G4/ResponseBot](https://github.com/G0-G4/ResponseBot) - автоответчик на отзывы на маркетплейсах
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [islamadel/bat2exe](https://github.com/islamadel/bat2exe) - Automatically exported from code.google.com/p/bat2exe
 
