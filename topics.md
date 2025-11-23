@@ -1375,6 +1375,7 @@
 
 ## others 
 
+- [G0-G4/ResponseBot](https://github.com/G0-G4/ResponseBot) - автоответчик на отзывы на маркетплейсах
 - [avinashvarna/aeneas](https://github.com/avinashvarna/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
 - [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, 11, XP and Server. Generate RDP and MSI files for clients.
