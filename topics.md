@@ -34,6 +34,7 @@
 - [cli](#cli)
 - [cms](#cms)
 - [code](#code)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [config](#config)
@@ -88,6 +89,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [html](#html)
@@ -513,6 +515,32 @@
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 
+## command-line 
+
+- [lichendust/meander](https://github.com/lichendust/meander) - 📝 A powerful, portable utility for production screenplays and manuscripts
+- [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
+- [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
+- [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
+- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
+- [gonejack/html-to-epub](https://github.com/gonejack/html-to-epub) - This command line converts .html to .epub with images embed.
+- [ejv2/podbit](https://github.com/ejv2/podbit) - Podboat - Improved
+- [scotow/mego](https://github.com/scotow/mego) - A simple megadl wrapper with auto-retry and download list
+- [strang1ato/tibivi](https://github.com/strang1ato/tibivi) - Terminal based, vim-like time managment tool
+- [majamin/oneliners.txt](https://github.com/majamin/oneliners.txt) - oneliners.txt
+- [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
+- [ajaxray/geek-life](https://github.com/ajaxray/geek-life) - The Todo List / Task Manager for Geeks in command line
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command line terminal file manager
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+- [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
+- [rfc-2549/sakisafe](https://github.com/rfc-2549/sakisafe) - simple file upload
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
+- [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
+- [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
+- [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
+
 ## compiler 
 
 - [bmoneill/md2roff](https://github.com/bmoneill/md2roff) - A markdown to roff (ms or manpage) compiler
@@ -820,7 +848,7 @@
 
 ## godot 
 
-- [MudkipWorld/PNGTuber-Remix](https://github.com/MudkipWorld/PNGTuber-Remix) - An Open-source PNGTubing app based off PNGTuber+ :D
+- [MudkipWorld/PNGTuber-Remix](https://github.com/MudkipWorld/PNGTuber-Remix) - An Open-source PNGTubing app :D
 - [virtual-puppet-project/vpuppr](https://github.com/virtual-puppet-project/vpuppr) - VTuber application made with Godot 4
 
 ## golang 
@@ -874,6 +902,27 @@
 ## graphql 
 
 - [ncarlier/readflow](https://github.com/ncarlier/readflow) - readflow is a news-reading (or read-it-later) solution focused on versatility and simplicity.
+
+## gui 
+
+- [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
+- [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
+- [shouya/malakal](https://github.com/shouya/malakal) - Minimalistic day-planner app
+- [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - A web-based GUI for quickly generating common FFmpeg command-line operations.
+- [BenHerbst/idaesbasic](https://github.com/BenHerbst/idaesbasic) - Idaesbasic - An all in one project manager that stores everything in files directly into your project! 🤯
+- [kokimame/joytan](https://github.com/kokimame/joytan) - Creative Audio/Textbook Maker 🎵 📖 See our YouTube channel
+- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
+- [moson-mo/cryptor](https://github.com/moson-mo/cryptor) - Simple GUI application for gocryptfs
+- [Jacalz/rymdport](https://github.com/Jacalz/rymdport) - Cross-platform application for easy encrypted file, folder, and text sharing between devices.
+- [EntireTwix/Prioritize](https://github.com/EntireTwix/Prioritize) - just a quick test program as I mess around with imgui, although thats not to say this program lacks utility for simple task prioritization.
+- [TeaM-TL/FotoKilof](https://github.com/TeaM-TL/FotoKilof) - GUI for ImageMagick and Wand or Pillow
+- [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
+- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
+- [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [skyjake/lagrange](https://github.com/skyjake/lagrange) - A Beautiful Gemini Client
+- [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 
 ## hacktoberfest 
 
@@ -1272,7 +1321,6 @@
 - [wsdjeg/vim-chat](https://github.com/wsdjeg/vim-chat) - :purple_heart: Chatting client for neovim/vim8
 - [nguyenvukhang/nvim-toggler](https://github.com/nguyenvukhang/nvim-toggler) - invert text in vim, purely with lua.
 - [pocco81/high-str.nvim](https://github.com/pocco81/high-str.nvim) - 🦎 A NeoVim plugin for highlighting visual selections like in a normal document editor!
-- [ashzero2/VimPilot](https://github.com/ashzero2/VimPilot) - Copilot with extra steps ^-^
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
@@ -1491,7 +1539,6 @@
 - [phuslu/iploc](https://github.com/phuslu/iploc) - Fastest IP To Country Library
 - [deadYokai/yapng](https://github.com/deadYokai/yapng) - Yet Another PNGTuber
 - [Gemmstone/PyNGtuber](https://github.com/Gemmstone/PyNGtuber) - PNGtuber software made in Python and HTML
-- [shouya/malakal](https://github.com/shouya/malakal) - Minimalistic day-planner app
 - [StefanVukovic99/yezichak](https://github.com/StefanVukovic99/yezichak) - Pop-up dictionary extension for Chrome and Firefox.
 - [jpillora/media-sort](https://github.com/jpillora/media-sort) - Automatically organise your movies and tv series
 - [Ajatt-Tools/rdricpp](https://github.com/Ajatt-Tools/rdricpp) - 🍔 Rikaitan Deinflector Reference Implementation in C++.
@@ -1591,7 +1638,6 @@
 - [jeff-hughes/shellcaster](https://github.com/jeff-hughes/shellcaster) - Terminal-based podcast manager built in Rust
 - [nathangathright/podcast-platform-links](https://github.com/nathangathright/podcast-platform-links) - 
 - [Ckrielle/RSS-Feeder](https://github.com/Ckrielle/RSS-Feeder) - A script to automatically add Github, Youtube, Reddit, and Twitter feeds to newsboat
-- [ejv2/podbit](https://github.com/ejv2/podbit) - Podboat - Improved
 - [familyfriendlymikey/mpv-cut](https://github.com/familyfriendlymikey/mpv-cut) - An mpv plugin for cutting videos incredibly quickly.
 - [zlatinb/muwire](https://github.com/zlatinb/muwire) - MuWire file sharing client for I2P
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
@@ -1728,7 +1774,6 @@
 - [tobchen/Shane](https://github.com/tobchen/Shane) - A poor man and/or hipster's TUI screenwriting software.
 - [kohler/gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
 - [ole-tange/tangetools](https://github.com/ole-tange/tangetools) - Ole Tange's personal tools !!!  MOVED TO https://gitlab.com/ole.tange/tangetools !!!
-- [moson-mo/cryptor](https://github.com/moson-mo/cryptor) - Simple GUI application for gocryptfs
 - [deanproxy/eMail](https://github.com/deanproxy/eMail) - Command line SMTP client
 - [icyphox/mael](https://github.com/icyphox/mael) - [WIP] an experimental mail client written in bash (and a bit of python)
 - [dagraham/etm-tk](https://github.com/dagraham/etm-tk) - event and task manager
@@ -1831,7 +1876,6 @@
 - [hoang-khoi/tksort](https://github.com/hoang-khoi/tksort) - A dead-simple task prioritizer, inspired by UNIX tsort.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [Kwpolska/todolist](https://github.com/Kwpolska/todolist) - Chris Warrick’s LaTeX Todo List.
-- [EntireTwix/Prioritize](https://github.com/EntireTwix/Prioritize) - just a quick test program as I mess around with imgui, although thats not to say this program lacks utility for simple task prioritization.
 - [tsoding/todo-rs](https://github.com/tsoding/todo-rs) - Simple Interactive Terminal Todo App in Rust
 - [gavv/tagberry](https://github.com/gavv/tagberry) - Tag-oriented Qt5 desktop calendar, task manager, and todo list.
 - [HiveMinds/CoursePlanningTemplate](https://github.com/HiveMinds/CoursePlanningTemplate) - Makes latex templates for all your course work (assignments, lecture summaries, etc.), generates taskwarrior commands, enables syncing all course tasks with google calendar, sets up pseudo-anonymous o
@@ -2592,7 +2636,6 @@
 - [lukhio/adVIMsor](https://github.com/lukhio/adVIMsor) - A vim plugin to improve your writing quality and productivity
 - [rickhowe/diffchar.vim](https://github.com/rickhowe/diffchar.vim) - Highlight the exact differences, based on characters and words
 - [MilesCranmer/gso](https://github.com/MilesCranmer/gso) - 🏃  Google StackOverflow in Vim. Copy-pastes the code directly in your script.
-- [ashzero2/VimPilot](https://github.com/ashzero2/VimPilot) - Copilot with extra steps ^-^
 - [axvr/photon.vim](https://github.com/axvr/photon.vim) - A pair of Vim colour schemes with minimal syntax highlighting.
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
 - [simeji/winresizer](https://github.com/simeji/winresizer) - very simple vim plugin for easy resizing of your vim windows
