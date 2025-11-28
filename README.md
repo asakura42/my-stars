@@ -953,7 +953,7 @@
 - [tobchen/Shane](https://github.com/tobchen/Shane) - A poor man and/or hipster's TUI screenwriting software.
 - [dagraham/etm-tk](https://github.com/dagraham/etm-tk) - event and task manager
 - [8go/matrix-commander](https://github.com/8go/matrix-commander) - simple but convenient CLI-based Matrix client app for sending and receiving
-- [openstenoproject/plover](https://github.com/openstenoproject/plover) - Open source stenotype engine
+- [opensteno/plover](https://github.com/opensteno/plover) - Open source stenotype engine
 - [poljar/weechat-matrix](https://github.com/poljar/weechat-matrix) - Weechat Matrix protocol script written in python
 - [Euphrasiologist/bib_to_refer](https://github.com/Euphrasiologist/bib_to_refer) - Turn a BibTex file format into a refer database for use with groff.
 - [Hyperparticle/udify](https://github.com/Hyperparticle/udify) - A single model that parses Universal Dependencies across 75 languages. Given a sentence, jointly predicts part-of-speech tags, morphology tags, lemmas, and dependency trees.
