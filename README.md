@@ -330,7 +330,7 @@
 - [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file and folder transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between any devices that run Photon.
 - [Kaiteki-Fedi/Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 
 ## Dockerfile 
 
@@ -996,7 +996,7 @@
 - [OpenJarbas/kaldi_spotter](https://github.com/OpenJarbas/kaldi_spotter) - wake word spotting with kaldi
 - [kitplummer/clikan](https://github.com/kitplummer/clikan) - clikan is a super simple personal kanban board that runs in a CLI
 - [AnthonyDiGirolamo/todotxt-machine](https://github.com/AnthonyDiGirolamo/todotxt-machine) - an interactive terminal based todo.txt file editor with an interface similar to mutt
-- [Pu-Anlai/todo_blocklet](https://github.com/Pu-Anlai/todo_blocklet) - A todo.txt GUI for i3blocks based on GTK
+- [RealFerdinandDeSaussure/todo_blocklet](https://github.com/RealFerdinandDeSaussure/todo_blocklet) - A todo.txt GUI for i3blocks based on GTK
 - [f1nnix/magplan](https://github.com/f1nnix/magplan) - Project management system for publishers, magazines and content creators 🗓️⏱️✍🏼
 - [timeopochin/GanTTY](https://github.com/timeopochin/GanTTY) - Project planning from the terminal
 - [sjl/t](https://github.com/sjl/t) - A command-line todo list manager for people that want to finish tasks, not organize them.  (git mirror)
