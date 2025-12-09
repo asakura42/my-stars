@@ -281,6 +281,7 @@
 
 ## archlinux 
 
+- [joelmathewthomas/archinstall-luks2-lvm2-secureboot-tpm2](https://github.com/joelmathewthomas/archinstall-luks2-lvm2-secureboot-tpm2) - A complete Arch Linux installation guide with luks2 full disk encryption, and logical volumes with lvm2, and added security using secure boot and tpm2 luks key enrollment for auto unlocking encrypted 
 - [txtsd/archosaur](https://github.com/txtsd/archosaur) - A PKGBUILD management framework for the Arch User Repository
 - [geigi/cozy](https://github.com/geigi/cozy) - 🎧 Listen to audio books 📚 on Linux
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
@@ -1474,7 +1475,6 @@
 - [MartinPacker/md2pptx](https://github.com/MartinPacker/md2pptx) - Markdown To PowerPoint converter
 - [Zaruber/Sheetswbparser](https://github.com/Zaruber/Sheetswbparser) - 🔍 Парсер позиций товаров Wildberries в Google Sheets
 - [mohbattharani/LLaVA-Chef](https://github.com/mohbattharani/LLaVA-Chef) - FoodKG paper related models and results.
-- [joelmathewthomas/archinstall-luks2-lvm2-secureboot-tpm2](https://github.com/joelmathewthomas/archinstall-luks2-lvm2-secureboot-tpm2) - A complete Arch Linux installation guide with luks2 full disk encryption, and logical volumes with lvm2, and added security using secure boot and tpm2 luks key enrollment for auto unlocking encrypted 
 - [keithfancher/tvmv](https://github.com/keithfancher/tvmv) - Bulk-rename TV episode files with minimal fuss
 - [artem-russkikh/wireproxy-awg](https://github.com/artem-russkikh/wireproxy-awg) - AmneziaWG compatible wireguard client that exposes itself as a socks5 proxy
 - [ircfspace/endpoint](https://github.com/ircfspace/endpoint) - Suggested Endpoints for Warp & Masque
