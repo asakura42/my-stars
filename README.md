@@ -278,7 +278,6 @@
 - [byronknoll/cmix](https://github.com/byronknoll/cmix) - cmix is a lossless data compression program aimed at optimizing compression ratio at the cost of high CPU/memory usage.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [lmartinking/TomatoTimer](https://github.com/lmartinking/TomatoTimer) - A Simple Pomodoro Timer that lives in the Menu Bar 🍅
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [yar-sh/steins-gate-psp-patch](https://github.com/yar-sh/steins-gate-psp-patch) - An English Patch for Stein;Gate PSP 2011
 - [Maproom/qmapshack](https://github.com/Maproom/qmapshack) - Consumer grade GIS software
 - [MaartenBaert/ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
@@ -479,6 +478,7 @@
 - [etagate/gigacat](https://github.com/etagate/gigacat) - 
 - [spamgourmet/spamgourmet](https://github.com/spamgourmet/spamgourmet) - This is the actively maintained source for spamgourmet.com
 - [tosone/IOCCC](https://github.com/tosone/IOCCC) - IOCCC International Obfuscated C code contest entries http://www.ioccc.org
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
 - [chatmail/provider-db](https://github.com/chatmail/provider-db) - Database of Email Providers and how well they work with chatmail
 - [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.
