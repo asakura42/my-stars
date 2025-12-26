@@ -396,7 +396,7 @@
 - [Ajatt-Tools/dictpopup](https://github.com/Ajatt-Tools/dictpopup) - Looks up selected (Japanese) text in your Yomichan dictionaries and displays the result as a popup.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
-- [aligrudi/neatroff](https://github.com/aligrudi/neatroff) - Neatroff troff clone
+- [aligrudi/neatroff](https://github.com/aligrudi/neatroff) - Neatroff Troff clone
 - [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 500 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command line terminal file manager
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
@@ -962,7 +962,7 @@
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
-- [howardchung/watchparty](https://github.com/howardchung/watchparty) - Watch anything together in-sync with your friends
+- [howardchung/watchparty](https://github.com/howardchung/watchparty) - WatchParty: Watch anything together in-sync with your friends
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [Kaiteki-Fedi/Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere
 - [evilcorpltd/aTox](https://github.com/evilcorpltd/aTox) - Reasonable Tox client for Android
