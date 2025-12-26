@@ -136,7 +136,7 @@
 - [moritzbroe/terminal_minecraft](https://github.com/moritzbroe/terminal_minecraft) - 
 - [n-t-roff/Plan9_troff](https://github.com/n-t-roff/Plan9_troff) - troff ported from Plan 9
 - [randoragon/groffhl](https://github.com/randoragon/groffhl) - Groff Code Syntax Highlighting
-- [aligrudi/neatroff](https://github.com/aligrudi/neatroff) - Neatroff troff clone
+- [aligrudi/neatroff](https://github.com/aligrudi/neatroff) - Neatroff Troff clone
 - [padgettr/xomxplayer](https://github.com/padgettr/xomxplayer) - Simple X11 window control and mapping for omxplayer
 - [sgerwk/pdftoroff](https://github.com/sgerwk/pdftoroff) - view pdf on X11 and the Linux framebuffer; resize pdf; convert pdf to text, html, TeX, groff
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
@@ -1338,7 +1338,7 @@
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [noway/diy-llm-bot](https://github.com/noway/diy-llm-bot) - Compare a generic GPT-3 based chatbot with ChatGPT
 - [tipxmr/tipxmr](https://github.com/tipxmr/tipxmr) - An open-source, noncustodial livestream tipping service for Monero.
-- [howardchung/watchparty](https://github.com/howardchung/watchparty) - Watch anything together in-sync with your friends
+- [howardchung/watchparty](https://github.com/howardchung/watchparty) - WatchParty: Watch anything together in-sync with your friends
 - [neopostmodern/structure](https://github.com/neopostmodern/structure) - Structure is a knowledge management tool
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [tategakibunko/TypeNovel](https://github.com/tategakibunko/TypeNovel) - A simple markup language to write novel with types.
