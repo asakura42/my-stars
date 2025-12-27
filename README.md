@@ -98,7 +98,6 @@
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [DevonCrawford/Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
-- [EmotionEngineer/EmotionLib](https://github.com/EmotionEngineer/EmotionLib) - Efficient Library for Media Content Analysis
 - [ThomasR95/rahituber](https://github.com/ThomasR95/rahituber) - A more lively and customisable approach to PNGTuber avatars.
 - [akkana/crikey](https://github.com/akkana/crikey) - Crikey! A program to generate typed key events on Linux
 - [konstare/gdcv](https://github.com/konstare/gdcv) - gdcv - GoldenDict console version and emacs dynamic module
@@ -583,6 +582,7 @@
 - [librats/rats-search](https://github.com/librats/rats-search) - rats-search: BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client
 - [underrobyn/AbsoluteDoubleTrace](https://github.com/underrobyn/AbsoluteDoubleTrace) - A web extension to block browser fingerprinting (Manifest V2)
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
+- [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [uncss/uncss](https://github.com/uncss/uncss) - Remove unused styles from CSS
 - [mitul45/ta-calendar](https://github.com/mitul45/ta-calendar) - 📋 An app to plan your day, just today.
 - [asamuzaK/shareSNS](https://github.com/asamuzaK/shareSNS) - Share with SNS
@@ -597,6 +597,7 @@
 ## Jupyter Notebook 
 
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
+- [EmotionEngineer/EmotionLib](https://github.com/EmotionEngineer/EmotionLib) - Efficient Library for Media Content Analysis
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 
 ## Kotlin 
@@ -1011,7 +1012,6 @@
 - [raryelcostasouza/pyTranscriber](https://github.com/raryelcostasouza/pyTranscriber) - pyTranscriber can be used to generate automatic transcription / automatic subtitles for audio/video files through a friendly graphical user interface.
 - [vrde/i3-quiet](https://github.com/vrde/i3-quiet) - Distraction free i3 experience
 - [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
-- [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [coldfix/udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
 - [rusty-snake/firecfg.py](https://github.com/rusty-snake/firecfg.py) - An improved firecfg written in python.
 - [pimutils/todoman](https://github.com/pimutils/todoman) - ✅ Simple, standards-based, command line todo (aka: task) manager.
