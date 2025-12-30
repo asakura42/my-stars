@@ -800,7 +800,7 @@
 - [mohbattharani/LLaVA-Chef](https://github.com/mohbattharani/LLaVA-Chef) - FoodKG paper related models and results.
 - [alltheplaces/alltheplaces](https://github.com/alltheplaces/alltheplaces) - A set of spiders and scrapers to extract location information from places that post their location on the internet.
 - [FReak4L/warp-plus](https://github.com/FReak4L/warp-plus) - Get free WARP+ GBs in CloudFlare's 1.1.1.1!!
-- [s3rgeym/hh-applicant-tool](https://github.com/s3rgeym/hh-applicant-tool) - Автоматизация дейcтвий на HH.RU: отклик на подходящие вакансии, обновление всех резюме...
+- [s3rgeym/hh-applicant-tool](https://github.com/s3rgeym/hh-applicant-tool) - Скрипт/утилита для автоматизация дейcтвий на HH.RU таких как: отклик на подходящие вакансии, обновление всех резюме и др.
 - [milahu/opensubtitles-scraper](https://github.com/milahu/opensubtitles-scraper) - scrape subtitles from opensubtitles.org
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [Luzivog/Neuron](https://github.com/Luzivog/Neuron) - Personal voice assistant using Vosk for speech recognition
