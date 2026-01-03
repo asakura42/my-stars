@@ -1860,7 +1860,7 @@
 - [kibook/1436chan](https://github.com/kibook/1436chan) - Gopher textboard
 - [pystardust/waldl](https://github.com/pystardust/waldl) - Browse and download wallhaven.cc using sxiv
 - [kanyesthaker/qgqa-flashcards](https://github.com/kanyesthaker/qgqa-flashcards) - Question Generation - Question Answering for Automatic Flashcards
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [shish/mic2midi](https://github.com/shish/mic2midi) - Whistle / Hum / Sing into a microphone, generate MIDI signals to drive a sequencer
 - [ophiuchus2/wrongthink](https://github.com/ophiuchus2/wrongthink) - self hosted discord clone
@@ -2117,7 +2117,6 @@
 
 - [trizen/perl-scripts](https://github.com/trizen/perl-scripts) - A nice collection of day-to-day Perl scripts.
 - [john-bokma/tumblelog](https://github.com/john-bokma/tumblelog) - A static tumblelog generator available as both a Perl and Python version
-- [waldner/croncal](https://github.com/waldner/croncal) - Utility to convert a crontab file to a list of actual events within a date range.
 - [rfc-2549/sakisafe](https://github.com/rfc-2549/sakisafe) - simple file upload
 - [trizen/straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** Use https://github.com/trizen/pipe-viewer instead.
 
