@@ -761,7 +761,6 @@
 - [john-bokma/tumblelog](https://github.com/john-bokma/tumblelog) - A static tumblelog generator available as both a Perl and Python version
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [SimonTheCoder/hosts2dnsmasq](https://github.com/SimonTheCoder/hosts2dnsmasq) - convert hosts file format into dnsmasq config format
-- [waldner/croncal](https://github.com/waldner/croncal) - Utility to convert a crontab file to a list of actual events within a date range.
 - [lulzlabs/AirChat](https://github.com/lulzlabs/AirChat) - Free Communications For Everyone.
 - [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
 - [trizen/straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** Use https://github.com/trizen/pipe-viewer instead.
@@ -966,7 +965,7 @@
 - [gcmt/mktree](https://github.com/gcmt/mktree) - Simple tool for creating directory trees in one shot
 - [elektito/ih2torrent](https://github.com/elektito/ih2torrent) - Create a trackerless torrent file from an infohash.
 - [xi/xiwal](https://github.com/xi/xiwal) - Generate terminal color schemes
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [shish/mic2midi](https://github.com/shish/mic2midi) - Whistle / Hum / Sing into a microphone, generate MIDI signals to drive a sequencer
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
 - [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for linux games
