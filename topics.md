@@ -1450,6 +1450,7 @@
 
 ## others 
 
+- [rgoerwit/ai-investment-agent](https://github.com/rgoerwit/ai-investment-agent) - Agentic AI ex-US equity evaluator (LangGraph+Gemini)
 - [GideonWhite1029/lampa-desktop](https://github.com/GideonWhite1029/lampa-desktop) - Неофициальное приложение для просмотра фильмов и сериалов
 - [Yenthe666/InstallScript](https://github.com/Yenthe666/InstallScript) - Odoo install script
 - [G0-G4/ResponseBot](https://github.com/G0-G4/ResponseBot) - автоответчик на отзывы на маркетплейсах
