@@ -1556,7 +1556,7 @@
 - [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [dusking/opensubtitles-com](https://github.com/dusking/opensubtitles-com) - 
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
-- [NapoleonWils0n/ffmpeg-scripts](https://github.com/NapoleonWils0n/ffmpeg-scripts) - ffmpeg shell scripts
+- [NapoleonWils0n/ffmpeg-scripts](https://github.com/NapoleonWils0n/ffmpeg-scripts) - [MOVED] FFmpeg shell scripts. Please see the new Rust port: https://github.com/NapoleonWils0n/ffmpeg-rust-scripts
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - A protocol handler for mpv. Use mpv and yt-dlp to play video and music from the websites.
 - [asakura42/rp4](https://github.com/asakura42/rp4) - simple python replacement for the bloated LLM frontends
