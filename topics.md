@@ -153,6 +153,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [project-management](#project-management)
+- [prompt-engineering](#prompt-engineering)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -1593,7 +1594,6 @@
 - [libredirect/instances](https://github.com/libredirect/instances) - Automated instances list for LibRedirect
 - [NoPlagiarism/instances-list](https://github.com/NoPlagiarism/instances-list) - Auto-updated list of alternative frontend instances
 - [AdmTal/chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - Prompts for playable games in ChatGPT
-- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) - Bypass check if user has a real Microsoft MSA account linked with the Minecraft Launchers PrismLauncher, Prism Launcher
 - [sitandr/quickpoeterGUI](https://github.com/sitandr/quickpoeterGUI) - Поэтический редактор с открытым исходным кодом на Tauri
 - [tasksched/tasksched](https://github.com/tasksched/tasksched) - Task scheduler with automatic resource leveling
@@ -1856,7 +1856,7 @@
 - [setnicka/ulozto-downloader](https://github.com/setnicka/ulozto-downloader) - EOL - end of life | Uloz.to quick multiple sessions downloader
 - [spamgourmet/spamgourmet](https://github.com/spamgourmet/spamgourmet) - This is the actively maintained source for spamgourmet.com
 - [unifiMynet/dnsmasqAdBlock](https://github.com/unifiMynet/dnsmasqAdBlock) - Dnsmasq based Ad blocking for UBNT equipment (USG, ER-X, etc.) - should work on any dnsmasq instance
-- [lixingcong/dnsmasq-regex](https://github.com/lixingcong/dnsmasq-regex) - dnsmasq with regex match module(libpcre v8.45, the older version)
+- [lixingcong/dnsmasq-regex](https://github.com/lixingcong/dnsmasq-regex) - dnsmasq with regex match module(+libpcre)
 - [bottomless-archive-project/library-of-alexandria](https://github.com/bottomless-archive-project/library-of-alexandria) - Library of Alexandria (LoA in short) is a project that aims to collect and archive documents from the internet.
 - [nuetoban/gardener](https://github.com/nuetoban/gardener) - Creates directory tree from provided yaml
 - [gcmt/mktree](https://github.com/gcmt/mktree) - Simple tool for creating directory trees in one shot
@@ -2197,6 +2197,10 @@
 
 - [MaximeAeva/TheEfficientGuy](https://github.com/MaximeAeva/TheEfficientGuy) - An embedded project management tool based on Qt & sqlite.
 - [singalhimanshu/taskgo](https://github.com/singalhimanshu/taskgo) - Fast and simple terminal based Kanban board manager
+
+## prompt-engineering 
+
+- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 
 ## publishing 
 
