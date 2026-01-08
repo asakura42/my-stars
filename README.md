@@ -1084,7 +1084,6 @@
 ## Rust 
 
 - [mistrmochov/WaydroidSU](https://github.com/mistrmochov/WaydroidSU) - WaydroidSU, CLI Magisk manager and installer for Waydroid written in Rust
-- [mak-kirkland/chronicler](https://github.com/mak-kirkland/chronicler) - Chronicler is a free desktop app for note-takers, storytellers, researchers, and creative minds. It saves your notes as plain Markdown files on your computer
 - [letmutex/htmd-cli](https://github.com/letmutex/htmd-cli) - The command line tool for htmd
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -1227,7 +1226,7 @@
 - [OpenSourceImageFolder/OSIF](https://github.com/OpenSourceImageFolder/OSIF) - The Open Source Image Folder Project
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Simple, native and efficient local ad blocker. Only Bash.
 - [unifiMynet/dnsmasqAdBlock](https://github.com/unifiMynet/dnsmasqAdBlock) - Dnsmasq based Ad blocking for UBNT equipment (USG, ER-X, etc.) - should work on any dnsmasq instance
-- [lixingcong/dnsmasq-regex](https://github.com/lixingcong/dnsmasq-regex) - dnsmasq with regex match module(libpcre v8.45, the older version)
+- [lixingcong/dnsmasq-regex](https://github.com/lixingcong/dnsmasq-regex) - dnsmasq with regex match module(+libpcre)
 - [kibook/1436chan](https://github.com/kibook/1436chan) - Gopher textboard
 - [pystardust/waldl](https://github.com/pystardust/waldl) - Browse and download wallhaven.cc using sxiv
 - [dylanaraps/birch](https://github.com/dylanaraps/birch) - An IRC client written in bash
@@ -1286,6 +1285,7 @@
 
 ## Svelte 
 
+- [mak-kirkland/chronicler](https://github.com/mak-kirkland/chronicler) - Chronicler is a free desktop app for note-takers, storytellers, researchers, and creative minds. It saves your notes as plain Markdown files on your computer
 - [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 - [lettier/blender-keymap-trainer](https://github.com/lettier/blender-keymap-trainer) - :keyboard: Digital flashcards for memorizing Blender's shortcut keys.
 
