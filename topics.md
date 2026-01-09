@@ -219,7 +219,7 @@
 
 ## ai 
 
-- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API : )  (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
+- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [Luzivog/Neuron](https://github.com/Luzivog/Neuron) - Personal voice assistant using Vosk for speech recognition
@@ -273,7 +273,7 @@
 
 ## api 
 
-- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API : )  (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
+- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [s3rgeym/hh-applicant-tool](https://github.com/s3rgeym/hh-applicant-tool) - Скрипт/утилита для автоматизация дейcтвий на HH.RU таких как: отклик на подходящие вакансии, обновление всех резюме и др.
@@ -418,7 +418,7 @@
 
 ## chatbot 
 
-- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API : )  (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
+- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [alxpez/alts](https://github.com/alxpez/alts) - 100% free, local & offline voice assistant with speech recognition
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
@@ -428,7 +428,7 @@
 
 ## chatgpt 
 
-- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API : )  (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
+- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [FujiwaraChoki/NotesTaker](https://github.com/FujiwaraChoki/NotesTaker) - A webapp to take notes during class.
@@ -1199,7 +1199,7 @@
 
 ## llm 
 
-- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API : )  (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
+- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
 - [rmusser01/tldw_server](https://github.com/rmusser01/tldw_server) - tl/dw (Too Long, Didn't Watch): Your Personal Research Multi-Tool - a naive attempt at 'A Young Lady's Illustrated Primer' (Open Source NotebookLM)
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [lfoppiano/document-qa](https://github.com/lfoppiano/document-qa) - Scientific Document Insight Q/A
@@ -1451,6 +1451,7 @@
 
 ## others 
 
+- [KingOfBugbounty/Hardcoded-Token-Hunter](https://github.com/KingOfBugbounty/Hardcoded-Token-Hunter) - 🔐 Chrome Extension - Detect hardcoded tokens, API keys & secrets in JavaScript files
 - [rgoerwit/ai-investment-agent](https://github.com/rgoerwit/ai-investment-agent) - Agentic AI ex-US equity evaluator (LangGraph+Gemini)
 - [GideonWhite1029/lampa-desktop](https://github.com/GideonWhite1029/lampa-desktop) - Неофициальное приложение для просмотра фильмов и сериалов
 - [Yenthe666/InstallScript](https://github.com/Yenthe666/InstallScript) - Odoo install script
@@ -2215,7 +2216,7 @@
 
 ## python 
 
-- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API : )  (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
+- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
 - [wenLiangcan/pip2pkgbuild](https://github.com/wenLiangcan/pip2pkgbuild) - Generate PKGBUILD file for a Python module from PyPi
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
