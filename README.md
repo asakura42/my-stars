@@ -259,6 +259,7 @@
 - [StefanoLusardi/Kanban](https://github.com/StefanoLusardi/Kanban) - Simple Kanban Board Application made with C++17/Qt5
 - [GarrettFleischer/ChroniclerQT](https://github.com/GarrettFleischer/ChroniclerQT) - ChoiceScript visual code editor
 - [jacquetc/skribisto](https://github.com/jacquetc/skribisto) - Software for writers
+- [librats/rats-search](https://github.com/librats/rats-search) - rats-search: BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client
 - [hoang-khoi/tksort](https://github.com/hoang-khoi/tksort) - A dead-simple task prioritizer, inspired by UNIX tsort.
 - [EntireTwix/Prioritize](https://github.com/EntireTwix/Prioritize) - just a quick test program as I mess around with imgui, although thats not to say this program lacks utility for simple task prioritization.
 - [gavv/tagberry](https://github.com/gavv/tagberry) - Tag-oriented Qt5 desktop calendar, task manager, and todo list.
@@ -580,7 +581,6 @@
 - [hpennington/kanception](https://github.com/hpennington/kanception) - 
 - [idlewan/javascript-control](https://github.com/idlewan/javascript-control) - Browser WebExtension that adds a JS toggle button in Firefox's url bar
 - [MeiK2333/pyppeteer_stealth](https://github.com/MeiK2333/pyppeteer_stealth) - 
-- [librats/rats-search](https://github.com/librats/rats-search) - rats-search: BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client
 - [underrobyn/AbsoluteDoubleTrace](https://github.com/underrobyn/AbsoluteDoubleTrace) - A web extension to block browser fingerprinting (Manifest V2)
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
@@ -655,6 +655,7 @@
 
 ## Makefile 
 
+- [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
 - [rbckman/tarina](https://github.com/rbckman/tarina) - 3d printed Raspberry Pi gonzo camera with the essential filmmaking tools
 - [AlexisBRENON/3dmodels-pkgbuild](https://github.com/AlexisBRENON/3dmodels-pkgbuild) - PKGBUILD generation scripts for sweethome3d models
 
@@ -777,6 +778,7 @@
 
 ## Python 
 
+- [eslazarev/wildberries-sdk](https://github.com/eslazarev/wildberries-sdk) - Wildberries SDK-клиенты для Python, Node.js, Go и PHP, постоянно актуальные в соответствии с OpenAPI-спецификациями.
 - [rgoerwit/ai-investment-agent](https://github.com/rgoerwit/ai-investment-agent) - Agentic AI ex-US equity evaluator (LangGraph+Gemini)
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
 - [tabahi/bournemouth-forced-aligner](https://github.com/tabahi/bournemouth-forced-aligner) - Extract phoneme-level timestamps from speeh audio.
@@ -1186,7 +1188,6 @@
 - [Ajatt-Tools/impd](https://github.com/Ajatt-Tools/impd) - 🍵 AJATT-style passive listening and condensed audio without bloat.
 - [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 - [tomcooks/giulioandreotti666](https://github.com/tomcooks/giulioandreotti666) - terminal based video editor for underpowered netbooks
-- [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
 - [Dr4iv3rNope/ayugramdesktop-git](https://github.com/Dr4iv3rNope/ayugramdesktop-git) - 
 - [CoolnsX/hls_downloader](https://github.com/CoolnsX/hls_downloader) - A posix compliant highly fast and efficient Asynchronous stable m3u8 links dowloader that uses shell jobs for controlling parallel download...
 - [dyne/harvest](https://github.com/dyne/harvest) - Tool to sort large collections of files according to common typologies
