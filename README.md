@@ -1318,7 +1318,7 @@
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [frymanofer/ReactNative_WakeWordDetection](https://github.com/frymanofer/ReactNative_WakeWordDetection) - Create any wake word, deploy on any device and operating system.
 - [StephanAkkerman/mnemorai](https://github.com/StephanAkkerman/mnemorai) - Automating language learning with the power of Artificial Intelligence. This repository presents mnemorai, a tool that combines Fluent Forever techniques with AI-driven automation. It streamlines the 
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [bookracy/frontend](https://github.com/bookracy/frontend) - Frontend for Bookracy
 - [sussy-code/providers](https://github.com/sussy-code/providers) - Providers and sources for sudo-flix
 - [internetfiles/tpp](https://github.com/internetfiles/tpp) - TPP
