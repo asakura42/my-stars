@@ -481,7 +481,6 @@
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
 - [chatmail/provider-db](https://github.com/chatmail/provider-db) - Database of Email Providers and how well they work with chatmail
-- [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.
 - [remipassmoilesel/tor-share](https://github.com/remipassmoilesel/tor-share) - Simple hosting and data sharing on Tor network
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 
@@ -1304,6 +1303,7 @@
 - [HiveMinds/CoursePlanningTemplate](https://github.com/HiveMinds/CoursePlanningTemplate) - Makes latex templates for all your course work (assignments, lecture summaries, etc.), generates taskwarrior commands, enables syncing all course tasks with google calendar, sets up pseudo-anonymous o
 - [wilx/tweet2latex](https://github.com/wilx/tweet2latex) - Utility for retrieval and formatting of tweets into LaTeX documents.
 - [jfogarty/latex-createspace-bookcover](https://github.com/jfogarty/latex-createspace-bookcover) - Generates a customizable print-on-demand paperback book cover as a PDF using LaTeX
+- [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.
 - [kjhealy/pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some templates for Pandoc.
 
 ## Text 
