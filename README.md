@@ -1091,6 +1091,7 @@
 - [sdaqo/mpv-subs-popout](https://github.com/sdaqo/mpv-subs-popout) - A little application that makes it possible to display mpv's subs anywhere you want. With translation features.
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 - [koofr/vault](https://github.com/koofr/vault) - Koofr Vault is an open-source, client-side encrypted folder for your Koofr cloud storage offering an extra layer of security for your most sensitive files.
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
@@ -1317,7 +1318,6 @@
 - [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 - [frymanofer/ReactNative_WakeWordDetection](https://github.com/frymanofer/ReactNative_WakeWordDetection) - Create any wake word, deploy on any device and operating system.
 - [StephanAkkerman/mnemorai](https://github.com/StephanAkkerman/mnemorai) - Automating language learning with the power of Artificial Intelligence. This repository presents mnemorai, a tool that combines Fluent Forever techniques with AI-driven automation. It streamlines the 
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [bookracy/frontend](https://github.com/bookracy/frontend) - Frontend for Bookracy
 - [sussy-code/providers](https://github.com/sussy-code/providers) - Providers and sources for sudo-flix
 - [internetfiles/tpp](https://github.com/internetfiles/tpp) - TPP
