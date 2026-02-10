@@ -1459,6 +1459,7 @@
 
 ## others 
 
+- [npdoty/ephemerurl](https://github.com/npdoty/ephemerurl) - Ephemeral forwarding URLs: an experiment
 - [eslazarev/wildberries-sdk](https://github.com/eslazarev/wildberries-sdk) - Wildberries SDK-клиенты для Python, Node.js, Go и PHP, постоянно актуальные в соответствии с OpenAPI-спецификациями.
 - [KingOfBugbounty/Hardcoded-Token-Hunter](https://github.com/KingOfBugbounty/Hardcoded-Token-Hunter) - 🔐 Chrome Extension - Detect hardcoded tokens, API keys & secrets in JavaScript files
 - [rgoerwit/ai-investment-agent](https://github.com/rgoerwit/ai-investment-agent) - Agentic AI ex-US equity evaluator (LangGraph+Gemini)
@@ -1588,7 +1589,7 @@
 - [dvds1151/AR-TV](https://github.com/dvds1151/AR-TV) - 
 - [osirislab/LeakyPastes-V2](https://github.com/osirislab/LeakyPastes-V2) - Looking at what people post to public pastebins
 - [kmein/kaikki-stardict](https://github.com/kmein/kaikki-stardict) - StarDict dictionary files, generated from Wiktionary
-- [AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST) - iPTV Free List
+- [dzh0ni/iPTV-FREE-LIST](https://github.com/dzh0ni/iPTV-FREE-LIST) - iPTV Free List
 - [odnar-dev/termv-rewrite](https://github.com/odnar-dev/termv-rewrite) - 
 - [miacate/rsh](https://github.com/miacate/rsh) - versioning control for a new era
 - [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
