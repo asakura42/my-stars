@@ -195,6 +195,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
+- [v2ray](#v2ray)
 - [video](#video)
 - [vim](#vim)
 - [visualization](#visualization)
@@ -424,7 +425,7 @@
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [alxpez/alts](https://github.com/alxpez/alts) - 100% free, local & offline voice assistant with speech recognition
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [noway/diy-llm-bot](https://github.com/noway/diy-llm-bot) - Compare a generic GPT-3 based chatbot with ChatGPT
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 
@@ -439,7 +440,7 @@
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [successfulstudy/promptoftheyear](https://github.com/successfulstudy/promptoftheyear) - In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the y
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [wqhadija/online-marketer-chatgpt-prompts](https://github.com/wqhadija/online-marketer-chatgpt-prompts) - A skilled online business marketer utilizing ChatGPT technology to engage with potential customers and effectively pitch products or services.
 - [noway/diy-llm-bot](https://github.com/noway/diy-llm-bot) - Compare a generic GPT-3 based chatbot with ChatGPT
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -447,7 +448,7 @@
 ## chatgpt-api 
 
 - [neurogen-dev/NeuroAPI](https://github.com/neurogen-dev/NeuroAPI) - Cheap ChatGPT 4o, GPT-5, Claude-4 API / Дешевый СhatGPT 4o ChatGPT 4o, GPT-5, Claude-4 API
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 
 ## chrome 
 
@@ -1437,7 +1438,7 @@
 - [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
 ## opencv 
@@ -1492,7 +1493,6 @@
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [fatyzzz/Byedpi-Setup](https://github.com/fatyzzz/Byedpi-Setup) - Скрипт, для подбора настроек и автоустановки ByeDPI на Linux
 - [rollerozxa/MC2MT](https://github.com/rollerozxa/MC2MT) - Convert a Minecraft world into a Luanti world
-- [lilendian0x00/xray-knife](https://github.com/lilendian0x00/xray-knife) - The Ultimate Swiss Army Knife for Xray and Sing-box
 - [daniel-seiler/ImageTheming](https://github.com/daniel-seiler/ImageTheming) - Match a wallpaper to your color scheme
 - [MartinPacker/md2pptx](https://github.com/MartinPacker/md2pptx) - Markdown To PowerPoint converter
 - [Zaruber/Sheetswbparser](https://github.com/Zaruber/Sheetswbparser) - 🔍 Парсер позиций товаров Wildberries в Google Sheets
@@ -1574,9 +1574,6 @@
 - [asakura42/rp4](https://github.com/asakura42/rp4) - simple python replacement for the bloated LLM frontends
 - [Inochi2D/inochi2d](https://github.com/Inochi2D/inochi2d) - Inochi2D SDK - Bring your characters to life
 - [krzysckh/mpvq](https://github.com/krzysckh/mpvq) - tui playlist manager for mpv.
-- [Nidelon/ru-block-v2ray-rules](https://github.com/Nidelon/ru-block-v2ray-rules) - Список заблокированных сайтов в России для xray или других маршрутизаторов трафика. List of blocked sites in Russia for xray or other traffic routers.
-- [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
-- [xxf098/LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest) - A simple tool for batch test ss/ssr/v2ray/trojan servers.
 - [phuslu/iploc](https://github.com/phuslu/iploc) - Fastest IP To Country Library
 - [deadYokai/yapng](https://github.com/deadYokai/yapng) - Yet Another PNGTuber
 - [Gemmstone/PyNGtuber](https://github.com/Gemmstone/PyNGtuber) - PNGtuber software made in Python and HTML
@@ -1791,7 +1788,6 @@
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [hqwrong/minitox](https://github.com/hqwrong/minitox) - Minimal client for Tox
 - [cleverca22/toxvpn](https://github.com/cleverca22/toxvpn) - A client / server for a Tox-based VPN. Run the server on one computer, copy the public key, and run the client (with that key) on another computer, and it should Just Work™.
-- [TunMax/tun2socks_gui_for_windows](https://github.com/TunMax/tun2socks_gui_for_windows) - A simple gui for tun2socks on windows. 配合v2ray、ss等客户端(eg. v2rayN)，可使其实现tun模式。
 - [vdods/wordfrontier](https://github.com/vdods/wordfrontier) - 
 - [magnus-ISU/foreign-language-text-reader](https://github.com/magnus-ISU/foreign-language-text-reader) - The Foreign Language Text Reader by lang-learn-guy on sourceforge, where he toils madly without version controlling I guess
 - [diamondburned/gotktrix](https://github.com/diamondburned/gotktrix) - Matrix client in Go and GTK4
@@ -2400,7 +2396,7 @@
 ## reverse-engineering 
 
 - [Belluxx/Java2Smali](https://github.com/Belluxx/Java2Smali) - Convert java code to smali with one command
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for linux games
 
 ## ruby 
@@ -2698,6 +2694,16 @@
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
+## v2ray 
+
+- [lilendian0x00/xray-knife](https://github.com/lilendian0x00/xray-knife) - The Ultimate Swiss Army Knife for Xray and Sing-box
+- [Nidelon/ru-block-v2ray-rules](https://github.com/Nidelon/ru-block-v2ray-rules) - Список заблокированных сайтов в России для xray или других маршрутизаторов трафика. List of blocked sites in Russia for xray or other traffic routers.
+- [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
+- [xxf098/LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest) - A simple tool for batch test ss/ssr/v2ray/trojan servers.
+- [mahdibland/V2RayAggregator](https://github.com/mahdibland/V2RayAggregator) - Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed
+- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
+- [TunMax/tun2socks_gui_for_windows](https://github.com/TunMax/tun2socks_gui_for_windows) - A simple gui for tun2socks on windows. 配合v2ray、ss等客户端(eg. v2rayN)，可使其实现tun模式。
 
 ## video 
 
