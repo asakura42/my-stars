@@ -353,6 +353,7 @@
 
 ## Go 
 
+- [kaptinlin/defuddle-go](https://github.com/kaptinlin/defuddle-go) - Go implementation of Defuddle for high-performance web content extraction.
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 - [lichendust/meander](https://github.com/lichendust/meander) - 📝 A powerful, portable utility for production screenplays and manuscripts
 - [lilendian0x00/xray-knife](https://github.com/lilendian0x00/xray-knife) - The Ultimate Swiss Army Knife for Xray and Sing-box
@@ -1170,7 +1171,7 @@
 ## Shell 
 
 - [Yenthe666/InstallScript](https://github.com/Yenthe666/InstallScript) - Odoo install script
-- [maximilionus/byedpictl](https://github.com/maximilionus/byedpictl) - Experimental utility for user-friendly DPI desync on Linux
+- [maximilionus/byedpictl](https://github.com/maximilionus/byedpictl) - Very simple deep packet inspection bypass utility for Linux
 - [fatyzzz/Byedpi-Setup](https://github.com/fatyzzz/Byedpi-Setup) - Скрипт, для подбора настроек и автоустановки ByeDPI на Linux
 - [BarbossHack/RiseupVPN-OpenVPN](https://github.com/BarbossHack/RiseupVPN-OpenVPN) - Simple Bash script that generates an OpenVPN configuration file for use with RiseupVPN
 - [ImMALWARE/bash-warp-generator](https://github.com/ImMALWARE/bash-warp-generator) - Генератор конфига Cloudflare WARP для AmneziaVPN
