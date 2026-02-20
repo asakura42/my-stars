@@ -908,7 +908,7 @@
 - [kokimame/joytan](https://github.com/kokimame/joytan) - Creative Audio/Textbook Maker 🎵 📖 See our YouTube channel
 - [manolomartinez/greg](https://github.com/manolomartinez/greg) - A command-line podcast aggregator
 - [mgrankin/ru_transformers](https://github.com/mgrankin/ru_transformers) - 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [jurialmunkey/plugin.video.themoviedb.helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper) - 
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [shwnchpl/mutt-theme-generator](https://github.com/shwnchpl/mutt-theme-generator) - Generates Mutt/Neomutt themes from .Xresources files.
@@ -1118,7 +1118,6 @@
 - [emk/subtitles-rs](https://github.com/emk/subtitles-rs) - Use SRT subtitle files to study foreign languages (in progress)
 - [jeff-hughes/shellcaster](https://github.com/jeff-hughes/shellcaster) - Terminal-based podcast manager built in Rust
 - [iphands/rust_tray](https://github.com/iphands/rust_tray) - Simple tray utils in rust
-- [mwithington/phind-cli](https://github.com/mwithington/phind-cli) - Command line tool for Phind search engine
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
 - [ShaddyDC/Yomi-Reader](https://github.com/ShaddyDC/Yomi-Reader) - Simple web app to read Japanese EPUBs with Yomichan dictionaries
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
