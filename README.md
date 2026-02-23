@@ -764,7 +764,6 @@
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [SimonTheCoder/hosts2dnsmasq](https://github.com/SimonTheCoder/hosts2dnsmasq) - convert hosts file format into dnsmasq config format
 - [lulzlabs/AirChat](https://github.com/lulzlabs/AirChat) - Free Communications For Everyone.
-- [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
 - [trizen/straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** Use https://github.com/trizen/pipe-viewer instead.
 - [pasky/speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points)
 
@@ -1272,6 +1271,7 @@
 - [hollystandring/dwm-bar](https://github.com/hollystandring/dwm-bar) - A modular statusbar for dwm
 - [cfenollosa/feedtube](https://github.com/cfenollosa/feedtube) - A feed video downloader for Youtube
 - [MarcMilany/archmy_2020](https://github.com/MarcMilany/archmy_2020) - В процессе тестирования Install Linux Legacy BIOS and Uefi
+- [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
 - [Akianonymus/parallel-bash](https://github.com/Akianonymus/parallel-bash) - Parallel processing of commands in pure bash along with the support of functions.
 - [Biont/sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop) - TUI Application launcher with Desktop Entry support. Made for SwayWM, but runs anywhere
