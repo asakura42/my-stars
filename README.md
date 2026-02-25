@@ -777,6 +777,7 @@
 
 ## Python 
 
+- [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
 - [eslazarev/wildberries-sdk](https://github.com/eslazarev/wildberries-sdk) - Wildberries SDK-клиенты для Python, Node.js, Go и PHP, постоянно актуальные в соответствии с OpenAPI-спецификациями.
 - [rgoerwit/ai-investment-agent](https://github.com/rgoerwit/ai-investment-agent) - Agentic AI ex-US equity evaluator (LangGraph+Gemini)
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
