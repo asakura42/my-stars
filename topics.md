@@ -1460,6 +1460,7 @@
 
 ## others 
 
+- [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
 - [kaptinlin/defuddle-go](https://github.com/kaptinlin/defuddle-go) - Go implementation of Defuddle for high-performance web content extraction.
 - [npdoty/ephemerurl](https://github.com/npdoty/ephemerurl) - Ephemeral forwarding URLs: an experiment
 - [eslazarev/wildberries-sdk](https://github.com/eslazarev/wildberries-sdk) - Wildberries SDK-клиенты для Python, Node.js, Go и PHP, постоянно актуальные в соответствии с OpenAPI-спецификациями.
