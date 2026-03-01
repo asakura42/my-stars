@@ -1332,7 +1332,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [vangelov/calories-in](https://github.com/vangelov/calories-in) - A web-based meal plan editor for people who prepare all of their food.
-- [alexandria-reader/backend](https://github.com/alexandria-reader/backend) - Alexandria reading app back end
+- [alexandria-reader/alexandria](https://github.com/alexandria-reader/alexandria) - Alexandria reading app back end
 - [NostrChat/NostrChat](https://github.com/NostrChat/NostrChat) - NostrChat is one of the most decentralized chat apps ever built.
 - [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com
 - [eyalzh/simple-kanban](https://github.com/eyalzh/simple-kanban) - A lightweight offline kanban board
@@ -1349,7 +1349,7 @@
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [nathansomething/lwt2](https://github.com/nathansomething/lwt2) - A Complete Rewrite of Learning With Texts, using Angular and Flask
 - [nramos0/fluent-reader](https://github.com/nramos0/fluent-reader) - Language learning app similar to https://lingq.com/, but open source and free written in Typescript and Rust. Supports English and Chinese.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
 - [shellyln/kanban-board-app](https://github.com/shellyln/kanban-board-app) - Kanban style task management board app
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
