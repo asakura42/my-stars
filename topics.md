@@ -332,7 +332,7 @@
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [koalagang/awesome-browserless](https://github.com/koalagang/awesome-browserless) - 😎 🌍 A curated list of awesome alternatives to apps tradtionally used in the web browser.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
 - [0dataapp/awesome-0data](https://github.com/0dataapp/awesome-0data) - Resources around owning your data 100%
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
@@ -348,7 +348,7 @@
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [koalagang/awesome-browserless](https://github.com/koalagang/awesome-browserless) - 😎 🌍 A curated list of awesome alternatives to apps tradtionally used in the web browser.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting) - A curated list of amazingly awesome open source resources related to broadcast technologies
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 
@@ -616,7 +616,7 @@
 
 ## cybersecurity 
 
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 
 ## dart 
 
@@ -975,7 +975,7 @@
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [Jacalz/rymdport](https://github.com/Jacalz/rymdport) - Cross-platform application for easy encrypted file, folder, and text sharing between devices.
 - [opensteno/plover](https://github.com/opensteno/plover) - Open source stenotype engine
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
@@ -1397,7 +1397,7 @@
 
 ## nodejs 
 
-- [alexandria-reader/backend](https://github.com/alexandria-reader/backend) - Alexandria reading app back end
+- [alexandria-reader/alexandria](https://github.com/alexandria-reader/alexandria) - Alexandria reading app back end
 - [Xtrendence/X-Chat](https://github.com/Xtrendence/X-Chat) - A Node.js and Socket.IO chat web application with RSA-2048 and AES-256-CTR encryption.
 - [vasani-arpit/Social-Media-Automation](https://github.com/vasani-arpit/Social-Media-Automation) - Automate social media because you don't have to be active on all of them😉. Best way to be active on all social media without actually being active on them. 😃
 
@@ -1424,7 +1424,7 @@
 - [MarekDzw/IFCalculator](https://github.com/MarekDzw/IFCalculator) - Rewritten old IF Calc on Vue.js
 - [team-pp-studio/VoiceTuber](https://github.com/team-pp-studio/VoiceTuber) - VTuber application which only requires your voice and microphone, no need for a webcam or other tracking nonsense.
 - [R4yGM/garlicshare](https://github.com/R4yGM/garlicshare) - Private and self-hosted file sharing over the Tor network written in golang
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 
@@ -2146,7 +2146,7 @@
 ## postgresql 
 
 - [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
-- [alexandria-reader/backend](https://github.com/alexandria-reader/backend) - Alexandria reading app back end
+- [alexandria-reader/alexandria](https://github.com/alexandria-reader/alexandria) - Alexandria reading app back end
 - [formspree/formspree](https://github.com/formspree/formspree) - The successor to this repository is actively maintained at https://formspree.io. Its source code is not available
 
 ## privacy 
@@ -2172,7 +2172,7 @@
 - [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - Custom DNS block lists
 - [R4yGM/garlicshare](https://github.com/R4yGM/garlicshare) - Private and self-hosted file sharing over the Tor network written in golang
 - [Standard-Unix-Notes/unix-notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG encrypted notebooks.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 - [dessalines/Messaging-Services-Comparison](https://github.com/dessalines/Messaging-Services-Comparison) - A comparison of messaging services and protocols.
 - [SomajitDey/ipfs-chat](https://github.com/SomajitDey/ipfs-chat) - Real-time P2P messenger using go-ipfs pubsub. TUI. End-to-end encrypted texting & file-sharing. NAT traversal.
@@ -2449,7 +2449,7 @@
 - [brainfucksec/archtorify](https://github.com/brainfucksec/archtorify) - Transparent proxy through Tor for Arch Linux OS
 - [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
 - [R4yGM/garlicshare](https://github.com/R4yGM/garlicshare) - Private and self-hosted file sharing over the Tor network written in golang
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [zorggomat/FractalCryptGUI](https://github.com/zorggomat/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [wireghoul/graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool
@@ -2460,7 +2460,7 @@
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [my0419/myvpn-desktop](https://github.com/my0419/myvpn-desktop) - VPN server configuration software. Protocols: L2TP, PPTP, OpenVPN, WireGuard, Socks5, ShadowSocks (v2ray). | Providers: DigitalOcean, Linode, CryptoServers, Hetzner Cloud, Custom Server
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [wireghoul/graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool
 
 ## self-hosted 
@@ -2673,7 +2673,7 @@
 - [uigywnkiub/diet-me](https://github.com/uigywnkiub/diet-me) - Take a photo. Get calories, protein, fat, and carbs. Simple as that.
 - [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 - [staart/site](https://github.com/staart/site) - 🏁📑 Static site generator for landing pages, docs, and more
-- [alexandria-reader/backend](https://github.com/alexandria-reader/backend) - Alexandria reading app back end
+- [alexandria-reader/alexandria](https://github.com/alexandria-reader/alexandria) - Alexandria reading app back end
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [tategakibunko/TypeNovel](https://github.com/tategakibunko/TypeNovel) - A simple markup language to write novel with types.
 - [nramos0/fluent-reader](https://github.com/nramos0/fluent-reader) - Language learning app similar to https://lingq.com/, but open source and free written in Typescript and Rust. Supports English and Chinese.
