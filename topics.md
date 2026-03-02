@@ -1397,7 +1397,7 @@
 
 ## nodejs 
 
-- [alexandria-reader/alexandria](https://github.com/alexandria-reader/alexandria) - Alexandria reading app back end
+- [alexandria-reader/alexandria](https://github.com/alexandria-reader/alexandria) - Alexandria reading app monorepo
 - [Xtrendence/X-Chat](https://github.com/Xtrendence/X-Chat) - A Node.js and Socket.IO chat web application with RSA-2048 and AES-256-CTR encryption.
 - [vasani-arpit/Social-Media-Automation](https://github.com/vasani-arpit/Social-Media-Automation) - Automate social media because you don't have to be active on all of them😉. Best way to be active on all social media without actually being active on them. 😃
 
@@ -1460,6 +1460,7 @@
 
 ## others 
 
+- [ValdikSS/tor-relay-scanner](https://github.com/ValdikSS/tor-relay-scanner) - Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
 - [kaptinlin/defuddle-go](https://github.com/kaptinlin/defuddle-go) - Go implementation of Defuddle for high-performance web content extraction.
 - [npdoty/ephemerurl](https://github.com/npdoty/ephemerurl) - Ephemeral forwarding URLs: an experiment
@@ -2146,7 +2147,7 @@
 ## postgresql 
 
 - [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
-- [alexandria-reader/alexandria](https://github.com/alexandria-reader/alexandria) - Alexandria reading app back end
+- [alexandria-reader/alexandria](https://github.com/alexandria-reader/alexandria) - Alexandria reading app monorepo
 - [formspree/formspree](https://github.com/formspree/formspree) - The successor to this repository is actively maintained at https://formspree.io. Its source code is not available
 
 ## privacy 
@@ -2673,7 +2674,7 @@
 - [uigywnkiub/diet-me](https://github.com/uigywnkiub/diet-me) - Take a photo. Get calories, protein, fat, and carbs. Simple as that.
 - [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 - [staart/site](https://github.com/staart/site) - 🏁📑 Static site generator for landing pages, docs, and more
-- [alexandria-reader/alexandria](https://github.com/alexandria-reader/alexandria) - Alexandria reading app back end
+- [alexandria-reader/alexandria](https://github.com/alexandria-reader/alexandria) - Alexandria reading app monorepo
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [tategakibunko/TypeNovel](https://github.com/tategakibunko/TypeNovel) - A simple markup language to write novel with types.
 - [nramos0/fluent-reader](https://github.com/nramos0/fluent-reader) - Language learning app similar to https://lingq.com/, but open source and free written in Typescript and Rust. Supports English and Chinese.
