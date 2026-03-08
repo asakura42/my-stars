@@ -1661,7 +1661,7 @@
 - [bfsujason/aligner-eval](https://github.com/bfsujason/aligner-eval) - Evaluation of Automatic Sentence Aligners
 - [averkij/a-studio](https://github.com/averkij/a-studio) - Lingtrain Alignment Studio is an ML based app for texts alignment on different languages. It can produce parallel corpora and parallel books.
 - [simnalamburt/rust-pragmatic-segmenter](https://github.com/simnalamburt/rust-pragmatic-segmenter) - 🗣️ Rust port of pySBD and pragmatic-segmenter
-- [pschonev/biBooks](https://github.com/pschonev/biBooks) - This allows automatic creation of bilingual e-books with two translations of a text as input using an alignment of language agnostic sentence vectors.
+- [pschonev/biBooks](https://github.com/pschonev/biBooks) - Allows automatic creation of bilingual e-books with two translations of a text as input using an alignment of language agnostic sentence vectors.
 - [thompsonb/vecalign](https://github.com/thompsonb/vecalign) - Improved Sentence Alignment in Linear Time and Space
 - [dyne/harvest](https://github.com/dyne/harvest) - Tool to sort large collections of files according to common typologies
 - [machinalis/yalign](https://github.com/machinalis/yalign) - A sentence aligner for comparable corpora
