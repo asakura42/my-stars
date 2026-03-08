@@ -1081,7 +1081,7 @@
 
 - [kaboom-db/kaboom](https://github.com/kaboom-db/kaboom) - A comic tracker, written in Ruby on Rails
 - [ticky/wayback-classic](https://github.com/ticky/wayback-classic) - 🕸 A frontend for the Wayback Machine which works on old browsers
-- [pschonev/biBooks](https://github.com/pschonev/biBooks) - This allows automatic creation of bilingual e-books with two translations of a text as input using an alignment of language agnostic sentence vectors.
+- [pschonev/biBooks](https://github.com/pschonev/biBooks) - Allows automatic creation of bilingual e-books with two translations of a text as input using an alignment of language agnostic sentence vectors.
 - [coezbek/rodo](https://github.com/coezbek/rodo) - Rodo is a terminal-based todo manager written in Ruby
 - [axvr/photon.vim](https://github.com/axvr/photon.vim) - A pair of Vim colour schemes with minimal syntax highlighting.
 
