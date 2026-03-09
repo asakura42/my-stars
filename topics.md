@@ -10,7 +10,6 @@
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [android](#android)
-- [ansible](#ansible)
 - [api](#api)
 - [archlinux](#archlinux)
 - [arduino](#arduino)
@@ -227,7 +226,6 @@
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 - [Luzivog/Neuron](https://github.com/Luzivog/Neuron) - Personal voice assistant using Vosk for speech recognition
-- [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -270,10 +268,6 @@
 - [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
 - [uTox/uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-
-## ansible 
-
-- [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 
 ## api 
 
@@ -682,7 +676,6 @@
 
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
-- [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [developeranaz/URL-Magnet-Cloud-Uploader-Heroku](https://github.com/developeranaz/URL-Magnet-Cloud-Uploader-Heroku) - Aria 2 Rclone Remote URL /magnet Clouds upload via HEROKU
 - [Luctia/ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/Usenet/PleX/Jellyfin mediacenter stack using Docker
 - [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
@@ -1250,7 +1243,6 @@
 
 ## macos 
 
-- [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
 - [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
@@ -1517,6 +1509,7 @@
 - [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [frymanofer/ReactNative_WakeWordDetection](https://github.com/frymanofer/ReactNative_WakeWordDetection) - Create any wake word, deploy on any device and operating system.
 - [valorekhov/ovos-arch-linux](https://github.com/valorekhov/ovos-arch-linux) - PKGBUILD files and image scripts for OpenVoiceAssistant (OVOS)
+- [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [omlins/JustSayIt.jl](https://github.com/omlins/JustSayIt.jl) - Software and high-level API for offline, low latency and secure translation of human speech to computer commands or text on Linux, MacOS and Windows
 - [NeonGeckoCom/NeonCore](https://github.com/NeonGeckoCom/NeonCore) - Neon Core extends Mycroft core with more modular code, extended multi-user support, and more.
 - [zacharyvoase/humanhash](https://github.com/zacharyvoase/humanhash) - Human-readable digests.
@@ -2639,7 +2632,6 @@
 ## tui 
 
 - [abeleinin/goki](https://github.com/abeleinin/goki) - Anki-like flashcard management tool for the terminal!
-- [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
 - [rusq/wipemychat](https://github.com/rusq/wipemychat) - Deletes your messages for everyone in Public and Private Telegram chats (group chats).
@@ -2789,7 +2781,6 @@
 ## windows 
 
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
-- [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [Merrit/adventure_list](https://github.com/Merrit/adventure_list) - Todo list that syncs to all your devices
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
