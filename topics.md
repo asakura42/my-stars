@@ -234,7 +234,6 @@
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [noway/diy-llm-bot](https://github.com/noway/diy-llm-bot) - Compare a generic GPT-3 based chatbot with ChatGPT
 
 ## ai-agents 
@@ -1684,6 +1683,7 @@
 - [SwagSoftware/Kisak-Strike](https://github.com/SwagSoftware/Kisak-Strike) - 100% Open Source CSGO
 - [jurialmunkey/plugin.video.themoviedb.helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper) - 
 - [shwnchpl/mutt-theme-generator](https://github.com/shwnchpl/mutt-theme-generator) - Generates Mutt/Neomutt themes from .Xresources files.
+- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [jsmsj/GPT4](https://github.com/jsmsj/GPT4) - UI for gpt4 and gpt3.5 Run and use for free while it lasts. [Forefront, theb.ai, poe, you, phind, bard]
 - [fschaeck/PythonSed](https://github.com/fschaeck/PythonSed) - A full and working Python implementation of sed
 - [tucnak/vim-playfount](https://github.com/tucnak/vim-playfount) - Playfount is a dialect of Fountain plaintext screenwriting markup language.
