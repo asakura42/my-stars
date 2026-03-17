@@ -761,7 +761,7 @@
 - [xypiie/spread0r](https://github.com/xypiie/spread0r) - spread0r is a txt reader, which makes your reading twice as fast as usual
 - [ole-tange/tangetools](https://github.com/ole-tange/tangetools) - Ole Tange's personal tools !!!  MOVED TO https://gitlab.com/ole.tange/tangetools !!!
 - [john-bokma/tumblelog](https://github.com/john-bokma/tumblelog) - A static tumblelog generator available as both a Perl and Python version
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 - [SimonTheCoder/hosts2dnsmasq](https://github.com/SimonTheCoder/hosts2dnsmasq) - convert hosts file format into dnsmasq config format
 - [lulzlabs/AirChat](https://github.com/lulzlabs/AirChat) - Free Communications For Everyone.
 - [trizen/straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** Use https://github.com/trizen/pipe-viewer instead.
