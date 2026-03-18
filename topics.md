@@ -1960,7 +1960,7 @@
 - [brpocock/start.exe](https://github.com/brpocock/start.exe) - Launch an EXE file using DOSBox, Mono, or Wine, as appropriate
 - [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
 - [vardy/aphelia](https://github.com/vardy/aphelia) - A light, single-file, minimalist window manager for X11.
-- [lulzlabs/AirChat](https://github.com/lulzlabs/AirChat) - Free Communications For Everyone.
+- [arboliva/AirChat](https://github.com/arboliva/AirChat) - Free Communications For Everyone.
 - [mypasswordisqwerty/zipsync](https://github.com/mypasswordisqwerty/zipsync) - Sync zip &lt;-&gt; dir
 - [Monthy/gr-lida](https://github.com/Monthy/gr-lida) - Front-End para DOSBox, ScummVM y VDMSound
 - [MaLeLabTs/RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) - This project contains the source code of a tool for generating regular expressions for text extraction:  1. automatically, 2. based only on examples of the desired behavior, 3. without any external hi
