@@ -763,7 +763,7 @@
 - [john-bokma/tumblelog](https://github.com/john-bokma/tumblelog) - A static tumblelog generator available as both a Perl and Python version
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 - [SimonTheCoder/hosts2dnsmasq](https://github.com/SimonTheCoder/hosts2dnsmasq) - convert hosts file format into dnsmasq config format
-- [lulzlabs/AirChat](https://github.com/lulzlabs/AirChat) - Free Communications For Everyone.
+- [arboliva/AirChat](https://github.com/arboliva/AirChat) - Free Communications For Everyone.
 - [trizen/straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** Use https://github.com/trizen/pipe-viewer instead.
 - [pasky/speedread](https://github.com/pasky/speedread) - A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points)
 
