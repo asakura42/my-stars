@@ -1852,6 +1852,7 @@
 - [CriticMarkup/CriticMarkup-toolkit](https://github.com/CriticMarkup/CriticMarkup-toolkit) - Various tools to use CriticMarkup in your daily workflow
 - [AnimMouse/SH3D-ConsolePhotoGenerator](https://github.com/AnimMouse/SH3D-ConsolePhotoGenerator) - Sweet Home 3D Console Photo Generator
 - [AlexisBRENON/3dmodels-pkgbuild](https://github.com/AlexisBRENON/3dmodels-pkgbuild) - PKGBUILD generation scripts for sweethome3d models
+- [rickhowe/diffchar.vim](https://github.com/rickhowe/diffchar.vim) - Highlight the exact differences, based on characters and words
 - [stebeh/unison-android](https://github.com/stebeh/unison-android) - Android app for the Unison file-synchronization tool
 - [gtips/reviung](https://github.com/gtips/reviung) - 
 - [StefanoFiumara/harry-potter-tcg](https://github.com/StefanoFiumara/harry-potter-tcg) - A digital recreation of the old Harry Potter Trading Card Game developed (and sadly discontinued) by Wizards of the Coast.
@@ -2736,7 +2737,6 @@
 - [lifepillar/vim-mucomplete](https://github.com/lifepillar/vim-mucomplete) - Chained completion that works the way you want!
 - [haya14busa/incsearch.vim](https://github.com/haya14busa/incsearch.vim) - :flashlight: Improved incremental searching for Vim
 - [lukhio/adVIMsor](https://github.com/lukhio/adVIMsor) - A vim plugin to improve your writing quality and productivity
-- [rickhowe/diffchar.vim](https://github.com/rickhowe/diffchar.vim) - Highlight the exact differences, based on characters and words
 - [MilesCranmer/gso](https://github.com/MilesCranmer/gso) - 🏃  Google StackOverflow in Vim. Copy-pastes the code directly in your script.
 - [axvr/photon.vim](https://github.com/axvr/photon.vim) - A pair of Vim colour schemes with minimal syntax highlighting.
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
