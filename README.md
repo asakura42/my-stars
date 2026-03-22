@@ -1316,6 +1316,7 @@
 
 ## TypeScript 
 
+- [zaxbysauce/opencode-swarm](https://github.com/zaxbysauce/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
 - [uigywnkiub/diet-me](https://github.com/uigywnkiub/diet-me) - Take a photo. Get calories, protein, fat, and carbs. Simple as that.
 - [joschi/mastofeedbot](https://github.com/joschi/mastofeedbot) - A bot that posts RSS feeds to Mastodon via GitHub Actions
 - [selfagency/mastofeedbot](https://github.com/selfagency/mastofeedbot) - A bot that posts RSS feeds to Mastodon via GitHub Actions
