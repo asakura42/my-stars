@@ -105,6 +105,7 @@
 - [ipfs](#ipfs)
 - [java](#java)
 - [javascript](#javascript)
+- [jetpack-compose](#jetpack-compose)
 - [js](#js)
 - [json](#json)
 - [kotlin](#kotlin)
@@ -1076,6 +1077,10 @@
 - [karan/nojs.club](https://github.com/karan/nojs.club) - You don't need Javascript to make a beautiful, usable web. How it works: https://goel.io/nojs-club
 - [rtrevinnoc/FUTURE](https://github.com/rtrevinnoc/FUTURE) - A private, free, open-source search engine built on a P2P network
 
+## jetpack-compose 
+
+- [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
+
 ## js 
 
 - [hapepo23/learning-with-texts](https://github.com/hapepo23/learning-with-texts) - This is the official "Learning with Texts" (LWT), a web app for language learning.
@@ -1458,6 +1463,9 @@
 
 ## others 
 
+- [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
+- [ellipticmarketing/modelrelay](https://github.com/ellipticmarketing/modelrelay) - Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw
+- [SmrutAI/opencode-migration](https://github.com/SmrutAI/opencode-migration) - ClaudeCode to OpenCode Migration guide
 - [zaxbysauce/opencode-swarm](https://github.com/zaxbysauce/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
 - [ValdikSS/tor-relay-scanner](https://github.com/ValdikSS/tor-relay-scanner) - Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
@@ -1984,7 +1992,7 @@
 - [Ponywka/MultiMC5-with-offline](https://github.com/Ponywka/MultiMC5-with-offline) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [Warsow/qfusion](https://github.com/Warsow/qfusion) - Source code for cross-platform OpenGL gaming engine
 - [open-antux/DSOA](https://github.com/open-antux/DSOA) - Delete Shit On Arch
-- [rahulg/mpv-twitch-chat](https://github.com/rahulg/mpv-twitch-chat) - Read twitch.tv chat while watching VoDs with mpv.
+- [nxusr/mpv-twitch-chat](https://github.com/nxusr/mpv-twitch-chat) - Read twitch.tv chat while watching VoDs with mpv.
 - [ikskuh/kristall](https://github.com/ikskuh/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [eliep/i3-layouts](https://github.com/eliep/i3-layouts) - Dynamic layouts for i3wm
 - [nlpyang/BertSum](https://github.com/nlpyang/BertSum) - Code for paper Fine-tune BERT for Extractive Summarization
