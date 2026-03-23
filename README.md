@@ -526,6 +526,8 @@
 
 ## JavaScript 
 
+- [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
+- [ellipticmarketing/modelrelay](https://github.com/ellipticmarketing/modelrelay) - Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw
 - [KingOfBugbounty/Hardcoded-Token-Hunter](https://github.com/KingOfBugbounty/Hardcoded-Token-Hunter) - 🔐 Chrome Extension - Detect hardcoded tokens, API keys & secrets in JavaScript files
 - [GideonWhite1029/lampa-desktop](https://github.com/GideonWhite1029/lampa-desktop) - Неофициальное приложение для просмотра фильмов и сериалов
 - [weiruchenai1/api-key-tester](https://github.com/weiruchenai1/api-key-tester) - API Key 测活工具 - 用于批量检测 OpenAI、Claude、Gemini 等 API 密钥有效性 | Modern API Key Tester - Used for batch testing the validity of API keys such as OpenAI, Claude, Gemini
@@ -642,7 +644,7 @@
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [maoiscat/mpv-osc-modern](https://github.com/maoiscat/mpv-osc-modern) - Another mpv osc script
 - [marzzzello/mpv_thumbnail_script](https://github.com/marzzzello/mpv_thumbnail_script) - A Lua script to show preview thumbnails in mpv's OSC seekbar, sans external dependencies (fork)
-- [rahulg/mpv-twitch-chat](https://github.com/rahulg/mpv-twitch-chat) - Read twitch.tv chat while watching VoDs with mpv.
+- [nxusr/mpv-twitch-chat](https://github.com/nxusr/mpv-twitch-chat) - Read twitch.tv chat while watching VoDs with mpv.
 - [cvzi/mpv-youtube-upnext](https://github.com/cvzi/mpv-youtube-upnext) - A userscript for MPV that allows you to play "up next"/recommended youtube videos ⏭️
 - [Andr3as07/dotfiles](https://github.com/Andr3as07/dotfiles) - 
 - [Ajatt-Tools/mpvacious](https://github.com/Ajatt-Tools/mpvacious) - 🍜 Adds mpv keybindings to create Anki cards from movies and TV shows.
@@ -674,6 +676,7 @@
 
 ## Others 
 
+- [SmrutAI/opencode-migration](https://github.com/SmrutAI/opencode-migration) - ClaudeCode to OpenCode Migration guide
 - [mrzjy/multimodal-genshin-impact](https://github.com/mrzjy/multimodal-genshin-impact) - Collecting multimodal page content for Genshin Impact fandom wiki
 - [baptistecdr/aria2-extensions](https://github.com/baptistecdr/aria2-extensions) - Captures new download tasks and sends them to Aria2 automatically.
 - [machiav3lli/alt3rnative](https://github.com/machiav3lli/alt3rnative) - Resources of knowledge and tools from and for the digital world.
