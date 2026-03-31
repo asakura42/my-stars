@@ -1003,7 +1003,7 @@
 - [barrucadu/lainonlife](https://github.com/barrucadu/lainonlife) - RIP lainchan radio, taken out by HDD failure.
 - [formspree/formspree](https://github.com/formspree/formspree) - The successor to this repository is actively maintained at https://formspree.io. Its source code is not available
 - [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - Simple, hackable offline speech to text - using the VOSK-API.
-- [OpenJarbas/kaldi_spotter](https://github.com/OpenJarbas/kaldi_spotter) - wake word spotting with kaldi
+- [JarbasAl/kaldi_spotter](https://github.com/JarbasAl/kaldi_spotter) - wake word spotting with kaldi
 - [kitplummer/clikan](https://github.com/kitplummer/clikan) - clikan is a super simple personal kanban board that runs in a CLI
 - [AnthonyDiGirolamo/todotxt-machine](https://github.com/AnthonyDiGirolamo/todotxt-machine) - an interactive terminal based todo.txt file editor with an interface similar to mutt
 - [RealFerdinandDeSaussure/todo_blocklet](https://github.com/RealFerdinandDeSaussure/todo_blocklet) - A todo.txt GUI for i3blocks based on GTK
