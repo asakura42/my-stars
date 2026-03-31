@@ -1943,7 +1943,7 @@
 - [rui-ddc/skip-intro](https://github.com/rui-ddc/skip-intro) - This is a script for skipping episode intros (on mpv media player).
 - [barrucadu/lainonlife](https://github.com/barrucadu/lainonlife) - RIP lainchan radio, taken out by HDD failure.
 - [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - Simple, hackable offline speech to text - using the VOSK-API.
-- [OpenJarbas/kaldi_spotter](https://github.com/OpenJarbas/kaldi_spotter) - wake word spotting with kaldi
+- [JarbasAl/kaldi_spotter](https://github.com/JarbasAl/kaldi_spotter) - wake word spotting with kaldi
 - [AnthonyDiGirolamo/todotxt-machine](https://github.com/AnthonyDiGirolamo/todotxt-machine) - an interactive terminal based todo.txt file editor with an interface similar to mutt
 - [todotxt-rs/effitask](https://github.com/todotxt-rs/effitask) - Graphical task manager, based on the todo.txt format.
 - [wansing/maildirfs](https://github.com/wansing/maildirfs) - A FUSE filesystem which serves a folder as a Maildir.
