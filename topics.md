@@ -2668,7 +2668,6 @@
 - [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.6 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [theimpossibleastronaut/rmw](https://github.com/theimpossibleastronaut/rmw) - trashcan/recycle bin utility for the command line
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
-- [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
 - [Biont/sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop) - TUI Application launcher with Desktop Entry support. Made for SwayWM, but runs anywhere
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
