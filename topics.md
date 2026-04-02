@@ -1463,6 +1463,7 @@
 
 ## others 
 
+- [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [ellipticmarketing/modelrelay](https://github.com/ellipticmarketing/modelrelay) - Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw
 - [SmrutAI/opencode-migration](https://github.com/SmrutAI/opencode-migration) - ClaudeCode to OpenCode Migration guide
