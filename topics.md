@@ -63,6 +63,7 @@
 - [embedded](#embedded)
 - [emoji](#emoji)
 - [english](#english)
+- [esp32](#esp32)
 - [ethereum](#ethereum)
 - [facebook](#facebook)
 - [fastapi](#fastapi)
@@ -719,6 +720,10 @@
 ## english 
 
 - [pnlpal/dictionariez](https://github.com/pnlpal/dictionariez) - 📚 A customizable dictionary extension that supports double-click lookups in 20+ languages, 1000+ dictionaries, text-to-speech, translation and Anki integration.
+
+## esp32 
+
+- [doudar/SmartSpin2k](https://github.com/doudar/SmartSpin2k) - Transform your spin bike into a Smart Trainer!
 
 ## ethereum 
 
