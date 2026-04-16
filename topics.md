@@ -309,7 +309,7 @@
 
 ## atom 
 
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 
 ## automation 
 
@@ -385,7 +385,7 @@
 
 ## bot 
 
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [deltachat-bot/matterdelta](https://github.com/deltachat-bot/matterdelta) - Bridge Delta Chat with any service supported by matterbridge
 - [wsdjeg/vim-chat](https://github.com/wsdjeg/vim-chat) - :purple_heart: Chatting client for neovim/vim8
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
@@ -553,7 +553,7 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
-- [rfc-2549/sakisafe](https://github.com/rfc-2549/sakisafe) - simple file upload
+- [soldatami/sakisafe](https://github.com/soldatami/sakisafe) - simple file upload
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
@@ -679,7 +679,7 @@
 
 ## docker 
 
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [developeranaz/URL-Magnet-Cloud-Uploader-Heroku](https://github.com/developeranaz/URL-Magnet-Cloud-Uploader-Heroku) - Aria 2 Rclone Remote URL /magnet Clouds upload via HEROKU
 - [Luctia/ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/Usenet/PleX/Jellyfin mediacenter stack using Docker
@@ -2149,7 +2149,7 @@
 
 - [trizen/perl-scripts](https://github.com/trizen/perl-scripts) - A nice collection of day-to-day Perl scripts.
 - [john-bokma/tumblelog](https://github.com/john-bokma/tumblelog) - A static tumblelog generator available as both a Perl and Python version
-- [rfc-2549/sakisafe](https://github.com/rfc-2549/sakisafe) - simple file upload
+- [soldatami/sakisafe](https://github.com/soldatami/sakisafe) - simple file upload
 - [trizen/straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** Use https://github.com/trizen/pipe-viewer instead.
 
 ## php 
@@ -2246,7 +2246,7 @@
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
 - [wenLiangcan/pip2pkgbuild](https://github.com/wenLiangcan/pip2pkgbuild) - Generate PKGBUILD file for a Python module from PyPi
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [alltheplaces/alltheplaces](https://github.com/alltheplaces/alltheplaces) - A set of spiders and scrapers to extract location information from places that post their location on the internet.
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [FreeLanguageTools/vocabsieve](https://github.com/FreeLanguageTools/vocabsieve) - Simple sentence mining tool for language learning
@@ -2491,7 +2491,7 @@
 
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
 - [moonstone-app/moonstone](https://github.com/moonstone-app/moonstone) - 🌑 Headless PKM server that turns any note folder into a programmable platform. Works with Obsidian, Logseq, and Zim out of the box. Zero lock-in.
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [farfalleflickan/cmyflix](https://github.com/farfalleflickan/cmyflix) - cmyflix, a Netflix clone!
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -2551,7 +2551,7 @@
 
 ## sqlite 
 
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [rwandaPinocle/Liszt](https://github.com/rwandaPinocle/Liszt) - A personal organization software with a script engine for automation
 
 ## stable-diffusion 
@@ -2575,7 +2575,7 @@
 
 ## telegram 
 
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [D4n13l3k00/tapkofon](https://github.com/D4n13l3k00/tapkofon) - Tapkofon - веб-клиент Telegram для тапиков
 - [shinovon/mpgram-web](https://github.com/shinovon/mpgram-web) - Lightweight telegram web client based on MadelineProto
 - [rusq/wipemychat](https://github.com/rusq/wipemychat) - Deletes your messages for everyone in Public and Private Telegram chats (group chats).
@@ -2597,7 +2597,7 @@
 ## telegram-bot 
 
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
