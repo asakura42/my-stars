@@ -157,7 +157,7 @@
 - [cdown/clipnotify](https://github.com/cdown/clipnotify) - Notify on new X clipboard events
 - [mario-campos/xget](https://github.com/mario-campos/xget) - A minimal, secure, command-line XDCC client.
 - [skyjake/lagrange](https://github.com/skyjake/lagrange) - A Beautiful Gemini Client
-- [rfc-2549/sakisafe](https://github.com/rfc-2549/sakisafe) - simple file upload
+- [soldatami/sakisafe](https://github.com/soldatami/sakisafe) - simple file upload
 - [zserge/tray](https://github.com/zserge/tray) - Cross-platform, super tiny C99 implementation of a system tray icon with a popup menu.
 - [jonhoo/mktrayicon](https://github.com/jonhoo/mktrayicon) - Create system tray icons by writing to a pipe
 - [HerculesWS/Hercules](https://github.com/HerculesWS/Hercules) - Hercules is a collaborative software development project revolving around the creation of a robust massively multiplayer online role playing game (MMORPG) server package. Written in C, the program is 
@@ -803,7 +803,7 @@
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal feed reader
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 - [ScienciaLAB/document-qa](https://github.com/ScienciaLAB/document-qa) - Scientific Document Insight Q/A
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [MartinPacker/md2pptx](https://github.com/MartinPacker/md2pptx) - Markdown To PowerPoint converter
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [mohbattharani/LLaVA-Chef](https://github.com/mohbattharani/LLaVA-Chef) - FoodKG paper related models and results.
