@@ -157,7 +157,6 @@
 - [cdown/clipnotify](https://github.com/cdown/clipnotify) - Notify on new X clipboard events
 - [mario-campos/xget](https://github.com/mario-campos/xget) - A minimal, secure, command-line XDCC client.
 - [skyjake/lagrange](https://github.com/skyjake/lagrange) - A Beautiful Gemini Client
-- [soldatami/sakisafe](https://github.com/soldatami/sakisafe) - simple file upload
 - [zserge/tray](https://github.com/zserge/tray) - Cross-platform, super tiny C99 implementation of a system tray icon with a popup menu.
 - [jonhoo/mktrayicon](https://github.com/jonhoo/mktrayicon) - Create system tray icons by writing to a pipe
 - [HerculesWS/Hercules](https://github.com/HerculesWS/Hercules) - Hercules is a collaborative software development project revolving around the creation of a robust massively multiplayer online role playing game (MMORPG) server package. Written in C, the program is 
