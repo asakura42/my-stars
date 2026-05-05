@@ -906,7 +906,7 @@
 - [rsennrich/Bleualign](https://github.com/rsennrich/Bleualign) - Machine-Translation-based sentence alignment tool for parallel text
 - [bfsujason/bertalign](https://github.com/bfsujason/bertalign) - Multilingual sentence alignment using sentence embeddings
 - [balta2ar/srs-toolbelt](https://github.com/balta2ar/srs-toolbelt) - SRS (Anki/Memrise) toolbelt: automate conversion of a list of English/Korean/Norwegian words into Anki cards or course in Memrise, with pronunciation
-- [jzohrab/LuteLemma](https://github.com/jzohrab/LuteLemma) - Simple lemmatizing script for use with Lute (https://github.com/jzohrab/lute)
+- [LuteOrg/lute-lemma](https://github.com/LuteOrg/lute-lemma) - Simple lemmatizing script for use with Lute (https://github.com/LuteOrg/lute)
 - [Crissium/SilverDict](https://github.com/Crissium/SilverDict) - Web-Based Alternative to GoldenDict
 - [benno094/pdf-anki](https://github.com/benno094/pdf-anki) - A GUI to automatically create and add Anki flashcards from a .pdf file using the OpenAI API
 - [kelciour/playphrase](https://github.com/kelciour/playphrase) - Search and play phrases from movies and audiobooks
