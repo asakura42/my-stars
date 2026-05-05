@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [agent](#agent)
+- [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [android](#android)
@@ -222,6 +223,13 @@
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+
+## agents 
+
+- [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 
 ## ai 
 
@@ -1695,7 +1703,7 @@
 - [bfsujason/bertalign](https://github.com/bfsujason/bertalign) - Multilingual sentence alignment using sentence embeddings
 - [hfxunlp/yasa](https://github.com/hfxunlp/yasa) - yasa is a program that aligns two translations of a text sentence by sentence in order to produce a bi-text
 - [jzohrab/lute](https://github.com/jzohrab/lute) - DEPRECATED: LUTE (Learning Using Texts) is a self-hosted web app for learning language through reading, based on Learning with Texts (LWT)
-- [jzohrab/LuteLemma](https://github.com/jzohrab/LuteLemma) - Simple lemmatizing script for use with Lute (https://github.com/jzohrab/lute)
+- [LuteOrg/lute-lemma](https://github.com/LuteOrg/lute-lemma) - Simple lemmatizing script for use with Lute (https://github.com/LuteOrg/lute)
 - [Crissium/SilverDict](https://github.com/Crissium/SilverDict) - Web-Based Alternative to GoldenDict
 - [emk/subtitles-rs](https://github.com/emk/subtitles-rs) - Use SRT subtitle files to study foreign languages (in progress)
 - [benno094/pdf-anki](https://github.com/benno094/pdf-anki) - A GUI to automatically create and add Anki flashcards from a .pdf file using the OpenAI API
