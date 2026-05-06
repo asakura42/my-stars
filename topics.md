@@ -1643,7 +1643,6 @@
 - [libredirect/instances](https://github.com/libredirect/instances) - Automated instances list for LibRedirect
 - [NoPlagiarism/instances-list](https://github.com/NoPlagiarism/instances-list) - Auto-updated list of alternative frontend instances
 - [AdmTal/chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - Prompts for playable games in ChatGPT
-- [antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) - Bypass check if user has a real Microsoft MSA account linked with the Minecraft Launchers PrismLauncher, Prism Launcher
 - [sitandr/quickpoeterGUI](https://github.com/sitandr/quickpoeterGUI) - Поэтический редактор с открытым исходным кодом на Tauri
 - [tasksched/tasksched](https://github.com/tasksched/tasksched) - Task scheduler with automatic resource leveling
 - [Procrat/eva](https://github.com/Procrat/eva) - Let algorithms decide your life.
@@ -1769,7 +1768,6 @@
 - [TALP-UPC/saga](https://github.com/TALP-UPC/saga) - SAGA - Phonetic transcription software for all Spanish variants.
 - [textbrowser/biblioteq](https://github.com/textbrowser/biblioteq) - Archive and catalog the world. Awesome. Everyware.
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
-- [td512/RcloneBrowser](https://github.com/td512/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [HamletDuFromage/4chan-mass-reply](https://github.com/HamletDuFromage/4chan-mass-reply) - Easy mass replies on 4channel.org
 - [drunohazarb/4chan-captcha-solver](https://github.com/drunohazarb/4chan-captcha-solver) - 
 - [mgudemann/sct](https://github.com/mgudemann/sct) - Change screen color temperature and brightness using the Xrandr extension
