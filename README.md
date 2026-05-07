@@ -528,7 +528,6 @@
 - [ellipticmarketing/modelrelay](https://github.com/ellipticmarketing/modelrelay) - Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw
 - [KingOfBugbounty/Hardcoded-Token-Hunter](https://github.com/KingOfBugbounty/Hardcoded-Token-Hunter) - 🔐 Chrome Extension - Detect hardcoded tokens, API keys & secrets in JavaScript files
 - [GideonWhite1029/lampa-desktop](https://github.com/GideonWhite1029/lampa-desktop) - Неофициальное приложение для просмотра фильмов и сериалов
-- [weiruchenai1/api-key-tester](https://github.com/weiruchenai1/api-key-tester) - API Key 测活工具 - 用于批量检测 OpenAI、Claude、Gemini 等 API 密钥有效性 | Modern API Key Tester - Used for batch testing the validity of API keys such as OpenAI, Claude, Gemini
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [snailyp/apichecker](https://github.com/snailyp/apichecker) - 浏览器插件版api检测工具
 - [vinayaksodar/plot-lines](https://github.com/vinayaksodar/plot-lines) - Writing app for screenplays, web series etc
@@ -1320,6 +1319,7 @@
 
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 160+ providers, RTK+Caveman stacked compression up to ~95% eligible context savings, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
 - [zaxbysauce/opencode-swarm](https://github.com/zaxbysauce/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
+- [weiruchenai1/api-key-tester](https://github.com/weiruchenai1/api-key-tester) - API Key 测活工具 - 用于批量检测 OpenAI、Claude、Gemini 等 API 密钥有效性 | Modern API Key Tester - Used for batch testing the validity of API keys such as OpenAI, Claude, Gemini
 - [uigywnkiub/diet-me](https://github.com/uigywnkiub/diet-me) - Take a photo. Get calories, protein, fat, and carbs. Simple as that.
 - [joschi/mastofeedbot](https://github.com/joschi/mastofeedbot) - A bot that posts RSS feeds to Mastodon via GitHub Actions
 - [selfagency/mastofeedbot](https://github.com/selfagency/mastofeedbot) - A bot that posts RSS feeds to Mastodon via GitHub Actions
