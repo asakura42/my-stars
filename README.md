@@ -457,6 +457,7 @@
 
 - [NoelDeMartin/umai](https://github.com/NoelDeMartin/umai) - Local-first Recipes Manager
 - [Kirilllive/tuesday-js](https://github.com/Kirilllive/tuesday-js) - simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional s
+- [slasjh/cy](https://github.com/slasjh/cy) - 
 - [ircfspace/endpoint](https://github.com/ircfspace/endpoint) - Suggested Endpoints for Warp & Masque
 - [bright-spark/x-frame-bypass](https://github.com/bright-spark/x-frame-bypass) - Web Component extending IFrame to bypass X-Frame-Options: deny/sameorigin
 - [DmytroNorth/Automated_Subtitles_Generation-Regex_Java](https://github.com/DmytroNorth/Automated_Subtitles_Generation-Regex_Java) - An automated workflow that generates timestamped subtitles from a video file with custom control using regex, Java and multiple online tools.
@@ -532,7 +533,6 @@
 - [snailyp/apichecker](https://github.com/snailyp/apichecker) - 浏览器插件版api检测工具
 - [vinayaksodar/plot-lines](https://github.com/vinayaksodar/plot-lines) - Writing app for screenplays, web series etc
 - [Bedrockbreaker/afterwriting-labs](https://github.com/Bedrockbreaker/afterwriting-labs) - Post-processing for Fountain screenplays
-- [slasjh/cy](https://github.com/slasjh/cy) - 
 - [Zaruber/Sheetswbparser](https://github.com/Zaruber/Sheetswbparser) - 🔍 Парсер позиций товаров Wildberries в Google Sheets
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
