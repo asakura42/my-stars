@@ -202,7 +202,7 @@
 - [tim-gromeyer/VoiceAssistant](https://github.com/tim-gromeyer/VoiceAssistant) - Empower Your Voice, Secure Your Privacy - Experience VoiceAssistant, Your Customizable Offline Voice Assistant!
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [BenWiederhake/tdlib-purple](https://github.com/BenWiederhake/tdlib-purple) - libpurple Telegram plugin using tdlib
-- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
+- [dvorka-oss/mindforger](https://github.com/dvorka-oss/mindforger) - Thinking notebook and Markdown editor.
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [mvsjober/yasa](https://github.com/mvsjober/yasa) - yasa is a program that aligns two translations of a text sentence by sentence in order to produce a bi-text
 - [wydengyre/hunalign](https://github.com/wydengyre/hunalign) - 
@@ -755,7 +755,6 @@
 
 - [traes/Mnemonics](https://github.com/traes/Mnemonics) - Generate mnemonics for language learning
 - [trapd00r/utils](https://github.com/trapd00r/utils) - Small useful utilities for everyday work
-- [silnrsi/font-andika](https://github.com/silnrsi/font-andika) - A font family designed especially for literacy use, taking into account the needs of beginning readers
 - [trizen/perl-scripts](https://github.com/trizen/perl-scripts) - A nice collection of day-to-day Perl scripts.
 - [xypiie/spread0r](https://github.com/xypiie/spread0r) - spread0r is a txt reader, which makes your reading twice as fast as usual
 - [ole-tange/tangetools](https://github.com/ole-tange/tangetools) - Ole Tange's personal tools !!!  MOVED TO https://gitlab.com/ole.tange/tangetools !!!
@@ -952,6 +951,7 @@
 - [magnus-ISU/anki-touch](https://github.com/magnus-ISU/anki-touch) - Anki 2.x add-on that helps using with the touch interface
 - [olivierkes/manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [jtuason/twine_to_renpy](https://github.com/jtuason/twine_to_renpy) - Write a simple Ren'Py game but with the visual outlining of writing in Twine
+- [silnrsi/font-andika](https://github.com/silnrsi/font-andika) - A font family designed especially for literacy use, taking into account the needs of beginning readers
 - [TreeNote/TreeNote](https://github.com/TreeNote/TreeNote) - An intuitive outliner for personal knowledge and task management
 - [TunMax/tun2socks_gui_for_windows](https://github.com/TunMax/tun2socks_gui_for_windows) - A simple gui for tun2socks on windows. 配合v2ray、ss等客户端(eg. v2rayN)，可使其实现tun模式。
 - [vim-voom/VOoM](https://github.com/vim-voom/VOoM) - VOoM (Vim Outliner of Markups) is a plugin for Vim that emulates a two-pane text outliner.
