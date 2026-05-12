@@ -1146,7 +1146,7 @@
 - [EnricoMiccoli/TeXalendar](https://github.com/EnricoMiccoli/TeXalendar) - LaTeX weekly planner
 - [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 - [plainoldcheese/groff-guide](https://github.com/plainoldcheese/groff-guide) - 📜 a simple example document that is easily readable so that it can be used as a learning tool to get up and running with groff very quickly.
-- [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.
+- [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Quarto (Pandoc).
 
 ## learning 
 
@@ -1327,7 +1327,7 @@
 - [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
 - [kmwallio/ThiefMD](https://github.com/kmwallio/ThiefMD) - The markdown editor worth stealing. Inspired by Ulysses, based on code from Quilter
 - [amyreese/markdown-pp](https://github.com/amyreese/markdown-pp) - Preprocessor for Markdown files to generate a table of contents and other documentation needs
-- [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc.
+- [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Quarto (Pandoc).
 - [kristapsdz/lowdown](https://github.com/kristapsdz/lowdown) - simple markdown translator
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [jpbruinsslot/anki-md](https://github.com/jpbruinsslot/anki-md) - 📚  A markdown to anki flash cards converter
