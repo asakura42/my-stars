@@ -82,7 +82,6 @@
 ## Batchfile 
 
 - [G0-G4/ResponseBot](https://github.com/G0-G4/ResponseBot) - автоответчик на отзывы на маркетплейсах
-- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [islamadel/bat2exe](https://github.com/islamadel/bat2exe) - Automatically exported from code.google.com/p/bat2exe
 
 ## C 
@@ -1175,6 +1174,7 @@
 
 - [Yenthe666/InstallScript](https://github.com/Yenthe666/InstallScript) - Odoo install script
 - [maximilionus/byedpictl](https://github.com/maximilionus/byedpictl) - Very simple deep packet inspection bypass utility for Linux
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [fatyzzz/Byedpi-Setup](https://github.com/fatyzzz/Byedpi-Setup) - Скрипт, для подбора настроек и автоустановки ByeDPI на Linux
 - [BarbossHack/RiseupVPN-OpenVPN](https://github.com/BarbossHack/RiseupVPN-OpenVPN) - Simple Bash script that generates an OpenVPN configuration file for use with RiseupVPN
 - [ImMALWARE/bash-warp-generator](https://github.com/ImMALWARE/bash-warp-generator) - Генератор конфига Cloudflare WARP для AmneziaVPN
