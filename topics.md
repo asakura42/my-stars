@@ -1723,7 +1723,6 @@
 - [SwagSoftware/Kisak-Strike](https://github.com/SwagSoftware/Kisak-Strike) - 100% Open Source CSGO
 - [jurialmunkey/plugin.video.themoviedb.helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper) - 
 - [shwnchpl/mutt-theme-generator](https://github.com/shwnchpl/mutt-theme-generator) - Generates Mutt/Neomutt themes from .Xresources files.
-- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [jsmsj/GPT4](https://github.com/jsmsj/GPT4) - UI for gpt4 and gpt3.5 Run and use for free while it lasts. [Forefront, theb.ai, poe, you, phind, bard]
 - [fschaeck/PythonSed](https://github.com/fschaeck/PythonSed) - A full and working Python implementation of sed
 - [tucnak/vim-playfount](https://github.com/tucnak/vim-playfount) - Playfount is a dialect of Fountain plaintext screenwriting markup language.
@@ -1949,7 +1948,7 @@
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [Kwpolska/todolist](https://github.com/Kwpolska/todolist) - Chris Warrick’s LaTeX Todo List.
 - [tsoding/todo-rs](https://github.com/tsoding/todo-rs) - Simple Interactive Terminal Todo App in Rust
-- [gavv/tagberry](https://github.com/gavv/tagberry) - Tag-oriented Qt5 desktop calendar, task manager, and todo list.
+- [gavv/tagberry-qt](https://github.com/gavv/tagberry-qt) - Tag-oriented Qt5 desktop calendar, task manager, and todo list.
 - [HiveMinds/CoursePlanningTemplate](https://github.com/HiveMinds/CoursePlanningTemplate) - Makes latex templates for all your course work (assignments, lecture summaries, etc.), generates taskwarrior commands, enables syncing all course tasks with google calendar, sets up pseudo-anonymous o
 - [lewis-weinberger/yat-rs](https://github.com/lewis-weinberger/yat-rs) - a simple terminal todo list manager written in Rust
 - [Arnavion/matrix-client-rs](https://github.com/Arnavion/matrix-client-rs) - TUI Matrix client in Rust.
