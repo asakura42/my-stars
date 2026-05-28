@@ -675,7 +675,7 @@
 
 - [SmrutAI/opencode-migration](https://github.com/SmrutAI/opencode-migration) - ClaudeCode to OpenCode Migration guide
 - [mrzjy/multimodal-genshin-impact](https://github.com/mrzjy/multimodal-genshin-impact) - Collecting multimodal page content for Genshin Impact fandom wiki
-- [baptistecdr/aria2-extensions](https://github.com/baptistecdr/aria2-extensions) - Send downloads, links, and torrent files directly to your Aria2 server.
+- [baptistecdr/aria2-extensions](https://github.com/baptistecdr/aria2-extensions) - Send downloads, links, and torrent files directly to your Aria2 server or Motrix instance.
 - [machiav3lli/alt3rnative](https://github.com/machiav3lli/alt3rnative) - Resources of knowledge and tools from and for the digital world.
 - [netstalking-core/netstalking-catalogue](https://github.com/netstalking-core/netstalking-catalogue) - Каталог нетсталкерских ресурсов, команд, инструментов, источников контента.
 - [wea-f/ByePassHub](https://github.com/wea-f/ByePassHub) - 1000+ unrestricted proxies, games, tools, bookmarklets, and AI
@@ -781,7 +781,7 @@
 - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
 - [eslazarev/wildberries-sdk](https://github.com/eslazarev/wildberries-sdk) - Wildberries SDK-клиенты для Python, Node.js, Go и PHP, постоянно актуальные в соответствии с OpenAPI-спецификациями.
 - [rgoerwit/ai-investment-agent](https://github.com/rgoerwit/ai-investment-agent) - Agentic AI ex-US equity evaluator (LangGraph+Gemini)
-- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, AtlasCloud and more)
+- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, Grok and more)
 - [tabahi/bournemouth-forced-aligner](https://github.com/tabahi/bournemouth-forced-aligner) - Extract phoneme-level timestamps from speeh audio.
 - [avinashvarna/aeneas](https://github.com/avinashvarna/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
