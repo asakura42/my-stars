@@ -200,6 +200,8 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
+- [unity](#unity)
+- [unreal-engine](#unreal-engine)
 - [v2ray](#v2ray)
 - [video](#video)
 - [vim](#vim)
@@ -252,6 +254,7 @@
 
 ## ai-agents 
 
+- [TraftG/opencode-game-studio](https://github.com/TraftG/opencode-game-studio) - 
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%
 - [zaxbysauce/opencode-swarm](https://github.com/zaxbysauce/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -840,6 +843,7 @@
 
 ## game-development 
 
+- [TraftG/opencode-game-studio](https://github.com/TraftG/opencode-game-studio) - 
 - [divVerent/aaaaxy](https://github.com/divVerent/aaaaxy) - A nonlinear 2D puzzle platformer taking place in impossible spaces.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
@@ -850,6 +854,7 @@
 
 ## gamedev 
 
+- [TraftG/opencode-game-studio](https://github.com/TraftG/opencode-game-studio) - 
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 ## games 
@@ -905,6 +910,7 @@
 
 ## godot 
 
+- [TraftG/opencode-game-studio](https://github.com/TraftG/opencode-game-studio) - 
 - [MudkipWorld/PNGTuber-Remix](https://github.com/MudkipWorld/PNGTuber-Remix) - An Open-source PNGTubing app :D
 - [virtual-puppet-project/vpuppr](https://github.com/virtual-puppet-project/vpuppr) - VTuber application made with Godot 4
 
@@ -2744,6 +2750,14 @@
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
+## unity 
+
+- [TraftG/opencode-game-studio](https://github.com/TraftG/opencode-game-studio) - 
+
+## unreal-engine 
+
+- [TraftG/opencode-game-studio](https://github.com/TraftG/opencode-game-studio) - 
 
 ## v2ray 
 
