@@ -1171,6 +1171,7 @@
 
 ## Shell 
 
+- [TraftG/opencode-game-studio](https://github.com/TraftG/opencode-game-studio) - 
 - [Yenthe666/InstallScript](https://github.com/Yenthe666/InstallScript) - Odoo install script
 - [maximilionus/byedpictl](https://github.com/maximilionus/byedpictl) - Very simple deep packet inspection bypass utility for Linux
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
