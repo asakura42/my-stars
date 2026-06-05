@@ -53,7 +53,6 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [TeX](#tex)
-- [Text](#text)
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [Vala](#vala)
@@ -779,7 +778,7 @@
 - [moonstone-app/moonstone](https://github.com/moonstone-app/moonstone) - 🌑 Headless PKM server that turns any note folder into a programmable platform. Works with Obsidian, Logseq, and Zim out of the box. Zero lock-in.
 - [ValdikSS/tor-relay-scanner](https://github.com/ValdikSS/tor-relay-scanner) - Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
-- [eslazarev/wildberries-sdk](https://github.com/eslazarev/wildberries-sdk) - Wildberries SDK-клиенты для Python, Node.js, Go и PHP, постоянно актуальные в соответствии с OpenAPI-спецификациями.
+- [eslazarev/wildberries-sdk](https://github.com/eslazarev/wildberries-sdk) - Wildberries SDK-клиенты для Python, Node.js, Go, PHP, RUST постоянно актуальные в соответствии с OpenAPI-спецификациями.
 - [rgoerwit/ai-investment-agent](https://github.com/rgoerwit/ai-investment-agent) - Agentic AI ex-US equity evaluator (LangGraph+Gemini)
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Webchat to API (Gemini)
 - [tabahi/bournemouth-forced-aligner](https://github.com/tabahi/bournemouth-forced-aligner) - Extract phoneme-level timestamps from speeh audio.
@@ -1310,10 +1309,6 @@
 - [wilx/tweet2latex](https://github.com/wilx/tweet2latex) - Utility for retrieval and formatting of tweets into LaTeX documents.
 - [jfogarty/latex-createspace-bookcover](https://github.com/jfogarty/latex-createspace-bookcover) - Generates a customizable print-on-demand paperback book cover as a PDF using LaTeX
 - [kjhealy/pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some templates for Pandoc.
-
-## Text 
-
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript 
 
