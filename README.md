@@ -494,7 +494,7 @@
 ## Java 
 
 - [hapepo23/foreign-language-text-reader](https://github.com/hapepo23/foreign-language-text-reader) - This is the official "Foreign Language Text Reader" (FLTR), a Java application for language learning.
-- [Belluxx/Java2Smali](https://github.com/Belluxx/Java2Smali) - Convert java code to smali with one command
+- [Belluxx/Java2Smali](https://github.com/Belluxx/Java2Smali) - Convert Java code to Smali for Android app reverse-engineering
 - [hstsethi/awesome-j2me](https://github.com/hstsethi/awesome-j2me) - Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.
 - [Vinetos/Tranquille](https://github.com/Vinetos/Tranquille) - 📲🚫 Block unwanted calls effortlessly. Supports regex. wildcard and open-source bans-lists. Fork of YetAnotherCallBlocker.
 - [Dr4iv3rNope/NotSoAndroidAyuGram](https://github.com/Dr4iv3rNope/NotSoAndroidAyuGram) - AyuGram for Android without proprietary features.
@@ -776,6 +776,7 @@
 
 ## Python 
 
+- [AbdelrhmanNile/UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) - A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux.
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [moonstone-app/moonstone](https://github.com/moonstone-app/moonstone) - 🌑 Headless PKM server that turns any note folder into a programmable platform. Works with Obsidian, Logseq, and Zim out of the box. Zero lock-in.
 - [ValdikSS/tor-relay-scanner](https://github.com/ValdikSS/tor-relay-scanner) - Tor Relay availability checker, for using it as a bridge in countries with censorship
@@ -1317,7 +1318,7 @@
 
 ## TypeScript 
 
-- [qnbs/StoryCraft-Studio](https://github.com/qnbs/StoryCraft-Studio) - An app for aspiring authors, screenwriters, and content creators who want to create stories, scripts, or novels. It includes story templates, character/world-building tools, an AI writing assistant, s
+- [qnbs/StoryCraft-Studio](https://github.com/qnbs/StoryCraft-Studio) - AI-powered writing studio for authors & screenwriters. Story planning, character & world building, AI assistants, offline PWA + desktop app with strong privacy focus.
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%
 - [zaxbysauce/opencode-swarm](https://github.com/zaxbysauce/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
 - [weiruchenai1/api-key-tester](https://github.com/weiruchenai1/api-key-tester) - API Key 测活工具 - 用于批量检测 OpenAI、Claude、Gemini 等 API 密钥有效性 | Modern API Key Tester - Used for batch testing the validity of API keys such as OpenAI, Claude, Gemini
