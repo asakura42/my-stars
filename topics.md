@@ -1470,7 +1470,6 @@
 - [rmusser01/tldw_server](https://github.com/rmusser01/tldw_server) - tl/dw (Too Long, Didn't Watch): Your Personal Research Multi-Tool - a naive attempt at 'A Young Lady's Illustrated Primer' (Open Source NotebookLM)
 - [sussy-code/smov](https://github.com/sussy-code/smov) - Sudo-flix's source code (Allegedly)
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
-- [MarekDzw/IFCalculator](https://github.com/MarekDzw/IFCalculator) - Rewritten old IF Calc on Vue.js
 - [team-pp-studio/VoiceTuber](https://github.com/team-pp-studio/VoiceTuber) - VTuber application which only requires your voice and microphone, no need for a webcam or other tracking nonsense.
 - [R4yGM/garlicshare](https://github.com/R4yGM/garlicshare) - Private and self-hosted file sharing over the Tor network written in golang
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
@@ -2828,7 +2827,6 @@
 
 ## vuejs 
 
-- [MarekDzw/IFCalculator](https://github.com/MarekDzw/IFCalculator) - Rewritten old IF Calc on Vue.js
 - [ThisCakeIsALie/ki](https://github.com/ThisCakeIsALie/ki) - A tool to remember japanese word pronounciations using english words
 
 ## web 
