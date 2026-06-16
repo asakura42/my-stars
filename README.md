@@ -644,7 +644,6 @@
 - [marzzzello/mpv_thumbnail_script](https://github.com/marzzzello/mpv_thumbnail_script) - A Lua script to show preview thumbnails in mpv's OSC seekbar, sans external dependencies (fork)
 - [nxusr/mpv-twitch-chat](https://github.com/nxusr/mpv-twitch-chat) - Read twitch.tv chat while watching VoDs with mpv.
 - [cvzi/mpv-youtube-upnext](https://github.com/cvzi/mpv-youtube-upnext) - A userscript for MPV that allows you to play "up next"/recommended youtube videos ⏭️
-- [Andr3as07/dotfiles](https://github.com/Andr3as07/dotfiles) - 
 - [Ajatt-Tools/mpvacious](https://github.com/Ajatt-Tools/mpvacious) - 🍜 Adds mpv keybindings to create Anki cards from movies and TV shows.
 - [Ajatt-Tools/videoclip](https://github.com/Ajatt-Tools/videoclip) - 🍗 Easily create videoclips with mpv.
 
@@ -872,6 +871,7 @@
 - [NoPlagiarism/instances-list](https://github.com/NoPlagiarism/instances-list) - Auto-updated list of alternative frontend instances
 - [tasksched/tasksched](https://github.com/tasksched/tasksched) - Task scheduler with automatic resource leveling
 - [fniessink/next-action](https://github.com/fniessink/next-action) - Next-action: determine the next action to work on from a list of actions in a todo.txt file
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [LuteOrg/lute-v3](https://github.com/LuteOrg/lute-v3) - LUTE = Learning Using Texts: learn languages through reading.
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
@@ -1286,6 +1286,7 @@
 - [Biont/sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop) - TUI Application launcher with Desktop Entry support. Made for SwayWM, but runs anywhere
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
+- [Andr3as07/dotfiles](https://github.com/Andr3as07/dotfiles) - 
 - [klesh/dotfiles](https://github.com/klesh/dotfiles) - 
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [afontenot/firefox-clean](https://github.com/afontenot/firefox-clean) - A PKGBUILD for Firefox with defaults for the privacy-conscious and power users
@@ -1340,7 +1341,6 @@
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
 - [neurogen-dev/NeuroAPI](https://github.com/neurogen-dev/NeuroAPI) - Cheap ChatGPT 4o, GPT-5, Claude-4 API / Дешевый СhatGPT 4o ChatGPT 4o, GPT-5, Claude-4 API
 - [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [vangelov/calories-in](https://github.com/vangelov/calories-in) - A web-based meal plan editor for people who prepare all of their food.
 - [alexandria-reader/alexandria](https://github.com/alexandria-reader/alexandria) - Alexandria reading app monorepo
