@@ -1509,6 +1509,7 @@
 
 ## others 
 
+- [r3n3gad37040/openclaude-webui-react](https://github.com/r3n3gad37040/openclaude-webui-react) - 
 - [Ajatt-Tools/elevate](https://github.com/Ajatt-Tools/elevate) - 🥢 Generate subtitles with ElevenLabs!
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
