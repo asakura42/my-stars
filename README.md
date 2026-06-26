@@ -52,6 +52,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [TeX](#tex)
 - [Text](#text)
 - [TypeScript](#typescript)
@@ -526,7 +527,6 @@
 
 ## JavaScript 
 
-- [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [ellipticmarketing/modelrelay](https://github.com/ellipticmarketing/modelrelay) - Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw
 - [KingOfBugbounty/Hardcoded-Token-Hunter](https://github.com/KingOfBugbounty/Hardcoded-Token-Hunter) - 🔐 Chrome Extension - Detect hardcoded tokens, API keys & secrets in JavaScript files
 - [GideonWhite1029/lampa-desktop](https://github.com/GideonWhite1029/lampa-desktop) - Неофициальное приложение для просмотра фильмов и сериалов
@@ -1301,6 +1301,10 @@
 - [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 - [lettier/blender-keymap-trainer](https://github.com/lettier/blender-keymap-trainer) - :keyboard: Digital flashcards for memorizing Blender's shortcut keys.
 
+## Swift 
+
+- [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
+
 ## TeX 
 
 - [dobrosketchkun/after_the_gates_2025](https://github.com/dobrosketchkun/after_the_gates_2025) - An artistic exploration of a world transformed the emergence of portals to dangerous dimensions and people with awakened abilities.
@@ -1322,6 +1326,7 @@
 
 ## TypeScript 
 
+- [r3n3gad37040/openclaude-webui-react](https://github.com/r3n3gad37040/openclaude-webui-react) - 
 - [qnbs/WorldScript-Studio](https://github.com/qnbs/WorldScript-Studio) - AI-powered writing studio for authors & screenwriters. Story planning, character & world building, AI assistants, offline PWA + desktop app with strong privacy focus.
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%
 - [ZaxbyHub/opencode-swarm](https://github.com/ZaxbyHub/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
