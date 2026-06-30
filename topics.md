@@ -517,7 +517,7 @@
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh using mpv from the shell/fzf + extras/goodies 🎧📡🛸
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh using mpv from the shell/fzf + extras/goodies 🎧📡🔊
 - [Ratakor/quand](https://github.com/Ratakor/quand) - Simple calendar written in POSIX sh
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [hardcore-sushi/doby](https://github.com/hardcore-sushi/doby) - Secure symmetric encryption from the command line.
@@ -1298,7 +1298,7 @@
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh using mpv from the shell/fzf + extras/goodies 🎧📡🛸
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh using mpv from the shell/fzf + extras/goodies 🎧📡🔊
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
 - [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file and folder transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between any devices that run Photon.
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
@@ -2555,7 +2555,7 @@
 - [lichendust/meander](https://github.com/lichendust/meander) - 📝 A powerful, portable utility for production screenplays and manuscripts
 - [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh using mpv from the shell/fzf + extras/goodies 🎧📡🛸
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh using mpv from the shell/fzf + extras/goodies 🎧📡🔊
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
 - [ar1ja/arigram](https://github.com/ar1ja/arigram) - [Migrated to self-hosted ari-web Forgejo: https://git.ari.lt/ari/arigram] A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
 - [trapd00r/utils](https://github.com/trapd00r/utils) - Small useful utilities for everyday work
@@ -2652,7 +2652,7 @@
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh using mpv from the shell/fzf + extras/goodies 🎧📡🛸
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh using mpv from the shell/fzf + extras/goodies 🎧📡🔊
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
 - [foxfriends/paper-terminal](https://github.com/foxfriends/paper-terminal) - Print Markdown to a paper in your terminal
