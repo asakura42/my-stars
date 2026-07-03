@@ -480,7 +480,7 @@
 - [pnlpal/dictionariez](https://github.com/pnlpal/dictionariez) - 📚 A customizable dictionary extension that supports double-click lookups in 20+ languages, 1000+ dictionaries, text-to-speech, translation and Anki integration.
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [underrobyn/AbsoluteDoubleTrace](https://github.com/underrobyn/AbsoluteDoubleTrace) - A web extension to block browser fingerprinting (Manifest V2)
-- [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TypeScript and TensorFlow.js.
+- [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TensorFlow.js.
 - [ninja33/ODH](https://github.com/ninja33/ODH) - A chrome extension to show online dictionary content.
 
 ## clash 
@@ -1029,7 +1029,7 @@
 - [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
 - [aaronraimist/element-themes](https://github.com/aaronraimist/element-themes) - A place to share themes for Element. PRs with new themes are welcome!
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
-- [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TypeScript and TensorFlow.js.
+- [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TensorFlow.js.
 - [DanWin/hosting](https://github.com/DanWin/hosting) - This is a setup for a Tor based shared web hosting server
 
 ## haskell 
@@ -2641,7 +2641,7 @@
 ## tensorflow 
 
 - [floe/backscrub](https://github.com/floe/backscrub) - Virtual Video Device for Background Replacement with Deep Semantic Segmentation
-- [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TypeScript and TensorFlow.js.
+- [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TensorFlow.js.
 
 ## terminal 
 
@@ -2740,7 +2740,7 @@
 - [tategakibunko/TypeNovel](https://github.com/tategakibunko/TypeNovel) - A simple markup language to write novel with types.
 - [nramos0/fluent-reader](https://github.com/nramos0/fluent-reader) - Language learning app similar to https://lingq.com/, but open source and free written in Typescript and Rust. Supports English and Chinese.
 - [ncarlier/readflow](https://github.com/ncarlier/readflow) - readflow is a news-reading (or read-it-later) solution focused on versatility and simplicity.
-- [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TypeScript and TensorFlow.js.
+- [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TensorFlow.js.
 
 ## ubuntu 
 
