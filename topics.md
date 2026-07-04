@@ -32,6 +32,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [clash](#clash)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [cms](#cms)
@@ -488,6 +489,13 @@
 - [mahdibland/V2RayAggregator](https://github.com/mahdibland/V2RayAggregator) - Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+
+## claude 
+
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%
+- [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
+- [weiruchenai1/api-key-tester](https://github.com/weiruchenai1/api-key-tester) - API Key 测活工具 - 用于批量检测 OpenAI、Claude、Gemini 等 API 密钥有效性 | Modern API Key Tester - Used for batch testing the validity of API keys such as OpenAI, Claude, Gemini
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 
 ## claude-code 
 
@@ -1512,7 +1520,6 @@
 - [r3n3gad37040/openclaude-webui-react](https://github.com/r3n3gad37040/openclaude-webui-react) - 
 - [Ajatt-Tools/elevate](https://github.com/Ajatt-Tools/elevate) - 🥢 Generate subtitles with ElevenLabs!
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
-- [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [ellipticmarketing/modelrelay](https://github.com/ellipticmarketing/modelrelay) - Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw
 - [SmrutAI/opencode-migration](https://github.com/SmrutAI/opencode-migration) - ClaudeCode to OpenCode Migration guide
 - [ValdikSS/tor-relay-scanner](https://github.com/ValdikSS/tor-relay-scanner) - Tor Relay availability checker, for using it as a bridge in countries with censorship
@@ -2269,7 +2276,7 @@
 
 ## pwa 
 
-- [qnbs/WorldScript-Studio](https://github.com/qnbs/WorldScript-Studio) - AI-powered writing studio for authors & screenwriters. Story planning, character & world building, AI assistants, offline PWA + desktop app with strong privacy focus.
+- [qnbs/WorldScript-Studio](https://github.com/qnbs/WorldScript-Studio) - 🖋️ AI-powered writing studio for authors & screenwriters. Story planning, character & world building, AI assistants, offline PWA + desktop app with strong privacy focus.
 - [uigywnkiub/diet-me](https://github.com/uigywnkiub/diet-me) - Take a photo. Get calories, protein, fat, and carbs. Simple as that.
 - [NoelDeMartin/umai](https://github.com/NoelDeMartin/umai) - Local-first Recipes Manager
 - [shellyln/kanban-board-app](https://github.com/shellyln/kanban-board-app) - Kanban style task management board app
