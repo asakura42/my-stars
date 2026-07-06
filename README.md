@@ -974,7 +974,7 @@
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [shish/mic2midi](https://github.com/shish/mic2midi) - Whistle / Hum / Sing into a microphone, generate MIDI signals to drive a sequencer
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
-- [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for linux games
+- [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for Linux
 - [Lyaaaaaaaaaaaaaaa/Project_Kanban](https://github.com/Lyaaaaaaaaaaaaaaa/Project_Kanban) - A lightweight desktop software, under the MIT licence to create and manage your Kanbans boards for your personal projects
 - [t-lou/MiKan](https://github.com/t-lou/MiKan) - Personal and local Kanban software, perhaps not fancy, but 100% safe and ready for inspection
 - [peterhys/xBan](https://github.com/peterhys/xBan) - Offline Personal Kanban
