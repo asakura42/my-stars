@@ -1538,7 +1538,7 @@
 - [mrzjy/multimodal-genshin-impact](https://github.com/mrzjy/multimodal-genshin-impact) - Collecting multimodal page content for Genshin Impact fandom wiki
 - [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
-- [lambdasonly/VimWikiGraph](https://github.com/lambdasonly/VimWikiGraph) - A flask web application for visualising VimWiki. VimWikiGraph creates an undirected graphs of links between VimWiki files that affords filtering and highlighting.
+- [lambdasonly/VimWikiGraph](https://github.com/lambdasonly/VimWikiGraph) - A flask web application for visualising wikis (md/wiki syntax). WikiGraph creates an undirected graphs of links between files that affords filtering and highlighting.
 - [jake-stewart/lazier.nvim](https://github.com/jake-stewart/lazier.nvim) - 
 - [Ariskrisen/immersive_morrowind_llm_ai](https://github.com/Ariskrisen/immersive_morrowind_llm_ai) - Immersive Morrowind LLM AI mod
 - [drzdo/immersive_morrowind_llm_ai](https://github.com/drzdo/immersive_morrowind_llm_ai) - Immersive Morrowind LLM AI mod
