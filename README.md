@@ -149,7 +149,7 @@
 - [Firemoon777/tgfs](https://github.com/Firemoon777/tgfs) - telegram attachments in FUSE filesystem
 - [mbornet-hl/hl](https://github.com/mbornet-hl/hl) - Highlight (colorize) text data using regular expressions (efficient C program)
 - [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) - A Real Time Strategy game for Linux.
-- [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command line terminal file manager
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command-line terminal file manager
 - [bakkeby/dmenu-flexipatch](https://github.com/bakkeby/dmenu-flexipatch) - A dmenu build with preprocessor directives to decide which patches to include during build time
 - [brpocock/start.exe](https://github.com/brpocock/start.exe) - Launch an EXE file using DOSBox, Mono, or Wine, as appropriate
 - [vardy/aphelia](https://github.com/vardy/aphelia) - A light, single-file, minimalist window manager for X11.
@@ -353,7 +353,7 @@
 
 - [Ajatt-Tools/elevate](https://github.com/Ajatt-Tools/elevate) - 🥢 Generate subtitles with ElevenLabs!
 - [kaptinlin/defuddle-go](https://github.com/kaptinlin/defuddle-go) - Go port of Defuddle for high-performance web content extraction
-- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
+- [OwO-Network/DLX](https://github.com/OwO-Network/DLX) - DLX - Self-hosted translation API server. Unofficial; not affiliated with DeepL SE.
 - [lichendust/meander](https://github.com/lichendust/meander) - 📝 A powerful, portable utility for production screenplays and manuscripts
 - [lilendian0x00/xray-knife](https://github.com/lilendian0x00/xray-knife) - The Ultimate Swiss Army Knife for Xray and Sing-box
 - [abeleinin/goki](https://github.com/abeleinin/goki) - Anki-like flashcard management tool for the terminal!
