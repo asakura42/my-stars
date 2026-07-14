@@ -845,7 +845,7 @@
 ## game 
 
 - [AbdelrhmanNile/UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) - A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux.
-- [Blank-09/Maths-Game](https://github.com/Blank-09/Maths-Game) - Are you interested in playing Maths Games? Then join the Math Quiz Leaderboard.
+- [priyanshu-t-singh/Maths-Game](https://github.com/priyanshu-t-singh/Maths-Game) - Are you interested in playing Maths Games? Then join the Math Quiz Leaderboard.
 - [divVerent/aaaaxy](https://github.com/divVerent/aaaaxy) - A nonlinear 2D puzzle platformer taking place in impossible spaces.
 - [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
