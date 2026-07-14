@@ -463,7 +463,7 @@
 - [bright-spark/x-frame-bypass](https://github.com/bright-spark/x-frame-bypass) - Web Component extending IFrame to bypass X-Frame-Options: deny/sameorigin
 - [DmytroNorth/Automated_Subtitles_Generation-Regex_Java](https://github.com/DmytroNorth/Automated_Subtitles_Generation-Regex_Java) - An automated workflow that generates timestamped subtitles from a video file with custom control using regex, Java and multiple online tools.
 - [wydengyre/bitextual](https://github.com/wydengyre/bitextual) - a tool for bilingual text alignment
-- [Blank-09/Maths-Game](https://github.com/Blank-09/Maths-Game) - Are you interested in playing Maths Games? Then join the Math Quiz Leaderboard.
+- [priyanshu-t-singh/Maths-Game](https://github.com/priyanshu-t-singh/Maths-Game) - Are you interested in playing Maths Games? Then join the Math Quiz Leaderboard.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [lovmoon3k/c0d3bl0ck-obsidian](https://github.com/lovmoon3k/c0d3bl0ck-obsidian) - 
 - [saturn99/open-film-server](https://github.com/saturn99/open-film-server) - سروهایی که باز هستند و فیلم و موسیقی هستند رو لیست میکنم
