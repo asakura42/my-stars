@@ -1090,6 +1090,7 @@
 
 ## Rust 
 
+- [Feromond/budget_tracker_tui](https://github.com/Feromond/budget_tracker_tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
 - [GiviMAD/rustpotter-cli](https://github.com/GiviMAD/rustpotter-cli) - Command line utility for rustpotter, an open source wakeword spotter forged in rust
 - [GiviMAD/rustpotter](https://github.com/GiviMAD/rustpotter) - An open source wakeword spotter forged in rust
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
@@ -1289,7 +1290,7 @@
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [klesh/dotfiles](https://github.com/klesh/dotfiles) - 
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
-- [afontenot/firefox-clean](https://github.com/afontenot/firefox-clean) - A PKGBUILD for Firefox with defaults for the privacy-conscious and power users
+- [lmfont/firefox-clean](https://github.com/lmfont/firefox-clean) - A PKGBUILD for Firefox with defaults for the privacy-conscious and power users
 - [arcolinuxd/arco-i3](https://github.com/arcolinuxd/arco-i3) - All scripts necessary to have an awesome deskop experience on ArcoLinux or vanilla Arch Linux installation
 - [luiscassih/RegeXNumRangeGenerator](https://github.com/luiscassih/RegeXNumRangeGenerator) - A numeric range regex generator for using in Bash
 - [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
