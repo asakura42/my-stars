@@ -154,6 +154,7 @@
 - [p2p](#p2p)
 - [parsing](#parsing)
 - [perl](#perl)
+- [phishing](#phishing)
 - [php](#php)
 - [physics](#physics)
 - [postgresql](#postgresql)
@@ -778,6 +779,7 @@
 
 ## finance 
 
+- [Feromond/budget_tracker_tui](https://github.com/Feromond/budget_tracker_tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
 - [ShoshinNikita/budget-manager](https://github.com/ShoshinNikita/budget-manager) - Easy-to-use, lightweight and self-hosted solution to track your finances
 
 ## firebase 
@@ -2148,7 +2150,7 @@
 - [everard/xkbmon](https://github.com/everard/xkbmon) - Minimalistic asynchronous command-line keyboard layout monitor for X11. Useful for configuring i3blocks.
 - [livingflame/simple-kanban](https://github.com/livingflame/simple-kanban) - A very lightweight kanban board
 - [noedigcode/Kanbanapp](https://github.com/noedigcode/Kanbanapp) - Simple offline Kanban-like app.
-- [afontenot/firefox-clean](https://github.com/afontenot/firefox-clean) - A PKGBUILD for Firefox with defaults for the privacy-conscious and power users
+- [lmfont/firefox-clean](https://github.com/lmfont/firefox-clean) - A PKGBUILD for Firefox with defaults for the privacy-conscious and power users
 - [gfarrell/gtf.io](https://github.com/gfarrell/gtf.io) - Personal website
 - [dobrosketchkun/Not_quite_SSML_tag_editor](https://github.com/dobrosketchkun/Not_quite_SSML_tag_editor) - Wrapping my shitty tags around unreadable SSML tags
 - [arcolinuxd/arco-i3](https://github.com/arcolinuxd/arco-i3) - All scripts necessary to have an awesome deskop experience on ArcoLinux or vanilla Arch Linux installation
@@ -2192,6 +2194,10 @@
 - [trizen/perl-scripts](https://github.com/trizen/perl-scripts) - A nice collection of day-to-day Perl scripts.
 - [john-bokma/tumblelog](https://github.com/john-bokma/tumblelog) - A static tumblelog generator available as both a Perl and Python version
 - [trizen/straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** Use https://github.com/trizen/pipe-viewer instead.
+
+## phishing 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## php 
 
@@ -2472,6 +2478,7 @@
 
 ## rust 
 
+- [Feromond/budget_tracker_tui](https://github.com/Feromond/budget_tracker_tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
 - [GiviMAD/rustpotter](https://github.com/GiviMAD/rustpotter) - An open source wakeword spotter forged in rust
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -2702,6 +2709,7 @@
 
 ## tui 
 
+- [Feromond/budget_tracker_tui](https://github.com/Feromond/budget_tracker_tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
 - [abeleinin/goki](https://github.com/abeleinin/goki) - Anki-like flashcard management tool for the terminal!
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
