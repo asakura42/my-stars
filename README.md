@@ -1345,7 +1345,7 @@
 - [skgupta507/rive-next](https://github.com/skgupta507/rive-next) - Rive is a cutting-edge, ad-free platform for streaming/downloading movies and TV shows online. Your Personal Streaming Oasis
 - [staart/site](https://github.com/staart/site) - 🏁📑 Static site generator for landing pages, docs, and more
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
-- [neurogen-dev/NeuroAPI](https://github.com/neurogen-dev/NeuroAPI) - Cheap ChatGPT 4o, GPT-5, Claude-4 API / Дешевый СhatGPT 4o ChatGPT 4o, GPT-5, Claude-4 API
+- [neurogen-dev/NeuroAPI](https://github.com/neurogen-dev/NeuroAPI) - NeuroAPI: российский AI API для Codex CLI и Claude Code — безопасные one-click установщики для Windows и macOS.
 - [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [vangelov/calories-in](https://github.com/vangelov/calories-in) - A web-based meal plan editor for people who prepare all of their food.
