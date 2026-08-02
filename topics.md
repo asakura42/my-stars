@@ -2110,7 +2110,7 @@
 - [nwg-piotr/nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - GTK-based launchers: application grid, button bar, dmenu for sway and other window managers
 - [xslightz/binance-simulator](https://github.com/xslightz/binance-simulator) - just a simulator.
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
-- [bogachenkove/filterlist](https://github.com/bogachenkove/filterlist) - Yet another anti-bullshit filter list.
+- [bogachenkove/dnsfilterlist](https://github.com/bogachenkove/dnsfilterlist) - Yet another anti-bullshit filter list
 - [bogachenkove/fuckfuckadblock](https://github.com/bogachenkove/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
 - [larrykollar/tines](https://github.com/larrykollar/tines) - Tines is a console-based outliner/planner/notebook. It is a fork of the hnb outliner, which has not been updated in &gt;10 years.
 - [cruegge/pam-gnupg](https://github.com/cruegge/pam-gnupg) - Unlock GnuPG keys on login
