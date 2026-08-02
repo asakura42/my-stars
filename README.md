@@ -727,7 +727,7 @@
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
 - [edykim/weekly-planner-template](https://github.com/edykim/weekly-planner-template) - Weekly Planner Template
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
-- [bogachenkove/filterlist](https://github.com/bogachenkove/filterlist) - Yet another anti-bullshit filter list.
+- [bogachenkove/dnsfilterlist](https://github.com/bogachenkove/dnsfilterlist) - Yet another anti-bullshit filter list
 - [bogachenkove/fuckfuckadblock](https://github.com/bogachenkove/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
