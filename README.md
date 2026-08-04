@@ -131,7 +131,7 @@
 - [siara-cc/Unishox2](https://github.com/siara-cc/Unishox2) - Compression for Unicode short strings (works on arduino)
 - [Ed-von-Schleck/shoco](https://github.com/Ed-von-Schleck/shoco) - shoco is a compressor for small text strings
 - [antirez/smaz](https://github.com/antirez/smaz) - Small strings compression library
-- [kovmir/tinytldr](https://github.com/kovmir/tinytldr) - Minimalist tldr command line client written in C
+- [kovmir/tinytldr](https://github.com/kovmir/tinytldr) - Minimalist tldr command line client in plain C
 - [moritzbroe/terminal_minecraft](https://github.com/moritzbroe/terminal_minecraft) - 
 - [n-t-roff/Plan9_troff](https://github.com/n-t-roff/Plan9_troff) - troff ported from Plan 9
 - [randoragon/groffhl](https://github.com/randoragon/groffhl) - Groff Code Syntax Highlighting
