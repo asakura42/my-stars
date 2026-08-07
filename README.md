@@ -508,6 +508,7 @@
 - [wolpi/prim-ftpd](https://github.com/wolpi/prim-ftpd) - FTP server app for android
 - [zoff99/java_toxclient_example](https://github.com/zoff99/java_toxclient_example) - TRIfA Desktop - a Java Tox Client
 - [magnus-ISU/foreign-language-text-reader](https://github.com/magnus-ISU/foreign-language-text-reader) - The Foreign Language Text Reader by lang-learn-guy on sourceforge, where he toils madly without version controlling I guess
+- [hardcore-sushi/DroidFS](https://github.com/hardcore-sushi/DroidFS) - Encrypted overlay filesystems implementation for Android. Also available on gitea: https://forge.chapril.org/hardcoresushi/DroidFS
 - [psal/anonymouth](https://github.com/psal/anonymouth) - 
 - [niks255/FairEmail](https://github.com/niks255/FairEmail) - 
 - [AnimMouse/SH3D-ConsolePhotoGenerator](https://github.com/AnimMouse/SH3D-ConsolePhotoGenerator) - Sweet Home 3D Console Photo Generator
@@ -609,7 +610,6 @@
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [evilcorpltd/aTox](https://github.com/evilcorpltd/aTox) - Reasonable Tox client for Android
-- [hardcore-sushi/DroidFS](https://github.com/hardcore-sushi/DroidFS) - Encrypted overlay filesystems implementation for Android. Also available on gitea: https://forge.chapril.org/hardcoresushi/DroidFS
 - [fi3te/NotificationCron](https://github.com/fi3te/NotificationCron) - Notification Cron is a straightforward tool to schedule recurring notifications on your phone without adding calendar entries
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 
