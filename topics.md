@@ -1892,7 +1892,7 @@
 - [dannysheehan/linux-chroot-jail](https://github.com/dannysheehan/linux-chroot-jail) - Script to jail Linux users for ssh, sftp and vsftp
 - [paranoidninja/Chroot-Jail](https://github.com/paranoidninja/Chroot-Jail) - This Shell script can create a chrooted environment along with a SSH Jail for the same. This can be used either for a single user jail or to create a chroot jailed group.
 - [McSim85/make_chroot_jail](https://github.com/McSim85/make_chroot_jail) - Script to easily setup a chroot jail for ssh / scp / sftp with Linux
-- [kovmir/tinytldr](https://github.com/kovmir/tinytldr) - Minimalist tldr command line client in plain C
+- [kovmir/tinytldr](https://github.com/kovmir/tinytldr) - Minimal tldr command line client in plain C99
 - [AugustUnderground/bib.sh](https://github.com/AugustUnderground/bib.sh) - Script for citation retrieval from Google Books
 - [Gavinok/vim-troff](https://github.com/Gavinok/vim-troff) - A vim plugin meant to help bring troff / groff into the modern day
 - [poljar/weechat-matrix](https://github.com/poljar/weechat-matrix) - Weechat Matrix protocol script written in python
