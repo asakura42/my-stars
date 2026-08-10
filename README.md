@@ -54,7 +54,6 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
-- [Text](#text)
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [Vala](#vala)
@@ -1321,10 +1320,6 @@
 - [wilx/tweet2latex](https://github.com/wilx/tweet2latex) - Utility for retrieval and formatting of tweets into LaTeX documents.
 - [jfogarty/latex-createspace-bookcover](https://github.com/jfogarty/latex-createspace-bookcover) - Generates a customizable print-on-demand paperback book cover as a PDF using LaTeX
 - [kjhealy/pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some templates for Pandoc.
-
-## Text 
-
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript 
 
