@@ -154,6 +154,7 @@
 - [p2p](#p2p)
 - [parsing](#parsing)
 - [perl](#perl)
+- [phishing](#phishing)
 - [php](#php)
 - [physics](#physics)
 - [postgresql](#postgresql)
@@ -1332,6 +1333,7 @@
 
 ## malware 
 
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - Custom DNS block lists
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 
@@ -2199,6 +2201,10 @@
 - [john-bokma/tumblelog](https://github.com/john-bokma/tumblelog) - A static tumblelog generator available as both a Perl and Python version
 - [trizen/straw-viewer](https://github.com/trizen/straw-viewer) - **DEPRECATED** Use https://github.com/trizen/pipe-viewer instead.
 
+## phishing 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+
 ## php 
 
 - [shinovon/mpgram-web](https://github.com/shinovon/mpgram-web) - Lightweight telegram web client based on MadelineProto
@@ -2239,6 +2245,7 @@
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
 - [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
