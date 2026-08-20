@@ -479,7 +479,6 @@
 - [etagate/gigacat](https://github.com/etagate/gigacat) - 
 - [spamgourmet/spamgourmet](https://github.com/spamgourmet/spamgourmet) - This is the actively maintained source for spamgourmet.com
 - [tosone/IOCCC](https://github.com/tosone/IOCCC) - IOCCC International Obfuscated C code contest entries http://www.ioccc.org
-- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
 - [chatmail/provider-db](https://github.com/chatmail/provider-db) - Database of Email Providers and how well they work with chatmail
@@ -1371,6 +1370,7 @@
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
 - [shellyln/kanban-board-app](https://github.com/shellyln/kanban-board-app) - Kanban style task management board app
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
+- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and Mac, free and open-source (FOSS)
 - [benawad/vsinder](https://github.com/benawad/vsinder) - Dating App for VSCode
 - [TheYarin/ShellPiper](https://github.com/TheYarin/ShellPiper) - ShellPiper is an editor for writing long pipe one-liners in the shell
 - [erezrokah/gitchi](https://github.com/erezrokah/gitchi) - Turn GitHub Pull Request Comments into a Chat
