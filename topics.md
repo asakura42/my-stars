@@ -515,6 +515,7 @@
 - [s3rgeym/hh-applicant-tool](https://github.com/s3rgeym/hh-applicant-tool) - Скрипт/утилита для автоматизация дейcтвий на HH.RU таких как: отклик на подходящие вакансии, обновление всех резюме и др.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
+- [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Multi-backend whisper app. Blazing fast. Mac-arm optimized. Easy install. Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [kostyan-org/ip-list-generator-by-country](https://github.com/kostyan-org/ip-list-generator-by-country) - CLI utility | IP ranges by country | qBittorrent
 - [NotStatilko/tgbox-cli](https://github.com/NotStatilko/tgbox-cli) - CLI interface to the TGBOX
@@ -998,7 +999,7 @@
 - [EntireTwix/Prioritize](https://github.com/EntireTwix/Prioritize) - just a quick test program as I mess around with imgui, although thats not to say this program lacks utility for simple task prioritization.
 - [TeaM-TL/FotoKilof](https://github.com/TeaM-TL/FotoKilof) - GUI for ImageMagick and Wand or Pillow
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
-- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
+- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and Mac, free and open-source (FOSS)
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [skyjake/lagrange](https://github.com/skyjake/lagrange) - A Beautiful Gemini Client
@@ -1490,7 +1491,7 @@
 - [team-pp-studio/VoiceTuber](https://github.com/team-pp-studio/VoiceTuber) - VTuber application which only requires your voice and microphone, no need for a webcam or other tracking nonsense.
 - [R4yGM/garlicshare](https://github.com/R4yGM/garlicshare) - Private and self-hosted file sharing over the Tor network written in golang
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
-- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
+- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and Mac, free and open-source (FOSS)
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 
 ## openai 
@@ -1630,7 +1631,6 @@
 - [jumon/whisper-punctuator](https://github.com/jumon/whisper-punctuator) - Zero-shot multimodal punctuation insertion and truecasing using Whisper
 - [strob/gentle](https://github.com/strob/gentle) - gentle forced aligner
 - [SqrtMinusOne/podcasts-vosk](https://github.com/SqrtMinusOne/podcasts-vosk) - A tiny wrapper around VOSK API to extract SRT files from audio
-- [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Multi-backend whisper app. Blazing fast. Mac-arm optimized. Easy install. Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
 - [loiccoyle/rofi-cuff](https://github.com/loiccoyle/rofi-cuff) - 🔎 Rofi wrapper for cuff. Use the Jackett search API to find torrents.
 - [Zejun-Yang/AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
 - [LuckyTurtleDev/crab-hole](https://github.com/LuckyTurtleDev/crab-hole) - 🦀 Pi-Hole clone written in rust using hickory-dns/trust-dns
@@ -2313,6 +2313,7 @@
 - [TheSpeedX/socker](https://github.com/TheSpeedX/socker) - Checks SOCKS Proxy List To find Working Proxies
 - [D4n13l3k00/tapkofon](https://github.com/D4n13l3k00/tapkofon) - Tapkofon - веб-клиент Telegram для тапиков
 - [kra-mo/hyperplane](https://github.com/kra-mo/hyperplane) - Mirrored from https://codeberg.org/kramo/hyperplane
+- [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Multi-backend whisper app. Blazing fast. Mac-arm optimized. Easy install. Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [NotStatilko/tgbox-cli](https://github.com/NotStatilko/tgbox-cli) - CLI interface to the TGBOX
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
