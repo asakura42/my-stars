@@ -2758,6 +2758,7 @@
 
 ## typescript 
 
+- [hueyexe/opencode-ensemble](https://github.com/hueyexe/opencode-ensemble) - Agent teams for OpenCode. Run multiple agents in parallel with messaging, shared tasks, and coordinated execution.
 - [ZaxbyHub/opencode-swarm](https://github.com/ZaxbyHub/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
 - [uigywnkiub/diet-me](https://github.com/uigywnkiub/diet-me) - Take a photo. Get calories, protein, fat, and carbs. Simple as that.
 - [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
