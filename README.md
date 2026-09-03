@@ -774,6 +774,7 @@
 
 ## Python 
 
+- [ericmjl/opencode-autolearn](https://github.com/ericmjl/opencode-autolearn) - Self-improvement engine for OpenCode — learns from conversations, captures corrections, and escalates behavioral rules
 - [Jeffser/Alpaca](https://github.com/Jeffser/Alpaca) - 🦙 Local and online AI hub
 - [AbdelrhmanNile/UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) - A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux.
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
