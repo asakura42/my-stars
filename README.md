@@ -673,6 +673,7 @@
 
 ## Others 
 
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [SmrutAI/opencode-migration](https://github.com/SmrutAI/opencode-migration) - ClaudeCode to OpenCode Migration guide
 - [mrzjy/multimodal-genshin-impact](https://github.com/mrzjy/multimodal-genshin-impact) - Collecting multimodal page content for Genshin Impact fandom wiki
 - [baptistecdr/aria2-extensions](https://github.com/baptistecdr/aria2-extensions) - Send downloads, links, and torrent files directly to your Aria2 server or Motrix instance.
@@ -1179,6 +1180,7 @@
 
 ## Shell 
 
+- [0xmariowu/AgentLint](https://github.com/0xmariowu/AgentLint) - The linter for your agent harness. Works with Claude Code, Codex, and Cursor.
 - [TraftG/opencode-game-studio](https://github.com/TraftG/opencode-game-studio) - 
 - [Yenthe666/InstallScript](https://github.com/Yenthe666/InstallScript) - Odoo install script
 - [maximilionus/byedpictl](https://github.com/maximilionus/byedpictl) - Very simple deep packet inspection bypass utility for Linux
@@ -1350,6 +1352,7 @@
 - [neurogen-dev/NeuroAPI](https://github.com/neurogen-dev/NeuroAPI) - NeuroAPI: российский AI API для Codex CLI и Claude Code — безопасные one-click установщики для Windows и macOS.
 - [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
+- [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - A web-based GUI for quickly generating common FFmpeg command-line operations.
 - [vangelov/calories-in](https://github.com/vangelov/calories-in) - A web-based meal plan editor for people who prepare all of their food.
 - [alexandria-reader/alexandria](https://github.com/alexandria-reader/alexandria) - Alexandria reading app monorepo
 - [NostrChat/NostrChat](https://github.com/NostrChat/NostrChat) - NostrChat is one of the most decentralized chat apps ever built.
@@ -1423,7 +1426,6 @@
 
 ## Vue 
 
-- [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - A web-based GUI for quickly generating common FFmpeg command-line operations.
 - [my0419/myvpn-desktop](https://github.com/my0419/myvpn-desktop) - VPN server configuration software. Protocols: L2TP, PPTP, OpenVPN, WireGuard, Socks5, ShadowSocks (v2ray). | Providers: DigitalOcean, Linode, CryptoServers, Hetzner Cloud, Custom Server
 - [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
 - [Litarvan/lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
