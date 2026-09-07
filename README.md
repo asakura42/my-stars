@@ -121,7 +121,6 @@
 - [hqwrong/minitox](https://github.com/hqwrong/minitox) - Minimal client for Tox
 - [screen-editor/se](https://github.com/screen-editor/se) - se is a screen oriented version of the classic UNIX text editor ed.
 - [kohler/gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
-- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [lecram/mbf-util](https://github.com/lecram/mbf-util) - Tools for MBF fonts.
 - [lecram/congif](https://github.com/lecram/congif) - convert script(1) output to GIF
 - [deanproxy/eMail](https://github.com/deanproxy/eMail) - Command line SMTP client
@@ -394,7 +393,7 @@
 - [scotow/mego](https://github.com/scotow/mego) - A simple megadl wrapper with auto-retry and download list
 - [altdesktop/playerbm](https://github.com/altdesktop/playerbm) - 📚 🎧 Bookmark CLI for media players to resume where you left off in audiobooks and podcasts
 - [khakers/go-subgen](https://github.com/khakers/go-subgen) - Automatically generate subtitles for your media using whisper.cpp via webhooks with support for Radarr & Sonarr
-- [zupzup/calories](https://github.com/zupzup/calories) - Calories Tracker for the Commandline
+- [zupzup/calories](https://github.com/zupzup/calories) - Mirror for https://git.sr.ht/~zupzup/calories. Calories Tracker for the Commandline
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [ShoshinNikita/budget-manager](https://github.com/ShoshinNikita/budget-manager) - Easy-to-use, lightweight and self-hosted solution to track your finances
 - [n0madic/go-hdrezka](https://github.com/n0madic/go-hdrezka) - Scraper package for HDrezka site
@@ -1229,6 +1228,7 @@
 - [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
 - [PeterCxy/shadowsocks-auto-redir.sh](https://github.com/PeterCxy/shadowsocks-auto-redir.sh) - Migrated, PLEASE GO TO
 - [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc...
+- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [icyphox/mael](https://github.com/icyphox/mael) - [WIP] an experimental mail client written in bash (and a bit of python)
 - [seumasjeltzz/LinguaeGraecaePerSeIllustrata](https://github.com/seumasjeltzz/LinguaeGraecaePerSeIllustrata) - LGPSI: An open, expansive Greek-reading composition project
 - [Standard-Unix-Notes/unix-notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG encrypted notebooks.
