@@ -534,7 +534,6 @@
 - [Bedrockbreaker/afterwriting-labs](https://github.com/Bedrockbreaker/afterwriting-labs) - Post-processing for Fountain screenplays
 - [Zaruber/Sheetswbparser](https://github.com/Zaruber/Sheetswbparser) - 🔍 Парсер позиций товаров Wildberries в Google Sheets
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
-- [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [coffee-and-fun/google-profanity-words](https://github.com/coffee-and-fun/google-profanity-words) - Full list of bad words and top swear words banned by Google.
 - [vsemozhetbyt/gls_sd_conv](https://github.com/vsemozhetbyt/gls_sd_conv) - Скрипт, конвертирующий исходные файлы .gls в словари StarDict и обратно.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
@@ -930,7 +929,7 @@
 - [kanjieater/SubPlz](https://github.com/kanjieater/SubPlz) - 🫴 Generate, sync, manage, and automate subtitle files for any media; Generate your own audiobook subs similar to Kindle's Immersion Reading 📖🎧
 - [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
-- [saga-soft/novelWriter](https://github.com/saga-soft/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
+- [saga-soft/novelWriter](https://github.com/saga-soft/novelWriter) - novelWriter is an open source plain text editor designed for writing novels
 - [LaQuay/TDTChannels](https://github.com/LaQuay/TDTChannels) - Listado de Canales de TV (TDT) en abierto, 100% legal, 100% gratuito // Spanish TV Channels, 100% legal, 100% free
 - [baxtree/subaligner](https://github.com/baxtree/subaligner) - Automatically synchronize and translate subtitles, or create new ones by transcribing, using pre-trained DNNs, Forced Alignments and Transformers. https://subaligner.readthedocs.io/
 - [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle) - Automatically generate and overlay subtitles for any video.
@@ -1341,6 +1340,7 @@
 - [joschi/mastofeedbot](https://github.com/joschi/mastofeedbot) - A bot that posts RSS feeds to Mastodon via GitHub Actions
 - [selfagency/mastofeedbot](https://github.com/selfagency/mastofeedbot) - A bot that posts RSS feeds to Mastodon via GitHub Actions
 - [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
+- [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [frymanofer/ReactNative_WakeWordDetection](https://github.com/frymanofer/ReactNative_WakeWordDetection) - Create any wake word, deploy on any device and operating system.
 - [StephanAkkerman/mnemorai](https://github.com/StephanAkkerman/mnemorai) - Automating language learning with the power of Artificial Intelligence. This repository presents mnemorai, a tool that combines Fluent Forever techniques with AI-driven automation. It streamlines the 
 - [sussy-code/providers](https://github.com/sussy-code/providers) - Providers and sources for sudo-flix
