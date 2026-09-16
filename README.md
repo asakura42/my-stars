@@ -671,6 +671,7 @@
 
 ## Others 
 
+- [lechmazur/writing](https://github.com/lechmazur/writing) - This benchmark tests how well LLMs incorporate a set of 10 mandatory story elements (characters, objects, core concepts, attributes, motivations, etc.) in a short creative story
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [SmrutAI/opencode-migration](https://github.com/SmrutAI/opencode-migration) - ClaudeCode to OpenCode Migration guide
 - [mrzjy/multimodal-genshin-impact](https://github.com/mrzjy/multimodal-genshin-impact) - Collecting multimodal page content for Genshin Impact fandom wiki
@@ -725,7 +726,6 @@
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
 - [edykim/weekly-planner-template](https://github.com/edykim/weekly-planner-template) - Weekly Planner Template
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
-- [bogachenkove/dnsfilterlist](https://github.com/bogachenkove/dnsfilterlist) - Yet another anti-bullshit filter list
 - [bogachenkove/fuckfuckadblock](https://github.com/bogachenkove/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
@@ -1047,6 +1047,7 @@
 - [banhao/CoinBasePro-Trading-Simulator](https://github.com/banhao/CoinBasePro-Trading-Simulator) - You can define your own trade conditions and by running CoinBasePro Trading Simulator to verify the conditions.
 - [tremc/tremc](https://github.com/tremc/tremc) - Curses interface for transmission
 - [janeklb/gh-search](https://github.com/janeklb/gh-search) - GitHub code search with full text regex filtering, from your cli.
+- [bogachenkove/dnsfilterlist](https://github.com/bogachenkove/dnsfilterlist) - Yet another anti-bullshit filter list
 - [LittleVulpix/toxme](https://github.com/LittleVulpix/toxme) - See readme.md. RIP
 - [karlch/vimiv](https://github.com/karlch/vimiv) - An image viewer with vim-like keybindings.
 - [pagekite/PyPagekite](https://github.com/pagekite/PyPagekite) - Python implementation of the PageKite remote front-end protocols.
