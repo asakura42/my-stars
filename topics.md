@@ -498,6 +498,7 @@
 
 ## claude 
 
+- [lechmazur/writing](https://github.com/lechmazur/writing) - This benchmark tests how well LLMs incorporate a set of 10 mandatory story elements (characters, objects, core concepts, attributes, motivations, etc.) in a short creative story
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline 
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [weiruchenai1/api-key-tester](https://github.com/weiruchenai1/api-key-tester) - API Key 测活工具 - 用于批量检测 OpenAI、Claude、Gemini 等 API 密钥有效性 | Modern API Key Tester - Used for batch testing the validity of API keys such as OpenAI, Claude, Gemini
@@ -1269,6 +1270,7 @@
 
 ## llm 
 
+- [lechmazur/writing](https://github.com/lechmazur/writing) - This benchmark tests how well LLMs incorporate a set of 10 mandatory story elements (characters, objects, core concepts, attributes, motivations, etc.) in a short creative story
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
 - [ZaxbyHub/opencode-swarm](https://github.com/ZaxbyHub/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Webchat to API
