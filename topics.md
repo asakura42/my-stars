@@ -1535,6 +1535,7 @@
 
 ## others 
 
+- [KillerPixelCrew/lifesupport-TheMovies](https://github.com/KillerPixelCrew/lifesupport-TheMovies) - WMF → FFmpeg+libmpv replacement for The Movies (Lionhead, 2005).
 - [ericmjl/opencode-autolearn](https://github.com/ericmjl/opencode-autolearn) - Self-improvement engine for OpenCode — learns from conversations, captures corrections, and escalates behavioral rules
 - [Jeffser/Alpaca](https://github.com/Jeffser/Alpaca) - 🦙 Local and online AI hub
 - [r3n3gad37040/openclaude-webui-react](https://github.com/r3n3gad37040/openclaude-webui-react) - 
