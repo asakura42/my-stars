@@ -114,7 +114,6 @@
 - [bitsmanent/sw](https://github.com/bitsmanent/sw) - simple wallet
 - [mmertgunduz/mkhtml](https://github.com/mmertgunduz/mkhtml) - mkhtml is an html document generator that works with gpt
 - [uditkarode/libxft-bgra](https://github.com/uditkarode/libxft-bgra) - A patched version of libxft that allows for colored emojis to be rendered in Suckless software (dmenu/st/whatever).
-- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [feider/zk](https://github.com/feider/zk) - Zettelkasten notekeeping software for the terminal
 - [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - An efficient, lean, and asynchronous status feed generator for dwm.
 - [davidseegert/spritz.exe](https://github.com/davidseegert/spritz.exe) - a command line spritz application
@@ -526,6 +525,7 @@
 
 ## JavaScript 
 
+- [mvichosfm/pocket-envelopes](https://github.com/mvichosfm/pocket-envelopes) - Envelope budgeting in one HTML file, with a forecast of what you can safely spend. Local-first: your budget is one JSON file on your own machine.
 - [ellipticmarketing/modelrelay](https://github.com/ellipticmarketing/modelrelay) - Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw
 - [KingOfBugbounty/Hardcoded-Token-Hunter](https://github.com/KingOfBugbounty/Hardcoded-Token-Hunter) - 🔐 Chrome Extension - Detect hardcoded tokens, API keys & secrets in JavaScript files
 - [GideonWhite1029/lampa-desktop](https://github.com/GideonWhite1029/lampa-desktop) - Неофициальное приложение для просмотра фильмов и сериалов
@@ -1336,7 +1336,7 @@
 - [hueyexe/opencode-ensemble](https://github.com/hueyexe/opencode-ensemble) - Agent teams for OpenCode. Run multiple agents in parallel with messaging, shared tasks, and coordinated execution.
 - [r3n3gad37040/openclaude-webui-react](https://github.com/r3n3gad37040/openclaude-webui-react) - 
 - [qnbs/WorldScript-Studio](https://github.com/qnbs/WorldScript-Studio) - 🖋️ AI-powered writing studio for authors & screenwriters. Story planning, character & world building, AI assistants, offline PWA + desktop app with strong privacy focus.
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline 
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline 
 - [ZaxbyHub/opencode-swarm](https://github.com/ZaxbyHub/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
 - [weiruchenai1/api-key-tester](https://github.com/weiruchenai1/api-key-tester) - API Key 测活工具 - 用于批量检测 OpenAI、Claude、Gemini 等 API 密钥有效性 | Modern API Key Tester - Used for batch testing the validity of API keys such as OpenAI, Claude, Gemini
 - [uigywnkiub/diet-me](https://github.com/uigywnkiub/diet-me) - Take a photo. Get calories, protein, fat, and carbs. Simple as that.
@@ -1367,6 +1367,7 @@
 - [noway/diy-llm-bot](https://github.com/noway/diy-llm-bot) - Compare a generic GPT-3 based chatbot with ChatGPT
 - [tipxmr/tipxmr](https://github.com/tipxmr/tipxmr) - An open-source, noncustodial livestream tipping service for Monero.
 - [howardchung/watchparty](https://github.com/howardchung/watchparty) - WatchParty: Watch anything together in-sync with your friends
+- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [neopostmodern/structure](https://github.com/neopostmodern/structure) - Structure is a knowledge management tool
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [tategakibunko/TypeNovel](https://github.com/tategakibunko/TypeNovel) - A simple markup language to write novel with types.
