@@ -158,7 +158,6 @@
 - [skyjake/lagrange](https://github.com/skyjake/lagrange) - A Beautiful Gemini Client
 - [zserge/tray](https://github.com/zserge/tray) - Cross-platform, super tiny C99 implementation of a system tray icon with a popup menu.
 - [jonhoo/mktrayicon](https://github.com/jonhoo/mktrayicon) - Create system tray icons by writing to a pipe
-- [HerculesWS/Hercules](https://github.com/HerculesWS/Hercules) - Hercules is a collaborative software development project revolving around the creation of a robust massively multiplayer online role playing game (MMORPG) server package. Written in C, the program is 
 - [glennular/i3help](https://github.com/glennular/i3help) - Dialog to view your key bindings for i3wm
 - [DirkReinemann/i3blocksc](https://github.com/DirkReinemann/i3blocksc) - Extensions for i3blocks written in C and Shell.
 - [pickfire/spt](https://github.com/pickfire/spt) - Simple pomodoro timer that doubles your efficiency
@@ -272,6 +271,7 @@
 - [Warsow/qfusion](https://github.com/Warsow/qfusion) - Source code for cross-platform OpenGL gaming engine
 - [ikskuh/kristall](https://github.com/ikskuh/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [byronknoll/cmix](https://github.com/byronknoll/cmix) - cmix is a lossless data compression program aimed at optimizing compression ratio at the cost of high CPU/memory usage.
+- [HerculesWS/Hercules](https://github.com/HerculesWS/Hercules) - Hercules is a collaborative software development project revolving around the creation of a robust massively multiplayer online role playing game (MMORPG) server package. Written in C, the program is 
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [lmartinking/TomatoTimer](https://github.com/lmartinking/TomatoTimer) - A Simple Pomodoro Timer that lives in the Menu Bar 🍅
 - [yar-sh/steins-gate-psp-patch](https://github.com/yar-sh/steins-gate-psp-patch) - An English Patch for Stein;Gate PSP 2011
