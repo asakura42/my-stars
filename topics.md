@@ -1542,6 +1542,7 @@
 
 ## others 
 
+- [afriemann/opencode-todo](https://github.com/afriemann/opencode-todo) - 
 - [oernster/ClearBudget](https://github.com/oernster/ClearBudget) - Day-by-day solvency for personal budgets: a monthly total can look safe while the month itself is not
 - [KillerPixelCrew/lifesupport-TheMovies](https://github.com/KillerPixelCrew/lifesupport-TheMovies) - WMF → FFmpeg+libmpv replacement for The Movies (Lionhead, 2005).
 - [ericmjl/agent-autolearn](https://github.com/ericmjl/agent-autolearn) - Self-improvement engine for OpenCode — learns from conversations, captures corrections, and escalates behavioral rules
@@ -1549,7 +1550,7 @@
 - [r3n3gad37040/openclaude-webui-react](https://github.com/r3n3gad37040/openclaude-webui-react) - 
 - [Ajatt-Tools/elevate](https://github.com/Ajatt-Tools/elevate) - 🥢 Generate subtitles with ElevenLabs!
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
-- [ellipticmarketing/modelrelay](https://github.com/ellipticmarketing/modelrelay) - Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw
+- [ellipticmarketing/modelrelay](https://github.com/ellipticmarketing/modelrelay) - Archived October 1, 2026. No longer maintained. No updates, bug fixes, security patches, or support. Historical source and documentation only.
 - [SmrutAI/opencode-migration](https://github.com/SmrutAI/opencode-migration) - ClaudeCode to OpenCode Migration guide
 - [ValdikSS/tor-relay-scanner](https://github.com/ValdikSS/tor-relay-scanner) - Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
