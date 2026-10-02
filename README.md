@@ -526,7 +526,7 @@
 ## JavaScript 
 
 - [mvichosfm/pocket-envelopes](https://github.com/mvichosfm/pocket-envelopes) - Envelope budgeting in one HTML file, with a forecast of what you can safely spend. Local-first: your budget is one JSON file on your own machine.
-- [ellipticmarketing/modelrelay](https://github.com/ellipticmarketing/modelrelay) - Local router that benchmarks free coding models across providers and forwards requests to the best available model. Compatible with Opencode and Openclaw
+- [ellipticmarketing/modelrelay](https://github.com/ellipticmarketing/modelrelay) - Archived October 1, 2026. No longer maintained. No updates, bug fixes, security patches, or support. Historical source and documentation only.
 - [KingOfBugbounty/Hardcoded-Token-Hunter](https://github.com/KingOfBugbounty/Hardcoded-Token-Hunter) - 🔐 Chrome Extension - Detect hardcoded tokens, API keys & secrets in JavaScript files
 - [GideonWhite1029/lampa-desktop](https://github.com/GideonWhite1029/lampa-desktop) - Неофициальное приложение для просмотра фильмов и сериалов
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
@@ -1334,6 +1334,7 @@
 
 ## TypeScript 
 
+- [afriemann/opencode-todo](https://github.com/afriemann/opencode-todo) - 
 - [hueyexe/opencode-ensemble](https://github.com/hueyexe/opencode-ensemble) - Agent teams for OpenCode. Run multiple agents in parallel with messaging, shared tasks, and coordinated execution.
 - [r3n3gad37040/openclaude-webui-react](https://github.com/r3n3gad37040/openclaude-webui-react) - 
 - [qnbs/WorldScript-Studio](https://github.com/qnbs/WorldScript-Studio) - 🖋️ AI-powered writing studio for authors & screenwriters. Story planning, character & world building, AI assistants, offline PWA + desktop app with strong privacy focus.
