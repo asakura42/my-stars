@@ -1542,6 +1542,7 @@
 
 ## others 
 
+- [pilioulian/AutoShiftPlanner](https://github.com/pilioulian/AutoShiftPlanner) - Auto Shift Planner is a user-friendly desktop application that can design detailed employees shift schedules and solve them automatically while meeting the maximum satisfaction of constraints.
 - [afriemann/opencode-todo](https://github.com/afriemann/opencode-todo) - 
 - [oernster/ClearBudget](https://github.com/oernster/ClearBudget) - Day-by-day solvency for personal budgets: a monthly total can look safe while the month itself is not
 - [KillerPixelCrew/lifesupport-TheMovies](https://github.com/KillerPixelCrew/lifesupport-TheMovies) - WMF → FFmpeg+libmpv replacement for The Movies (Lionhead, 2005).
