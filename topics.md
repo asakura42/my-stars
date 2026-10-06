@@ -430,7 +430,7 @@
 - [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
 - [Ajatt-Tools/dictpopup](https://github.com/Ajatt-Tools/dictpopup) - Looks up selected (Japanese) text in your Yomichan dictionaries and displays the result as a popup.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
-- [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
+- [mity/md4c](https://github.com/mity/md4c) - Fast, compact, dependency-free Markdown parser for C.
 - [aligrudi/neatroff](https://github.com/aligrudi/neatroff) - Neatroff Troff clone
 - [XPhyro/scripts](https://github.com/XPhyro/scripts) - A collection of over 500 scripts, utilities and libraries for *nix and plugins/extensions for OBS & browsers.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command-line terminal file manager
@@ -1362,7 +1362,7 @@
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-- [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
+- [mity/md4c](https://github.com/mity/md4c) - Fast, compact, dependency-free Markdown parser for C.
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [olivierkes/manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
@@ -2000,7 +2000,7 @@
 - [beranat/lockore](https://github.com/beranat/lockore) - Open source password manager application for Java ME (J2ME) mobile phones
 - [miacate/fedish](https://github.com/miacate/fedish) - POSIX sh fediverse client - Because I hate myself uwu
 - [hoang-khoi/tksort](https://github.com/hoang-khoi/tksort) - A dead-simple task prioritizer, inspired by UNIX tsort.
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ GUI/CLI tool and library for saving complete web pages as a single HTML file
 - [Kwpolska/todolist](https://github.com/Kwpolska/todolist) - Chris Warrick’s LaTeX Todo List.
 - [tsoding/todo-rs](https://github.com/tsoding/todo-rs) - Simple Interactive Terminal Todo App in Rust
 - [gavv/tagberry-qt](https://github.com/gavv/tagberry-qt) - Tag-oriented Qt5 desktop calendar, task manager, and todo list.
