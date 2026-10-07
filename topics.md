@@ -1680,7 +1680,6 @@
 - [Slamsneider/SingleTom](https://github.com/Slamsneider/SingleTom) - A GPT tool (client) using OpenAI's API
 - [lovmoon3k/c0d3bl0ck-obsidian](https://github.com/lovmoon3k/c0d3bl0ck-obsidian) - 
 - [dvds1151/AR-TV](https://github.com/dvds1151/AR-TV) - 
-- [osirislab/LeakyPastes-V2](https://github.com/osirislab/LeakyPastes-V2) - Looking at what people post to public pastebins
 - [kmein/kaikki-stardict](https://github.com/kmein/kaikki-stardict) - StarDict dictionary files, generated from Wiktionary
 - [dzh0ni/iPTV-FREE-LIST](https://github.com/dzh0ni/iPTV-FREE-LIST) - iPTV Free List
 - [odnar-dev/termv-rewrite](https://github.com/odnar-dev/termv-rewrite) - 
