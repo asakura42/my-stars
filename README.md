@@ -160,6 +160,7 @@
 - [jonhoo/mktrayicon](https://github.com/jonhoo/mktrayicon) - Create system tray icons by writing to a pipe
 - [glennular/i3help](https://github.com/glennular/i3help) - Dialog to view your key bindings for i3wm
 - [DirkReinemann/i3blocksc](https://github.com/DirkReinemann/i3blocksc) - Extensions for i3blocks written in C and Shell.
+- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [pickfire/spt](https://github.com/pickfire/spt) - Simple pomodoro timer that doubles your efficiency
 - [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [regolith-linux/i3xrocks](https://github.com/regolith-linux/i3xrocks) - A fork of i3blocks that can read Xresources.
@@ -526,7 +527,6 @@
 
 ## JavaScript 
 
-- [mvichosfm/pocket-envelopes](https://github.com/mvichosfm/pocket-envelopes) - Envelope budgeting in one HTML file, with a forecast of what you can safely spend. Local-first: your budget is one JSON file on your own machine.
 - [ellipticmarketing/modelrelay](https://github.com/ellipticmarketing/modelrelay) - Archived October 1, 2026. No longer maintained. No updates, bug fixes, security patches, or support. Historical source and documentation only.
 - [KingOfBugbounty/Hardcoded-Token-Hunter](https://github.com/KingOfBugbounty/Hardcoded-Token-Hunter) - 🔐 Chrome Extension - Detect hardcoded tokens, API keys & secrets in JavaScript files
 - [GideonWhite1029/lampa-desktop](https://github.com/GideonWhite1029/lampa-desktop) - Неофициальное приложение для просмотра фильмов и сериалов
@@ -773,6 +773,7 @@
 
 ## Python 
 
+- [mvichosfm/pocket-envelopes](https://github.com/mvichosfm/pocket-envelopes) - Envelope budgeting in one HTML file, with a forecast of what you can safely spend. Local-first: your budget is one JSON file on your own machine.
 - [oernster/ClearBudget](https://github.com/oernster/ClearBudget) - Day-by-day solvency for personal budgets: a monthly total can look safe while the month itself is not
 - [ericmjl/agent-autolearn](https://github.com/ericmjl/agent-autolearn) - Self-improvement engine for OpenCode — learns from conversations, captures corrections, and escalates behavioral rules
 - [Jeffser/Alpaca](https://github.com/Jeffser/Alpaca) - 🦙 Local and online AI hub
@@ -1279,7 +1280,6 @@
 - [Sepero/temp-throttle](https://github.com/Sepero/temp-throttle) - A shell script for throttling system CPU frequency based on a desired maximum temperature
 - [HACK3RY2J/Anon-SMS](https://github.com/HACK3RY2J/Anon-SMS) - A Tool To Send Messages Anonymously..
 - [beatcracker/omv-autowakeup](https://github.com/beatcracker/omv-autowakeup) - with a schedule you can wake up your PC over the week
-- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [hastinbe/i3-volume](https://github.com/hastinbe/i3-volume) - Volume control and volume notifications
 - [quentinsence/mbm](https://github.com/quentinsence/mbm) - My Bookmark Manager: manage your bookmarks easily from the bash command line
 - [sayan01/scripts](https://github.com/sayan01/scripts) - scripts
