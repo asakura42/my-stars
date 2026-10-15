@@ -2645,7 +2645,7 @@
 
 ## stable-diffusion 
 
-- [AskEdith/Once-Upon-AI-Time](https://github.com/AskEdith/Once-Upon-AI-Time) - GPT-3 and Stable Diffusion powered short story generator
+- [AthenicAI/Once-Upon-AI-Time](https://github.com/AthenicAI/Once-Upon-AI-Time) - GPT-3 and Stable Diffusion powered short story generator
 
 ## svelte 
 
