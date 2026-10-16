@@ -307,7 +307,7 @@
 - [moonstone-app/moonstone](https://github.com/moonstone-app/moonstone) - 🌑 Headless PKM server that turns any note folder into a programmable platform. Works with Obsidian, Logseq, and Zim out of the box. Zero lock-in.
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Webchat to API
 - [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
-- [s3rgeym/hh-applicant-tool](https://github.com/s3rgeym/hh-applicant-tool) - Скрипт/утилита для автоматизация дейcтвий на HH.RU таких как: отклик на подходящие вакансии, обновление всех резюме и др.
+- [s3rgeym/hh-applicant-tool](https://github.com/s3rgeym/hh-applicant-tool) - Скрипт/утилита для автоматизация дейcтвий на HH.RU через AI таких как: отклик на подходящие вакансии, обновление всех резюме и др.
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [druidamix/Opensubtitles-downloader](https://github.com/druidamix/Opensubtitles-downloader) - Opensubtitles.com downloader using the new API.
 - [aka-nikko/automated-content-generator](https://github.com/aka-nikko/automated-content-generator) - An Automation Tool to generate videos for Youtube and Instagram.
@@ -523,7 +523,7 @@
 - [ZaxbyHub/opencode-swarm](https://github.com/ZaxbyHub/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [abeleinin/goki](https://github.com/abeleinin/goki) - Anki-like flashcard management tool for the terminal!
-- [s3rgeym/hh-applicant-tool](https://github.com/s3rgeym/hh-applicant-tool) - Скрипт/утилита для автоматизация дейcтвий на HH.RU таких как: отклик на подходящие вакансии, обновление всех резюме и др.
+- [s3rgeym/hh-applicant-tool](https://github.com/s3rgeym/hh-applicant-tool) - Скрипт/утилита для автоматизация дейcтвий на HH.RU через AI таких как: отклик на подходящие вакансии, обновление всех резюме и др.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Multi-backend whisper app. Blazing fast. Mac-arm optimized. Easy install. Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
