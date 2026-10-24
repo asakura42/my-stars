@@ -63,6 +63,7 @@
 - [django](#django)
 - [docker](#docker)
 - [dotfiles](#dotfiles)
+- [downloader](#downloader)
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
@@ -750,6 +751,15 @@
 - [jonathanpoelen/dotfiles](https://github.com/jonathanpoelen/dotfiles) - My configuration files (zsh, urxvt, i3, mpv, ...)
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [Andr3as07/dotfiles](https://github.com/Andr3as07/dotfiles) - 
+
+## downloader 
+
+- [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀 自托管的抖音、TikTok、B 站数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。| Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader — async REST API, MCP server for AI agen
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
+- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
+- [mlj/castget](https://github.com/mlj/castget) - A simple, command-line based RSS enclosure downloader, primarily intended for automatic, unattended downloading of podcasts.
+- [irevenko/koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
+- [aprikyan/google-books-downloader](https://github.com/aprikyan/google-books-downloader) - An open-source utility to scrape Google Books
 
 ## education 
 
@@ -1557,7 +1567,6 @@
 - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
 - [kaptinlin/defuddle-go](https://github.com/kaptinlin/defuddle-go) - Go port of Defuddle for high-performance web content extraction
 - [npdoty/ephemerurl](https://github.com/npdoty/ephemerurl) - Ephemeral forwarding URLs: an experiment
-- [eslazarev/wildberries-sdk](https://github.com/eslazarev/wildberries-sdk) - Wildberries SDK-клиенты для Python, Node.js, Go, PHP, RUST постоянно актуальные в соответствии с OpenAPI-спецификациями.
 - [KingOfBugbounty/Hardcoded-Token-Hunter](https://github.com/KingOfBugbounty/Hardcoded-Token-Hunter) - 🔐 Chrome Extension - Detect hardcoded tokens, API keys & secrets in JavaScript files
 - [rgoerwit/ai-investment-agent](https://github.com/rgoerwit/ai-investment-agent) - Agentic AI ex-US equity evaluator (LangGraph+Gemini)
 - [GideonWhite1029/lampa-desktop](https://github.com/GideonWhite1029/lampa-desktop) - Неофициальное приложение для просмотра фильмов и сериалов
@@ -1764,7 +1773,6 @@
 - [ccd0/imageboards.json](https://github.com/ccd0/imageboards.json) - List of imageboards in JSON format.
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [manolomartinez/greg](https://github.com/manolomartinez/greg) - A command-line podcast aggregator
-- [mlj/castget](https://github.com/mlj/castget) - A simple, command-line based RSS enclosure downloader, primarily intended for automatic, unattended downloading of podcasts.
 - [jeff-hughes/shellcaster](https://github.com/jeff-hughes/shellcaster) - Terminal-based podcast manager built in Rust
 - [nathangathright/podcast-platform-links](https://github.com/nathangathright/podcast-platform-links) - 
 - [Ckrielle/RSS-Feeder](https://github.com/Ckrielle/RSS-Feeder) - A script to automatically add Github, Youtube, Reddit, and Twitter feeds to newsboat
@@ -2170,7 +2178,6 @@
 - [LukeSmithxyz/vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate Bible on the Command Line
 - [layeh/kjv](https://github.com/layeh/kjv) - Read the Word of God from your terminal
 - [klesh/dotfiles](https://github.com/klesh/dotfiles) - 
-- [aprikyan/google-books-downloader](https://github.com/aprikyan/google-books-downloader) - An open-source utility to scrape Google Books
 - [kjhealy/pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some templates for Pandoc.
 - [fmang/opustags](https://github.com/fmang/opustags) - Ogg Opus tags editor
 - [everard/xkbmon](https://github.com/everard/xkbmon) - Minimalistic asynchronous command-line keyboard layout monitor for X11. Useful for configuring i3blocks.
@@ -2787,6 +2794,7 @@
 
 - [hueyexe/opencode-ensemble](https://github.com/hueyexe/opencode-ensemble) - Agent teams for OpenCode. Run multiple agents in parallel with messaging, shared tasks, and coordinated execution.
 - [ZaxbyHub/opencode-swarm](https://github.com/ZaxbyHub/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
+- [eslazarev/wildberries-sdk](https://github.com/eslazarev/wildberries-sdk) - Wildberries SDK-клиенты для Python, Node.js, Go, PHP, RUST постоянно актуальные в соответствии с OpenAPI-спецификациями.
 - [uigywnkiub/diet-me](https://github.com/uigywnkiub/diet-me) - Take a photo. Get calories, protein, fat, and carbs. Simple as that.
 - [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 - [staart/site](https://github.com/staart/site) - 🏁📑 Static site generator for landing pages, docs, and more
