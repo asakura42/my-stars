@@ -1789,7 +1789,7 @@
 - [fschaeck/PythonSed](https://github.com/fschaeck/PythonSed) - A full and working Python implementation of sed
 - [tucnak/vim-playfount](https://github.com/tucnak/vim-playfount) - Playfount is a dialect of Fountain plaintext screenwriting markup language.
 - [bakkeby/st-flexipatch](https://github.com/bakkeby/st-flexipatch) - An st build with preprocessor directives to decide which patches to include during build time
-- [gen2brain/bukanir](https://github.com/gen2brain/bukanir) - Bukanir streams movies and TV shows from bittorrent magnet links
+- [gen2brain/bukanir](https://github.com/gen2brain/bukanir) - Bukanir streams movies and TV shows from BitTorrent magnet links
 - [codykwalker/AI_Librarian](https://github.com/codykwalker/AI_Librarian) - Librarian for modern readers: Judge a book by its cover!
 - [chuanqixu/anki-quick-ai](https://github.com/chuanqixu/anki-quick-ai) - Quick interaction with OpenAI in Anki.
 - [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
