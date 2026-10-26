@@ -391,7 +391,7 @@
 - [kvannotten/pcd](https://github.com/kvannotten/pcd) - CLI podcast client (podcatcher) written in golang
 - [ejv2/podbit](https://github.com/ejv2/podbit) - Podboat - Improved
 - [scotow/mego](https://github.com/scotow/mego) - A simple megadl wrapper with auto-retry and download list
-- [gen2brain/bukanir](https://github.com/gen2brain/bukanir) - Bukanir streams movies and TV shows from bittorrent magnet links
+- [gen2brain/bukanir](https://github.com/gen2brain/bukanir) - Bukanir streams movies and TV shows from BitTorrent magnet links
 - [altdesktop/playerbm](https://github.com/altdesktop/playerbm) - 📚 🎧 Bookmark CLI for media players to resume where you left off in audiobooks and podcasts
 - [khakers/go-subgen](https://github.com/khakers/go-subgen) - Automatically generate subtitles for your media using whisper.cpp via webhooks with support for Radarr & Sonarr
 - [zupzup/calories](https://github.com/zupzup/calories) - Mirror for https://git.sr.ht/~zupzup/calories. Calories Tracker for the Commandline
