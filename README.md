@@ -801,6 +801,7 @@
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀 自托管的抖音、TikTok、B 站数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。| Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader — async REST API, MCP server for AI agen
 - [ScienciaLAB/document-qa](https://github.com/ScienciaLAB/document-qa) - Scientific Document Insight Q/A
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [MartinPacker/md2pptx](https://github.com/MartinPacker/md2pptx) - Markdown To PowerPoint converter
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [mohbattharani/LLaVA-Chef](https://github.com/mohbattharani/LLaVA-Chef) - FoodKG paper related models and results.
@@ -1136,7 +1137,6 @@
 - [dborsukov/tinyrss](https://github.com/dborsukov/tinyrss) - Small and simple RSS aggregator
 - [catsonr/caltrack](https://github.com/catsonr/caltrack) - a simple command line calorie tracker
 - [LiHRaM/zathura-markdown-rs](https://github.com/LiHRaM/zathura-markdown-rs) - A Zathura plugin for Markdown
-- [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [rehanzo/dyn-wall-rs](https://github.com/rehanzo/dyn-wall-rs) - Helps user set a dynamic wallpaper and more.
 - [tramhao/termusic](https://github.com/tramhao/termusic) - Music Player TUI written in Rust
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
@@ -1185,7 +1185,6 @@
 - [TraftG/opencode-game-studio](https://github.com/TraftG/opencode-game-studio) - 
 - [Yenthe666/InstallScript](https://github.com/Yenthe666/InstallScript) - Odoo install script
 - [maximilionus/byedpictl](https://github.com/maximilionus/byedpictl) - Very simple deep packet inspection bypass utility for Linux
-- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [fatyzzz/Byedpi-Setup](https://github.com/fatyzzz/Byedpi-Setup) - Скрипт, для подбора настроек и автоустановки ByeDPI на Linux
 - [BarbossHack/RiseupVPN-OpenVPN](https://github.com/BarbossHack/RiseupVPN-OpenVPN) - Simple Bash script that generates an OpenVPN configuration file for use with RiseupVPN
 - [ImMALWARE/bash-warp-generator](https://github.com/ImMALWARE/bash-warp-generator) - Генератор конфига Cloudflare WARP для AmneziaWG и Clash
@@ -1364,6 +1363,7 @@
 - [eyalzh/simple-kanban](https://github.com/eyalzh/simple-kanban) - A lightweight offline kanban board
 - [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface
 - [Coobaha/suomea](https://github.com/Coobaha/suomea) - Tools to learn Finnish. Includes Web app, Anki integration and Alfred workflow.
+- [hwittenborn/alto](https://github.com/hwittenborn/alto) - The best client for all of your cloud storage
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [noway/diy-llm-bot](https://github.com/noway/diy-llm-bot) - Compare a generic GPT-3 based chatbot with ChatGPT
 - [tipxmr/tipxmr](https://github.com/tipxmr/tipxmr) - An open-source, noncustodial livestream tipping service for Monero.
