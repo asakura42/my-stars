@@ -12,6 +12,7 @@
 - [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [android](#android)
+- [animation](#animation)
 - [api](#api)
 - [archlinux](#archlinux)
 - [arduino](#arduino)
@@ -302,6 +303,10 @@
 - [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
 - [uTox/uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+
+## animation 
+
+- [Inochi2D/inochi2d](https://github.com/Inochi2D/inochi2d) - Inochi2D SDK - Bring your characters to life
 
 ## api 
 
@@ -1677,7 +1682,6 @@
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - A protocol handler for mpv. Use mpv and yt-dlp to play video and music from the websites.
 - [asakura42/rp4](https://github.com/asakura42/rp4) - simple python replacement for the bloated LLM frontends
-- [Inochi2D/inochi2d](https://github.com/Inochi2D/inochi2d) - Inochi2D SDK - Bring your characters to life
 - [krzysckh/mpvq](https://github.com/krzysckh/mpvq) - tui playlist manager for mpv.
 - [phuslu/iploc](https://github.com/phuslu/iploc) - Fastest IP To Country Library
 - [deadYokai/yapng](https://github.com/deadYokai/yapng) - Yet Another PNGTuber
