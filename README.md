@@ -1363,7 +1363,7 @@
 - [eyalzh/simple-kanban](https://github.com/eyalzh/simple-kanban) - A lightweight offline kanban board
 - [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface
 - [Coobaha/suomea](https://github.com/Coobaha/suomea) - Tools to learn Finnish. Includes Web app, Anki integration and Alfred workflow.
-- [hwittenborn/alto](https://github.com/hwittenborn/alto) - The best client for all of your cloud storage
+- [hwittenborn/alto](https://github.com/hwittenborn/alto) - The best application for all of your cloud storage
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [noway/diy-llm-bot](https://github.com/noway/diy-llm-bot) - Compare a generic GPT-3 based chatbot with ChatGPT
 - [tipxmr/tipxmr](https://github.com/tipxmr/tipxmr) - An open-source, noncustodial livestream tipping service for Monero.
