@@ -574,7 +574,6 @@
 - [zone-eu/wildduck](https://github.com/zone-eu/wildduck) - Opinionated email server
 - [kanyesthaker/qgqa-flashcards](https://github.com/kanyesthaker/qgqa-flashcards) - Question Generation - Question Answering for Automatic Flashcards
 - [jonathanpoelen/dotfiles](https://github.com/jonathanpoelen/dotfiles) - My configuration files (zsh, urxvt, i3, mpv, ...)
-- [gmariani/minerva](https://github.com/gmariani/minerva) - Flash Local Shared Object editor built based on the AMF3 specification and the AMF0 specification.
 - [hpennington/kanception](https://github.com/hpennington/kanception) - 
 - [idlewan/javascript-control](https://github.com/idlewan/javascript-control) - Browser WebExtension that adds a JS toggle button in Firefox's url bar
 - [MeiK2333/pyppeteer_stealth](https://github.com/MeiK2333/pyppeteer_stealth) - 
@@ -1377,6 +1376,7 @@
 - [nathansomething/lwt2](https://github.com/nathansomething/lwt2) - A Complete Rewrite of Learning With Texts, using Angular and Flask
 - [nramos0/fluent-reader](https://github.com/nramos0/fluent-reader) - Language learning app similar to https://lingq.com/, but open source and free written in Typescript and Rust. Supports English and Chinese.
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
+- [gmariani/minerva](https://github.com/gmariani/minerva) - Flash Local Shared Object editor built based on the AMF3 specification and the AMF0 specification.
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
 - [shellyln/kanban-board-app](https://github.com/shellyln/kanban-board-app) - Kanban style task management board app
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
