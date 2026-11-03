@@ -12,6 +12,7 @@
 - [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [android](#android)
+- [android-app](#android-app)
 - [animation](#animation)
 - [api](#api)
 - [archlinux](#archlinux)
@@ -303,6 +304,12 @@
 - [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
 - [uTox/uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+
+## android-app 
+
+- [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
+- [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
+- [KillerInk/FreeDcam](https://github.com/KillerInk/FreeDcam) - FreeDcam is a CameraApp for Android &gt;4.0(ics) wich try to enable stuff that is forgotten by the manufacturs
 
 ## animation 
 
@@ -1998,7 +2005,6 @@
 - [9viz/bottom-sh](https://github.com/9viz/bottom-sh) - Bottom encoder and decoder in pure sh
 - [MeiK2333/pyppeteer_stealth](https://github.com/MeiK2333/pyppeteer_stealth) - 
 - [Nudin/mplug](https://github.com/Nudin/mplug) - A plugin manager for mpv
-- [KillerInk/FreeDcam](https://github.com/KillerInk/FreeDcam) - FreeDcam is a CameraApp for Android &gt;4.0(ics) wich try to enable stuff that is forgotten by the manufacturs
 - [mrschyte/abook-notmuch](https://github.com/mrschyte/abook-notmuch) - notmuch to abook contact extractor
 - [afewmail/afew](https://github.com/afewmail/afew) - an initial tagging script for notmuch mail
 - [aperezdc/notmuch-addrlookup-c](https://github.com/aperezdc/notmuch-addrlookup-c) - Address lookup tool for Notmuch in C using GLib and libnotmuch
