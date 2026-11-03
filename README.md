@@ -776,7 +776,6 @@
 - [ericmjl/agent-autolearn](https://github.com/ericmjl/agent-autolearn) - Self-improvement engine for OpenCode — learns from conversations, captures corrections, and escalates behavioral rules
 - [Jeffser/Alpaca](https://github.com/Jeffser/Alpaca) - 🦙 Local and online AI hub
 - [AbdelrhmanNile/UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) - A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux.
-- [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [moonstone-app/moonstone](https://github.com/moonstone-app/moonstone) - 🌑 Headless PKM server that turns any note folder into a programmable platform. Works with Obsidian, Logseq, and Zim out of the box. Zero lock-in.
 - [ValdikSS/tor-relay-scanner](https://github.com/ValdikSS/tor-relay-scanner) - Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
@@ -1336,6 +1335,7 @@
 - [r3n3gad37040/openclaude-webui-react](https://github.com/r3n3gad37040/openclaude-webui-react) - 
 - [qnbs/WorldScript-Studio](https://github.com/qnbs/WorldScript-Studio) - 🖋️ AI-powered writing studio for authors & screenwriters. Story planning, character & world building, AI assistants, offline PWA + desktop app with strong privacy focus.
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
+- [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [ZaxbyHub/opencode-swarm](https://github.com/ZaxbyHub/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
 - [weiruchenai1/api-key-tester](https://github.com/weiruchenai1/api-key-tester) - API Key 测活工具 - 用于批量检测 OpenAI、Claude、Gemini 等 API 密钥有效性 | Modern API Key Tester - Used for batch testing the validity of API keys such as OpenAI, Claude, Gemini
 - [uigywnkiub/diet-me](https://github.com/uigywnkiub/diet-me) - Take a photo. Get calories, protein, fat, and carbs. Simple as that.
