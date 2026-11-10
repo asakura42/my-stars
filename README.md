@@ -160,7 +160,6 @@
 - [jonhoo/mktrayicon](https://github.com/jonhoo/mktrayicon) - Create system tray icons by writing to a pipe
 - [glennular/i3help](https://github.com/glennular/i3help) - Dialog to view your key bindings for i3wm
 - [DirkReinemann/i3blocksc](https://github.com/DirkReinemann/i3blocksc) - Extensions for i3blocks written in C and Shell.
-- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [pickfire/spt](https://github.com/pickfire/spt) - Simple pomodoro timer that doubles your efficiency
 - [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [regolith-linux/i3xrocks](https://github.com/regolith-linux/i3xrocks) - A fork of i3blocks that can read Xresources.
@@ -273,6 +272,7 @@
 - [byronknoll/cmix](https://github.com/byronknoll/cmix) - cmix is a lossless data compression program aimed at optimizing compression ratio at the cost of high CPU/memory usage.
 - [HerculesWS/Hercules](https://github.com/HerculesWS/Hercules) - Hercules is a collaborative software development project revolving around the creation of a robust massively multiplayer online role playing game (MMORPG) server package. Written in C, the program is 
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
+- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [lmartinking/TomatoTimer](https://github.com/lmartinking/TomatoTimer) - A Simple Pomodoro Timer that lives in the Menu Bar 🍅
 - [yar-sh/steins-gate-psp-patch](https://github.com/yar-sh/steins-gate-psp-patch) - An English Patch for Stein;Gate PSP 2011
 - [Maproom/qmapshack](https://github.com/Maproom/qmapshack) - Consumer grade GIS software
@@ -524,6 +524,7 @@
 
 ## JavaScript 
 
+- [Ajatt-Tools/rikaitan](https://github.com/Ajatt-Tools/rikaitan) - 📓 Pop-up dictionary browser extension for language learning and AJATT. Official successor of Yomichan.
 - [ellipticmarketing/modelrelay](https://github.com/ellipticmarketing/modelrelay) - Archived October 1, 2026. No longer maintained. No updates, bug fixes, security patches, or support. Historical source and documentation only.
 - [KingOfBugbounty/Hardcoded-Token-Hunter](https://github.com/KingOfBugbounty/Hardcoded-Token-Hunter) - 🔐 Chrome Extension - Detect hardcoded tokens, API keys & secrets in JavaScript files
 - [GideonWhite1029/lampa-desktop](https://github.com/GideonWhite1029/lampa-desktop) - Неофициальное приложение для просмотра фильмов и сериалов
@@ -765,6 +766,7 @@
 
 ## PowerShell 
 
+- [valorekhov/ovos-arch-linux](https://github.com/valorekhov/ovos-arch-linux) - PKGBUILD files and image scripts for OpenVoiceAssistant (OVOS)
 - [neurogen-dev/NeuroAPI](https://github.com/neurogen-dev/NeuroAPI) - NeuroAPI: российский AI API для Codex CLI и Claude Code — безопасные one-click установщики для Windows и macOS.
 - [L-Trump/scoop-raresoft](https://github.com/L-Trump/scoop-raresoft) - 提供许多破解版的应用
 
@@ -1093,6 +1095,7 @@
 
 ## Rust 
 
+- [0CYBER/horizon-free](https://github.com/0CYBER/horizon-free) - Horizon without some pain in ahh ms-authentication)
 - [Feromond/budget-tracker-tui](https://github.com/Feromond/budget-tracker-tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
 - [GiviMAD/rustpotter-cli](https://github.com/GiviMAD/rustpotter-cli) - Command line utility for rustpotter, an open source wakeword spotter forged in rust
 - [GiviMAD/rustpotter](https://github.com/GiviMAD/rustpotter) - An open source wakeword spotter forged in rust
@@ -1186,7 +1189,6 @@
 - [fatyzzz/Byedpi-Setup](https://github.com/fatyzzz/Byedpi-Setup) - Скрипт, для подбора настроек и автоустановки ByeDPI на Linux
 - [BarbossHack/RiseupVPN-OpenVPN](https://github.com/BarbossHack/RiseupVPN-OpenVPN) - Simple Bash script that generates an OpenVPN configuration file for use with RiseupVPN
 - [ImMALWARE/bash-warp-generator](https://github.com/ImMALWARE/bash-warp-generator) - Генератор конфига Cloudflare WARP для AmneziaWG и Clash
-- [valorekhov/ovos-arch-linux](https://github.com/valorekhov/ovos-arch-linux) - PKGBUILD files and image scripts for OpenVoiceAssistant (OVOS)
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [maxhebditch/rss-roller](https://github.com/maxhebditch/rss-roller) - Shell script for generating and updating rss feeds
 - [173duprot/harm-less](https://github.com/173duprot/harm-less) - Inspired by suckless and cat-v, this is a simple single document wiki of suckless practices and minimal software.
@@ -1329,6 +1331,7 @@
 
 ## TypeScript 
 
+- [username-ldv/mdx-yomitan](https://github.com/username-ldv/mdx-yomitan) - Chinese dictionaries for Yomitan converted from MDX format.
 - [afriemann/opencode-todo](https://github.com/afriemann/opencode-todo) - 
 - [hueyexe/opencode-ensemble](https://github.com/hueyexe/opencode-ensemble) - Agent teams for OpenCode. Run multiple agents in parallel with messaging, shared tasks, and coordinated execution.
 - [r3n3gad37040/openclaude-webui-react](https://github.com/r3n3gad37040/openclaude-webui-react) - 
