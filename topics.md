@@ -1567,6 +1567,9 @@
 
 ## others 
 
+- [username-ldv/mdx-yomitan](https://github.com/username-ldv/mdx-yomitan) - Chinese dictionaries for Yomitan converted from MDX format.
+- [Ajatt-Tools/rikaitan](https://github.com/Ajatt-Tools/rikaitan) - 📓 Pop-up dictionary browser extension for language learning and AJATT. Official successor of Yomichan.
+- [0CYBER/horizon-free](https://github.com/0CYBER/horizon-free) - Horizon without some pain in ahh ms-authentication)
 - [pilioulian/AutoShiftPlanner](https://github.com/pilioulian/AutoShiftPlanner) - Auto Shift Planner is a user-friendly desktop application that can design detailed employees shift schedules and solve them automatically while meeting the maximum satisfaction of constraints.
 - [afriemann/opencode-todo](https://github.com/afriemann/opencode-todo) - 
 - [oernster/ClearBudget](https://github.com/oernster/ClearBudget) - Day-by-day solvency for personal budgets: a monthly total can look safe while the month itself is not
