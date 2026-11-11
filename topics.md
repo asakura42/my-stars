@@ -271,6 +271,7 @@
 
 ## ai-agents 
 
+- [a-barzanti/ai-rebuilds](https://github.com/a-barzanti/ai-rebuilds) - A tracked list of software and games rebuilt by AI agents and clean-room teams: PhotoCraft, AI game decompilations, OpenRCT2, Photopea, Wine and more. Updated weekly.
 - [TraftG/opencode-game-studio](https://github.com/TraftG/opencode-game-studio) - 
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [ZaxbyHub/opencode-swarm](https://github.com/ZaxbyHub/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
@@ -366,6 +367,9 @@
 
 ## awesome 
 
+- [a-barzanti/ai-rebuilds](https://github.com/a-barzanti/ai-rebuilds) - A tracked list of software and games rebuilt by AI agents and clean-room teams: PhotoCraft, AI game decompilations, OpenRCT2, Photopea, Wine and more. Updated weekly.
+- [Anil-matcha/awesome-open-source-saas-alternatives](https://github.com/Anil-matcha/awesome-open-source-saas-alternatives) - Open source alternatives to paid SaaS apps: Notion, Slack, Auth0, Vercel and more. Curated list with licenses and GitHub stars.
+- [maluramichael/awesome-reverse-engineer-anything](https://github.com/maluramichael/awesome-reverse-engineer-anything) - Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.
 - [hstsethi/awesome-j2me](https://github.com/hstsethi/awesome-j2me) - Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -381,6 +385,9 @@
 
 ## awesome-list 
 
+- [a-barzanti/ai-rebuilds](https://github.com/a-barzanti/ai-rebuilds) - A tracked list of software and games rebuilt by AI agents and clean-room teams: PhotoCraft, AI game decompilations, OpenRCT2, Photopea, Wine and more. Updated weekly.
+- [Anil-matcha/awesome-open-source-saas-alternatives](https://github.com/Anil-matcha/awesome-open-source-saas-alternatives) - Open source alternatives to paid SaaS apps: Notion, Slack, Auth0, Vercel and more. Curated list with licenses and GitHub stars.
+- [maluramichael/awesome-reverse-engineer-anything](https://github.com/maluramichael/awesome-reverse-engineer-anything) - Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [machiav3lli/alt3rnative](https://github.com/machiav3lli/alt3rnative) - Resources of knowledge and tools from and for the digital world.
 - [hstsethi/awesome-j2me](https://github.com/hstsethi/awesome-j2me) - Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.
@@ -526,6 +533,7 @@
 
 ## claude-code 
 
+- [a-barzanti/ai-rebuilds](https://github.com/a-barzanti/ai-rebuilds) - A tracked list of software and games rebuilt by AI agents and clean-room teams: PhotoCraft, AI game decompilations, OpenRCT2, Photopea, Wine and more. Updated weekly.
 - [0xmariowu/AgentLint](https://github.com/0xmariowu/AgentLint) - The linter for your agent harness. Works with Claude Code, Codex, and Cursor.
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [neurogen-dev/NeuroAPI](https://github.com/neurogen-dev/NeuroAPI) - NeuroAPI: российский AI API для Codex CLI и Claude Code — безопасные one-click установщики для Windows и macOS.
@@ -1117,6 +1125,7 @@
 
 ## image-processing 
 
+- [rotejin/EasyPNGTuber](https://github.com/rotejin/EasyPNGTuber) - AI表情差分からPNGTuber用4パターン画像を自動生成 / Auto-generate 4-pattern PNGTuber images from AI expression sheets
 - [TeaM-TL/FotoKilof](https://github.com/TeaM-TL/FotoKilof) - GUI for ImageMagick and Wand or Pillow
 - [pixelstuermer/img2excel](https://github.com/pixelstuermer/img2excel) - Convert images into Excel files :rocket:
 
@@ -1413,6 +1422,7 @@
 
 ## mcp 
 
+- [a-barzanti/ai-rebuilds](https://github.com/a-barzanti/ai-rebuilds) - A tracked list of software and games rebuilt by AI agents and clean-room teams: PhotoCraft, AI game decompilations, OpenRCT2, Photopea, Wine and more. Updated weekly.
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
 - [ZaxbyHub/opencode-swarm](https://github.com/ZaxbyHub/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
@@ -1525,6 +1535,7 @@
 
 ## open-source 
 
+- [Anil-matcha/awesome-open-source-saas-alternatives](https://github.com/Anil-matcha/awesome-open-source-saas-alternatives) - Open source alternatives to paid SaaS apps: Notion, Slack, Auth0, Vercel and more. Curated list with licenses and GitHub stars.
 - [ZaxbyHub/opencode-swarm](https://github.com/ZaxbyHub/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
 - [rmusser01/tldw_server](https://github.com/rmusser01/tldw_server) - tl/dw (Too Long, Didn't Watch): Your Personal Research Multi-Tool - a naive attempt at 'A Young Lady's Illustrated Primer' (Open Source NotebookLM)
 - [sussy-code/smov](https://github.com/sussy-code/smov) - Sudo-flix's source code (Allegedly)
@@ -1550,6 +1561,7 @@
 
 ## opencv 
 
+- [rotejin/EasyPNGTuber](https://github.com/rotejin/EasyPNGTuber) - AI表情差分からPNGTuber用4パターン画像を自動生成 / Auto-generate 4-pattern PNGTuber images from AI expression sheets
 - [floe/backscrub](https://github.com/floe/backscrub) - Virtual Video Device for Background Replacement with Deep Semantic Segmentation
 - [ChesleyTan/ascii-chat](https://github.com/ChesleyTan/ascii-chat) - A terminal-based peer-to-peer (P2P) end-to-end-encrypted (E2EE) video chat application with text messaging, written in OCaml. Supports up to 4 clients. Supports connections over internet and LAN.
 
@@ -1567,6 +1579,7 @@
 
 ## others 
 
+- [kaixinbaba/awesome-rea](https://github.com/kaixinbaba/awesome-rea) - Open-source reverse-engineering projects, reimplementations and compatible alternatives. Primary sources, licenses and honest limits; REA usage optional.
 - [username-ldv/mdx-yomitan](https://github.com/username-ldv/mdx-yomitan) - Chinese dictionaries for Yomitan converted from MDX format.
 - [Ajatt-Tools/rikaitan](https://github.com/Ajatt-Tools/rikaitan) - 📓 Pop-up dictionary browser extension for language learning and AJATT. Official successor of Yomichan.
 - [0CYBER/horizon-free](https://github.com/0CYBER/horizon-free) - Horizon without some pain in ahh ms-authentication)
@@ -2273,6 +2286,7 @@
 
 ## privacy 
 
+- [Anil-matcha/awesome-open-source-saas-alternatives](https://github.com/Anil-matcha/awesome-open-source-saas-alternatives) - Open source alternatives to paid SaaS apps: Notion, Slack, Auth0, Vercel and more. Curated list with licenses and GitHub stars.
 - [machiav3lli/alt3rnative](https://github.com/machiav3lli/alt3rnative) - Resources of knowledge and tools from and for the digital world.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
@@ -2346,6 +2360,7 @@
 
 ## python 
 
+- [rotejin/EasyPNGTuber](https://github.com/rotejin/EasyPNGTuber) - AI表情差分からPNGTuber用4パターン画像を自動生成 / Auto-generate 4-pattern PNGTuber images from AI expression sheets
 - [mvichosfm/pocket-envelopes](https://github.com/mvichosfm/pocket-envelopes) - Envelope budgeting in one HTML file, with a forecast of what you can safely spend. Local-first: your budget is one JSON file on your own machine.
 - [moonstone-app/moonstone](https://github.com/moonstone-app/moonstone) - 🌑 Headless PKM server that turns any note folder into a programmable platform. Works with Obsidian, Logseq, and Zim out of the box. Zero lock-in.
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Webchat to API
@@ -2528,6 +2543,8 @@
 
 ## reverse-engineering 
 
+- [a-barzanti/ai-rebuilds](https://github.com/a-barzanti/ai-rebuilds) - A tracked list of software and games rebuilt by AI agents and clean-room teams: PhotoCraft, AI game decompilations, OpenRCT2, Photopea, Wine and more. Updated weekly.
+- [maluramichael/awesome-reverse-engineer-anything](https://github.com/maluramichael/awesome-reverse-engineer-anything) - Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.
 - [Belluxx/Java2Smali](https://github.com/Belluxx/Java2Smali) - Convert Java code to Smali for Android app reverse-engineering
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for Linux
@@ -2600,6 +2617,7 @@
 
 ## self-hosted 
 
+- [Anil-matcha/awesome-open-source-saas-alternatives](https://github.com/Anil-matcha/awesome-open-source-saas-alternatives) - Open source alternatives to paid SaaS apps: Notion, Slack, Auth0, Vercel and more. Curated list with licenses and GitHub stars.
 - [mvichosfm/pocket-envelopes](https://github.com/mvichosfm/pocket-envelopes) - Envelope budgeting in one HTML file, with a forecast of what you can safely spend. Local-first: your budget is one JSON file on your own machine.
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
 - [moonstone-app/moonstone](https://github.com/moonstone-app/moonstone) - 🌑 Headless PKM server that turns any note folder into a programmable platform. Works with Obsidian, Logseq, and Zim out of the box. Zero lock-in.
