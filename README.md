@@ -453,6 +453,7 @@
 
 ## HTML 
 
+- [a-barzanti/ai-rebuilds](https://github.com/a-barzanti/ai-rebuilds) - A tracked list of software and games rebuilt by AI agents and clean-room teams: PhotoCraft, AI game decompilations, OpenRCT2, Photopea, Wine and more. Updated weekly.
 - [NoelDeMartin/umai](https://github.com/NoelDeMartin/umai) - Local-first Recipes Manager
 - [Kirilllive/tuesday-js](https://github.com/Kirilllive/tuesday-js) - simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional s
 - [slasjh/cy](https://github.com/slasjh/cy) - 
@@ -524,6 +525,8 @@
 
 ## JavaScript 
 
+- [kaixinbaba/awesome-rea](https://github.com/kaixinbaba/awesome-rea) - Open-source reverse-engineering projects, reimplementations and compatible alternatives. Primary sources, licenses and honest limits; REA usage optional.
+- [Anil-matcha/awesome-open-source-saas-alternatives](https://github.com/Anil-matcha/awesome-open-source-saas-alternatives) - Open source alternatives to paid SaaS apps: Notion, Slack, Auth0, Vercel and more. Curated list with licenses and GitHub stars.
 - [Ajatt-Tools/rikaitan](https://github.com/Ajatt-Tools/rikaitan) - 📓 Pop-up dictionary browser extension for language learning and AJATT. Official successor of Yomichan.
 - [ellipticmarketing/modelrelay](https://github.com/ellipticmarketing/modelrelay) - Archived October 1, 2026. No longer maintained. No updates, bug fixes, security patches, or support. Historical source and documentation only.
 - [KingOfBugbounty/Hardcoded-Token-Hunter](https://github.com/KingOfBugbounty/Hardcoded-Token-Hunter) - 🔐 Chrome Extension - Detect hardcoded tokens, API keys & secrets in JavaScript files
@@ -772,6 +775,8 @@
 
 ## Python 
 
+- [maluramichael/awesome-reverse-engineer-anything](https://github.com/maluramichael/awesome-reverse-engineer-anything) - Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.
+- [rotejin/EasyPNGTuber](https://github.com/rotejin/EasyPNGTuber) - AI表情差分からPNGTuber用4パターン画像を自動生成 / Auto-generate 4-pattern PNGTuber images from AI expression sheets
 - [mvichosfm/pocket-envelopes](https://github.com/mvichosfm/pocket-envelopes) - Envelope budgeting in one HTML file, with a forecast of what you can safely spend. Local-first: your budget is one JSON file on your own machine.
 - [oernster/ClearBudget](https://github.com/oernster/ClearBudget) - Day-by-day solvency for personal budgets: a monthly total can look safe while the month itself is not
 - [ericmjl/agent-autolearn](https://github.com/ericmjl/agent-autolearn) - Self-improvement engine for OpenCode — learns from conversations, captures corrections, and escalates behavioral rules
