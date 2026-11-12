@@ -247,6 +247,7 @@
 
 ## ai 
 
+- [giacomo-folli/awesome-ai-craft](https://github.com/giacomo-folli/awesome-ai-craft) - A curated list of awesome software products created through AI-driven reverse engineering and clean-room reimplementation
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Webchat to API
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -385,6 +386,7 @@
 
 ## awesome-list 
 
+- [giacomo-folli/awesome-ai-craft](https://github.com/giacomo-folli/awesome-ai-craft) - A curated list of awesome software products created through AI-driven reverse engineering and clean-room reimplementation
 - [a-barzanti/ai-rebuilds](https://github.com/a-barzanti/ai-rebuilds) - A tracked list of software and games rebuilt by AI agents and clean-room teams: PhotoCraft, AI game decompilations, OpenRCT2, Photopea, Wine and more. Updated weekly.
 - [Anil-matcha/awesome-open-source-saas-alternatives](https://github.com/Anil-matcha/awesome-open-source-saas-alternatives) - Open source alternatives to paid SaaS apps: Notion, Slack, Auth0, Vercel and more. Curated list with licenses and GitHub stars.
 - [maluramichael/awesome-reverse-engineer-anything](https://github.com/maluramichael/awesome-reverse-engineer-anything) - Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.
@@ -540,6 +542,7 @@
 
 ## cli 
 
+- [firsttris/pd200x-control](https://github.com/firsttris/pd200x-control) - Linux app for the Maono PD200X and PD200XS USB microphone, a MAONO Link alternative: gain, monitoring, noise cancellation, EQ profiles and 7-band EQ, compressor, limiter and RGB ring light, live level
 - [GiviMAD/rustpotter-cli](https://github.com/GiviMAD/rustpotter-cli) - Command line utility for rustpotter, an open source wakeword spotter forged in rust
 - [ZaxbyHub/opencode-swarm](https://github.com/ZaxbyHub/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -1234,6 +1237,7 @@
 
 ## linux 
 
+- [firsttris/pd200x-control](https://github.com/firsttris/pd200x-control) - Linux app for the Maono PD200X and PD200XS USB microphone, a MAONO Link alternative: gain, monitoring, noise cancellation, EQ profiles and 7-band EQ, compressor, limiter and RGB ring light, live level
 - [AbdelrhmanNile/UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) - A free and open-source game-center for linux. Pre-configured Wine and Native Games for Linux.
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
@@ -1535,12 +1539,14 @@
 
 ## open-source 
 
+- [giacomo-folli/awesome-ai-craft](https://github.com/giacomo-folli/awesome-ai-craft) - A curated list of awesome software products created through AI-driven reverse engineering and clean-room reimplementation
 - [Anil-matcha/awesome-open-source-saas-alternatives](https://github.com/Anil-matcha/awesome-open-source-saas-alternatives) - Open source alternatives to paid SaaS apps: Notion, Slack, Auth0, Vercel and more. Curated list with licenses and GitHub stars.
 - [ZaxbyHub/opencode-swarm](https://github.com/ZaxbyHub/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
 - [rmusser01/tldw_server](https://github.com/rmusser01/tldw_server) - tl/dw (Too Long, Didn't Watch): Your Personal Research Multi-Tool - a naive attempt at 'A Young Lady's Illustrated Primer' (Open Source NotebookLM)
 - [sussy-code/smov](https://github.com/sussy-code/smov) - Sudo-flix's source code (Allegedly)
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [team-pp-studio/VoiceTuber](https://github.com/team-pp-studio/VoiceTuber) - VTuber application which only requires your voice and microphone, no need for a webcam or other tracking nonsense.
+- [hwittenborn/alto](https://github.com/hwittenborn/alto) - The best application for all of your cloud storage
 - [R4yGM/garlicshare](https://github.com/R4yGM/garlicshare) - Private and self-hosted file sharing over the Tor network written in golang
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and Mac, free and open-source (FOSS)
@@ -1579,6 +1585,7 @@
 
 ## others 
 
+- [Dthen/redlib-mcp-server](https://github.com/Dthen/redlib-mcp-server) - MCP server for Redlib
 - [kaixinbaba/awesome-rea](https://github.com/kaixinbaba/awesome-rea) - Open-source reverse-engineering projects, reimplementations and compatible alternatives. Primary sources, licenses and honest limits; REA usage optional.
 - [username-ldv/mdx-yomitan](https://github.com/username-ldv/mdx-yomitan) - Chinese dictionaries for Yomitan converted from MDX format.
 - [Ajatt-Tools/rikaitan](https://github.com/Ajatt-Tools/rikaitan) - 📓 Pop-up dictionary browser extension for language learning and AJATT. Official successor of Yomichan.
@@ -2555,6 +2562,7 @@
 
 ## rust 
 
+- [firsttris/pd200x-control](https://github.com/firsttris/pd200x-control) - Linux app for the Maono PD200X and PD200XS USB microphone, a MAONO Link alternative: gain, monitoring, noise cancellation, EQ profiles and 7-band EQ, compressor, limiter and RGB ring light, live level
 - [Feromond/budget-tracker-tui](https://github.com/Feromond/budget-tracker-tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
 - [GiviMAD/rustpotter](https://github.com/GiviMAD/rustpotter) - An open source wakeword spotter forged in rust
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
@@ -2611,7 +2619,6 @@
 
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
-- [my0419/myvpn-desktop](https://github.com/my0419/myvpn-desktop) - VPN server configuration software. Protocols: L2TP, PPTP, OpenVPN, WireGuard, Socks5, ShadowSocks (v2ray). | Providers: DigitalOcean, Linode, CryptoServers, Hetzner Cloud, Custom Server
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [wireghoul/graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool
 
@@ -2714,7 +2721,7 @@
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 - [ar1ja/arigram](https://github.com/ar1ja/arigram) - [Migrated to self-hosted ari-web Forgejo: https://git.ari.lt/ari/arigram] A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
-- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
+- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client - TUI, CLI and an agent skill
 - [evgeny-nadymov/telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
 - [vasani-arpit/Social-Media-Automation](https://github.com/vasani-arpit/Social-Media-Automation) - Automate social media because you don't have to be active on all of them😉. Best way to be active on all social media without actually being active on them. 😃
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
@@ -2748,7 +2755,7 @@
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
 - [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh using mpv from the shell/fzf + extras/goodies 🎧📡🔊
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
-- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
+- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client - TUI, CLI and an agent skill
 - [foxfriends/paper-terminal](https://github.com/foxfriends/paper-terminal) - Print Markdown to a paper in your terminal
 - [n-ivkovic/tspreed](https://github.com/n-ivkovic/tspreed) - Terminal RSVP speed reader with Spritz-like functionality written in POSIX-compliant shell
 - [strang1ato/tibivi](https://github.com/strang1ato/tibivi) - Terminal based, vim-like time managment tool
@@ -2803,7 +2810,7 @@
 - [wustho/baca](https://github.com/wustho/baca) - TUI Ebook Reader
 - [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
 - [ar1ja/arigram](https://github.com/ar1ja/arigram) - [Migrated to self-hosted ari-web Forgejo: https://git.ari.lt/ari/arigram] A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
-- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
+- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client - TUI, CLI and an agent skill
 - [n-ivkovic/tspreed](https://github.com/n-ivkovic/tspreed) - Terminal RSVP speed reader with Spritz-like functionality written in POSIX-compliant shell
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
@@ -2917,7 +2924,6 @@
 
 - [BarbossHack/RiseupVPN-OpenVPN](https://github.com/BarbossHack/RiseupVPN-OpenVPN) - Simple Bash script that generates an OpenVPN configuration file for use with RiseupVPN
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
-- [my0419/myvpn-desktop](https://github.com/my0419/myvpn-desktop) - VPN server configuration software. Protocols: L2TP, PPTP, OpenVPN, WireGuard, Socks5, ShadowSocks (v2ray). | Providers: DigitalOcean, Linode, CryptoServers, Hetzner Cloud, Custom Server
 
 ## vue 
 
