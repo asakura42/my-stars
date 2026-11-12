@@ -672,6 +672,7 @@
 
 ## Others 
 
+- [giacomo-folli/awesome-ai-craft](https://github.com/giacomo-folli/awesome-ai-craft) - A curated list of awesome software products created through AI-driven reverse engineering and clean-room reimplementation
 - [lechmazur/writing](https://github.com/lechmazur/writing) - This benchmark tests how well LLMs incorporate a set of 10 mandatory story elements (characters, objects, core concepts, attributes, motivations, etc.) in a short creative story
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [SmrutAI/opencode-migration](https://github.com/SmrutAI/opencode-migration) - ClaudeCode to OpenCode Migration guide
@@ -769,7 +770,6 @@
 
 ## PowerShell 
 
-- [valorekhov/ovos-arch-linux](https://github.com/valorekhov/ovos-arch-linux) - PKGBUILD files and image scripts for OpenVoiceAssistant (OVOS)
 - [neurogen-dev/NeuroAPI](https://github.com/neurogen-dev/NeuroAPI) - NeuroAPI: российский AI API для Codex CLI и Claude Code — безопасные one-click установщики для Windows и macOS.
 - [L-Trump/scoop-raresoft](https://github.com/L-Trump/scoop-raresoft) - 提供许多破解版的应用
 
@@ -954,7 +954,7 @@
 - [Hellisotherpeople/CX_DB8](https://github.com/Hellisotherpeople/CX_DB8) - a contextual, biasable, word-or-sentence-or-paragraph extractive summarizer powered by the latest in text embeddings (Bert, Universal Sentence Encoder, Flair)
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [ar1ja/arigram](https://github.com/ar1ja/arigram) - [Migrated to self-hosted ari-web Forgejo: https://git.ari.lt/ari/arigram] A fork of tg -- a hackable telegram TUI client [EOL https://github.com/TruncatedDinoSour/arigram/releases/tag/v0.1.8]
-- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
+- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client - TUI, CLI and an agent skill
 - [AthenicAI/Once-Upon-AI-Time](https://github.com/AthenicAI/Once-Upon-AI-Time) - GPT-3 and Stable Diffusion powered short story generator
 - [glutanimate/popup-dictionary](https://github.com/glutanimate/popup-dictionary) - Pop-up Dictionary Add-on for Anki
 - [Servarr/Wiki](https://github.com/Servarr/Wiki) - 
@@ -1100,6 +1100,7 @@
 
 ## Rust 
 
+- [firsttris/pd200x-control](https://github.com/firsttris/pd200x-control) - Linux app for the Maono PD200X and PD200XS USB microphone, a MAONO Link alternative: gain, monitoring, noise cancellation, EQ profiles and 7-band EQ, compressor, limiter and RGB ring light, live level
 - [0CYBER/horizon-free](https://github.com/0CYBER/horizon-free) - Horizon without some pain in ahh ms-authentication)
 - [Feromond/budget-tracker-tui](https://github.com/Feromond/budget-tracker-tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
 - [GiviMAD/rustpotter-cli](https://github.com/GiviMAD/rustpotter-cli) - Command line utility for rustpotter, an open source wakeword spotter forged in rust
@@ -1194,6 +1195,7 @@
 - [fatyzzz/Byedpi-Setup](https://github.com/fatyzzz/Byedpi-Setup) - Скрипт, для подбора настроек и автоустановки ByeDPI на Linux
 - [BarbossHack/RiseupVPN-OpenVPN](https://github.com/BarbossHack/RiseupVPN-OpenVPN) - Simple Bash script that generates an OpenVPN configuration file for use with RiseupVPN
 - [ImMALWARE/bash-warp-generator](https://github.com/ImMALWARE/bash-warp-generator) - Генератор конфига Cloudflare WARP для AmneziaWG и Clash
+- [valorekhov/ovos-arch-linux](https://github.com/valorekhov/ovos-arch-linux) - PKGBUILD files and image scripts for OpenVoiceAssistant (OVOS)
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [maxhebditch/rss-roller](https://github.com/maxhebditch/rss-roller) - Shell script for generating and updating rss feeds
 - [173duprot/harm-less](https://github.com/173duprot/harm-less) - Inspired by suckless and cat-v, this is a simple single document wiki of suckless practices and minimal software.
@@ -1336,6 +1338,7 @@
 
 ## TypeScript 
 
+- [Dthen/redlib-mcp-server](https://github.com/Dthen/redlib-mcp-server) - MCP server for Redlib
 - [username-ldv/mdx-yomitan](https://github.com/username-ldv/mdx-yomitan) - Chinese dictionaries for Yomitan converted from MDX format.
 - [afriemann/opencode-todo](https://github.com/afriemann/opencode-todo) - 
 - [hueyexe/opencode-ensemble](https://github.com/hueyexe/opencode-ensemble) - Agent teams for OpenCode. Run multiple agents in parallel with messaging, shared tasks, and coordinated execution.
@@ -1438,7 +1441,6 @@
 
 ## Vue 
 
-- [my0419/myvpn-desktop](https://github.com/my0419/myvpn-desktop) - VPN server configuration software. Protocols: L2TP, PPTP, OpenVPN, WireGuard, Socks5, ShadowSocks (v2ray). | Providers: DigitalOcean, Linode, CryptoServers, Hetzner Cloud, Custom Server
 - [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
 - [Litarvan/lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
 
