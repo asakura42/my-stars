@@ -832,7 +832,7 @@
 
 ## finance 
 
-- [Feromond/budget-tracker-tui](https://github.com/Feromond/budget-tracker-tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
+- [Feromond/budget-tracker-tui](https://github.com/Feromond/budget-tracker-tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.  https://ventra.dev/budget-tracker
 - [ShoshinNikita/budget-manager](https://github.com/ShoshinNikita/budget-manager) - Easy-to-use, lightweight and self-hosted solution to track your finances
 
 ## firebase 
@@ -2068,7 +2068,6 @@
 - [rui-ddc/skip-intro](https://github.com/rui-ddc/skip-intro) - This is a script for skipping episode intros (on mpv media player).
 - [barrucadu/lainonlife](https://github.com/barrucadu/lainonlife) - RIP lainchan radio, taken out by HDD failure.
 - [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - Simple, hackable offline speech to text - using the VOSK-API.
-- [JarbasAl/kaldi_spotter](https://github.com/JarbasAl/kaldi_spotter) - wake word spotting with kaldi
 - [AnthonyDiGirolamo/todotxt-machine](https://github.com/AnthonyDiGirolamo/todotxt-machine) - an interactive terminal based todo.txt file editor with an interface similar to mutt
 - [todotxt-rs/effitask](https://github.com/todotxt-rs/effitask) - Graphical task manager, based on the todo.txt format.
 - [wansing/maildirfs](https://github.com/wansing/maildirfs) - A FUSE filesystem which serves a folder as a Maildir.
@@ -2563,7 +2562,7 @@
 ## rust 
 
 - [firsttris/pd200x-control](https://github.com/firsttris/pd200x-control) - Linux app for the Maono PD200X and PD200XS USB microphone, a MAONO Link alternative: gain, monitoring, noise cancellation, EQ profiles and 7-band EQ, compressor, limiter and RGB ring light, live level
-- [Feromond/budget-tracker-tui](https://github.com/Feromond/budget-tracker-tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
+- [Feromond/budget-tracker-tui](https://github.com/Feromond/budget-tracker-tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.  https://ventra.dev/budget-tracker
 - [GiviMAD/rustpotter](https://github.com/GiviMAD/rustpotter) - An open source wakeword spotter forged in rust
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -2795,7 +2794,7 @@
 
 ## tui 
 
-- [Feromond/budget-tracker-tui](https://github.com/Feromond/budget-tracker-tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
+- [Feromond/budget-tracker-tui](https://github.com/Feromond/budget-tracker-tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.  https://ventra.dev/budget-tracker
 - [abeleinin/goki](https://github.com/abeleinin/goki) - Anki-like flashcard management tool for the terminal!
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
