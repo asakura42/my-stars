@@ -160,6 +160,7 @@
 - [jonhoo/mktrayicon](https://github.com/jonhoo/mktrayicon) - Create system tray icons by writing to a pipe
 - [glennular/i3help](https://github.com/glennular/i3help) - Dialog to view your key bindings for i3wm
 - [DirkReinemann/i3blocksc](https://github.com/DirkReinemann/i3blocksc) - Extensions for i3blocks written in C and Shell.
+- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [pickfire/spt](https://github.com/pickfire/spt) - Simple pomodoro timer that doubles your efficiency
 - [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [regolith-linux/i3xrocks](https://github.com/regolith-linux/i3xrocks) - A fork of i3blocks that can read Xresources.
@@ -272,7 +273,6 @@
 - [byronknoll/cmix](https://github.com/byronknoll/cmix) - cmix is a lossless data compression program aimed at optimizing compression ratio at the cost of high CPU/memory usage.
 - [HerculesWS/Hercules](https://github.com/HerculesWS/Hercules) - Hercules is a collaborative software development project revolving around the creation of a robust massively multiplayer online role playing game (MMORPG) server package. Written in C, the program is 
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
-- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [lmartinking/TomatoTimer](https://github.com/lmartinking/TomatoTimer) - A Simple Pomodoro Timer that lives in the Menu Bar 🍅
 - [yar-sh/steins-gate-psp-patch](https://github.com/yar-sh/steins-gate-psp-patch) - An English Patch for Stein;Gate PSP 2011
 - [Maproom/qmapshack](https://github.com/Maproom/qmapshack) - Consumer grade GIS software
@@ -785,7 +785,7 @@
 - [moonstone-app/moonstone](https://github.com/moonstone-app/moonstone) - 🌑 Headless PKM server that turns any note folder into a programmable platform. Works with Obsidian, Logseq, and Zim out of the box. Zero lock-in.
 - [ValdikSS/tor-relay-scanner](https://github.com/ValdikSS/tor-relay-scanner) - Tor Relay availability checker, for using it as a bridge in countries with censorship
 - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
-- [eslazarev/wildberries-sdk](https://github.com/eslazarev/wildberries-sdk) - Wildberries SDK-клиенты для Python, Node.js, Go, PHP, RUST постоянно актуальные в соответствии с OpenAPI-спецификациями.
+- [eslazarev/wildberries-sdk](https://github.com/eslazarev/wildberries-sdk) - Wildberries SDK-клиенты для Python, Node.js, Go, PHP, RUST постоянно актуальные в соответствии с OpenAPI-спецификациями. MCP сервер.
 - [rgoerwit/ai-investment-agent](https://github.com/rgoerwit/ai-investment-agent) - Agentic AI ex-US equity evaluator (LangGraph+Gemini)
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Webchat to API
 - [speech-industry/bournemouth-forced-aligner](https://github.com/speech-industry/bournemouth-forced-aligner) - Extract phoneme-level timestamps from speeh audio.
@@ -1338,7 +1338,6 @@
 ## TypeScript 
 
 - [Dthen/redlib-mcp-server](https://github.com/Dthen/redlib-mcp-server) - MCP server for Redlib
-- [username-ldv/mdx-yomitan](https://github.com/username-ldv/mdx-yomitan) - Chinese dictionaries for Yomitan converted from MDX format.
 - [afriemann/opencode-todo](https://github.com/afriemann/opencode-todo) - 
 - [hueyexe/opencode-ensemble](https://github.com/hueyexe/opencode-ensemble) - Agent teams for OpenCode. Run multiple agents in parallel with messaging, shared tasks, and coordinated execution.
 - [r3n3gad37040/openclaude-webui-react](https://github.com/r3n3gad37040/openclaude-webui-react) - 
