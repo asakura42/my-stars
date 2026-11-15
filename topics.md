@@ -1587,7 +1587,6 @@
 
 - [Dthen/redlib-mcp-server](https://github.com/Dthen/redlib-mcp-server) - MCP server for Redlib
 - [kaixinbaba/awesome-rea](https://github.com/kaixinbaba/awesome-rea) - Open-source reverse-engineering projects, reimplementations and compatible alternatives. Primary sources, licenses and honest limits; REA usage optional.
-- [username-ldv/mdx-yomitan](https://github.com/username-ldv/mdx-yomitan) - Chinese dictionaries for Yomitan converted from MDX format.
 - [Ajatt-Tools/rikaitan](https://github.com/Ajatt-Tools/rikaitan) - 📓 Pop-up dictionary browser extension for language learning and AJATT. Official successor of Yomichan.
 - [0CYBER/horizon-free](https://github.com/0CYBER/horizon-free) - Horizon without some pain in ahh ms-authentication)
 - [pilioulian/AutoShiftPlanner](https://github.com/pilioulian/AutoShiftPlanner) - Auto Shift Planner is a user-friendly desktop application that can design detailed employees shift schedules and solve them automatically while meeting the maximum satisfaction of constraints.
@@ -2834,7 +2833,7 @@
 
 - [hueyexe/opencode-ensemble](https://github.com/hueyexe/opencode-ensemble) - Agent teams for OpenCode. Run multiple agents in parallel with messaging, shared tasks, and coordinated execution.
 - [ZaxbyHub/opencode-swarm](https://github.com/ZaxbyHub/opencode-swarm) - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
-- [eslazarev/wildberries-sdk](https://github.com/eslazarev/wildberries-sdk) - Wildberries SDK-клиенты для Python, Node.js, Go, PHP, RUST постоянно актуальные в соответствии с OpenAPI-спецификациями.
+- [eslazarev/wildberries-sdk](https://github.com/eslazarev/wildberries-sdk) - Wildberries SDK-клиенты для Python, Node.js, Go, PHP, RUST постоянно актуальные в соответствии с OpenAPI-спецификациями. MCP сервер.
 - [uigywnkiub/diet-me](https://github.com/uigywnkiub/diet-me) - Take a photo. Get calories, protein, fat, and carbs. Simple as that.
 - [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 - [staart/site](https://github.com/staart/site) - 🏁📑 Static site generator for landing pages, docs, and more
