@@ -214,6 +214,7 @@
 - [ui](#ui)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
+- [userscript](#userscript)
 - [v2ray](#v2ray)
 - [video](#video)
 - [vim](#vim)
@@ -2884,6 +2885,10 @@
 ## unreal-engine 
 
 - [TraftG/opencode-game-studio](https://github.com/TraftG/opencode-game-studio) - 
+
+## userscript 
+
+- [tgeruzov/hh-apply-assistant](https://github.com/tgeruzov/hh-apply-assistant) - Автоотклики на hh.ru (HeadHunter): userscript для Tampermonkey сам откликается на вакансии из поиска, прикладывает сопроводительное письмо и откладывает вакансии с тестами в очередь. Работает в браузе
 
 ## v2ray 
 
