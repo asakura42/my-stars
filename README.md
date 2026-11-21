@@ -525,6 +525,7 @@
 
 ## JavaScript 
 
+- [tgeruzov/hh-apply-assistant](https://github.com/tgeruzov/hh-apply-assistant) - Автоотклики на hh.ru (HeadHunter): userscript для Tampermonkey сам откликается на вакансии из поиска, прикладывает сопроводительное письмо и откладывает вакансии с тестами в очередь. Работает в браузе
 - [kaixinbaba/awesome-rea](https://github.com/kaixinbaba/awesome-rea) - Open-source reverse-engineering projects, reimplementations and compatible alternatives. Primary sources, licenses and honest limits; REA usage optional.
 - [Anil-matcha/awesome-open-source-saas-alternatives](https://github.com/Anil-matcha/awesome-open-source-saas-alternatives) - Open source alternatives to paid SaaS apps: Notion, Slack, Auth0, Vercel and more. Curated list with licenses and GitHub stars.
 - [Ajatt-Tools/rikaitan](https://github.com/Ajatt-Tools/rikaitan) - 📓 Pop-up dictionary browser extension for language learning and AJATT. Official successor of Yomichan.
