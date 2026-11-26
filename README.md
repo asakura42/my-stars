@@ -145,6 +145,7 @@
 - [Amchik/tasks](https://github.com/Amchik/tasks) - 🗓️ Simple To-Do Manager
 - [vk496/craptev1](https://github.com/vk496/craptev1) - Mirror of craptev1
 - [mterron/swuniq](https://github.com/mterron/swuniq) - A command-line tool for deduplicating entries in a file or stream with constant memory usage
+- [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
 - [Firemoon777/tgfs](https://github.com/Firemoon777/tgfs) - telegram attachments in FUSE filesystem
 - [mbornet-hl/hl](https://github.com/mbornet-hl/hl) - Highlight (colorize) text data using regular expressions (efficient C program)
 - [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) - A Real Time Strategy game for Linux.
@@ -515,7 +516,6 @@
 - [faissaloo/telegram-micro](https://github.com/faissaloo/telegram-micro) - Telegram implementation for J2ME devices
 - [beranat/lockore](https://github.com/beranat/lockore) - Open source password manager application for Java ME (J2ME) mobile phones
 - [sergeyCodenameOne/UberEatsClone](https://github.com/sergeyCodenameOne/UberEatsClone) - Grub is an UberEats clone. A full-featured cross-platform food delivery app template in Java/Kotlin for Android, iOS, Desktop & Web.
-- [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
 - [MaLeLabTs/RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) - This project contains the source code of a tool for generating regular expressions for text extraction:  1. automatically, 2. based only on examples of the desired behavior, 3. without any external hi
 - [kalli-st/conversations](https://github.com/kalli-st/conversations) - UMANTAINED SEE: https://gt.kalli.st/czar/fnord
 - [pixelstuermer/img2excel](https://github.com/pixelstuermer/img2excel) - Convert images into Excel files :rocket:
