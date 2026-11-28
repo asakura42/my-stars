@@ -726,7 +726,6 @@
 - [compendio/goldbug-manual](https://github.com/compendio/goldbug-manual) - Manual of the GoldBug Crypto Messenger
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [delegability/data](https://github.com/delegability/data) - Task delegability data collected from surveys
-- [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
 - [edykim/weekly-planner-template](https://github.com/edykim/weekly-planner-template) - Weekly Planner Template
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
 - [bogachenkove/fuckfuckadblock](https://github.com/bogachenkove/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
